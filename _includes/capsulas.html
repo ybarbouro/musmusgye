@@ -1,0 +1,16 @@
+<div id="container_capsulas">
+<div class="capsulas">
+	  <div class="five">
+      {% assign capsula = site.capsulas.last %}
+      {% assign content = capsula.content %}
+	  <h2 data-scroll="toggle(.scaleDownIn, .scaleDownOut) addHeight"><a href="{{capsula.url}}">{{ capsula.title }}</a></h2>
+      {{ capsula.content }}
+    <br  />
+
+      <a href="/capsulas/">Más cápsulas</a>
+
+    </div>
+
+
+</div>
+</div>

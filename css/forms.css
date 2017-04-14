@@ -1,0 +1,62 @@
+/*------------------------------------------------------------
+  Forms
+------------------------------------------------------------*/
+/*para blog post con tufte*/
+
+.form-t {
+  max-width: 700px;
+  margin-top: 140px;
+}
+
+label {
+  margin: 30px 0 10px 0;
+  display: block;
+}
+
+/*base form styles*/
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+    font-size: 1.2rem;
+}
+
+/* botón al margen izquierdo */
+input[type=submit] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+}
+
+/*set border on focus*/
+input[type=text]:focus {
+    border: 1px solid #99b3ff;
+    border-radius: 4px;
+}
+
+/*styling textarea*/
+textarea, textarea[type=text] {
+    width: 100%;
+    height: 100px;
+    margin: 8px 0;
+    padding: 14px 20px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: none;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+    font-size: 1.2rem;
+}
+textarea:focus, textarea[type=text]:focus {
+    border: 1px solid #99b3ff;
+    border-radius: 4px;
+}
