@@ -1,0 +1,285 @@
+/* All that's necessary */
+.container {
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  clear:left;
+}
+.container > div {
+    display: inline-block;
+  /* fixes a quirk in Safari */
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 1 100%;
+      -ms-flex: 1 1 100%;
+          flex: 1 1 100%;
+  /**
+   * flex: x y z;
+  /**
+   * is shorthand for:
+   * flex-grow: x
+   * flex-shrink: y
+   * flex-basis: z
+   **/
+}
+
+/* Default style, has nothing to do with flex */
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400 normal;
+  font-size: 1.3rem;
+  line-height: 1.6rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.container > div{
+  background-color: none;
+  padding: 1rem 2rem 0;
+  border-radius: 5px;
+}
+.container > div:first-child {
+  background-color: none;
+}
+.container > div:last-child {
+  background-color: none;
+}
+.container > div p {
+  margin-bottom: 0;
+  width: 90%;
+  font-size: 1.1rem;
+}
+
+.container > div a {
+	color: #111;
+  text-decoration: none !important;
+}
+
+.container > div a:hover {
+	color: #aaa;
+}
+
+.container > div figure {
+  width: 90%;
+}
+.container > div img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.container > div img:hover {
+  width: 100%;
+  border-radius: 5px;
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  -webkit-filter: opacity(0.5);
+  -moz-filter: opacity(0.5);
+  filter: opacity(0.5);
+  -webkit-transition: all 2s ease;
+  -moz-transition: all 2s ease;
+  -o-transition: all 2s ease;
+  transition: all 2s ease;
+}
+
+.container > div figure {
+ margin-bottom:-10px;
+}
+.container > div h2 {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 2rem;
+  line-height: 2.2rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
+.container code {
+  background-color: rgba(255, 255, 255, 0.125);
+  box-shadow: 1px 1px 2px 0px rgba(0, 0, 0, 0.125);
+  padding: 0.2rem;
+  font-family: monospace;
+}
+
+.snippets {
+    max-width: 1600px;
+}
+
+h2 > a {
+  border-bottom: none !important;
+}
+
+/** Your style properties **/
+/**
+ * .one {
+ * order: 3;
+ *  }
+ *
+ * .two {
+ * order: 1;
+ *  }
+ *
+ * .three {
+ * order: 2;
+ *  }
+ **/
+
+#container_capsulas {
+   background-color: #1a1a1a !important;
+   padding-top: 3em;
+}
+
+#container_capsulasB {
+   border-radius: 3px;
+   color:#333;
+}
+ .capsulas {
+   -webkit-box-align: stretch;
+   -webkit-align-items: stretch;
+       -ms-flex-align: stretch;
+           align-items: stretch;
+   display: -webkit-box;
+   display: -webkit-flex;
+   display: -ms-flexbox;
+   display: flex;
+   clear:left;
+ }
+ .capsulas > div {
+     display: inline-block;
+   /* fixes a quirk in Safari */
+   -webkit-box-flex: 1;
+   -webkit-flex: 1 1 100%;
+       -ms-flex: 1 1 100%;
+           flex: 1 1 100%;
+   /**
+    * flex: x y z;
+   /**
+    * is shorthand for:
+    * flex-grow: x
+    * flex-shrink: y
+    * flex-basis: z
+    **/
+ }
+
+ .capsulas {
+   font-family: "Hack", sans-serif;
+   font-weight: normal;
+   font-size: 0.8rem;
+   line-height: 1rem;
+   max-width: 1200px;
+   margin: 0 auto;
+ }
+
+ .capsulas > div figure {
+   max-width: 65%;
+ }
+
+ .capsulas > div img {
+   max-width: 85%;
+   border-radius: 5px;
+   -webkit-box-shadow: 6px 7px 13px -6px rgba(0,0,0,0.75);
+   -moz-box-shadow: 6px 7px 13px -6px rgba(0,0,0,0.75);
+   box-shadow: 6px 7px 13px -6px rgba(0,0,0,0.75);
+ }
+
+ .capsulas > div h2 {
+   font-family: 'Fjalla One', sans-serif;
+   font-size: 2.3rem;
+   font-weight: 600;
+   letter-spacing: 1px;
+   color: #ffffff;
+   line-height: 1.25;
+   max-width: 16em;
+   margin: 3rem 0 1.5rem 0
+ }
+
+ .capsulas-light > div h2 {
+   color: rgba(128,62,255,0.5);
+   line-height: 1.25;
+ }
+ .capsulas > div p {
+   font-family: "Hack", sans-serif;
+   font-weight: normal;
+   font-size: 1rem;
+   line-height: 1.3rem;
+   max-width: 31.250em;
+   margin: 2 0 1.65rem;
+   color: rgba(225,225,225,0.5);
+ }
+
+ .capsulas_light > div p {
+   font-family: "Hack", sans-serif;
+   font-weight: normal;
+   font-size: 1rem;
+   line-height: 1.3rem;
+   max-width: 31.250em;
+   margin: 2 0 1.65rem;
+   color: #747474;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+ }
+
+ .capsulas > div a {
+ 	color: #747474;
+   text-decoration: none !important;
+ }
+
+ .capsulas > div a:hover {
+ 	color: #aaa;
+ }
+
+ .capsulas_light > div a {
+  color: #666;
+   text-decoration: none !important;
+ }
+ .four {
+ 	background-color: transparent !important;
+  padding-bottom: 50px;
+  padding-left: 35px;
+ 	}
+
+  .five {
+ 	background-color: transparent !important;
+  padding-top: 35px;
+  padding-bottom: 50px;
+  padding-left: 35px;
+ 	}
+
+
+@media (max-width: 760px) { .container {
+ -webkit-flex-flow: row wrap; /* Fix for iOS */
+	-moz-flex-flow: row wrap;
+	flex-flow: row wrap;
+	-webkit-justify-content: space-around;
+	-moz-justify-content: space-around;
+	justify-content: space-around;
+    }
+  .capsulas {
+  -webkit-flex-flow: row wrap; /* Fix for iOS */
+  -moz-flex-flow: row wrap;
+  flex-flow: row wrap;
+  -webkit-justify-content: space-between;
+  -moz-justify-content: space-between;
+  justify-content: space-between;
+        }
+  .container > div p {
+  width: 92%;
+}
+  .capsulas > div p {
+  width: 95%;
+  text-align: left;
+}
+  .capsulas > div img {
+  width: 100%;
+}
+ .capsulas > div h2 {
+   text-align: left;
+}
+}
