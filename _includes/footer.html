@@ -1,53 +1,14 @@
-<div id="footer">
+<div class="site-footer" role="contentinfo">
 
-<div id="footer-social">
-	<ul class="footer-social">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-
-					{% if site.facebook_username %}
-          <li>
-            {% include icon-fb.html username=site.facebook_username %}
-          </li>
-          {% endif %}
-
-	</ul>
+  <div>
+    <p><i class="fa fa-mobile fa-3x"></i><br  /> 259 4800 ext. 7402</p>
+    <p><i class="fa fa-bank fa-2x"></i> · <i class="fa fa-bus fa-2x"></i><br  />Sucre entre Chile y Pedro Carbo<br  /><span>Parada Metrovia más cercana: Biblioteca Municipal</span></p>
+  </div>
+  <p>
+    <a class=twitter-share-button href=https://twitter.com/share data-count=none data-lang=en data-via=h5bp data-size=large data-text="HTML5 Boilerplate: The rock-solid professional front-end template" data-url=https://html5boilerplate.com/ ><i class="fa fa-twitter fa-2x"></i><br  />Tweet
+    </a>
+  </p>
+  <p>Programa Museo, Arte y Ciudad &copy;2017</p>
 </div>
 
-	<p>{{ site.description }}</p>
-	<p><a class="claro" href="mailto:{{ site.email }}">{{ site.email }}</a></p>
-
-<foot role="banner" style="text-align:center;">
-<h1 class="logo-title" data-scroll="toggle(.scaleDownIn, .scaleDownOut) addHeight"> <img width="100" height="100" src="/IMG/fer1_icn.svg"/></h1>
-<h1 class="logo-title" data-scroll="toggle(.scaleDownIn, .scaleDownOut) addHeight">Fernando Mayorga <strong>&copy;</strong> 2016</h1>
-</foot>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="JS/vendor/jquery-1.11.3.min.js"><\/script>')</script>
-<script src="/JS/plugins.js"></script>
-<script src="/JS/main.js"></script>
-<script src="/JS/ScrollTrigger.min.js"></script>
-<script>
-window.counter = function() {
-	// this refers to the html element with the data-scroll-showCallback tag
-	var span = this.querySelector('span');
-	var current = parseInt(span.textContent);
-
-	span.textContent = current + 1;
-};
-
-document.addEventListener('DOMContentLoaded', function(){
-  ScrollTrigger.init();
-});
-</script>
+</div><!-- end of main-->

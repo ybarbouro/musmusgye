@@ -1,251 +1,441 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html class="no-js" lang="es">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>MUSIMUESTRAS</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <!-- Place favicon.ico in the root directory -->
+        <link rel=stylesheet href="//fonts.googleapis.com/css?family=Open+Sans:400,700">
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/irish.css">
+        <link rel="stylesheet" href="css/kube.css">
+        <link rel="stylesheet" href="css/fonts.css">
+        <link rel="stylesheet" href="css/slides.css">
+        <link rel="stylesheet" href="css/animate.css">
+        <link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.3.0/css/font-awesome.min.css" />
+        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+        <style>
+/* NOTE: The styles were added inline because Prefixfree needs access to your styles and they must be inlined if they are on local disk! */
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,300);
+section { display: flex;
+  justify-content: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  }
+article {
+margin: 1rem;
+-ms-flex: 1 0 0px;
+flex: 1;
+/* shortcut for "flex-grow: 1". Note that it MUST be a unitless value to work; defined with a unit (e.g. flex: 1px) the shortcut would alter the flex-basis property. */
+}
+article.breaking {
+-ms-flex-grow: 2;
+flex: 2;
+/* shortcut for "flex-grow: 2" */
+}
 
-  <title>Fernando Mayorga</title>
-  <meta name="description" content="Caminando al margen del tiempo, buscando una puerta a otra dimensión.
-">
+article img {
+width: 100%; height: auto;
+border-radius: 7px;
+}
+article h1, article h2, article h3 { font-family: "Oswald", sans-serif; }
+article h1 {
+font-size: 1.7rem;
+line-height: 1.3;
+text-align: left;
+text-transform: uppercase;
+}
+article h2, article h3 {
+font-size: 1rem;
+text-align: right;
+line-height: 1.3;
+margin: 1.3rem 0;
+font-weight: 300;
+}
+article h3 {
+font-size: 1.1rem;
+}
+article p {
+line-height: 1.3;
+text-align: left;
+}
+@media screen and (max-width: 750px) {
 
-  <link rel="stylesheet" href="/css/primera.css"/>
-  <link rel="stylesheet" href="/css/buttons.css"/>
-  <link rel="stylesheet" href="/css/forms.css"/>
-  <link rel="stylesheet" href="/css/comments.css"/>
-  <link rel="stylesheet" href="/css/solarized.css"/>
-  <link rel="stylesheet" href="/css/flex.css"/>
-  <link rel="stylesheet" href="/css/pod.css"/>
-  <link rel="stylesheet" href="/css/icn.css"/>
-  <link rel="stylesheet" href="/css/ScrollTrigger.css"/>
-  <link rel="stylesheet" href="https://brick.a.ssl.fastly.net/Libre+Baskerville:400,400i">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Work+Sans:400,700" type="text/css">
-  <link rel="stylesheet" href="https://brick.a.ssl.fastly.net/Oswald:200,300">
-  <link rel="stylesheet" href="/css/hack.css" type="text/css" >
-  <script src="/JS/vendor/modernizr.min.js"></script>
+section {
+  -ms-flex-direction: column;
+  -webkit-box-orient: vertical;
+  flex-direction: column;
+}
+}
+  </style>
+    </head>
+    <body>
 
-  <link rel="alternate" type="application/rss+xml" title="FERNANDO MAYORGA" href="http://localhost:4000/feed.xml">
-</head>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
 
-
-  <body>
-
-    <header id="header">
-    <nav>
-        <ul>
-            <li><a href="http://fernanz.github.io">Mi otro sitio</a></li>
-            <li><a href="/archivo/">Index</a></li>
+        <!-- Add your site or application content here -->
+        <ul class="cb-slideshow">
+            <li><span>Image 01</span></li>
+            <li><span>Image 02</span></li>
+            <li><span>Image 03</span></li>
+            <li><span>Image 04</span></li>
+            <li><span>Image 05</span></li>
+            <li><span>Image 06</span></li>
         </ul>
-    </nav>
-</header>
-
-    <div id="bkg">
-<div class="fer">
-    <p>EL LADO &laquo;B&raquo;</p>
-    <h1><a href="/" title="FERNANDO MAYORGA">FERNANDO MAYORGA</a> <br  />
-        <svg width="125" height="125" class="Icon Icon--fer" aria-hidden="true">
-              <use xlink:href="/IMG/icn.svg#ferlog"></use>
-        </svg>
-    </h1>
-</div>
-
-<div class="container">
-	
-
-	  <div >
-	  <h2><a href="/2016/02/18/sitio-web-con-jekyll.html">Sitio Web Con Jekyll</a></h2>
-      <figure class="fullwidth"><img src="/Pics/cli.jpg" /></figure>
-<p>Para probar la presentación con líneas de código… el ejemplo para la Terminal:</p>
+        <div class="main">
 
 
-    <a class="icons" href="/2016/02/18/sitio-web-con-jekyll.html"><svg width="28" height="14" class="Icon Icon--content" aria-hidden="true">
-            <use xlink:href="/IMG/icn.svg#content"></use>
-      </svg></a>
+          <div class="container">
+            <div class="site-header clearfix" role=banner>
+              <div class=site-logo>PROGRAMA MUSEO ARTE Y CIUDAD
+              </div>
+              <ul class="site-nav inline-block-list">
+                <li>
+                  <a href="#prog" data-ga-category="Inbound links" data-ga-action="Nav click" data-ga-label="Source code">Programa
+                  </a>
+                </li>
+                <li>
+                  <a href="people/" data-ga-category="Outbound links" data-ga-action="Nav click" data-ga-label=Docs>Artistas
+                  </a>
+                </li>
+                <li>
+                  <a href="#" data-ga-category="Outbound links" data-ga-action="Nav click" data-ga-label="Other projects">Algo más
+                  </a>
+                </li>
+              </ul>
+            </div>
+
+            <div class="wow bounceInDown">
+                <div  style="width: 45%; margin:0; margin-left:auto; margin-right:auto;">
+                  <img src="img/mussim.svg"/>
+                </div>
+            </div>
+
+            <div class="site-promo">
+              <h1 >MUSIMUESTRAS 2017</h1>
+                <hr/>
+              <h2 >Junio 2&mdash;10</h2>
+            </div>
+
+          </div><!-- end of container -->
+
+
+        <div class=site-section-head>
+          <div class=container>
+
+            <div class=grid>
+              <div class=grid-cell>
+                <img src="img/logo-municp.svg"/>
+
+              </div>
+              <div class=grid-cell>
+                <img src="img/museo.svg"/>
+
+              </div>
+              <div class=grid-cell>
+                <img src="img/macm.svg"/>
+
+              </div>
+            </div>
+
+          </div>
+        </div>    <!-- End site section-head -->
+
+        <div id="prog" class="site-section site-section-video">
+          <div class="container fauno-bg">
+            <h2 class="league-two" >PROGRAMA
+            </h2>
+            <div style="padding-left:30px;color:#1a1a1a;" class="grid">
+              <div class="grid-cell-left">
+                <h3><span class="star">&#x2605;
+                </span>Capítulo 1
+                    <br  />La revolución Pop&mdash;Disco
+                </h3>
+                <h5>Viernes 2 | 19H00 <br /> Malecón 2000</h5>
+                <h4>El rey del pop</h4>
+                <p>Seis músicos en escena, incluye arreglos para cada tema.</p>
+                <h3><i class="fa fa-music"></i></h3>
+                <h5>Sábado 3 | 19H00 <br /> Museo Municipal</h5>
+                <h4>Historia de la música disco</h4>
+                <p>Willy Wong and The Brothers.</p>
+              </div>
+              <div class="grid-cell-left">
+                <h3><span class="star">&#x2605;
+                </span>Capítulo 2
+                  <br  />Baladas y boleros
+                </h3>
+                <h5>Lunes 5 | 19H00 <br /> Museo Municipal</h5>
+                <h4>Baladas latinoamericanas</h4>
+                <p>Tributo a José José, Rocío Jurado, Rocío Durán y Juan Gabriel.</p>
+              </div>
+              <div class="grid-cell-left">
+                <h3><span class="star">&#x2605;
+                </span>Capítulo 3
+                  <br  /> Rock latino
+                </h3>
+                <h5>Martes 6| 19H00 <br /> Museo Municipal</h5>
+                <h4>El rock latino de los 80</h4>
+                <p>Tributo a Soda Estéreo, Charly García, Los Prisioneros y Los Ilegales.</p>
+              </div>
+              <div class="grid-cell-left">
+                <h3><span class="star">&#x2605;
+                </span>Capítulo 4
+                  <br  />Salsa y merengue
+                </h3>
+                <h5>Miércoles 7 | 19H00 <br /> Museo Municipal</h5>
+                <h4>Los grandes de la Salsa</h4>
+                <p>Tributo a Eddy Santiago, Joe arroyo, El Gran Combo, Willie Colón.</p>
+
+                <h3><i class="fa fa-film"></i> Cine foro
+                </h3>
+                <h5>Miércoles 7 | 19H00 <br /> Museo Municipal</h5>
+                <h4>El Disco de los 80</h4>
+                <p>Dj invitado</p>
+              </div>
+              <div class="grid-cell-left">
+                <h3><span class="star">&#x2605;
+                </span>Capítulo 5
+                  <br  />Rock ecuatoriano
+                </h3>
+                <h5>Jueves 8 | 19H00 <br /> Museo Municipal</h5>
+                <h4>La escena nacional</h4>
+                <p>Tributo a las bandas ecuatorianas de los 80.</p>
+
+                <h3><i class="fa fa-film"></i> Cine foro
+                </h3>
+                <h5>Jueves 8 | 19H00 <br /> Museo Municipal</h5>
+                <h4>El jazz de los 80</h4>
+                <p>Pianista invitado</p>
+
+              </div>
+              <div class="grid-cell-left">
+                <h3><span class="star">&#x2605;
+                </span>Capítulo 6
+                  <br  />Rock inglés
+                </h3>
+                <h5>Viernes 9 | 19H00 <br /> Museo Municipal</h5>
+                <h4>El Glam</h4>
+                <p>Queen, George Michael.</p>
+                <h3><i class="fa fa-music"></i></h3>
+                <h5>Viernes 9 | 19H00 <br /> Malecón 2000</h5>
+                <h4>Rock psicodélico</h4>
+                <p>Pink Floyd</p>
+              </div>
+
+            </div>
+          </div>
+        </div><!-- end site-section with grid -->
+
+<div class=site-section-head>
+    <section>
+        <article class="breaking">
+          
+          
+
+          
+          <img src="https://res.cloudinary.com/magnvs/image/upload/v1492745448/mmgye/gye.jpg" alt="Fotografía de Museo, Arte y Ciudad">
+          
+
+            <h1><a class="no-hov" href="/2017/04/20/museo-arte-y-ciudad/">Museo, Arte y Ciudad</a></h1>
+            <h2>Musimuestras</h2>
+            <p>El programa nace en el año 2013 con la finalidad de ampliar la interacción con la comunidad a partir de un modelo de desarrollo que incluye a artistas y ciudadanos en general, el museo se acerca más a su público y actúa en los barrios y calles de la ciudad como dinamizador de nuevas opciones de entretenimiento y arte.</p>
+
+
+            <p><i class="fa fa-arrow-circle-right"></i> <a href="/2017/04/20/museo-arte-y-ciudad/">Leer más</a></p>
+          </article>
+
+          
+        <article>
+          
+          <img src="http://res.cloudinary.com/magnvs/image/upload/v1492745448/mmgye/gye_1.jpg" alt="Fotografía de Musimuestras 2017">
+          
+
+            <h1><a class="no-hov" href="/2017/04/19/musimuestras/">Musimuestras 2017</a></h1>
+            <h2></h2>
+            <p>Musimuestras abarca una serie de conciertos didácticos organizados por la Dirección de Cultura como parte del programa anual “Museo Arte y Ciudad” cuya finalidad es difundir la historia de los géneros musicales de Occidente.</p>
+
+
+            <p><i class="fa fa-arrow-circle-o-right"></i> <a href="/2017/04/19/musimuestras/">Leer más</a></p>
+        </article>
+            
+        <article>
+          
+          <img src="http://res.cloudinary.com/magnvs/image/upload/v1492745448/mmgye/gye_2.jpg" alt="Fotografía de La generación Pop">
+          
+
+            <h1><a class="no-hov" href="/2017/04/18/la-generacion-pop/">La generación Pop</a></h1>
+            <h2></h2>
+            <p>Con mucho éxito, Musimuestras 2016 presentó producciones nacionales, tanto tradicionales de Costa como de la Sierra; también música contemporánea, en los géneros de blues, jazz, salsa, rock y música académica.  </p>
+
+
+            <p><i class="fa fa-arrow-circle-o-right"></i> <a href="/2017/04/18/la-generacion-pop/">Leer más</a></p>
+        </article>
+            
+        </section>
+</div><!-- End site section-head -->
+
+
+<div class="site-section site-section-video">
+  <h2>VIDEO PROMOCIONAL
+  </h2>
+  <div class="content">
+    <div class="flex-embed">
+      <a href="https://www.youtube.com/embed/D9SyB6uPY7c?autoplay=1&amp;vq=hd720" data-ga-category="Outbound links" data-ga-action="Watch video" data-ga-label="Introduction to HTML5 Boilerplate v5">
+        <img src=img/afiche.jpg width=480 height=360 alt="video thumbnail">
+        <div class=play-btn>
+        </div>
+      </a>
+    </div>
+    <div class=cta-option>
+      <a class="btn btn-download" href="https://www.youtube.com/watch?v=WkLO-q2wC80&amp;index=2&amp;list=PLdWHXDIdpitG0Ttvat9G5wJoqaU9cQvHh" data-ga-category="Outbound links" data-ga-action="Watch video" data-ga-label="Video playlist">
+        <strong>YouTube
+        </strong>
+        <span class=version>Musimuestras
+        </span>
+      </a>
     </div>
 
-	
-
-	  <div >
-	  <h2><a href="/notas/2015/11/05/dos.html">Título con dos líneas de texto en su párrafo.</a></h2>
-      <figure class="fullwidth"><img src="/Pics/111.jpg" /></figure>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel tortor eu tortor vestibulum suscipit eu nec justo. Quisque sollicitudin bibendum gravida. Integer vitae ante condimentum, porta justo vel, suscipit enim. Sed fermentum felis non augue varius, non mattis leo mattis.</p>
+  </div>
+</div>
 
 
-    <a class="icons" href="/notas/2015/11/05/dos.html"><svg width="28" height="14" class="Icon Icon--content" aria-hidden="true">
-            <use xlink:href="/IMG/icn.svg#content"></use>
-      </svg></a>
+<div id="musiquillos" class="site-section">
+  <h2 class="league-two">EN CARTELERA
+  </h2>
+  <ul class="in-the-wild">
+    
+    
+    <li>
+      <h3><a href="/people/jaime-nebot/">Jaime Nebot</a></h3><p>El mejor alcalde de Guayaquil</p>
+    </li>
+    
+    <li>
+      <h3><a href="/people/totem-manten%CC%83o-huancavilca/">Totem Manteño-Huancavilca</a></h3><p>Principal atracción del Museo Municipal</p>
+    </li>
+    
+    <li>
+      <h3><a href="/people/katty-vaca/">Katty Vaca</a></h3><p>Asistente de Melvin Hoyos, Museo Municipal</p>
+    </li>
+    
+    <li>
+      <h3><a href="/people/san-biritute/">San Biritute</a></h3><p>El Señor de las Aguas</p>
+    </li>
+    
+    <li>
+      <h3><a href="/people/dua-lipa/">Dua Lipa</a></h3><p>Cantante y compositora británica ardiente.</p>
+    </li>
+    
+  </ul>
+  <p><a href="/people" class="direct-to-section">Todos los participantes</a>  </p>
+  <div class=cta-option>
+      <a class="btn btn-alt" href="/poster.pdf">Imprimir programa
+      </a>
     </div>
+  </div>
 
-	
+
+        <div class="w100 site-section-nm">
+          <figure class="wow fadeInUp">
+              <img src="img/afiche.jpg"/>
+          </figure>
+        </div>
+        <div class=aside>
+          <div class=container>
+            <ul class=inline-block-list>
+              <li>
+                <p>
+                  <span class="Icon Icon--escudogye">
+                  </span> Por Guayaquil Independiente
+                </p></li>
+                <li>
+                  <p>
+                    <span class="Icon Icon--museo">
+                    </span>Museo Municipal de Guayaquil
+                  </p></li>
+                <li>
+                <p>
+                  <span class="Icon Icon--macm">
+                  </span> Museo, Arte y Ciudad
+                </p></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="site-footer" role="contentinfo">
+
+  <div>
+    <p><i class="fa fa-mobile fa-3x"></i><br  /> 259 4800 ext. 7402</p>
+    <p><i class="fa fa-bank fa-2x"></i> · <i class="fa fa-bus fa-2x"></i><br  />Sucre entre Chile y Pedro Carbo<br  /><span>Parada Metrovia más cercana: Biblioteca Municipal</span></p>
+  </div>
+  <p>
+    <a class=twitter-share-button href=https://twitter.com/share data-count=none data-lang=en data-via=h5bp data-size=large data-text="HTML5 Boilerplate: The rock-solid professional front-end template" data-url=https://html5boilerplate.com/ ><i class="fa fa-twitter fa-2x"></i><br  />Tweet
+    </a>
+  </p>
+  <p>Programa Museo, Arte y Ciudad &copy;2017</p>
 </div>
 
-<div class="mid">
-
-<a class="install" href="/archivo/">
-            <svg class="icon-install" width="12" height="13" viewBox="0 0 12 13" xmlns="http://www.w3.org/2000/svg">
-            		<g transform="matrix(-0.0167349,0.99986,-0.99986,-0.0167349,12.5995,0.609617)">
-                  <path d="M4.571,0L7.43,0L7.43,5L11,5L6,10L1,5L4.571,5L4.571,0ZM0,11L12,11L12,13L0,13L0,11Z" fill="#FFFFF8" fill-rule="evenodd"/></g>
-            </svg>
-            Artículos anteriores
-        </a>
-
-</div>
-
-</div>
+</div><!-- end of main-->
 
 
-    <div id="page-content">
+        <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+        <script src="js/kube.js"></script>
+        <script src="js/wow.js"></script>
 
-        
+        <script>
+        wow = new WOW(
+                {
+                  animateClass: 'animated',
+                  offset: 100
+                }
+        )
+        wow.init()
+        </script>
 
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='https://www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-XXXXX-X','auto');ga('send','pageview');
+        </script>
+        <script>
+        !function(t,e){
+            "use strict";
+            function a(t,n){
+              return t.hasAttribute(n)===!0?t:t.parentNode!==r.body?a(t.parentNode,n):e}
+            function n(n){
+              var o,i,r,c,g,u=a(n.target,"data-ga-action"),l=!1;
+              u!==e&&(o=u.getAttribute("data-ga-action")||e,i=u.getAttribute("data-ga-category")||e,r=u.getAttribute("data-ga-label")||e,c=u.getAttribute("href"),g=parseInt(u.getAttribute("data-ga-value"),10)||e,ga!==e&&i!==e&&o!==e&&(n.preventDefault(),"Download"!==i&&n.ctrlKey!==!0&&n.metaKey!==!0&&2!==n.which||(l=!0,t.open(c)),function(a){
+                var n;
+                ga("send","event",i,o,r,g,{
+                  hitCallback:function(){
+                    l===!1&&(n!==e&&clearTimeout(n),t.location=a)}
+                }
+                  ),n=setTimeout(function(){
+                  l===!1&&(t.location.href=a)}
+                                 ,1e3)}
+        (c)))}
+            function i(){
+              !function(t,e,a){
+                var n,o=t.getElementsByTagName(e)[0];
+                t.getElementById(a)||(n=t.createElement(e),n.id=a,n.src="//platform.twitter.com/widgets.js",o.parentNode.insertBefore(n,o))}
+              (r,"script","twitter-wjs")}
+            var r=t.document;
+            o(),t.onload=i}
+          (window)
+          </script>
 
-<div class="main">
-<article>
-  <h1><a href="/2016/10/14/octubrino.html">Decimonónica.</a></h1>
-  <p class="subtitle">Publicado por <a href="#footer">Fernando</a> el 14 Oct 2016</p>
-  <br/>
-  <p>Aún emocionado con el espíritu octubrino, no he podido dejar de pensar en escribir este artículo donde recopilo algunos datos curiosos sobre la vida de uno que otro personaje de la primera mitad del XIX; no sé si está bien llamarlos “datos curiosos” porque en aquella época tal vez no llamaban la atención tanto como lo harían hoy.</p>
-
-<p>Guayaquil no sólo aportó con ideas, contribuyó decididamente con su contingente económico y militar e inició la Campaña Libertadora del resto del territorio patrio. Inmediatamente, pocos días después de la firma del <strong>Acta de la Independencia de Guayaquil</strong> se conformó una <strong>Junta Provisional de Gobierno</strong>, de igual manera se realizaron preparativos para la operación militar hacia el interior del país; y, como anota el historiador <strong>Camilo Destruge</strong> (1920), se reorganizó la milicia de la siguiente manera:</p>
-
-<h4 id="infantería">Infantería:</h4>
-<ul>
-  <li>El <strong>Batallón Libertadores</strong>, antiguo “Granaderos de Reserva”, dividido en dos cuerpos: <em>Libertadores 1</em> al mando del mayor Antonio Farfán y, <em>Libertadores 2</em> al mando del mayor Hilario <em>“El Cacique”</em> Álvarez.</li>
-  <li>El <strong>Batallón Vengadores</strong> compuesto por voluntarios de la provincia bajo las órdenes del teniente coronel José María de la Peña.</li>
-  <li>Los batallones <strong>Voluntarios de la Patria</strong> y <strong>Defensores</strong> conformados por voluntarios de la ciudad y de las poblaciones cercanas comandados por los tenientes coroneles Ignacio de Alcázar y Dionisio de Acuña respectivamente.</li>
-</ul>
-
-<h4 id="caballería">Caballería:</h4>
-<ul>
-  <li>El <strong>Escuadrón Daule</strong> que conservó su nombre, comandado por el coronel Matías Firapegui.</li>
-</ul>
-
-<h4 id="artillería">Artillería:</h4>
-<ul>
-  <li>El <strong>Cuerpo de Artillería</strong> al mando del coronel Torres - Valdivia marcha a la vanguardia con una sección a preparar la defensa de Babahoyo.</li>
-</ul>
-
-<p>Continúa <em>Destruge</em>: <q>Con los cuerpos que debían salir a campaña, se formó una división que fue llamada <strong>Protectora de Quito</strong>; y la Junta de Guerra designó para Comandante en Jefe al Coronel Luis de Urdaneta, y para segundo al Coronel León de Febres Cordero.</q></p>
-
-<p>Las fuerzas de la <strong>División Protectora de Quito</strong> avanzaron al interior enfrentándose con los realistas en dos batallas casi sucesivas: <strong>Camino Real</strong> -9 de Noviembre- y <strong>Huachi</strong> -22 de Noviembre-.</p>
-
-<p>El sitio de <em>Camino Real</em> está ubicado en la parroquia Bilován perteneciente al actual <em>Cantón San Miguel</em> de la Provincia de Bolívar. Allí sucedió el primer combate del ejército independentista contra los realistas, fue un triunfo para los patriotas y facilitó la toma de Guaranda al día siguiente -10 de Noviembre-, noticia que motivó a otros pueblos cercanos para que proclamen su independencia el mismo mes de noviembre: Riobamba y Latacunga el día 11, Ambato el 12 y Alausí el 13.</p>
-
-<p><strong>Hasta Pronto</strong></p>
-
-
-</article>
-</div>
- 
-
-
-    </div>
-
-    <div id="snips">
-<div class="container snippets">
-<div >
-<svg width="50" height="75" class="Iconx Icon--47" aria-hidden="true">
-            <use xlink:href="/IMG/icn.svg#47"></use>
-      </svg>
-      <p>Las fuerzas de la División Protectora de Quito avanzaron al interior enfrentándose con los realistas en dos batallas casi sucesivas: Camino Real -9 de Noviembre- y Huachi -22 de Noviembre-.  </p>
-</div>
-<div >
-<svg width="50" height="75" class="Iconx Icon--tel" aria-hidden="true">
-                <use xlink:href="/IMG/icn.svg#tel"></use>
-          </svg>
-      <p>Las fuerzas de la División Protectora de Quito avanzaron al interior enfrentándose con los realistas en dos batallas casi sucesivas: Camino Real -9 de Noviembre- y Huachi -22 de Noviembre-.  </p>
-</div>
-</div>
-</div>
-
-    <div id="container_capsulas">
-<div class="capsulas">
-	  <div class="five">
-      
-      
-	  <h2 data-scroll="toggle(.scaleDownIn, .scaleDownOut) addHeight"><a href="/capsulas/2016-04-03-segunda.html">Una cápsula para mensajes cortos, claros y concisos.</a></h2>
-      <figure><img src="/Pics/111.jpg" /></figure>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel tortor eu tortor vestibulum suscipit eu nec justo. Quisque sollicitudin bibendum gravida. Integer vitae ante condimentum, porta justo vel, suscipit enim. Sed fermentum felis non augue varius, non mattis leo mattis.</p>
-
-    <br  />
-
-      <a href="/capsulas/">Más cápsulas</a>
-
-    </div>
-
-
-</div>
-</div>
-
-    <div id="footer">
-
-<div id="footer-social">
-	<ul class="footer-social">
-          
-          <li>
-            <a href="https://github.com/fernanz"><span class="icon icon--github"><svg viewBox="0 0 16 16"><path fill="rgba(128,62,255,0.7)" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/></svg>
-</span></a>
-
-          </li>
-          
-
-
-          
-          <li>
-            <a href="https://twitter.com/fernanz"><span class="icon icon--twitter"><svg viewBox="0 0 16 16"><path fill="rgba(33,150,243,0.9)" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27 c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767 c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206 C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271 c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469 c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/></svg>
-</span></a>
-
-          </li>
-          
-
-					
-          <li>
-            <a href="http://facebook.com/sharer/sharer.php?u=https://fernanz.github.io"><span class="icon icon--github"><svg viewBox="0 0 27 26.7">
-	<path fill="#FFFFFF" d="M12.4,25.9c0,0,2.6,0.3,4.6-0.5c2-0.8,2-4.6,2-4.6l2.3-5.9L22,9.2l-1.3-4.1c0,0-2.3-0.9-2.7-0.8
-		s-5.7,0-5.7,0L7,8.7l1.4,7.8l3.4,8.7L12.4,25.9z"/>
-		<path fill="#3B5998" d="M16.5,25.5V16h2.7l0.5-3.1h-3.1v-2.7c0-0.9,0.5-1.4,1.4-1.4h2V5.8c0,0-0.9-0.2-2.2-0.2
-			c-3,0-4.5,1.7-4.5,4.2v3.1h-2.8V16h2.8v9.9C6.4,25.7,0.9,20.2,0.9,13.4c0-6.9,5.6-12.5,12.5-12.5s12.5,5.6,12.5,12.5
-			C25.9,19.2,21.9,24.1,16.5,25.5z"/>
-</svg>
-</span></a>
-
-          </li>
-          
-
-	</ul>
-</div>
-
-	<p>Caminando al margen del tiempo, buscando una puerta a otra dimensión.
-</p>
-	<p><a class="claro" href="mailto:fmayorga.uno@gmail.com">fmayorga.uno@gmail.com</a></p>
-
-<foot role="banner" style="text-align:center;">
-<h1 class="logo-title" data-scroll="toggle(.scaleDownIn, .scaleDownOut) addHeight"> <img width="100" height="100" src="/IMG/fer1_icn.svg"/></h1>
-<h1 class="logo-title" data-scroll="toggle(.scaleDownIn, .scaleDownOut) addHeight">Fernando Mayorga <strong>&copy;</strong> 2016</h1>
-</foot>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="JS/vendor/jquery-1.11.3.min.js"><\/script>')</script>
-<script src="/JS/plugins.js"></script>
-<script src="/JS/main.js"></script>
-<script src="/JS/ScrollTrigger.min.js"></script>
-<script>
-window.counter = function() {
-	// this refers to the html element with the data-scroll-showCallback tag
-	var span = this.querySelector('span');
-	var current = parseInt(span.textContent);
-
-	span.textContent = current + 1;
-};
-
-document.addEventListener('DOMContentLoaded', function(){
-  ScrollTrigger.init();
-});
-</script>
-
-
-  </body>
-
+    </body>
 </html>
