@@ -120,7 +120,7 @@ textarea {
 }
 
 .fauno-bg {
-  background: url('../img/fauno-light.svg') bottom left no-repeat;
+  background: url('../img/fauno-light.svg') bottom center no-repeat;
   background-size:cover;
 }
 
