@@ -380,7 +380,7 @@ h2.league-two {
   .last-update,.site-footer{
     font-size:1em}
   .grid-cell{
-      width:30%}
+      width:100%}
 }
 @media only screen and (max-width:460px){
   .grid-cell{
@@ -391,6 +391,8 @@ h2.league-two {
     font-size:2.5em}
   html{
     font-size:13px}
+.grid-cell{
+        width:100%}
 }
 @media print{
   *{
