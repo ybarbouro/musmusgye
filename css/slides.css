@@ -9,7 +9,7 @@
 }
 .cb-slideshow:after {
     content: '';
-    background: transparent repeat top left;
+    background: #000 repeat top left;
 }
 
 .cb-slideshow li {
