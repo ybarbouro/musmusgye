@@ -382,11 +382,11 @@ h2.league-two {
     font-size:14px}
   .last-update,.site-footer{
     font-size:1em}
-  .grid-cell{
+  .grid-cell-left {
       width:100%}
 }
 @media only screen and (max-width:460px){
-  .grid-cell{
+  .grid-cell-left {
     width:100%}
 }
 @media only screen and (max-width:420px){
@@ -394,11 +394,11 @@ h2.league-two {
     font-size:2.5em}
   html{
     font-size:13px}
-.grid-cell{
+.grid-cell-left {
         width:100%}
 }
 @media only screen and (max-width:320px){
-  .grid-cell{
+  .grid-cell-left {
           width:100%}
 }
 @media print{
