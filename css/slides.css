@@ -9,11 +9,7 @@
 }
 .cb-slideshow:after {
     content: '';
-    background: transparent;
-}
-.cb-slideshow:before {
-    content: '';
-    background: #000;
+    background: transparent repeat top left;
 }
 
 .cb-slideshow li {
