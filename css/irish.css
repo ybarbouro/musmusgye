@@ -7,6 +7,9 @@ html{
   text-align:center;
   }
 
+body{
+  background: #1a1a1a;
+}
 a{
   background-color:transparent;
   -webkit-text-decoration-skip:objects;
