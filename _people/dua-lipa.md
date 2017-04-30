@@ -2,7 +2,7 @@
 object-id: dua-lipa
 first-name: Dua
 last-name: Lipa
-job: Cantante y compositora británica ardiente.
+job: Cantante y compositora británica.
 listing-priority: 5
 wikipedia-url: https://en.wikipedia.org/wiki/Dua_Lipa
 ---

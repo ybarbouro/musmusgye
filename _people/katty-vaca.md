@@ -1,8 +1,8 @@
 ---
 object-id: katty-vaca
-first-name: Katty
+first-name: Katiuska
 last-name: Vaca
-job: Asistente de Melvin Hoyos, Museo Municipal
+job: Trabajando por el bienestar de la ciudad
 listing-priority: 3
 wikipedia-url: https://es.wikipedia.org/wiki/Museo_Municipal_de_Guayaquil
 ---

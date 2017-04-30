@@ -2,7 +2,7 @@
 object-id: jaime-nebot
 first-name: Jaime
 last-name: Nebot
-job: El mejor alcalde de Guayaquil
+job: Alcalde de Guayaquil
 listing-priority: 1
 wikipedia-url: https://es.wikipedia.org/wiki/Jaime_Nebot
 image: "https://res.cloudinary.com/magnvs/image/upload/v1492745448/mmgye/gye.jpg"
