@@ -10,17 +10,15 @@
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
         <!-- Place favicon.ico in the root directory -->
         <link rel=stylesheet href="//fonts.googleapis.com/css?family=Open+Sans:400,700">
-        <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="css/main.css">
-        <link rel="stylesheet" href="css/irish.css">
-        <link rel="stylesheet" href="css/kube.css">
-        <link rel="stylesheet" href="css/fonts.css">
-        <link rel="stylesheet" href="css/slides.css">
-        <link rel="stylesheet" href="css/animate.css">
+        <link rel="stylesheet" href="/css/normalize.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/irish.css">
+        <link rel="stylesheet" href="/css/kube.css">
+        <link rel="stylesheet" href="/css/fonts.css">
+        <link rel="stylesheet" href="/css/slides.css">
+        <link rel="stylesheet" href="/css/animate.css">
         <link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.3.0/css/font-awesome.min.css" />
-        <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.36.0/mapbox-gl.css' rel='stylesheet' />
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
-        <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.36.0/mapbox-gl.js'></script>
         <style>
 /* NOTE: The styles were added inline because Prefixfree needs access to your styles and they must be inlined if they are on local disk! */
 @import url(http://fonts.googleapis.com/css?family=Oswald:400,300);
@@ -74,52 +72,6 @@ section {
   flex-direction: column;
 }
 }
-#map { position:absolute; width:100%; }
-
-#marker {
-    background-image: url('http://macg.netlify.com/img/museo.svg');
-    background-size: cover;
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-    cursor: pointer;
-}
-
-.mapboxgl-popup {
-    max-width: 180px;
-	color:#37474F;
-	font-size: 1.1em;
-	font-weight:bold;
-	text-align: center;
-}
-
-.mapboxgl-popup-content {
-	background-color:#bada55;
-}
-.mapboxgl-popup-anchor-top .mapboxgl-popup-tip {
-    border-bottom-color: #bada55;
-}
-.mapboxgl-popup-anchor-top-left .mapboxgl-popup-tip {
-	border-bottom-color: #bada55;
-}
-.mapboxgl-popup-anchor-top-right .mapboxgl-popup-tip {
-	border-bottom-color: #bada55;
-}
-.mapboxgl-popup-anchor-bottom .mapboxgl-popup-tip {
-	border-top-color: #bada55;
-}
-.mapboxgl-popup-anchor-bottom-left .mapboxgl-popup-tip {
-	border-top-color: #bada55;
-}
-.mapboxgl-popup-anchor-bottom-right .mapboxgl-popup-tip {
-	border-top-color: #bada55;
-}
-.mapboxgl-popup-anchor-left .mapboxgl-popup-tip {
-	border-right-color: #bada55;
-}
-.mapboxgl-popup-anchor-right .mapboxgl-popup-tip {
-	border-left-color: #bada55;
-}
 
   </style>
     </head>
@@ -151,7 +103,7 @@ section {
                   </a>
                 </li>
                 <li>
-                  <a href="people/" data-ga-category="Outbound links" data-ga-action="Nav click" data-ga-label=Docs>Artistas
+                  <a href="/people" data-ga-category="Outbound links" data-ga-action="Nav click" data-ga-label=Docs>Artistas
                   </a>
                 </li>
                 <li>
@@ -163,7 +115,7 @@ section {
 
             <div class="wow bounceInDown">
                 <div  style="width: 45%; margin:0; margin-left:auto; margin-right:auto;">
-                  <img src="img/mussim.svg"/>
+                  <img src="/img/mussim.svg"/>
                 </div>
             </div>
 
@@ -181,15 +133,15 @@ section {
 
             <div class=grid>
               <div class=grid-cell>
-                <img src="img/logo-municp.svg"/>
+                <img src="/img/logo-municp.svg"/>
 
               </div>
               <div class=grid-cell>
-                <img src="img/museo.svg"/>
+                <img src="/img/museo.svg"/>
 
               </div>
               <div class=grid-cell>
-                <img src="img/macm.svg"/>
+                <img src="/img/macm.svg"/>
 
               </div>
             </div>
@@ -288,7 +240,7 @@ section {
 
         <div class="w100 site-section-nm">
           <figure class="wow fadeInUp">
-              <img src="img/afiche.jpg"/>
+              <img src="/img/afiche.jpg"/>
           </figure>
         </div>
 
@@ -317,11 +269,11 @@ section {
         {% include footer.html %}
 
         <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
-        <script src="js/plugins.js"></script>
-        <script src="js/main.js"></script>
-        <script src="js/kube.js"></script>
-        <script src="js/wow.js"></script>
+        <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
+        <script src="/js/plugins.js"></script>
+        <script src="/js/main.js"></script>
+        <script src="/js/kube.js"></script>
+        <script src="/js/wow.js"></script>
 
         <script>
         wow = new WOW(
@@ -367,33 +319,6 @@ section {
             var r=t.document;
             o(),t.onload=i}
           (window)
-          </script>
-
-          <script>
-          mapboxgl.accessToken = 'pk.eyJ1IjoiZmVybmFueiIsImEiOiJXYjQ2UUlNIn0._uGtTdC4VawOLOi5UGiThw';
-
-          var monument = [-79.8825, -2.19594];
-          var map = new mapboxgl.Map({
-              container: 'map',
-              style: 'mapbox://styles/fernanz/cj21zng2q002d2rqcfue9bol4',
-              center: monument,
-              zoom: 15
-          });
-
-          // create the popup
-          var popup = new mapboxgl.Popup({offset: 25})
-              .setText('MUSIMUESTRAS 2017 Museo Municipal de Guayaquil');
-
-          // create DOM element for the marker
-          var el = document.createElement('div');
-          el.id = 'marker';
-
-          // create the marker
-          new mapboxgl.Marker(el, {offset:[-25, -25]})
-              .setLngLat(monument)
-              .setPopup(popup) // sets a popup on this marker
-              .addTo(map);
-
           </script>
 
     </body>
