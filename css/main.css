@@ -124,10 +124,10 @@ textarea {
   background-size:cover;
 }
 
-.final {
+#final {
     height: 1px;
-    color: #aaa;
-    background: #aaa;
+    color: #B0BEC5;
+    background: #B0BEC5;
     font-size: 0;
     border: none;
     margin-top: 75px;
