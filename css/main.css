@@ -124,12 +124,13 @@ textarea {
   background-size:cover;
 }
 
-hr.final {
+.final hr{
     height: 1px;
-    color: #eee;
-    background: #eeee;
+    color: #aaa;
+    background: #aaa;
     font-size: 0;
     border: none;
+    margin-top: 75px;
 }
 
 
