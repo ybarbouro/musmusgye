@@ -1,9 +1,9 @@
 ---
-object-id: katty-vaca
-first-name: Katiuska
-last-name: Vaca
-job: Trabajando por el bienestar de la ciudad
-listing-priority: 3
+object-id: azucar
+first-name: Azúcar
+last-name: ·
+job: Salsa y merengue
+listing-priority: 5
 wikipedia-url: https://es.wikipedia.org/wiki/Museo_Municipal_de_Guayaquil
 ---
 
