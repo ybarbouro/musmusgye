@@ -3,7 +3,7 @@ object-id: battle-of-the-combahee-river
 title: Battle of the Combahee River
 featured: false
 featured-priority:
-listing-priority: 4
+listing-priority: 5
 architect-id: john-laurens
 wikipedia-url: https://en.wikipedia.org/wiki/Battle_of_the_Combahee_River
 ---

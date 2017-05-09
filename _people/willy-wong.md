@@ -7,4 +7,8 @@ listing-priority: 2
 wikipedia-url: https://es.wikipedia.org/wiki/Municipalidad_de_Guayaquil
 ---
 
-Marie-Joseph Paul Yves Roch Gilbert du Motier, Marquis de Lafayette (French pronunciation: ​[maʁki də la fajɛt]; 6 September 1757 – 20 May 1834), in the U.S. often known simply as Lafayette or America's favorite fighting Frenchman, was a French aristocrat and military officer who fought for the United States in the American Revolutionary War. A close friend of George Washington, Alexander Hamilton, and Thomas Jefferson, Lafayette was a key figure in the French Revolution of 1789 and the July Revolution of 1830.
+La banda se forma en el 2005 con la misma formación actual manteniéndose con un repertorio que caracteriza a la banda que es el rock clásico.  
+
+Existen 2 CDs en el mercado y un futuro tercer CD con temas propios. La banda ha actuado en casi todo el país, en bares, restaurantes, teatros, museos, etcétera, con mucho éxito.  
+
+Lalo Wong, guitarra y voz principal; Willy Wong, batería y coros; y Héctor Suárez, Bajo.

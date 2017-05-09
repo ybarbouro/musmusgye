@@ -1,7 +1,7 @@
 ---
-object-id: gustavo-vargas
-first-name: Gustavo
-last-name: Vargas
+object-id: javier-vera
+first-name: Javier
+last-name: Vera
 job: Pianista invitado "Cine foro"
 listing-priority: 6
 wikipedia-url: https://es.wikipedia.org/wiki/Municipalidad_de_Guayaquil

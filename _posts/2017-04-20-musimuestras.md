@@ -10,4 +10,4 @@ Musimuestras abarca una serie de conciertos didácticos organizados por la Direc
 
 Se organiza una agenda de 9 días para las primeras semanas del mes de junio, tiene como escenario principal el Auditorio del Museo Municipal y se apoya en el Paseo de los Presidentes de Malecón 2000 y el Teatro José de la Cuadra.
 
-La XIII edición de Musimuestras se llevará a cabo a partir del 2 al 10 de junio de 2017.
+La XIII edición de Musimuestras se llevará a cabo a partir del 2 de junio hasta el 10 de junio de 2017.

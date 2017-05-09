@@ -17,7 +17,7 @@
         <link rel="stylesheet" href="/css/fonts.css">
         <link rel="stylesheet" href="/css/slides.css">
         <link rel="stylesheet" href="/css/animate.css">
-        <link rel="stylesheet" type="text/css" href="/fonts/font-awesome-4.3.0/css/font-awesome.min.css" />
+        <link rel="stylesheet" type="text/css" href="/fonts/font-awesome-4.7.0/css/font-awesome.min.css" />
         <script src="/js/vendor/modernizr-2.8.3.min.js"></script>
         <style>
 /* NOTE: The styles were added inline because Prefixfree needs access to your styles and they must be inlined if they are on local disk! */
@@ -72,6 +72,7 @@ section {
   flex-direction: column;
 }
 }
+
   </style>
     </head>
     <body>
@@ -81,15 +82,24 @@ section {
         <![endif]-->
 
         <!-- Add your site or application content here -->
-        <div class="main-c">
+        <ul class="cb-slideshow">
+            <li><span>Image 01</span></li>
+            <li><span>Image 02</span></li>
+            <li><span>Image 03</span></li>
+            <li><span>Image 04</span></li>
+            <li><span>Image 05</span></li>
+            <li><span>Image 06</span></li>
+        </ul>
+        <div class="main">
+
 
           <div class="container">
             <div class="site-header clearfix" role=banner>
               <div class=site-logo>PROGRAMA MUSEO ARTE Y CIUDAD
               </div>
-              <ul class="site-navi inline-block-list">
+              <ul class="site-nav inline-block-list">
                 <li>
-                  <a href="/" data-ga-category="Inbound links" data-ga-action="Nav click" data-ga-label="Source code">Inicio
+                  <a href="#prog" data-ga-category="Inbound links" data-ga-action="Nav click" data-ga-label="Source code">Programa
                   </a>
                 </li>
                 <li>
@@ -104,8 +114,8 @@ section {
             </div>
 
             <div class="wow bounceInDown">
-                <div  style="width: 25%; margin:0; margin-left:auto; margin-right:auto;">
-                  <img src="/img/logo-municp.svg"/>
+                <div  style="width: 45%; margin:0; margin-left:auto; margin-right:auto;">
+                  <img src="/img/mussim.svg"/>
                 </div>
             </div>
 
@@ -117,50 +127,186 @@ section {
 
           </div><!-- end of container -->
 
-        <div class="site-section-head">
-          <section>
-            <article>
-              <div class="blank"></div>
 
-              <img  style="border-radius:7px 7px 0 0;" src="/img/fauno.jpg" />
+        <div class=site-section-head>
+          <div class=container>
 
-              
-              <img style="border-radius:0 0 7px 7px;" src="http://res.cloudinary.com/magnvs/image/upload/v1492745448/mmgye/gye_2.jpg" alt="Fotografía de La generación Pop">
-              
+            <div class=grid>
+              <div class=grid-cell>
+                <img src="/img/logo-municp.svg"/>
 
-            </article>
-            <article>
+              </div>
+              <div class=grid-cell>
+                <img src="/img/museo.svg"/>
 
-              <h1>La generación Pop</h1>
+              </div>
+              <div class=grid-cell>
+                <img src="/img/macm.svg"/>
 
-              <p>Con mucho éxito, Musimuestras 2016 presentó producciones nacionales, tanto tradicionales de Costa como de la Sierra; también música contemporánea, en los géneros de blues, jazz, salsa, rock y música académica.  </p>
+              </div>
+            </div>
 
-<p>El público asistente disfrutó de las presentaciones de: “Juanita Córdova y Yacuñan (Hnos. Gálvez)”; “Vargas New Project”; “Sonorus Jazz Ensamble”; “Sonora Saeké”; “Orquesta de ensambles sinfónicos”; “Mariel Córdova y Omar Domínguez”; “Japo”; y, “Los Invasores”.</p>
+          </div>
+        </div>    <!-- End site section-head -->
 
-<p>La presente edición hará un selección con lo mejor de la historia del Pop de la cual han sido testigos las más recientes generaciones a partir de los años sesenta.</p>
+        <div id="prog" class="site-section site-section-video">
+          <div class="container fauno-bg">
+            <h2 class="league-two" >PROGRAMA
+            </h2>
+            <div style="padding-left:30px;color:#1a1a1a;" class="grid">
+              <div class="grid-cell-left">
+                <h3><span class="star">&#x2605;
+                </span>Capítulo 1
+                    <br  />La revolución pop&mdash;disco
+                </h3>
+                <h5>Viernes 2 | 19H00 <br /> Malecón 2000</h5>
+                <h4>El rey del pop</h4>
+                <p>Vargas Project Band</p>
+                <h3><i class="fa fa-music"></i></h3>
+                <h5>Sábado 3 | 19H00 <br /> Museo Municipal</h5>
+                <h4>Historia de la música disco</h4>
+                <p>Willy Wong and The Brothers.</p>
+              </div>
+              <div class="grid-cell-left">
+                <h3><span class="star">&#x2605;
+                </span>Capítulo 2
+                  <br  />Baladas y boleros
+                </h3>
+                <h5>Lunes 5 | 19H00 <br /> Museo Municipal</h5>
+                <h4>Baladas latinoamericanas; tributo a José José, Rocío Jurado, Rocío Dúrcal y Juan Gabriel.</h4>
+                <p>Egberto García</p>
+              </div>
+              <div class="grid-cell-left">
+                <h3><span class="star">&#x2605;
+                </span>Capítulo 3
+                  <br  /> Rock latino
+                </h3>
+                <h5>Martes 6 | 19H00 <br /> Museo Municipal</h5>
+                <h4>El rock latino de los 80; tributo a Soda Stereo, Charly García, Los Prisioneros y Los Ilegales.</h4>
+                <p>Los 80's Retroband</p>
+              </div>
+              <div class="grid-cell-left">
+                <h3><span class="star">&#x2605;
+                </span>Capítulo 4
+                  <br  />Salsa y merengue
+                </h3>
+                <h5>Miércoles 7 | 19H00 <br /> Museo Municipal</h5>
+                <h4>Tributo a Eddie Santiago, Joe Arroyo, El Gran Combo, Willie Colón.</h4>
+                <p>Grupo Azúcar</p>
+
+                <h3><i class="fa fa-film"></i> Cine foro
+                </h3>
+                <h5>Miércoles 7 | 18H00 <br /> Museo Municipal</h5>
+                <h4>El Disco de los 80</h4>
+                <p>Dj invitado: Charlie Silva</p>
+                <p>El jazz de los 80: Vargas Project Band</p>
+              </div>
+              <div class="grid-cell-left">
+                <h3><span class="star">&#x2605;
+                </span>Capítulo 5
+                  <br  />Rock ecuatoriano
+                </h3>
+                <h5>Jueves 8 | 19H00 <br /> Museo Municipal</h5>
+                <h4>Tributo a las bandas ecuatorianas de los 80.</h4>
+                <p>Los 80's Retroband</p>
+
+                <h3><i class="fa fa-film"></i> Cine foro
+                </h3>
+                <h5>Jueves 8 | 18H00 <br /> Museo Municipal</h5>
+                <h4>El jazz de los 80</h4>
+                <p>Pianista invitado: Javier Vera</p>
+
+              </div>
+              <div class="grid-cell-left">
+                <h3><span class="star">&#x2605;
+                </span>Capítulo 6
+                  <br  />Rock inglés
+                </h3>
+                <h5>Viernes 9 | 19H00 <br /> Museo Municipal</h5>
+                <h4>El glam; Queen - George Michael.</h4>
+                <p>Willy Wong and The Brothers</p>
+                <h3><i class="fa fa-music"></i></h3>
+                <h5>Sábado 10 | 19H00 <br /> Malecón 2000</h5>
+                <h4>Rock psicodélico: Pink Floyd</h4>
+                <p>Banda Jefe Vergara - Juan Carlos Vergara</p>
+              </div>
+
+            </div>
+          </div>
+        </div><!-- end site-section with grid -->
+
+<div class=site-section-head>
+    <section>
+        <article class="breaking">
+          
+          
+
+          
+          <img src="https://res.cloudinary.com/magnvs/image/upload/v1492745448/mmgye/gye.jpg" alt="Fotografía de Museo, Arte y Ciudad">
+          
+
+            <h1><a class="no-hov" href="/2017/04/20/museo-arte-y-ciudad/">Museo, Arte y Ciudad</a></h1>
+            <h2>Musimuestras</h2>
+            <p>El programa nace en el año 2013 con la finalidad de ampliar la interacción con la comunidad a partir de un modelo de desarrollo que incluye a artistas y ciudadanos en general, el museo se acerca más a su público y actúa en los barrios y calles de la ciudad como dinamizador de nuevas opciones de entretenimiento y arte.</p>
 
 
-            </article>
-          </section>
+            <p><i class="fa fa-arrow-circle-right"></i> <a href="/2017/04/20/museo-arte-y-ciudad/">Leer más</a></p>
+          </article>
+
+          
+        <article>
+          
+          <img src="http://res.cloudinary.com/magnvs/image/upload/v1492745448/mmgye/gye_1.jpg" alt="Fotografía de Musimuestras 2017">
+          
+
+            <h1><a class="no-hov" href="/2017/04/19/musimuestras/">Musimuestras 2017</a></h1>
+            <h2></h2>
+            <p>Musimuestras abarca una serie de conciertos didácticos organizados por la Dirección de Cultura como parte del programa anual “Museo Arte y Ciudad” cuya finalidad es difundir la historia de los géneros musicales de Occidente.</p>
+
+
+            <p><i class="fa fa-arrow-circle-o-right"></i> <a href="/2017/04/19/musimuestras/">Leer más</a></p>
+        </article>
+            
+        <article>
+          
+          <img src="http://res.cloudinary.com/magnvs/image/upload/v1492745448/mmgye/gye_2.jpg" alt="Fotografía de La generación Pop">
+          
+
+            <h1><a class="no-hov" href="/2017/04/18/la-generacion-pop/">La generación Pop</a></h1>
+            <h2></h2>
+            <p>Con mucho éxito, Musimuestras 2016 presentó producciones nacionales, tanto tradicionales de Costa como de la Sierra; también música contemporánea, en los géneros de blues, jazz, salsa, rock y música académica.  </p>
+
+
+            <p><i class="fa fa-arrow-circle-o-right"></i> <a href="/2017/04/18/la-generacion-pop/">Leer más</a></p>
+        </article>
+            
+        </section>
+</div><!-- End site section-head -->
+
+
+<div class="site-section site-section-video">
+  <h2>VIDEO PROMOCIONAL
+  </h2>
+  <div class="content">
+    <div class="flex-embed">
+      <a href="https://www.youtube.com/embed/D9SyB6uPY7c?autoplay=1&amp;vq=hd720" data-ga-category="Outbound links" data-ga-action="Watch video" data-ga-label="Introduction to HTML5 Boilerplate v5">
+        <img src="/img/afiche.jpg" width="480" height="360" alt="video thumbnail">
+        <div class=play-btn>
         </div>
-
-    <div class=grid>
-      <div class=grid-cell>
-        <img src="/img/escudo-gye.svg"/>
-
-      </div>
-      <div class=grid-cell>
-        <img src="/img/museo.svg"/>
-
-      </div>
-      <div class=grid-cell>
-        <img src="/img/macm.svg"/>
-
-      </div>
+      </a>
+    </div>
+    <div class=cta-option>
+      <a class="btn btn-download" href="https://www.youtube.com/watch?v=WkLO-q2wC80&amp;index=2&amp;list=PLdWHXDIdpitG0Ttvat9G5wJoqaU9cQvHh" data-ga-category="Outbound links" data-ga-action="Watch video" data-ga-label="Video playlist">
+        <strong>YouTube
+        </strong>
+        <span class=version>Musimuestras
+        </span>
+      </a>
     </div>
 
+  </div>
+</div>
 
-<div class="blank"></div>
 
 <div id="musiquillos" class="site-section">
   <h2 class="league-two">EN CARTELERA
@@ -210,6 +356,7 @@ section {
               <img src="/img/afiche.jpg"/>
           </figure>
         </div>
+
 <div class="aside">
   <div class="container">
     <ul class=inline-block-list>
@@ -231,7 +378,7 @@ section {
     </ul>
   </div>
 </div>
-        
+
 
 <div class="site-footer" >
 <div class="row">
@@ -289,6 +436,7 @@ section {
 
 </div><!-- end of main-->
 
+
         <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
         <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
         <script src="/js/plugins.js"></script>
@@ -331,7 +479,7 @@ section {
                   ),n=setTimeout(function(){
                   l===!1&&(t.location.href=a)}
                                  ,1e3)}
-      (c)))}
+        (c)))}
             function i(){
               !function(t,e,a){
                 var n,o=t.getElementsByTagName(e)[0];
