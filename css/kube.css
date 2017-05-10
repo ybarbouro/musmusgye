@@ -413,13 +413,6 @@ input[type="search"]::-webkit-search-decoration,
 input[type="search"]::-webkit-search-cancel-button {
   -webkit-appearance: none; }
 
-body {
-  font-family: "Helvetica Neue", Helvetica, sans-serif;
-  line-height: 24px;
-  font-size: 16px;
-  color: #333;
-  background-color: #fff;
-}
 
 h1.title, h1, h2, h3, h4, h5, h6 {
   font-family: "Helvetica Neue", Helvetica, sans-serif;

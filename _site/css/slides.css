@@ -1,10 +1,12 @@
+.cb-slideshow { left:-25px !important;}
+
 .cb-slideshow,
 .cb-slideshow:after {
     position: fixed;
     width: 100%;
     height: 100%;
     top: 0px;
-    left: 0px;
+    left: 0;
     z-index: 0;
 }
 .cb-slideshow:after {
@@ -21,7 +23,7 @@
     height: 100%;
     position: absolute;
     top: 0px;
-    left: 0px;
+    left: 0;
     color: transparent;
     background-size: cover;
     background-position: 50% 50%;
@@ -58,7 +60,7 @@
 }
 .cb-slideshow li:nth-child(1) span { background-image: url(../img/1.jpg) }
 .cb-slideshow li:nth-child(2) span {
-    background-image: url('https://res.cloudinary.com/magnvs/image/upload/e_sepia:80/v1492745458/mmgye/2.jpg');
+    background-image: url('../img/2.jpg');
     -webkit-animation-delay: 6s;
     -moz-animation-delay: 6s;
     -o-animation-delay: 6s;
@@ -90,7 +92,7 @@
     animation-delay: 24s;
 }
 .cb-slideshow li:nth-child(6) span {
-    background-image: url('https://res.cloudinary.com/magnvs/image/upload/e_art:incognito/v1492745453/mmgye/6.jpg');
+    background-image: url('../img/6.jpg');
     -webkit-animation-delay: 30s;
     -moz-animation-delay: 30s;
     -o-animation-delay: 30s;
@@ -140,16 +142,13 @@
 	}
 	8% {
 	    opacity: 1;
-	    -webkit-transform: scale(1.05);
 	    -webkit-animation-timing-function: ease-out;
 	}
 	17% {
 	    opacity: 1;
-	    -webkit-transform: scale(1.1);
 	}
 	25% {
 	    opacity: 0;
-	    -webkit-transform: scale(1.1);
 	}
 	100% { opacity: 0 }
 }
@@ -160,16 +159,13 @@
 	}
 	8% {
 	    opacity: 1;
-	    -moz-transform: scale(1.05);
 	    -moz-animation-timing-function: ease-out;
 	}
 	17% {
 	    opacity: 1;
-	    -moz-transform: scale(1.1);
 	}
 	25% {
 	    opacity: 0;
-	    -moz-transform: scale(1.1);
 	}
 	100% { opacity: 0 }
 }
@@ -180,16 +176,13 @@
 	}
 	8% {
 	    opacity: 1;
-	    -o-transform: scale(1.05);
 	    -o-animation-timing-function: ease-out;
 	}
 	17% {
 	    opacity: 1;
-	    -o-transform: scale(1.1);
 	}
 	25% {
 	    opacity: 0;
-	    -o-transform: scale(1.1);
 	}
 	100% { opacity: 0 }
 }
@@ -200,16 +193,13 @@
 	}
 	8% {
 	    opacity: 1;
-	    -ms-transform: scale(1.05);
 	    -ms-animation-timing-function: ease-out;
 	}
 	17% {
 	    opacity: 1;
-	    -ms-transform: scale(1.1);
 	}
 	25% {
 	    opacity: 0;
-	    -ms-transform: scale(1.1);
 	}
 	100% { opacity: 0 }
 }
@@ -220,16 +210,13 @@
 	}
 	8% {
 	    opacity: 1;
-	    transform: scale(1.05);
 	    animation-timing-function: ease-out;
 	}
 	17% {
 	    opacity: 1;
-	    transform: scale(1.1);
 	}
 	25% {
 	    opacity: 0;
-	    transform: scale(1.1);
 	}
 	100% { opacity: 0 }
 }
