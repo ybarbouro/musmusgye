@@ -5,6 +5,7 @@ last-name: Vera
 job: Pianista invitado "Cine foro"
 listing-priority: 6
 wikipedia-url: https://es.wikipedia.org/wiki/Municipalidad_de_Guayaquil
+image: "https://res.cloudinary.com/magnvs/image/upload/v1492745448/mmgye/gye_1.jpg"
 ---
 
-John Laurens (October 28, 1754 – August 27, 1782) was an American soldier and statesman from South Carolina during the American Revolutionary War, best known for his criticism of slavery and efforts to help recruit slaves to fight for their freedom as soldiers.
+Muy pronto estará disponible la reseña del grupo participante en Musimuestras 2017.
