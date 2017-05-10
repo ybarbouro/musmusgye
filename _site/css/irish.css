@@ -368,7 +368,9 @@ h2.league-three {
     padding-bottom: 1em;}
 
 .site-footer{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
   font-size: 1em;
+	letter-spacing: 1px;
   padding:4.7em;
   text-align:left;
   color:#fff;
