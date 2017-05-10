@@ -5,7 +5,7 @@ last-name: and The Brothers
 job: Historia de la música disco / El glam
 listing-priority: 2
 wikipedia-url: https://es.wikipedia.org/wiki/Municipalidad_de_Guayaquil
-image: "https://www.larevista.ec/sites/default/files/LR040813PICQCINT10,photo04.jpg"
+image: "http://www.larevista.ec/sites/default/files/LR040813PIQCINT10,photo04.jpg"
 fuente-imagen: La Revista, Diario El Universo
 ---
 
