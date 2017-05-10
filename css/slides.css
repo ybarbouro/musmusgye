@@ -59,7 +59,7 @@
 	color: rgba(169,3,41, 0.8);
 }
 
-.cb-slideshow li:nth-child(1) span { background-image: url('http://res.cloudinary.commagnvs/image/upload/v1494420341/11_spzd1w.jpg'); }
+.cb-slideshow li:nth-child(1) span { background-image: url('http://res.cloudinary.com/magnvs/image/upload/v1494420341/11_spzd1w.jpg'); }
 .cb-slideshow li:nth-child(2) span {
     background-image: url('http://res.cloudinary.com/magnvs/image/upload/v1494420340/22_kvr6id.jpg');
     -webkit-animation-delay: 6s;
