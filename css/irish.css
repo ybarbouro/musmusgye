@@ -231,13 +231,13 @@ h2.league-five{
   background-color:#cf6a00;
   box-shadow:0 2px 3px 0 rgba(0,0,0,.2) inset}
 .btn-alt{
-  background-color:#444;
+  background-color:rgba(46, 87, 103,1);
   border-color:#222;
   box-shadow:none;
   font-size:1.25em;
   margin-top:.25em}
 .btn-alt:active,.btn-alt:focus,.btn-alt:hover{
-  background-color:#555}
+  background-color:rgba(46, 87, 103,0.8);}
 .star{
   color:#E65100}
 .Icon{
