@@ -150,7 +150,7 @@ h3{
   padding:0 10px}
 
 h2.league {
-  font-family:'Oswald', sans-serif;
+  font-family:"Oswald", sans-serif;
   font-weight: 400;
   font-size: 6.7rem;
   color: #fff;
@@ -159,7 +159,7 @@ h2.league {
 }
 
 h2.league-two {
-  font-family:'Oswald', sans-serif;
+  font-family:"Oswald", sans-serif;
   font-weight: 400;
   font-size: 4.7rem;
   color: grey;
@@ -168,7 +168,7 @@ h2.league-two {
 }
 
 h2.league-three {
-  font-family:'Oswald', sans-serif;
+  font-family:"Oswald", sans-serif;
   font-weight: 400;
   font-size: 4.7rem;
 	text-shadow:0 -1px 0 rgba(0,0,0,.5);
@@ -177,12 +177,21 @@ h2.league-three {
 }
 
 h2.league-four{
-  font-family:'Oswald', sans-serif;
+  font-family:"Oswald", sans-serif;
   font-weight: 400;
   font-size: 4.7rem;
   color: #FFEA00;
   padding-bottom: 3rem;
 	line-height: 4.7rem;
+}
+
+h2.league-five{
+  font-family:"Oswald", sans-serif;
+  font-weight: bold;
+  color: rgba(46, 87, 103, 1);
+  padding-bottom: 1rem;
+	font-size: 3rem;
+	line-height: 3.5rem;
 }
 
 .aside{
