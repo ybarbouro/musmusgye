@@ -150,7 +150,7 @@ h3{
   padding:0 10px}
 
 h2.league {
-  font-family:'league_gothicregular', sans-serif;
+  font-family:'Oswald', sans-serif;
   font-weight: 400;
   font-size: 6.7rem;
   color: #fff;
@@ -159,21 +159,32 @@ h2.league {
 }
 
 h2.league-two {
-  font-family:'league_gothicregular', sans-serif;
+  font-family:'Oswald', sans-serif;
   font-weight: 400;
   font-size: 4.7rem;
   color: grey;
   padding-bottom: 3rem;
+	line-height: 4.5rem;
 }
 
 h2.league-three {
-  font-family:'league_gothicregular', sans-serif;
+  font-family:'Oswald', sans-serif;
   font-weight: 400;
   font-size: 4.7rem;
 	text-shadow:0 -1px 0 rgba(0,0,0,.5);
   color: #e76a00;
   padding-bottom: 3rem;
 }
+
+h2.league-four{
+  font-family:'Oswald', sans-serif;
+  font-weight: 400;
+  font-size: 4.7rem;
+  color: #FFEA00;
+  padding-bottom: 3rem;
+	line-height: 4.7rem;
+}
+
 .aside{
   background-color:#eee;
   border:solid #e3e3e3;
@@ -370,6 +381,9 @@ h2.league-three {
 
 .in-the-wild li {
     padding-bottom: 1em;}
+
+.in-the-wild li > h2 {
+	color:#00B0FF}
 
 .site-footer{
 	font-family: 'Yanone Kaffeesatz', sans-serif;
