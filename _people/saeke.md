@@ -1,7 +1,7 @@
 ---
-object-id: azucar
-first-name: Azúcar
-last-name: ·
+object-id: saeke
+first-name: Saeké
+last-name: 
 job: Salsa y merengue
 listing-priority: 5
 wikipedia-url: https://es.wikipedia.org/wiki/Museo_Municipal_de_Guayaquil
