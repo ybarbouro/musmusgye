@@ -5,7 +5,8 @@ last-name: Project Band
 job: Los reyes del pop
 listing-priority: 1
 wikipedia-url: http://www.elcomercio.com/tendencias/musimuestras-guayaqui-musica-madonna-michaeljackson.html
-image: "https://res.cloudinary.com/magnvs/image/upload/v1492745448/mmgye/gye_2.jpg"
+image: "http://res.cloudinary.com/magnvs/image/upload/c_scale,w_1362/v1496683952/mmgye/DSC06769.jpg"
+fuente-imagen: Fernando Mayorga G.
 ---
 
 **Vargas Project Band** inauguró el festival didáctico - musical con un tributo a **Michael Jackson** y a **Madonna**, e interpretó éxitos de los ochenta en la plataforma del Pasaje de los Presidentes del Malecón 2000.
