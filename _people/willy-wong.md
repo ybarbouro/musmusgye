@@ -5,8 +5,8 @@ last-name: and The Brothers
 job: Historia de la música disco / El glam
 listing-priority: 2
 wikipedia-url: https://es.wikipedia.org/wiki/Municipalidad_de_Guayaquil
-image: "http://www.larevista.ec/sites/default/files/LR040813PIQCINT10,photo04.jpg"
-fuente-imagen: La Revista, Diario El Universo
+image: "http://res.cloudinary.com/magnvs/image/upload/v1496847731/mmgye/wong02.jpg"
+fuente-imagen: Musimuestras 2017 - Fernando Mayorga
 ---
 
 La banda se forma en el 2005 con la misma formación actual manteniéndose con un repertorio que caracteriza a la banda que es el rock clásico.  
