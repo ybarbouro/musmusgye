@@ -94,12 +94,28 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body {
+  overflow-x: hidden;
+}
 
-   .main {margin-top: 0;
+img.wide { 
+  max-width: 100%; 
+}
+
+.full-width {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
+
+ .main {margin-top: 0;
        position:relative;
        background-color: transparent;
    }
-   .main-c {margin-top: 0;
+ .main-c {margin-top: 0;
        position:relative;
        background-color: #ECEFF1;
   }
