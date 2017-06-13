@@ -269,7 +269,7 @@ h2.league-five{
 
 .site-logo{
   float: none;
-  color:#fff;
+  color:#00B0FF;
   font-size:25px;
   font-weight:700;
   line-height:32px;
@@ -286,7 +286,7 @@ h2.league-five{
   }
 
   .site-nav a{
-    color:#fff;
+    color:#226691;
     display:block;
     text-decoration:none;
     text-transform:uppercase
@@ -318,7 +318,7 @@ h2.league-five{
 .site-promo{
   padding:1em 0 6em}
 .site-promo .description{
-  color:#fff;
+  color:#1a1a1a;
   font-size:1.2em;
   margin:1em 2em 0}
 
