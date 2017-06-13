@@ -268,7 +268,7 @@ h2.league-five{
   padding-top:20px}
 
 .site-logo{
-  float: left;
+  float: none;
   color:#fff;
   font-size:25px;
   font-weight:700;
@@ -279,7 +279,7 @@ h2.league-five{
 }
 
   .site-nav{
-    float:right;
+    float:none;
     list-style-type:none;
     margin:7px 0 0;
     padding:0
