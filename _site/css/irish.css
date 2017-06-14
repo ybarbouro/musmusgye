@@ -268,8 +268,8 @@ h2.league-five{
   padding-top:20px}
 
 .site-logo{
-  float: left;
-  color:#fff;
+  float: none;
+  color:#00B0FF;
   font-size:25px;
   font-weight:700;
   line-height:32px;
@@ -279,14 +279,14 @@ h2.league-five{
 }
 
   .site-nav{
-    float:right;
+    float:none;
     list-style-type:none;
     margin:7px 0 0;
     padding:0
   }
 
   .site-nav a{
-    color:#fff;
+    color:#226691;
     display:block;
     text-decoration:none;
     text-transform:uppercase
@@ -318,7 +318,7 @@ h2.league-five{
 .site-promo{
   padding:1em 0 6em}
 .site-promo .description{
-  color:#fff;
+  color:#1a1a1a;
   font-size:1.2em;
   margin:1em 2em 0}
 
@@ -373,11 +373,14 @@ h2.league-five{
   background-color: #ccc;
   color:#fff;
   text-align:center;
-  padding:2em 0 3em}
+  padding:2em 0 0 0;
+}
+
 .site-section-video .content{
   max-width:720px;
   margin:auto;
   padding:10px}
+
 .site-section-video h2{
   margin:1em 0}
 .in-the-wild{
@@ -393,6 +396,10 @@ h2.league-five{
 
 .in-the-wild li > h2 {
 	color:#00B0FF}
+
+.in-the-wild > h4 {
+	color:rgba(255,255,255,0.9);}
+
 
 .site-footer{
 	font-family: 'Yanone Kaffeesatz', sans-serif;
