@@ -2,7 +2,7 @@
 layout: post
 title: Musimuestras 2017
 date: 2017-04-20 00:00:00
-image: "http://res.cloudinary.com/magnvs/image/upload/v1492745448/mmgye/gye_1.jpg"
+image: "https://res.cloudinary.com/magnvs/image/upload/v1497491665/muss-010_hqasta.jpg"
 ffw: Leer más
 ---
 

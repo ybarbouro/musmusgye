@@ -11,7 +11,6 @@
    ========================================================================== */
 
 html {
-    color: #222;
     font-size: 1em;
     line-height: 1.4;
 }
@@ -113,7 +112,7 @@ img.wide {
 
  .main {margin-top: 0;
        position:relative;
-       background-color: #fff;
+       background-color: transparent;
    }
  .main-c {margin-top: 0;
        position:relative;
