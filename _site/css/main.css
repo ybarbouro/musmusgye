@@ -113,7 +113,7 @@ img.wide {
 
  .main {margin-top: 0;
        position:relative;
-       background-color: transparent;
+       background-color: #fff;
    }
  .main-c {margin-top: 0;
        position:relative;
@@ -122,7 +122,7 @@ img.wide {
 
 .main-cream {margin-top: 0;
        position:relative;
-       background: url(../img/blue.svg) #fff top center no-repeat;
+       background-color: rgba(139,182,219,0.8);
   }
 
   .noise{
