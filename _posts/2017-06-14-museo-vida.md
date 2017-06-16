@@ -2,6 +2,7 @@
 layout: post
 title: El museo cobra vida
 date: 2017-06-14 00:00:00
+comment: Julio 20 - 22
 image: "https://res.cloudinary.com/magnvs/image/upload/v1497489367/cobra-vida_wala6u.jpg"
 ffw: Leer más
 ---
