@@ -151,6 +151,21 @@ img.wide {
     margin-top: 75px;
 }
 
+.suscribe {
+  background-color:#131a22;
+  color:#fff;
+  letter-spacing:2px;
+  margin-bottom: 0;
+  padding-top: 10px;
+  padding-bottom: 0;
+}
+span.suscrib{
+  letter-spacing:3px;
+  font-weight: bold;
+  font-size: 1.5em;
+  line-height: 2em;
+}
+
 /* ==========================================================================
    Big picture rules
    ========================================================================== */
