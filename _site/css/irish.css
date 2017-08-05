@@ -15,7 +15,7 @@ html{
   }
 
 body{
-  background: #1a1a1a;
+  background: #131a22;
 }
 a{
   background-color:transparent;
@@ -269,7 +269,7 @@ h2.league-five{
 
 .site-logo{
   float: none;
-  color:#00B0FF;
+  color:#eee;
   font-size:25px;
   font-weight:700;
   line-height:32px;
