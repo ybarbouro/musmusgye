@@ -286,7 +286,8 @@ span.suscrib{
 
 @media (max-width: 520px) {
   .article-mag-header > h4 {
-    font-size: 1.5rem;
+    font-size: 1rem;
+    line-height: 0.5rem;
   }
 }
 
