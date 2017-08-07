@@ -2,7 +2,7 @@
 layout: post
 title: Museo, Arte y Ciudad
 date: 2017-04-21 00:00:00
-image: "http://res.cloudinary.com/magnvs/image/upload/v1497490696/muss-02_uqleab.jpg"
+image: "https://res.cloudinary.com/magnvs/image/upload/v1497490696/muss-02_uqleab.jpg"
 ffw: Leer más
 ---
 
