@@ -179,10 +179,10 @@ h2.league-three {
 h2.league-four{
   font-family:"Oswald", sans-serif;
   font-weight: bold;
-  color: rgba(46, 87, 103, 1);
+  color: #226691;
   padding-bottom: 1rem;
   font-size: 2.5rem;
- line-height: 2rem;
+ line-height: 2.3rem;
 }
 
 h2.league-five{
