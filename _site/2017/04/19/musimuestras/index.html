@@ -15,6 +15,7 @@
         <link rel="stylesheet" href="/css/main.css">
         <link rel="stylesheet" href="/css/irish.css">
         <link rel="stylesheet" href="/css/kube.css">
+        <link rel="stylesheet" href="/css/magazine.css">
         <link rel="stylesheet" href="/css/fonts.css">
         <link rel="stylesheet" href="/css/slides.css">
         <link rel="stylesheet" href="/css/animate.css">
@@ -23,7 +24,7 @@
         <script src="/js/vendor/modernizr-2.8.3.min.js"></script>
         <style>
 /* NOTE: The styles were added inline because Prefixfree needs access to your styles and they must be inlined if they are on local disk! */
-@import url(http://fonts.googleapis.com/css?family=Oswald:400,300);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300);
 section { display: flex;
   justify-content: center;
   max-width: 1200px;
@@ -85,17 +86,7 @@ section {
         <![endif]-->
 
         <!-- Add your site or application content here -->
-        <div>
-        <ul class="cb-slideshow">
-            <li><span>Image 01</span></li>
-            <li><span>Image 02</span></li>
-            <li><span>Image 03</span></li>
-            <li><span>Image 04</span></li>
-            <li><span>Image 05</span></li>
-            <li><span>Image 06</span></li>
-        </ul>
-        </div>
-        <div class="main">
+        <div class="main-w">
 
           <div class="container">
             <div class="site-header clearfix" role=banner>
@@ -119,18 +110,13 @@ section {
 
             <div class="wow bounceInDown">
                 <div  style="width: 25%; margin:0; margin-left:auto; margin-right:auto;">
-                  <img src="/img/mussim.svg"/>
+                  <img src="/img/logo-municp.svg"/>
                 </div>
-            </div>
-
-            <div class="site-promo">
-              <h2 >Junio 2&mdash;10</h2>
-              <h2> Auditorio del Museo Municipal<br />
-              Malecón 2000</h2>
-            </div>
+              </div>
 
           </div><!-- end of container -->
 
+            
         <div class="site-section-head">
           <section>
             <article>
@@ -285,32 +271,6 @@ section {
   ga('send', 'pageview');
 
 </script>
-        <script>
-        !function(t,e){
-            "use strict";
-            function a(t,n){
-              return t.hasAttribute(n)===!0?t:t.parentNode!==r.body?a(t.parentNode,n):e}
-            function n(n){
-              var o,i,r,c,g,u=a(n.target,"data-ga-action"),l=!1;
-              u!==e&&(o=u.getAttribute("data-ga-action")||e,i=u.getAttribute("data-ga-category")||e,r=u.getAttribute("data-ga-label")||e,c=u.getAttribute("href"),g=parseInt(u.getAttribute("data-ga-value"),10)||e,ga!==e&&i!==e&&o!==e&&(n.preventDefault(),"Download"!==i&&n.ctrlKey!==!0&&n.metaKey!==!0&&2!==n.which||(l=!0,t.open(c)),function(a){
-                var n;
-                ga("send","event",i,o,r,g,{
-                  hitCallback:function(){
-                    l===!1&&(n!==e&&clearTimeout(n),t.location=a)}
-                }
-                  ),n=setTimeout(function(){
-                  l===!1&&(t.location.href=a)}
-                                 ,1e3)}
-      (c)))}
-            function i(){
-              !function(t,e,a){
-                var n,o=t.getElementsByTagName(e)[0];
-                t.getElementById(a)||(n=t.createElement(e),n.id=a,n.src="//platform.twitter.com/widgets.js",o.parentNode.insertBefore(n,o))}
-              (r,"script","twitter-wjs")}
-            var r=t.document;
-            o(),t.onload=i}
-          (window)
-          </script>
 
     </body>
 </html>
