@@ -152,10 +152,10 @@ h3{
 h2.league {
   font-family:"Oswald", sans-serif;
   font-weight: 400;
-  font-size: 2.3rem;
-  color: #555;
+  font-size: 6.7rem;
+  color: #fff;
   letter-spacing: 1px;
-  line-height: 2.6rem;
+  line-height: 5.7rem;
 }
 
 h2.league-two {
@@ -178,11 +178,11 @@ h2.league-three {
 
 h2.league-four{
   font-family:"Oswald", sans-serif;
-  font-weight: bold;
-  color: #226691;
-  padding-bottom: 1rem;
-  font-size: 2.5rem;
- line-height: 2.3rem;
+  font-weight: 400;
+  font-size: 4.7rem;
+  color: #FFEA00;
+  padding-bottom: 3rem;
+	line-height: 4.7rem;
 }
 
 h2.league-five{
