@@ -11,6 +11,7 @@
    ========================================================================== */
 
 html {
+    color: #222;
     font-size: 1em;
     line-height: 1.4;
 }
@@ -121,11 +122,11 @@ img.wide {
 
 .main-cream {margin-top: 0;
        position:relative;
-       background-color: rgba(139,182,219,0.8);
+       background: url(../img/cream_dust.png);
   }
 
   .noise{
-    background-color:transparent;
+    background-color:#2f3135;
     background-image:url(data:image/png;base64,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)
 }
 
@@ -151,23 +152,13 @@ img.wide {
     margin-top: 75px;
 }
 
-.suscribe {
-  background-color:#131a22;
-  color:#fff;
-  letter-spacing:2px;
-  margin-bottom: 0;
-  padding-top: 10px;
-  padding-bottom: 0;
+figcaption {
+   font-family:'Yanone Kaffeesatz', sans-serif;
+   font-size: 0.5em;
+   font-style: normal;
+   color: #1a1a1a;
+
 }
-
-
-span.suscrib{
-  letter-spacing:3px;
-  font-weight: bold;
-  font-size: 1.5em;
-  line-height: 2em;
-}
-
 /* ==========================================================================
    Big picture rules
    ========================================================================== */
@@ -191,131 +182,6 @@ span.suscrib{
   margin: 5px;
   /*max-width: calc(50% - 12px);*/
 }
-
-/* ==========================================================================
-   Magazine classes
-   ========================================================================== */
-
-.article-mag-wrap {
-  max-width: 1000px;
-  margin: 0 auto;
-  padding: 20px;
-  color: #a1a1a1a;
-
-}
-
-.article-mag-header{
-  text-align: center;
-}
-@media (max-width: 520px) {
-  .article-header h2 {
-    font-size: 1.2rem;
-  }
-}
-
-.classification-header {
-  text-transform: uppercase;
-  color: red;
-  letter-spacing: 0.1rem;
-}
-
-.intro-ps {
-  -webkit-columns: 2;
-     -moz-columns: 2;
-          columns: 2;
-  margin: 0 0 2rem 0;
-}
-.intro-ps > p:first-child {
-  text-indent: 0;
-}
-.intro-ps > p:first-child strong {
-  font-size: 125%;
-  letter-spacing: -1px;
-  line-height: 0;
-}
-@media (max-width: 520px) {
-  .intro-ps {
-    -webkit-columns: 1;
-       -moz-columns: 1;
-            columns: 1;
-  }
-}
-
-.in-brief {
-  text-align: center;
-  margin: 0 0 2rem 0;
-}
-.in-brief h3 {
-  text-transform: uppercase;
-  text-align: center;
-  border-left: 1px solid #ccc;
-  border-right: 1px solid #ccc;
-  display: inline-block;
-  padding: 0 20px;
-  color: #999;
-  letter-spacing: 0.2rem;
-  font-size: 80%;
-  margin: 0;
-  background: white;
-  position: relative;
-  top: 1px;
-}
-
-.in-brief-content {
-  -webkit-columns: 3;
-     -moz-columns: 3;
-          columns: 3;
-  font-size: 0.8rem;
-  text-align: left;
-  border: 1px solid #ccc;
-  padding: 20px;
-}
-@media (max-width: 520px) {
-  .in-brief-content {
-    -webkit-columns: 2;
-       -moz-columns: 2;
-            columns: 2;
-  }
-}
-
-
-.article-mag-header {
-  padding: 0 50px;
-  margin: 0 0 30px 0;
-}
-
-@media (max-width: 520px) {
-  .article-mag-header > h4 {
-    font-size: 1.2rem;
-    line-height: 1.1rem;
-  }
-}
-
-.byline {
-  font-size: 2.5em;
-  color:#aaa;
-}
-
-.article-mag-body {
-  font-size: 0.9rem;
-  max-width: 500px;
-  margin: 0 auto;
-}
-.article-mag-body h3 {
-  text-align: center;
-  text-transform: uppercase;
-  margin-top: 2rem;
-}
-
-.centro {
-  text-align: center;
-}
-
-.leftie{
-  text-align: left;
-  font-size: 1rem;
-}
-
 
 /* ==========================================================================
    Helper classes

@@ -15,7 +15,7 @@ html{
   }
 
 body{
-  background: #131a22;
+  background: #1a1a1a;
 }
 a{
   background-color:transparent;
@@ -269,7 +269,7 @@ h2.league-five{
 
 .site-logo{
   float: none;
-  color:#eee;
+  color:#00B0FF;
   font-size:25px;
   font-weight:700;
   line-height:32px;
@@ -370,7 +370,7 @@ h2.league-five{
         padding:2em 0 1em}
 
 .site-section-video{
-  background-color: #131a22;
+  background-color: #ccc;
   color:#fff;
   text-align:center;
   padding:2em 0 0 0;
@@ -398,7 +398,7 @@ h2.league-five{
 	color:#00B0FF}
 
 .in-the-wild > h4 {
-	color:#00B0FF;}
+	color:#226691}
 
 
 .site-footer{
