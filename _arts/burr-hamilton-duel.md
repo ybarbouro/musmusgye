@@ -4,7 +4,7 @@ title: Burr-Hamilton Duel
 featured: false
 featured-priority:
 listing-priority: 4
-architect-id: aaron-burr
+arte: Música
 wikipedia-url: https://en.wikipedia.org/wiki/Burr%E2%80%93Hamilton_duel
 ---
 

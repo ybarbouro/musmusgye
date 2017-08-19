@@ -4,7 +4,7 @@ title: Culper Ring
 featured: false
 featured-priority:
 listing-priority: 3
-architect-id: hercules-mulligan
+arte: Danza
 wikipedia-url: https://en.wikipedia.org/wiki/Culper_Ring
 ---
 

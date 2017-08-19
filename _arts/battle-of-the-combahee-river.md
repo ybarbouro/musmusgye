@@ -4,7 +4,7 @@ title: Battle of the Combahee River
 featured: false
 featured-priority:
 listing-priority: 5
-architect-id: john-laurens
+arte: Escultura
 wikipedia-url: https://en.wikipedia.org/wiki/Battle_of_the_Combahee_River
 ---
 

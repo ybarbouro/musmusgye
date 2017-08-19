@@ -7,16 +7,16 @@ url: http://fernanz.github.io/
 permalink: pretty
 
 collections:
-  projects:
+  arts:
     output: true
   people:
     output: true
 
 defaults:
   - scope:
-      type: projects
+      type: arts
     values:
-      layout: project
+      layout: ars
   - scope:
       type: people
     values:
