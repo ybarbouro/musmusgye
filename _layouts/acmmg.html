@@ -36,34 +36,13 @@
 
           </div><!-- end of container -->
 
-
-        <div class="site-section-head">
-          <section>
-            <article>
-
-              <img  style="border-radius:7px 7px 0 0;" src="/img/fauno.jpg" />
-
-              {% if page.image %}
-              <img style="border-radius:0 0 7px 7px;" src="{{ page.image }}" alt="Fotografía de {{ page.title }}">
-              {% endif %}
-
-            </article>
-            <article>
-
-              <h1>{{ page.title }}</h1>
-
-              {{ content }}
-
-            </article>
-          </section>
-        </div>
+{{ content }}
 
 {% include logos.html %}
 
 <figure class='full-width' style="margin-bottom:0;">
-  <img class="wide" src="/img/roan.jpg">
+  <img class="wide" src="https://res.cloudinary.com/magnvs/image/upload/v1501892745/ocm_fyijyy.jpg">
 </figure>
-{% include aside.html %}
 
 {% include footer.html %}
         <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>

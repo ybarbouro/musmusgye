@@ -79,27 +79,18 @@ section {
   </style>
     </head>
 
-    <body >
+    <body>
 
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-		<!-- Add your site or application content here -->
-        <div>
-        <ul class="cb-slideshow">
-            <li><span>Image 01</span></li>
-            <li><span>Image 02</span></li>
-            <li><span>Image 03</span></li>
-            <li><span>Image 04</span></li>
-            <li><span>Image 05</span></li>
-            <li><span>Image 06</span></li>
-        </ul>
-        </div>
-        <div class="main">
+
+        <!-- Add your site or application content here -->
+        <div class="main-c">
 
           <div class="container">
             <div class="site-header clearfix" role=banner>
-              <div class="site-logo">PROGRAMA MUSEO ARTE Y CIUDAD
+              <div class=site-logo>PROGRAMA MUSEO ARTE Y CIUDAD
               </div>
               <ul class="site-navi inline-block-list">
                 <li>
@@ -107,28 +98,34 @@ section {
                   </a>
                 </li>
                 <li>
-                  <a href="/people" data-ga-category="Outbound links" data-ga-action="Nav click" data-ga-label=Docs>Artistas
+                  <a href="/faal" data-ga-category="Inbound links" data-ga-action="Nav click" data-ga-label="Source code">FAAL 2017
+                  </a>
+                </li>
+                <li>
+                  <a href="/" data-ga-category="Inbound links" data-ga-action="Nav click" data-ga-label="Source code">Agenda cultural
                   </a>
                 </li>
               </ul>
             </div>
 
             <div class="wow bounceInDown">
-                <div  style="width: 25%; margin:0; margin-left:auto; margin-right:auto;">
-                  <img src="/img/mussim.svg"/>
+                <div  style="width: 35%; margin:0; margin-left:auto; margin-right:auto;">
+                  <img src="/img/escudo_faal.svg"/>
                 </div>
-            </div>
-
-            <div class="site-promo">
-              <h2 >Junio 2&mdash;10</h2>
-              <h2> Auditorio del Museo Municipal<br />
-              Malecón 2000</h2>
-            </div>
+              </div>
 
           </div><!-- end of container -->
 
-<p>The United States Coast Guard (USCG) is a branch of the United States Armed Forces and one of the country’s seven uniformed services. The Coast Guard is a maritime, military, multi-mission service unique among the U.S. military branches for having a maritime law enforcement mission (with jurisdiction in both domestic and international waters) and a federal regulatory agency mission as part of its mission set. It operates under the U.S. Department of Homeland Security during peacetime, and can be transferred to the U.S. Department of the Navy by the U.S. President at any time, or by the U.S. Congress during times of war. This has happened twice, in 1917, during World War I, and in 1941, during World War II.</p>
+          <section>
+            <article>
 
+              <h1>United States Coast Guard</h1>
+
+              <p>The United States Coast Guard (USCG) is a branch of the United States Armed Forces and one of the country’s seven uniformed services. The Coast Guard is a maritime, military, multi-mission service unique among the U.S. military branches for having a maritime law enforcement mission (with jurisdiction in both domestic and international waters) and a federal regulatory agency mission as part of its mission set. It operates under the U.S. Department of Homeland Security during peacetime, and can be transferred to the U.S. Department of the Navy by the U.S. President at any time, or by the U.S. Congress during times of war. This has happened twice, in 1917, during World War I, and in 1941, during World War II.</p>
+
+
+            </article>
+          </section>
 
   <div class="site-section-head">
     <div class="grid">
@@ -148,36 +145,11 @@ section {
   </div>
 
 
+<figure class='full-width' style="margin-bottom:0;">
+  <img class="wide" src="/img/roan.jpg">
+</figure>
 
-        <div class="w100 site-section-nm">
-          <figure class="wow fadeInUp">
-              <img src="/img/afiche.jpg"/>
-          </figure>
-        </div>
-
-  <div class="aside">
-  <div class="container">
-    <ul class=inline-block-list>
-      <li>
-        <p>
-          <span class="Icon Icon--escudogye">
-          </span> Por Guayaquil Independiente
-        </p></li>
-        <li>
-          <p>
-            <span class="Icon Icon--municipio">
-            </span>Alcaldía de Guayaquil
-          </p></li>
-        <li>
-        <p>
-          <span class="Icon Icon--macm">
-          </span> Museo, Arte y Ciudad
-        </p></li>
-    </ul>
-  </div>
-</div>
-
-  <div class="site-footer" >
+<div class="site-footer" >
 <div class="row">
 
   <div style="text-align:center;" class="col col-12">
@@ -233,26 +205,25 @@ section {
 
 </div><!-- end of main-->
 
+        <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+        <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
+        <script src="/js/plugins.js"></script>
+        <script src="/js/main.js"></script>
+        <script src="/js/kube.js"></script>
+        <script src="/js/wow.js"></script>
 
-  <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
-  <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
-  <script src="/js/plugins.js"></script>
-  <script src="/js/main.js"></script>
-  <script src="/js/kube.js"></script>
-  <script src="/js/wow.js"></script>
+        <script>
+        wow = new WOW(
+                {
+                  animateClass: 'animated',
+                  offset: 100
+                }
+        )
+        wow.init()
+        </script>
 
-  <script>
-  wow = new WOW(
-          {
-            animateClass: 'animated',
-            offset: 100
-          }
-  )
-  wow.init()
-  </script>
-
-  <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-  <script>
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)

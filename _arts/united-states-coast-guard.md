@@ -1,4 +1,5 @@
 ---
+layout: bases
 object-id: united-states-coast-guard
 title: United States Coast Guard
 featured: true
