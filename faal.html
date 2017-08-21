@@ -2,13 +2,13 @@
 layout: ars
 ---
 <div class="site-section">
-  <h2 class="league">EN CARTELERA
+  <h2 class="league-three">Bases de concurso XVIII FAAL 
   </h2>
   <ul class="in-the-wild">
     {% assign arts = site.arts | sort: 'listing-priority' %}
     {% for art in arts %}
     <li>
-      <h3><a href="{{ art.url }}">{{ art.arte }} </a></h3><p>{{ art.title }}</p>
+      <h3><a href="{{ art.url }}">{{ art.title }} </a></h3><p>{{ art.dates }}<br />{{ art.place }}</p>
     </li>
     {% endfor %}
   </ul>
