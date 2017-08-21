@@ -79,13 +79,15 @@ section {
   </style>
     </head>
 
-    <body >
+    <body>
 
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-		<!-- Add your site or application content here -->
-        <div>
+
+        <!-- Add your site or application content here -->
+        <div class="main">
+
           <div class="container">
             <div class="site-header clearfix" role=banner>
               <div class=site-logo>PROGRAMA MUSEO ARTE Y CIUDAD
@@ -96,7 +98,7 @@ section {
                   </a>
                 </li>
                 <li>
-                  <a href="#" data-ga-category="Inbound links" data-ga-action="Nav click" data-ga-label="Source code">FAAL 2017
+                  <a href="/" data-ga-category="Inbound links" data-ga-action="Nav click" data-ga-label="Source code">FAAL 2017
                   </a>
                 </li>
                 <li>
@@ -106,20 +108,47 @@ section {
               </ul>
             </div>
 
-
             <div class="wow bounceInDown">
-                <div  style="width: 30%; margin:0; margin-left:auto; margin-right:auto;">
-                  <img src="/img/escudo_faal.svg"/>
+                <div  style="width: 25%; margin:0; margin-left:auto; margin-right:auto;">
+                  <img src="/img/logo-municp.svg"/>
                 </div>
-            </div>
-
-            <div class="site-promo">
-              <h2 >Festival de Artes al Aire Libre</h2>
-              <h2> Octubre 2&mdash;18</h2>
-            </div>
+              </div>
 
           </div><!-- end of container -->
-          
+
+
+        <div class="site-section-head">
+          <section>
+            <article>
+
+              <img  style="border-radius:7px 7px 0 0;" src="/img/fauno.jpg" />
+
+              
+              <img style="border-radius:0 0 7px 7px;" src="https://res.cloudinary.com/magnvs/image/upload/c_scale,w_500/v1500843368/gentrification_ifvkni.jpg" alt="Fotografía de Festival de Artes al Aire Libre - FAAL">
+              
+
+            </article>
+            <article>
+
+              <h1>Festival de Artes al Aire Libre - FAAL</h1>
+
+              <p>El Festival de Artes al Aire Libre comenzó en el año 2000 como un complemento cultural de la regeneración urbana para el Malecón 2000, empezó como un concurso de pintura y escultura en presencia y al aire libre; posteriormente se fueron integrando artes escénicas, visuales y alternativas, llegando en la actualidad a contar con once categorías artísticas. Este año, cumpliendo con el propósito original y considerando que las artes pueden ser herramienta de sensibilización en temas ambientales para la ciudadanía, el festival se toma, además de Malecón 2000, el Malecón del Estero Salado y sus alrededores.</p>
+
+<p>La organización de FAAL siempre se ha preocupado en realizar un trabajo intenso con la finalidad de que el festival estuviera acorde con la producción local; es así, que incorporó escenarios profesionales para recibir artistas invitados e impulsar los nuevos concursos.</p>
+
+<p>El FAAL es actualmente el único evento que permite mostrar toda la producción artística del Ecuador, por contar con espacios para géneros como el rock, pintura, teatro de calle, salsa, danza árabe, etc.</p>
+
+<p>La magnitud de este festival, que se logra con el esfuerzo de la Dirección de Cultura y de los artistas locales, lo convierte en uno de los eventos más representativos del país y un referente en América Latina.</p>
+
+<p><strong>Sobre la imagen</strong>:</p>
+
+<p><small>Juan Caguana<br />«Gentrification (Allomerus desermarticulatus)»<br />Salón de Julio 2017, Mención de Honor.</small></p>
+
+
+            </article>
+          </section>
+        </div>
+
   <div class="site-section-head">
     <div class="grid">
       <div class=grid-cell>
@@ -138,16 +167,10 @@ section {
   </div>
 
 
-<p>The Battle of the Combahee River was a battle of the American Revolutionary War fought on August 26, 1782, near Beaufort, South Carolina, one of many such confrontations after the Siege of Yorktown to occur before the British evacuated Charleston in December 1782. Of note is the death of 27-year-old Colonel John Laurens, “one of the bravest and most gallant of the American officers.”</p>
-
-
-        <div class="w100 site-section-nm">
-          <figure class="wow fadeInUp">
-              <img src="/img/afiche.jpg"/>
-          </figure>
-        </div>
-
-  <div class="aside">
+<figure class='full-width' style="margin-bottom:0;">
+  <img class="wide" src="/img/roan.jpg">
+</figure>
+<div class="aside">
   <div class="container">
     <ul class=inline-block-list>
       <li>
@@ -169,7 +192,8 @@ section {
   </div>
 </div>
 
-  <div class="site-footer" >
+
+<div class="site-footer" >
 <div class="row">
 
   <div style="text-align:center;" class="col col-12">
@@ -225,26 +249,25 @@ section {
 
 </div><!-- end of main-->
 
+        <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+        <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
+        <script src="/js/plugins.js"></script>
+        <script src="/js/main.js"></script>
+        <script src="/js/kube.js"></script>
+        <script src="/js/wow.js"></script>
 
-  <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
-  <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
-  <script src="/js/plugins.js"></script>
-  <script src="/js/main.js"></script>
-  <script src="/js/kube.js"></script>
-  <script src="/js/wow.js"></script>
+        <script>
+        wow = new WOW(
+                {
+                  animateClass: 'animated',
+                  offset: 100
+                }
+        )
+        wow.init()
+        </script>
 
-  <script>
-  wow = new WOW(
-          {
-            animateClass: 'animated',
-            offset: 100
-          }
-  )
-  wow.init()
-  </script>
-
-  <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-  <script>
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
