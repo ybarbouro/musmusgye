@@ -13,8 +13,3 @@ La organización de FAAL siempre se ha preocupado en realizar un trabajo intenso
 El FAAL es actualmente el único evento que permite mostrar toda la producción artística del Ecuador, por contar con espacios para géneros como el rock, pintura, teatro de calle, salsa, danza árabe, etc.
 
 La magnitud de este festival, que se logra con el esfuerzo de la Dirección de Cultura y de los artistas locales, lo convierte en uno de los eventos más representativos del país y un referente en América Latina.
-
-
-**Sobre la imagen**:
-
-<small>Juan Caguana<br />&laquo;Gentrification (Allomerus desermarticulatus)&raquo;<br />Salón de Julio 2017, Mención de Honor.</small>
