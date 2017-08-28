@@ -3,8 +3,8 @@ layout: bases
 object-id: concurso-de-teatro
 title: CONCURSO DE TEATRO
 featured: false
-featured-priority: 9
-listing-priority: 9
+featured-priority: 6
+listing-priority: 6
 dates: 11, 12 y 13 de Octubre
 place: Ágora Safari de la Plaza Rodolfo Baquerizo Moreno
 ---
@@ -17,7 +17,7 @@ Podrán participar artistas ecuatorianos residentes en el país o en el extranje
 Participantes menores a los 15 años podrán presentarse fuera de concurso como invitados en un calendario estipulado por la coordinación del FAAL.  
 
 Los menores de edad podrán participar bajo supervisión de sus padres.
-Podrán participar, solistas, dúos, tríos o cualquier tipo de agrupación.  
+Podrán participar solistas, dúos, tríos o cualquier tipo de agrupación.  
 
 ### SOBRE LA ORGANIZACIÓN  
 
@@ -49,7 +49,7 @@ a) Nombre del artista o agrupación y dirección domiciliaria. Nombre, teléfono
 
 b) Cédula de cada uno de los participantes.  
 
-c) En el caso de los profesionales, deberán cargar incluir currículo artístico. En el caso de extranjeros, deberán presentar soportes de prensa, fotografías que certifiquen un tiempo mínimo de 3 años de trayectoria en el país.
+c) En el caso de los profesionales, deberán incluir su currículo artístico. En el caso de extranjeros, deberán presentar soportes de prensa, fotografías que certifiquen un tiempo mínimo de 3 años de trayectoria en el país.
  
 ### SOBRE EL JURADO  
 
@@ -63,5 +63,5 @@ El premio M.I. Municipalidad de Guayaquil corresponde a USD 3.000,00 (tres mil d
 
 Se considerarán menciones de honor MUNICIPALIDAD DE GUAYAQUIL, según el criterio del jurado.  
 
-La participación implica aceptar todas las bases anteriormente expuestas. En caso de algún contratiempo, de diversa índole que, afecte la seriedad y organización del XVIII Festival de Artes en Presencia y al Aire Libre -Independencia de Guayaquil- 2017, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura, lo resolverá.
+La participación implica aceptar todas las bases anteriormente expuestas. En caso de algún contratiempo, de diversa índole que afecte la seriedad y organización del XVIII Festival de Artes en Presencia y al Aire Libre -Independencia de Guayaquil- 2017, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura lo resolverá.
  

@@ -24,7 +24,7 @@ La coordinación del FAAL proporcionará sonido profesional, al cual deberán ad
 
 El FAAL no cubrirá gastos de alojamiento, movilización ni transporte, por lo que los participantes correrán con estos rubros.  
 
-Los organizadores informarán con anticipación la hora, el lugar y el día de participación de cada inscrito y el día y lugar de la final. Si algún grupo participante no se presentara al concurso el día y la hora indicada, automáticamente será descalificado.
+Los organizadores informarán con anticipación la hora, el lugar y el día de participación de cada inscrito, así como, el día y lugar de la final. Si algún grupo participante no se presentara al concurso el día y la hora indicada, automáticamente será descalificado.
  
 ### SOBRE LA PARTICIPACIÓN 
 Deberán declamar el texto escogido o creado, de manera pública. Podrán escoger textos de autores nacionales o internacionales, así como ser de autoría del narrador siempre que el tema esté relacionado con el “rescate y conservación del medio ambiente”.  
@@ -34,7 +34,7 @@ Los textos serán obligatoriamente en idioma español y pertenecer a la literatu
 Cada participante deberá declamar de memoria el texto elegido, el cual puede ser unitario o un fragmento de un texto mayor, con una duración de mínimo 3 y máximo 10 minutos.
 
 ### SOBRE LA DOCUMENTACIÓN
-Será imprescindible que los participantes se inscriban hasta las 17h00 del 22 de septiembre del 2017 en el Museo Municipal (sucre entre Chile y Pedro Carbo), llenando la siguiente información:  
+Será imprescindible que los participantes se inscriban hasta las 17h00 del 22 de septiembre del 2017 en el Museo Municipal (Sucre entre Chile y Pedro Carbo), llenando la siguiente información:  
 
 a) Nombre del artista y dirección domiciliaria. Nombre, teléfonos (convencional y celular) y correo electrónico del responsable del grupo concursante.  
 
@@ -64,4 +64,4 @@ El premio M.I. Municipalidad de Guayaquil corresponde a USD 1.000,00 (un mil dó
 
 Se consideran menciones de honor MUNICIPALIDAD DE GUAYAQUIL, según el criterio del jurado.  
 
-La participación implica aceptar todas las bases anteriormente expuestas. En caso de algún contratiempo, de diversa índole que, afecte la seriedad y organización del XVIII Festival de Artes en Presencia y al Aire Libre -Independencia de Guayaquil- 2017, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura, lo resolverá.
+La participación implica aceptar todas las bases anteriormente expuestas. En caso de algún contratiempo, de diversa índole que afecte la seriedad y organización del XVIII Festival de Artes en Presencia y al Aire Libre -Independencia de Guayaquil- 2017, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura lo resolverá.

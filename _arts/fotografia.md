@@ -25,7 +25,7 @@ Los organizadores informarán con anticipación la hora, el lugar y el día de p
 ### SOBRE LA PARTICIPACIÓN
 Podrán participar con una sola obra y se permite el uso de cámaras profesionales, celulares, programas de edición fotográfica o herramientas que faciliten la manipulación de la fotografía.  
 
-La fotografía podrá ser sobre lugares, momentos, personas u objetos en cualquier ambiente siempre y cuando se alinee con la temática la expuesta en la cláusula general.  
+La fotografía podrá ser sobre lugares, momentos, personas u objetos en cualquier ambiente siempre y cuando se alinee con la temática expuesta en la cláusula general.  
 
 La imagen participante no debe haber obtenido ningún premio en otro concurso.  
 
@@ -40,7 +40,7 @@ a) Nombre y dirección domiciliaria del artista o representante. Nombre, teléfo
 
 b) Dos fotos tamaño carnet del responsable, que se utilizarán una para la credencial y otra para el formulario de inscripción. Una foto tamaño carnet para la credencial.  
 
-c) Los extranjeros, deberán cargar soportes de prensa, fotografías que certifiquen un tiempo mínimo de 3 años de trayectoria en el país.  
+c) Los extranjeros deberán cargar soportes de prensa y fotografías que certifiquen un tiempo mínimo de 3 años de trayectoria en el país.  
 
 e) Los inscritos deberán cargar la obra participante y un breve marco referencial que no exceda las 150 palabras.
  
@@ -54,4 +54,4 @@ El premio M.I. Municipalidad de Guayaquil corresponde a USD 1.000,00 (un mil dó
 
 Se consideran menciones de honor MUNICIPALIDAD DE GUAYAQUIL, según el criterio del jurado.  
 
-La participación implica aceptar todas las bases anteriormente expuestas. En caso de algún contratiempo, de diversa índole que, afecte la seriedad y organización del XVIII Festival de Artes en Presencia y al Aire Libre -Independencia de Guayaquil- 2017, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura, lo resolverá.
+La participación implica aceptar todas las bases anteriormente expuestas. En caso de algún contratiempo, de diversa índole que afecte la seriedad y organización del XVIII Festival de Artes en Presencia y al Aire Libre -Independencia de Guayaquil- 2017, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura lo resolverá.

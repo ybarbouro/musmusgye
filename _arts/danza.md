@@ -36,7 +36,7 @@ Los integrantes de cada agrupación podrán participar una sola vez.
 Participarán en un tiempo mínimo de 5 minutos y máximo 8 minutos y la música deberá estar grabada en un cd que deberán traer a las presentaciones.  
 
 ### SOBRE LA DOCUMENTACIÓN
-Será imprescindible que los participantes se inscriban, hasta las 17h00 del 22 de septiembre del 2017, en el Museo Municipal (Sucre entre chile y Pedro Carbo), ingresando la siguiente documentación:  
+Será imprescindible que los participantes se inscriban, hasta las 17h00 del 22 de septiembre del 2017, en el Museo Municipal (Sucre entre Chile y Pedro Carbo), ingresando la siguiente documentación:  
 
 a) Nombre del artista, pareja o agrupación y dirección domiciliaria. Nombre, teléfonos (convencional y celular) y correo electrónico del responsable del grupo concursante. Una vez inscritos no podrán cambiar los integrantes.  
 
@@ -48,8 +48,9 @@ c) En el caso de extranjeros, deberán de cargar fotos de soportes de prensa, o 
 
 El jurado calificará principalmente TALENTO.  
 
-El jurado de selección y premiación estará integrados por profesionales que calificarán usando un sistema de votación simple y elegirán la propuesta ganadora.  El concurso no podrá ser declarado desierto y el fallo del jurado será inapelable.
-### SOBRE LOS PREMIOS
-El premio M.I. Municipalidad de Guayaquil corresponde a USD 3.000,00 (Tres mil dólares de los Estados Unidos de Norteamérica) que serán a los ganadores. Se consideran menciones de honor MUNICIPALIDAD DE GUAYAQUIL, según el criterio del jurado.  
+El jurado de selección y premiación estará integrado por profesionales que calificarán usando un sistema de votación simple y elegirán la propuesta ganadora.  El concurso no podrá ser declarado desierto y el fallo del jurado será inapelable.
 
-La participación implica aceptar todas las bases anteriormente expuestas. En caso de algún contratiempo, de diversa índole que, afecte la seriedad y organización del XVIII Festival de Artes en Presencia y al Aire Libre -Independencia de Guayaquil- 2017, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura, lo resolverá.
+### SOBRE LOS PREMIOS
+El premio M.I. Municipalidad de Guayaquil corresponde a USD 3.000,00 (Tres mil dólares de los Estados Unidos de Norteamérica) que serán entregados a los ganadores. Se consideran menciones de honor MUNICIPALIDAD DE GUAYAQUIL, según el criterio del jurado.  
+
+La participación implica aceptar todas las bases anteriormente expuestas. En caso de algún contratiempo, de diversa índole que afecte la seriedad y organización del XVIII Festival de Artes en Presencia y al Aire Libre -Independencia de Guayaquil- 2017, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura lo resolverá.

@@ -8,7 +8,7 @@ listing-priority: 1
 dates: 2 al 11 de Octubre
 place: Malecón de la Ferroviaria y Parque Lineal del Estero Salado
 ---
-El concurso de escultura se desarrollará del 2 al 11 de octubre del 2017 en el Parque Lineal del Estero Salado;  el concurso de pintura del 6 al 11 octubre en el Malecón de la Ferroviaria; y el concurso de dibujo, del 9 al 11 en el Malecón de la Ferroviaria. Los concursos se desarrollarán de 10h00 a 18h00 respectivamente, en las fechas y días anunciados previamente.
+El concurso de escultura se desarrollará del 2 al 11 de octubre del 2017 en el Parque Lineal del Estero Salado;  el concurso de pintura del 6 al 11 octubre en el Malecón de la Ferroviaria; y el concurso de dibujo, del 9 al 11 de octubre en el Malecón de la Ferroviaria. Los concursos se desarrollarán de 10h00 a 18h00 respectivamente, en las fechas y días anunciados previamente.
 
 ### 1.- PARTICIPANTES
 Podrán participar artistas de nacionalidad ecuatoriana, residentes en el país o en el extranjero, y/o artistas extranjeros residentes en el país por más de dos años. Para entrar a concurso deberán ser mayores de 16 años.  
@@ -59,7 +59,7 @@ La organización del FAAL se reserva el derecho de invitar a artistas de amplia 
 ### 9.- DIMENSIONES
 El formato de la obra pictórica en su totalidad se establece en un máximo de 2,00 x 3,00 metros, con la posibilidad de que los trabajos sean dípticos o trípticos, siempre y cuando mantengan el tamaño arriba indicado, aceptándose en pintura: óleo, témpera, acuarela, serigrafía, etc.  
 
-Para dibujo los trabajos se presentarán en formato A2 (42x59,4 cm) en las que se ilustrará una historia en 6 viñetas.  
+Para dibujo, los trabajos se presentarán en formato A2 (42x59,4 cm) en las que se ilustrará una historia en 6 viñetas.  
 
 Las esculturas deberán ser realizadas en un formato no mayor de 1,20 metros de altura y 1,50 metros de ancho, aceptándose en este género, trabajos de madera, barro, yeso, mármol, cera, etc.
  
@@ -119,4 +119,4 @@ La M.I. Municipalidad de Guayaquil se reserva el derecho de tomar fotografías d
 
 La coordinación se reserva el derecho de ceder espacios en caso de prolongada ausencia de uno de los participantes.  
 
-La participación implica aceptar todas las bases. En caso de algún contratiempo, de diversa índole que, afecte la seriedad y organización del XVII Festival de Artes en presencia y al Aire Libre -Independencia de Guayaquil- 2017, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura, lo resolverá.
+La participación implica aceptar todas las bases. En caso de algún contratiempo, de diversa índole que afecte la seriedad y organización del XVII Festival de Artes en presencia y al Aire Libre -Independencia de Guayaquil- 2017, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura lo resolverá.

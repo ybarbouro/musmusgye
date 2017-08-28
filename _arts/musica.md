@@ -9,7 +9,7 @@ dates: 5 y 6 de Octubre
 place: Parque Infantil Ferroviaria
 ---
 
-Este año el concurso de Música tendrá tema libre tanto en las en las categorías profesionales y amateur, mismas que se desarrollarán considerando los siguientes aspectos:
+Este año el concurso de Música tendrá tema libre tanto en las categorías profesionales y amateur, mismas que se desarrollarán considerando los siguientes aspectos:
 
 ### SOBRE LOS PARTICIPANTES
 Podrán participar artistas ecuatorianos residentes en el país o en el extranjero; o extranjeros con más de 2 años de residencia en el país.
@@ -22,7 +22,7 @@ Los menores de edad podrán participar bajo supervisión de sus padres.
 
 Podrán tomar parte en el concurso todos aquellos compositores o intérpretes de cualquier lugar del país. No podrán estar sujetos a ningún tipo de vinculación profesional, mercantil o laboral en vigencia (contrato discográfico, contrato con manager, etc.).
 
-Podrán participar, solistas, dúos, tríos, bandas o cualquier tipo de agrupación.
+Podrán participar solistas, dúos, tríos, bandas o cualquier tipo de agrupación.
 
 ### SOBRE LA ORGANIZACIÓN
 
@@ -46,7 +46,7 @@ Los inscritos en la categoría amateur podrán participar con un tema de otro m�
 Los participantes podrán elegir el uso de instrumentos musicales o de pistas.
 
 ### SOBRE LA DOCUMENTACIÓN
-Será imprescindible que los participantes se inscriban en el Museo Municipal (sucre entre Chile y Pedro Carbo) hasta las 17h00 del 22 de septiembre del 2017 ingresando la siguiente información:
+Será imprescindible que los participantes se inscriban en el Museo Municipal (Sucre entre Chile y Pedro Carbo) hasta las 17h00 del 22 de septiembre del 2017, ingresando la siguiente información:
 
 a) Nombre del artista o agrupación y dirección domiciliaria. Nombre, teléfonos (convencional y celular) y correo electrónico del responsable del grupo concursante.
 
@@ -62,14 +62,14 @@ b) Afinación y ritmo
 c) Interpretación
 d) Dominio escénico
 
-El jurado de selección estará integrado por profesionales de la música que calificarán usando un sistema de votación simple y elegirán las propuesta ganadora.  El concurso no podrá ser declarado desierto y el fallo del jurado será inapelable.
+El jurado de selección estará integrado por profesionales de la música que calificarán usando un sistema de votación simple y elegirán la propuesta ganadora.  El concurso no podrá ser declarado desierto y el fallo del jurado será inapelable.
 
 ### SOBRE LOS PREMIOS
-El premio M.I. Municipalidad de Guayaquil corresponde a USD 3.000,00 (tres mil dólares de los Estados Unidos de Norteamérica) que serán entregados al artista o agrupación ganadora de la categoría profesional. El ganador de la categoría amateur ganará la grabación profesional del tema con el que participó.
+El premio M.I. Municipalidad de Guayaquil corresponde a USD 3.000,00 (tres mil dólares de los Estados Unidos de Norteamérica) que serán entregados al artista o agrupación ganadora de la categoría profesional. El ganador de la categoría amateur se hará acreedor a la grabación profesional del tema con el que participó.
 
 Se consideran menciones de honor MUNICIPALIDAD DE GUAYAQUIL, según el criterio del jurado.
 
-La participación implica aceptar todas las bases anteriormente expuestas. En caso de algún contratiempo, de diversa índole que, afecte la seriedad y organización del XVIII Festival de Artes en Presencia y al Aire Libre -Independencia de Guayaquil- 2017, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura, lo resolverá.
+La participación implica aceptar todas las bases anteriormente expuestas. En caso de algún contratiempo, de diversa índole que afecte la seriedad y organización del XVIII Festival de Artes en Presencia y al Aire Libre -Independencia de Guayaquil- 2017, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura lo resolverá.
 
 El rider técnico es el siguiente:
 * SONIDO DE SALA: 12 CABINAS SONORAS DE RANGO COMPLETO EAW KF850 (6 POR LADO SOBRE ANDAMIOS);
