@@ -6,7 +6,7 @@ featured: false
 featured-priority: 6
 listing-priority: 6
 dates: 11, 12 y 13 de Octubre
-place: Ágora Safari de la Plaza Rodolfo Baquerizo Moreno
+place: Plaza de la Salud del Malecón del Estero Salado
 ---
 Este año el concurso será en el género “TEATRO DE CALLE”, tendrá tema libre y se desarrollará de acuerdo con los siguientes aspectos:  
 
