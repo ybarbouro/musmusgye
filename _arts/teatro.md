@@ -29,7 +29,7 @@ Los organizadores informarán con anticipación la hora, el lugar y el día de p
 
 ### SOBRE LA PARTICIPACIÓN 
 
-El concurso  se desarrollará en el ágora Safari de la Plaza Rodolfo Baquerizo Moreno los días 11, 12 y 13 de octubre de 2017.  
+El concurso  se desarrollará en la Plaza de la Salud del Malecón del Estero Salado los días 11, 12 y 13 de octubre de 2017.  
 
 Los temas deberán ser de mínimo 15 y máximo 30 minutos  
 
