@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans|Oswald');
 @import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200');
-@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+@import url('https://fonts.googleapis.com/css?family=PT+Serif');
 
 html,body {
 	margin:0;
@@ -149,26 +149,27 @@ h3{
   margin:0 auto;
   max-width:960px;
   padding:0 10px}
-  
-div.rob {
-	font-family: 'Roboto Condensed', sans-serif;
-	font-size: 0.8rem;
+
+div.pts {
+	font-family: 'PT Serif', serif;
+	font-size: 1em;
 	font-weight: 100;
-	letter-spacing: 1px;
+	letter-spacing: 2px;
 	color:#aaa;
-} 
+}
 
-.rob > ul {
+.pts > ul {
 	list-style: none;
-} 
+	margin-left: -1px;
+}
 
-.rob > p {
-   max-width: 80%;
-   text-align: justify;
+.pts > p {
+   max-width: 90%;
+   text-align: left;
 }
 .cal {
-	margin: 10px;
-	padding: 10px;
+	margin: 0;
+	padding-left: 2em;
 }
 
 .cal > figure {
@@ -177,6 +178,9 @@ div.rob {
 
 img.shadow {
    max-width: 80%;
+	 float:right;
+	 margin-bottom: 2.5em;
+	 margin-right:2em;
    border-radius: 5px;
    -webkit-box-shadow: 6px 7px 13px -6px rgba(0,0,0,0.75);
    -moz-box-shadow: 6px 7px 13px -6px rgba(0,0,0,0.75);

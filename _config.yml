@@ -11,6 +11,8 @@ collections:
     output: true
   people:
     output: true
+  capsulas:
+    output: true
 
 defaults:
   - scope:
@@ -21,3 +23,7 @@ defaults:
       type: people
     values:
       layout: person
+  - scope:
+      type: capsulas
+    values:
+      layout: capsule
