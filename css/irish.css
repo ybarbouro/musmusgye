@@ -6,7 +6,8 @@ html,body {
 	margin:0;
 	padding:0;
 }
-html{
+
+html {
   line-height:1.15;
   -ms-text-size-adjust:100%;
   -webkit-text-size-adjust:100%;
@@ -15,9 +16,10 @@ html{
   text-align:center;
   }
 
-body{
+body {
   background: #131a22;
 }
+
 a{
   background-color:transparent;
   -webkit-text-decoration-skip:objects;
