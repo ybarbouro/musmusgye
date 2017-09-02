@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans|Oswald');
 @import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200');
-@import url('https://fonts.googleapis.com/css?family=PT+Serif');
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:300';
 
 html,body {
 	margin:0;
@@ -117,14 +117,18 @@ h3{
   height:0;
   overflow:hidden;
   padding-bottom:56.25%;
-  position:relative}
+  position:relative;
+}
+
 .flex-embed a,.flex-embed img{
   bottom:0;
   height:100%;
   left:0;
   position:absolute;
   top:0;
-  width:100%}
+  width:100%;
+}
+
 .flex-embed .play-btn{
   background:url(data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBkPSJNMjU2LDkyLjQ4MWM0NC40MzMsMCw4Ni4xOCwxNy4wNjgsMTE3LjU1Myw0OC4wNjRDNDA0Ljc5NCwxNzEuNDExLDQyMiwyMTIuNDEzLDQyMiwyNTUuOTk5cy0xNy4yMDYsODQuNTg4LTQ4LjQ0OCwxMTUuNDU1Yy0zMS4zNzIsMzAuOTk0LTczLjEyLDQ4LjA2NC0xMTcuNTUyLDQ4LjA2NHMtODYuMTc5LTE3LjA3LTExNy41NTItNDguMDY0QzEwNy4yMDYsMzQwLjU4Nyw5MCwyOTkuNTg1LDkwLDI1NS45OTlzMTcuMjA2LTg0LjU4OCw0OC40NDgtMTE1LjQ1M0MxNjkuODIxLDEwOS41NSwyMTEuNTY4LDkyLjQ4MSwyNTYsOTIuNDgxIE0yNTYsNTIuNDgxIGMtMTEzLjc3MSwwLTIwNiw5MS4xMTctMjA2LDIwMy41MThjMCwxMTIuMzk4LDkyLjIyOSwyMDMuNTIsMjA2LDIwMy41MmMxMTMuNzcyLDAsMjA2LTkxLjEyMSwyMDYtMjAzLjUyQzQ2MiwxNDMuNTk5LDM2OS43NzIsNTIuNDgxLDI1Niw1Mi40ODFMMjU2LDUyLjQ4MXogTTIwNi41NDQsMzU3LjE2MVYxNTkuODMzbDE2MC45MTksOTguNjY2TDIwNi41NDQsMzU3LjE2MXoiPjwvcGF0aD48L3N2Zz4K);
   height:150px;
@@ -151,10 +155,10 @@ h3{
   padding:0 10px}
 
 div.pts {
-	font-family: 'PT Serif', serif;
+	font-family: 'Source Code Pro', monospace;
 	font-size: 1em;
-	font-weight: 100;
-	letter-spacing: 2px;
+	font-weight: 300;
+	letter-spacing: 1px;
 	color:#aaa;
 }
 
