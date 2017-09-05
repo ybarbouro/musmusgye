@@ -9,6 +9,14 @@
 .article-mag-header{
   text-align: center;
 }
+
+
+@media only screen and (max-width:550px){
+.article-mag-hide {display:none;
+  }
+}
+
+
 @media (max-width: 520px) {
   .article-header h2 {
     font-size: 1.2rem;

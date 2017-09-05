@@ -1,12 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans|Oswald');
 @import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200');
-@import url('https://fonts.googleapis.com/css?family=PT+Serif');
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:300');
 
 html,body {
 	margin:0;
 	padding:0;
 }
-html{
+
+html {
   line-height:1.15;
   -ms-text-size-adjust:100%;
   -webkit-text-size-adjust:100%;
@@ -15,9 +16,10 @@ html{
   text-align:center;
   }
 
-body{
+body {
   background: #131a22;
 }
+
 a{
   background-color:transparent;
   -webkit-text-decoration-skip:objects;
@@ -117,14 +119,18 @@ h3{
   height:0;
   overflow:hidden;
   padding-bottom:56.25%;
-  position:relative}
+  position:relative;
+}
+
 .flex-embed a,.flex-embed img{
   bottom:0;
   height:100%;
   left:0;
   position:absolute;
   top:0;
-  width:100%}
+  width:100%;
+}
+
 .flex-embed .play-btn{
   background:url(data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBkPSJNMjU2LDkyLjQ4MWM0NC40MzMsMCw4Ni4xOCwxNy4wNjgsMTE3LjU1Myw0OC4wNjRDNDA0Ljc5NCwxNzEuNDExLDQyMiwyMTIuNDEzLDQyMiwyNTUuOTk5cy0xNy4yMDYsODQuNTg4LTQ4LjQ0OCwxMTUuNDU1Yy0zMS4zNzIsMzAuOTk0LTczLjEyLDQ4LjA2NC0xMTcuNTUyLDQ4LjA2NHMtODYuMTc5LTE3LjA3LTExNy41NTItNDguMDY0QzEwNy4yMDYsMzQwLjU4Nyw5MCwyOTkuNTg1LDkwLDI1NS45OTlzMTcuMjA2LTg0LjU4OCw0OC40NDgtMTE1LjQ1M0MxNjkuODIxLDEwOS41NSwyMTEuNTY4LDkyLjQ4MSwyNTYsOTIuNDgxIE0yNTYsNTIuNDgxIGMtMTEzLjc3MSwwLTIwNiw5MS4xMTctMjA2LDIwMy41MThjMCwxMTIuMzk4LDkyLjIyOSwyMDMuNTIsMjA2LDIwMy41MmMxMTMuNzcyLDAsMjA2LTkxLjEyMSwyMDYtMjAzLjUyQzQ2MiwxNDMuNTk5LDM2OS43NzIsNTIuNDgxLDI1Niw1Mi40ODFMMjU2LDUyLjQ4MXogTTIwNi41NDQsMzU3LjE2MVYxNTkuODMzbDE2MC45MTksOTguNjY2TDIwNi41NDQsMzU3LjE2MXoiPjwvcGF0aD48L3N2Zz4K);
   height:150px;
@@ -151,10 +157,9 @@ h3{
   padding:0 10px}
 
 div.pts {
-	font-family: 'PT Serif', serif;
-	font-size: 1em;
-	font-weight: 100;
-	letter-spacing: 2px;
+	font-family: 'Source Code Pro', monospace;
+	font-size: 0.9em;
+	font-weight: 300;
 	color:#aaa;
 }
 
@@ -178,7 +183,6 @@ div.pts {
 
 img.shadow {
    max-width: 80%;
-	 float:right;
 	 margin-bottom: 2.5em;
 	 margin-right:2em;
    border-radius: 5px;
@@ -281,10 +285,10 @@ h2.league-five{
   color:#E65100}
 .Icon{
   display:inline-block;
-  height:48px;
+  height:58px;
   margin:-3px 1px 0 0;
   vertical-align:middle;
-  width:48px}
+  width:58px}
 .Icon--github{
   background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjEgMTIxIj48ZyBmaWxsPSIjMTkxNzE3Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTYwLjUgMS42Yy0zMy4zIDAtNjAuNCAyNy02MC40IDYwLjQgMCAyNi43IDE3LjMgNDkuMyA0MS4zIDU3LjMgMyAuNiA0LjEtMS4zIDQuMS0yLjkgMC0xLjQtLjEtNi4yLS4xLTExLjItMTYuNyAzLjYtMjAuMy03LjItMjAuMy03LjItMi43LTctNi43LTguOC02LjctOC44LTUuNS0zLjcuNC0zLjcuNC0zLjcgNi4xLjQgOS4zIDYuMiA5LjMgNi4yIDUuNCA5LjIgMTQuMSA2LjYgMTcuNiA1IC41LTMuOSAyLjEtNi42IDMuOC04LjEtMTMuNC0xLjQtMjcuNS02LjYtMjcuNS0yOS44IDAtNi42IDIuNC0xMiA2LjItMTYuMi0uNi0xLjUtMi43LTcuNy42LTE2IDAgMCA1LjEtMS42IDE2LjYgNi4yIDQuOC0xLjMgMTAtMiAxNS4xLTJzMTAuMy43IDE1LjEgMmMxMS41LTcuOCAxNi42LTYuMiAxNi42LTYuMiAzLjMgOC4zIDEuMiAxNC41LjYgMTYgMy45IDQuMiA2LjIgOS42IDYuMiAxNi4yIDAgMjMuMi0xNC4xIDI4LjMtMjcuNSAyOS44IDIuMiAxLjkgNC4xIDUuNSA0LjEgMTEuMiAwIDguMS0uMSAxNC42LS4xIDE2LjYgMCAxLjYgMS4xIDMuNSA0LjEgMi45IDI0LTggNDEuMy0zMC42IDQxLjMtNTcuMyAwLTMzLjQtMjctNjAuNC02MC40LTYwLjR6Ii8+PHBhdGggZD0iTTIzIDg4LjNjLS4xLjMtLjYuNC0xIC4ycy0uNy0uNi0uNS0uOWMuMS0uMy42LS40IDEtLjJzLjYuNi41Ljl6bS0uOC0uNU0yNS40IDkxYy0uMy4zLS45LjEtMS4yLS4zLS40LS40LS41LTEtLjItMS4zLjMtLjMuOC0uMSAxLjIuMy41LjUuNSAxLjEuMiAxLjN6bS0uNS0uNk0yNy44IDk0LjVjLS40LjMtMSAwLTEuMy0uNS0uNC0uNS0uNC0xLjIgMC0xLjQuNC0uMyAxIDAgMS4zLjUuNC41LjQgMS4xIDAgMS40em0wIDBNMzEuMSA5Ny45Yy0uMy40LTEgLjMtMS42LS4yLS41LS41LS43LTEuMi0uMy0xLjUuMy0uNCAxLS4zIDEuNi4yLjUuNC42IDEuMS4zIDEuNXptMCAwTTM1LjYgOTkuOGMtLjEuNS0uOC43LTEuNS41LS43LS4yLTEuMS0uOC0xLTEuMi4xLS41LjgtLjcgMS41LS41LjcuMiAxLjEuNyAxIDEuMnptMCAwTTQwLjUgMTAwLjJjMCAuNS0uNi45LTEuMy45LS43IDAtMS4zLS40LTEuMy0uOXMuNi0uOSAxLjMtLjljLjcgMCAxLjMuNCAxLjMuOXptMCAwTTQ1LjEgOTkuNGMuMS41LS40IDEtMS4xIDEuMS0uNy4xLTEuMy0uMi0xLjQtLjctLjEtLjUuNC0xIDEuMS0xLjEuNy0uMSAxLjMuMiAxLjQuN3ptMCAwIi8+PC9nPjwvc3ZnPgo=)}
 .Icon--html5{
@@ -412,7 +416,6 @@ h2.league-five{
   background-color: #131a22;
   color:#fff;
   text-align:center;
-  padding:2em 0 0 0;
 }
 
 .site-section-video .content{
@@ -463,7 +466,7 @@ h2.league-five{
   .site-promo{
     padding:3em 0}
   .site-section{
-    padding:0 1em 4em}
+    padding:2.7em 1em 4em}
 }
 @media only screen and (max-width:600px){
   html{
@@ -484,10 +487,14 @@ h2.league-five{
     font-size:13px}
 .grid-cell-left {
         width:100%}
+.site-section{
+			  padding:2.7em 1em 4em}
 }
 @media only screen and (max-width:320px){
   .grid-cell-left {
           width:100%}
+	.site-section{
+			     padding:2.7em 1em 4em}
 }
 @media print{
   *{

@@ -416,7 +416,6 @@ h2.league-five{
   background-color: #131a22;
   color:#fff;
   text-align:center;
-  padding:2em 0 0 0;
 }
 
 .site-section-video .content{
@@ -467,7 +466,7 @@ h2.league-five{
   .site-promo{
     padding:3em 0}
   .site-section{
-    padding:0 1em 4em}
+    padding:2.7em 1em 4em}
 }
 @media only screen and (max-width:600px){
   html{
@@ -488,10 +487,14 @@ h2.league-five{
     font-size:13px}
 .grid-cell-left {
         width:100%}
+.site-section{
+			  padding:2.7em 1em 4em}
 }
 @media only screen and (max-width:320px){
   .grid-cell-left {
           width:100%}
+	.site-section{
+			     padding:2.7em 1em 4em}
 }
 @media print{
   *{
