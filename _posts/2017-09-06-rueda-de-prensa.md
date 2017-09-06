@@ -20,4 +20,4 @@ Los concursos de pintura y dibujo al aire libre, las categorías que convocan la
 
 En el lanzamiento de las bases participaron artistas y modelos con cuerpos pintados, una actividad adscrita al Faal. **Érika Poveda**, promotora de la Dirección de Vinculación con la Comunidad, quien trabaja con grupos vulnerables en la prevención del consumo de drogas, indicó que cinco grupos juveniles de los consejos barriales planean inscribirse en concursos como danza y teatro.  
 
-<small>Este contenido ha sido publicado originalmente por Diario EL COMERCIO en la siguiente dirección: [www.elcomercio.com](http://www.elcomercio.com/tendencias/festival-artes-airelibre-esterosalado-guayaquil.html)</small>
+<small>Este contenido ha sido publicado originalmente por Diario EL COMERCIO en la siguiente dirección: [www.elcomercio.com](https://www.elcomercio.com/tendencias/festival-artes-airelibre-esterosalado-guayaquil.html)</small>
