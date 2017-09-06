@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Festival de Artes al Aire libre se trasladará al Estero Salado en Guayaquil
-date: 2017-09-06 10:00:00
+date: 2017-09-06 17:00:00
 comment: Alexander García, El Comercio
 image: "https://www.elcomercio.com/files/article_main/uploads/2017/09/05/59af0ae98ec13.jpeg"
 ffw: Leer más
