@@ -35,9 +35,7 @@
 
 </div><!-- end of container -->
 
-<figure class="full-width">
-  <img class="wide" src="/img/faal-09.jpg">
-</figure>
+{% include slider.html %}
 
 <figure class='full-width' style="margin-bottom:0 !important;">
   <img class="wide" src="/img/faal-tess.svg">
@@ -101,6 +99,16 @@
         <script src="/js/wow.js"></script>
         <script src="/js/BigPicture.js"></script>
         <script src="/js/BigPicture-page.js"></script>
+        <script src="/js/jquery.bxslider.min.js"></script>
+  <script>
+          $(document).ready(function(){
+            $('.bxslider').bxSlider({
+        mode: 'fade',
+        auto: true
+
+      	});
+          });
+  </script>
 
         <script>
         wow = new WOW(
