@@ -1,7 +1,7 @@
 ---
 title: Malvinas por sus protagonistas
 object-id: juan-cruz
-date:   2014-08-29 00:00:00
+date:   2017-08-29 00:00:00
 day: 05
 month: SEP
 time: 17h00
