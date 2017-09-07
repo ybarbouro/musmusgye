@@ -1,7 +1,7 @@
 ---
 title: Rueda de prensa
 object-id: juan-cruz
-date:   2017-08-28 00:00:00
+listing-priority:  3
 day: 05
 month: SEP
 time: 11h00
