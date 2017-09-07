@@ -1,7 +1,7 @@
 ---
 title: Rueda de prensa
 object-id: arte-pasion
-date:   2017-09-06 00:00:00
+listing-priority: 1
 day: 06
 month: SEP
 time: 09h00 -17h00
