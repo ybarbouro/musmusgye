@@ -161,6 +161,7 @@ figcaption {
    font-size: 0.5em;
    font-style: normal;
    color: #1a1a1a;
+}
 
 span.suscrib{
   letter-spacing:3px;
@@ -168,7 +169,6 @@ span.suscrib{
   font-size: 1.5em;
   line-height: 2em;
 }
-
 
 
 .flex-img {
