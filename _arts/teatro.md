@@ -49,7 +49,7 @@ a) Nombre del artista o agrupación y dirección domiciliaria. Nombre, teléfono
 
 b) Cédula de cada uno de los participantes.  
 
-c) En el caso de los profesionales, deberán incluir su currículo artístico. En el caso de extranjeros, deberán presentar soportes de prensa, fotografías que certifiquen un tiempo mínimo de 3 años de trayectoria en el país.
+c) En el caso de los profesionales, deberán incluir su currículo artístico. En el caso de extranjeros, deberán presentar soportes de prensa, fotografías que certifiquen un tiempo mínimo de 2 años de trayectoria en el país.
  
 ### SOBRE EL JURADO  
 
