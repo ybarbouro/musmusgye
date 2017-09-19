@@ -40,7 +40,7 @@ a) Nombre y dirección domiciliaria del artista o representante. Nombre, teléfo
 
 b) Dos fotos tamaño carnet del responsable, que se utilizarán una para la credencial y otra para el formulario de inscripción. Una foto tamaño carnet para la credencial.
 
-c) Los extranjeros deberán cargar soportes de prensa y fotografías que certifiquen un tiempo mínimo de 3 años de trayectoria en el país.
+c) Los extranjeros deberán cargar soportes de prensa y fotografías que certifiquen un tiempo mínimo de 2 años de trayectoria en el país.
 
 e) Los inscritos deberán cargar la obra participante (grabada en un CD / DVD) y un breve marco referencial que no exceda las 150 palabras (El marco referencial impreso en una hoja A4 y con su respectiva copia en Word en el mismo CD / DVD).
 
