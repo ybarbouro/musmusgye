@@ -52,7 +52,7 @@ a) Nombre del artista o agrupación y dirección domiciliaria. Nombre, teléfono
 
 b) Cargar una foto del responsable. Cargar copia de las cédulas de cada miembro del grupo para la credencial.
 
-c) En el caso de los profesionales, deberán cargar el currículo artístico. En el caso de extranjeros, deberán cargar soportes de prensa, fotografías que certifiquen un tiempo mínimo de 3 años de trayectoria en el país.
+c) En el caso de los profesionales, deberán cargar el currículo artístico. En el caso de extranjeros, deberán cargar soportes de prensa, fotografías que certifiquen un tiempo mínimo de 2 años de trayectoria en el país.
 
 ### SOBRE EL JURADO
 El jurado calificará principalmente TALENTO, por lo que podrán participar en cualquier género musical, y será medido bajo los siguientes parámetros:
