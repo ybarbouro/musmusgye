@@ -40,7 +40,7 @@ a) Nombre del artista y dirección domiciliaria. Nombre, teléfonos (convenciona
 
 b) Foto del artista.  
 
-c) En el caso de extranjeros, deberán cargar soportes de prensa, fotografías que certifiquen un tiempo mínimo de 3 años de trayectoria en el país.  
+c) En el caso de extranjeros, deberán cargar soportes de prensa, fotografías que certifiquen un tiempo mínimo de 2 años de trayectoria en el país.  
 
 d) Cargar los textos elegidos con el copyright correspondiente, en caso de que sea el caso.  
 
