@@ -32,10 +32,10 @@ Homenaje a los artistas Liliam Suárez y Jacinto Moreno
 
 **Lugar:** Calle Panamá
 
-#### <span style="color:#BADA55;"><i class="fa fa-star fa-lg star"></i> 02 - 18</span>
+### <i class="fa fa-star fa-lg star"></i> 02 - 18
 ##### XVIII Festival de Artes al Aire Libre - FAAL
 
-**Organiza:** Dirección de Cultura de la M. I. Municipalidad de Guayquil.
+**Organiza:** Dirección de Cultura de la M. I. Municipalidad de Guayaquil.
 
 **Lugares:** Sitios emblemáticos de la ciudad como el Malecón del Estero Salado, el Parque Infantil y Malecón de la Ferroviaria, Parque Lineal del Estero Salado y Malecón 2000.
 
