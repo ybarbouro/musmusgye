@@ -11,5 +11,5 @@ ext-url: "/capsulas/"
 ---
 
 ## <span style="color:#666;">&laquo;El Ruiseñor de América&raquo;</span>
-<u>Exposición de discos de acetato / vinilo.</u> Coleccionistas de Ecuador, Colombia, Perú, venezuela, Panamá, Costa Rica, México y Estados Unidos estarán exponiendo sus maravillosas colecciones.
-<u>Show artístico / tertulia</u> a cargo de <b>&laquo;Dúo Idilio&raquo; Mimí Ganchoso, Y Pablo Gálvez.</b>
+<u>Exposición de discos de acetato / vinilo</u>. Coleccionistas de Ecuador, Colombia, Perú, Venezuela, Panamá, Costa Rica, México y Estados Unidos estarán exponiendo sus maravillosas colecciones.
+<u>Show artístico / tertulia</u> a cargo de <b>&laquo;Dúo Idilio&raquo; Mimí Ganchoso, y Pablo Gálvez.</b>
