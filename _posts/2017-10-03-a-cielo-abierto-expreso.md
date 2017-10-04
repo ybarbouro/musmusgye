@@ -30,4 +30,4 @@ A diferencia de los otros artistas, a **José de la Rosa Hernández** le preocup
 
 **Redacción Expreso**
 
-<small>Fotografía: Amelia Andrade / Expreso. <br>Este contenido ha sido publicado originalmente por Diario EXPRESO el 03/10/2017 en la siguiente dirección: [www.eltelegrafo.com.ec](http://www.expreso.ec/guayaquil/guayaquil-arte-faal-malecondelsalado-eventos-EA1741547)</small>
+<small>Fotografía: Amelia Andrade / Expreso. <br>Este contenido ha sido publicado originalmente por Diario EXPRESO el 03/10/2017 en la siguiente dirección: [www.expreso.ec](http://www.expreso.ec/guayaquil/guayaquil-arte-faal-malecondelsalado-eventos-EA1741547)</small>
