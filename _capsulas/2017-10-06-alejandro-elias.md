@@ -10,5 +10,5 @@ image: "https://res.cloudinary.com/magnvs/image/upload/c_scale,w_2111/v150730981
 ext-url: "/capsulas/"
 ---
 
-<u>Exposición de artes plásticas</u> que incluye 22 dibujos y 3 pinturas del artista &laquo;Alejandro Elíasr&raquo; quien regrea a exponer en el Museo Municipal 15 años después.  
-El artísta invita al público a que asista y visualice un proceso de observación y contemplación del dibujo académico. La exhibición estar abierta al público hasta el 31 de Octubre, de martes a sábado de 09h00 a 17h30. 
+<u>Exposición de artes plásticas</u> que incluye 22 dibujos y 3 pinturas del artista &laquo;Alejandro Elías&raquo; quien regresa a exponer en el Museo Municipal 15 años después.  
+El artísta invita al público a que asista y visualice un proceso de observación y contemplación del dibujo académico. La exhibición estará abierta al público hasta el 31 de octubre, de martes a sábado de 09h00 a 17h30. 
