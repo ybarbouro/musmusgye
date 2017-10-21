@@ -38,23 +38,22 @@
 
 
         <div class="site-section-head">
+          <div class="container" style="max-width: 775px;">
           <section>
+
             <article>
+              <h1>{{ page.title }}</h1>
 
               {% if page.image %}
-              <img style="border-radius:7px;" src="{{ page.image }}" alt="Fotografía de {{ page.title }}">
+              <img style="border-radius:7px;margin:20px 0 60px 0;" src="{{ page.image }}" alt="Fotografía de {{ page.title }}">
               {% endif %}
-
-            </article>
-            <article>
-
-              <h1>{{ page.title }}</h1>
 
               {{ content }}
 
             </article>
           </section>
         </div>
+      </div>
 
 {% include logos.html %}
 
