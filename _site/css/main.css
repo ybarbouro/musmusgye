@@ -271,7 +271,7 @@ span.suscrib{
 
  @media only screen and (max-width:600px){
  .card3 {
- grid-column: 1 / 3;
+ grid-column: 1 / 2;
 
  }
 
@@ -281,7 +281,7 @@ span.suscrib{
 
  }
  .cardy {
- grid-column: 3 / 6;
+ grid-column: 3 / 4;
 
  }
 

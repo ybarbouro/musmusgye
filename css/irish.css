@@ -181,15 +181,23 @@ div.pts {
    max-width: 100%;
  }
 
-img.shadow {
-   max-width: 80%;
-	 margin-bottom: 2.5em;
-	 margin-right:2em;
-   border-radius: 5px;
+img.rounds {
+   max-width: 90%;
+	 margin-bottom: 0.5em;
+   border-radius: 50%;
    -webkit-box-shadow: 6px 7px 13px -6px rgba(0,0,0,0.75);
    -moz-box-shadow: 6px 7px 13px -6px rgba(0,0,0,0.75);
    box-shadow: 6px 7px 13px -6px rgba(0,0,0,0.75);
  }
+
+ img.shadow {
+    max-width: 90%;
+ 	 margin-bottom: 0.5em;
+    border-radius: 15px;
+    -webkit-box-shadow: 6px 7px 13px -6px rgba(0,0,0,0.75);
+    -moz-box-shadow: 6px 7px 13px -6px rgba(0,0,0,0.75);
+    box-shadow: 6px 7px 13px -6px rgba(0,0,0,0.75);
+  }
 
 h2.league {
   font-family:"Oswald", sans-serif;
