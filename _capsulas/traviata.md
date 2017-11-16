@@ -11,6 +11,6 @@ ext-url: "/capsulas/"
 ---
 
 Un director de orquesta busca dar el mejor concierto pero todo le causa problemas. Con la ayuda del público creará la mejor orquesta sinfónica. Un espectáculo sin palabras manejado
-con un humor que puede ser captado a nivel mundial sin problemas de idiomas a través de la comedia física.
+con un humor que puede ser captado sin problemas de idiomas.
 
 <u>Teatro experimental</u> con Michy Zelaya.
