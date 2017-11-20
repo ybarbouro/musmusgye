@@ -1,7 +1,7 @@
 ---
 title: La traviata
 object-id: traviata
-listing-priority: 3
+listing-priority: 7
 day: 18
 month: NOV
 time: 19h00
