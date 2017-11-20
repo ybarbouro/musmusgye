@@ -2,7 +2,7 @@
 title: Stand up
 object-id: standup
 listing-priority: 2
-day: 20·21
+day: 20
 month: NOV
 time: 19h00
 place: Auditorio del Museo Municipal
