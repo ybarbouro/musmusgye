@@ -10,6 +10,6 @@ image: "https://res.cloudinary.com/magnvs/image/upload/v1511154656/cast_olaacj.j
 ext-url: "/capsulas/"
 ---
 
-Basado en el libro Homonimo de Enrique Páez. En casa de Esther y Juanjo han comprado un emisor-receptor para oír los lloros de la hermana pequeña desde una habitación a la otra. El aparato provoca interferencia y Esther comienza a escuchar unas inquietantes conversaciones telefónicas.
+Basado en el libro homónimo de Enrique Páez. En casa de Esther y Juanjo han comprado un emisor-receptor para oír los lloros de la hermana pequeña desde una habitación a la otra. El aparato provoca interferencia y Esther comienza a escuchar unas inquietantes conversaciones telefónicas.
 
 <u>Comedia</u> Grupo Cast.
