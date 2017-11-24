@@ -1,9 +1,9 @@
 ---
-title: Cherry me dice cosas que no quyiero saber
+title: Cherry me dice cosas que no quiero saber
 object-id: cherrez
 listing-priority: 1
-day: 16 - 09
-month: NOV - DIC
+day: 16
+month: NOV
 time: 09h00 - 17H30
 place: Sala de Artes Temporales del Museo Municipal
 image: "https://res.cloudinary.com/magnvs/image/upload/v1510288185/cherry_hxmsg6.jpg"
