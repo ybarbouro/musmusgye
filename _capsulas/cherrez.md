@@ -10,6 +10,6 @@ image: "https://res.cloudinary.com/magnvs/image/upload/v1510288185/cherry_hxmsg6
 ext-url: "/capsulas/"
 ---
 
-Exposición individual de Gabriela Chérrez con la curaduría de Ana Rosa Valdez.  
+Exposición individual de Gabriela Chérrez que celebra el aniversario de su obra ganadora del Salón de Julio 2007 &laquo;Ardo por un semental que me llene toda&raquo;. La muestra propone una sutil exploración por los mundos íntimos de la artista para descubrir, junto a ella, los conflictos que supone la reinvención de los afectos, el despliegue de la sexualidad y la búsqueda de una nueva feminidad a través del arte, el humor y la crítica. La exposición permanecerá abierta hasta el 9 de diciembre de 2017. 
 
-La muestra permace abierta desde el 16 de noviembre a las 18H00 hasta el 9 de diciembre de 2017, de martes de sábados de 09h00 a 17h30.
+<u>Curadora del proyecto</u>: Ana Rosa Valdez.
