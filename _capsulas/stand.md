@@ -1,7 +1,7 @@
 ---
 title: Stand up
 object-id: standup
-listing-priority: 2
+listing-priority: 4
 day: 20 y 21
 month: NOV
 time: 19h00
