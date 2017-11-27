@@ -170,6 +170,13 @@ span.suscrib{
   line-height: 1.3em;
 }
 
+span.suscribing{
+  letter-spacing:2px;
+  font-weight: 500;
+  font-size: 1.3em;
+  line-height: 1em;
+  color:#002c6a;
+}
 
 .flex-img {
   margin: auto;
