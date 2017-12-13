@@ -1,7 +1,7 @@
 ---
 title: II Reunión Mundial de Coleccionistas Musicales Julio Jaramillo
 object-id: julio-jaramillo
-listing-priority: 19
+listing-priority: 25
 day: 30
 month: SEP
 time: 09h00-19h00

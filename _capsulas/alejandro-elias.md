@@ -1,7 +1,7 @@
 ---
 title: La transición del dibujo a la pintura
 object-id: alejandro-elias
-listing-priority: 14
+listing-priority: 21
 day: 19
 month: OCT
 time: 18h00 Inauguración

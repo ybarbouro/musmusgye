@@ -1,7 +1,7 @@
 ---
 title: Imaginarios convergentes
 object-id: imaginarios
-listing-priority: 17
+listing-priority: 23
 day: 14
 month: SEP
 time: 09h00-17h00
