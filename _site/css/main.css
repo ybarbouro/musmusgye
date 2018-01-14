@@ -153,7 +153,7 @@ img.wide {
   letter-spacing:2px;
   margin-bottom: 0;
   padding-top: 10px;
-  padding-bottom: 0;
+  padding-bottom: 20px;
 }
 
 figcaption {
@@ -230,6 +230,15 @@ span.suscribing{
        grid-row: 1 / 2;
    }
 
+   .card11 {
+       grid-column: 1 / 4;
+       grid-row: 1 / 2;
+   }
+
+   .card22 {
+       grid-column: 4;
+       grid-row: 1;
+   }
    .card3 {
      grid-column: 1;
      grid-row: 2;
@@ -249,6 +258,12 @@ span.suscribing{
 
    .cardz {
      grid-column: 4;
+     grid-row: 2 ;
+
+   }
+
+   .cardz-1 {
+     grid-column: 3 / 5;
      grid-row: 2 ;
 
    }
