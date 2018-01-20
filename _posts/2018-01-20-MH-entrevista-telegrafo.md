@@ -1,11 +1,12 @@
 ---
 layout: post
-title: &laquo;No podemos dejar a Guayaquil a la deriva por un ‘refrescar’ generacional&raquo;
+title: No podemos dejar a Guayaquil a la deriva por un ‘refrescar’ generacional
 date: 2019-01-20 00:00:00
 comment: Jessica Zambrano Alvarado, El Telégrafo
 image: "https://res.cloudinary.com/magnvs/image/upload/v1516473144/MH-telegrafo_bwhvor.jpg"
 ffw: Leer más
----
+---  
+
 Lleva 26 años en el cargo y dice que uno de sus principales enfoques de trabajo ha sido recuperar la identidad de la ciudad a través de la publicación de su historia y aproximaciones a distintas manifestaciones culturales. El arquitecto Melvin Hoyos es director de Cultura y Promoción Cívica del Municipio de Guayaquil desde 1992. Tiene en el cargo el mismo tiempo que llevan las dos alcaldías socialcristianas de la ciudad. Como cabeza de dicha dirección está a cargo de la gestión del Museo Municipal y la Biblioteca.  
 
 Dice haber recibido la Biblioteca Municipal con un faltante de 17.000 libros, tras las alcaldía de Elsa Bucaram y Harry Soria (1988-1992); y el Museo con las paredes desgastadas porque asegura que “raspaban todo lo dorado para ver si era oro y llevárselo”; además de un inventario de objetos desaparecidos que nunca retornaron a la reserva.  
