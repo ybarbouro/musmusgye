@@ -1,7 +1,7 @@
 ---
 layout: post
 title: No podemos dejar a Guayaquil a la deriva por un ‘refrescar’ generacional
-date: 2019-01-20 00:00:00
+date: 2018-01-20 00:00:00
 comment: Jessica Zambrano Alvarado, El Telégrafo
 image: "https://res.cloudinary.com/magnvs/image/upload/v1516473144/MH-telegrafo_bwhvor.jpg"
 ffw: Leer más
