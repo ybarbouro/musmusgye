@@ -292,27 +292,38 @@ span.suscribing{
 
 
  @media only screen and (max-width:600px){
- .card3 {
- grid-column: 1 / 2;
-
- }
-
- .cardx {
- display:none;
- grid-column: 1;
-
- }
- .cardy {
- grid-column: 3 / 4;
-
- }
-
- .cardz {
- display:none;
- grid-column: 3;
-
- }
-
+ .cards {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 10px;
+    grid-auto-flow: row;
+    }
+  .card1 {
+    grid-column:1;
+    grid-row:1;
+    }
+    .card11 {
+    grid-column:1;
+    grid-row:2;   
+    }
+    .card22 {
+    grid-column:1;
+    grid-row: 3;   
+    }
+     .cardz-1 {
+    grid-column:1;
+    grid-row: 4;   
+    }
+     .cardx {
+    grid-column:1;
+    grid-row: 5;   
+    }
+    .card3, .cardy, .cardz {
+    display:none;   
+    }
  }
 
 /* ==========================================================================
