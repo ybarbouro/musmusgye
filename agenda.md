@@ -10,7 +10,7 @@ image: "https://res.cloudinary.com/magnvs/image/upload/v1503461559/faal-04_gfzmv
 
 **Lugar:** Salas de Arte Contemporáneo y Polivalente del Museo Municipal, Sucre entre Chile y Pedro Carbo.
 
-#### <i class="fa fa-star fa-lg star"></i> Jueves 01   20h00
+#### <i class="fa fa-star fa-lg star"></i> Jueves 01 - 20h00
 ##### Festival Artístico Japonés
 La noche contará con un concierto de música tradicional japonesa y acompañado de una presentación de danza típica.
 
