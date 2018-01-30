@@ -17,7 +17,7 @@ También como es natural, fueron a darle la bienvenida los Drs. Kendall, Lebredo
 
 Eran las 2 y 40 cuando el Dr. Noguchi y sus acompañantes desembarcaron por el muelle del vapor San Pablo, dirigiéndose, acto continuo al hotel Tívoli, donde se le había preparado alojamiento.
 
-El Dr. Noguchi ha venido con sus ayudantes Srs. Milton Briggs Wiley y Charles E. Renlow y sus auxiliares Mary Anita Wey, Augusta Rather y Vena E. de Richemond; y si tan renombrado bactereólogo demoró su venida a Guayaquil, ello obedeció a que de Nueva York No salió junto con la otra comisión sino únicamente el 27 de junio próximo pasado, que se embarcó en dicho puerto.
+El Dr. Noguchi ha venido con sus ayudantes Srs. Milton Briggs Wiley y Charles E. Renlow y sus auxiliares Mary Anita Wey, Augusta Rather y Vena E. de Richemond; y si tan renombrado bactereólogo demoró su venida a Guayaquil, ello obedeció a que de Nueva York no salió junto con la otra comisión sino únicamente el 27 de junio próximo pasado, que se embarcó en dicho puerto.
 
 Ha traído dos jaulas de animales para hacer sus experimentos de Laboratorio, y desde hoy comenzará a visitar los Lazaretos y Hospitales de la ciudad.
 
