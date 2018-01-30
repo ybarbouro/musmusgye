@@ -35,7 +35,7 @@ La exposición estará abierta al pública hasta el 31 de marzo, de martes a sá
 **Lugar:** Sala de Artes Temporales del Museo Municipal, Sucre entre Chile y Pedro Carbo.
 
 
-#### <i class="fa fa-star fa-lg star"></i>  Viernes 02 -  18h00
+#### <i class="fa fa-star fa-lg star"></i>  Viernes 02 -  19h00
 ##### Elección Reina del Carnaval de Guayaquil.
 19 candidatas competirán por el título de Reina del Carnaval de Guayaquil. Las ganadoras de este certamen serán parte del desfile ‘Guayaquil es mi Destino en Carnaval’ que se realizará el sábado 10 de febrero.
 
@@ -43,114 +43,112 @@ La exposición estará abierta al pública hasta el 31 de marzo, de martes a sá
 
 **Lugar:** Plaza Rodolfo Baquerizo Moreno, Malecón del Estero Salado
 
-#### <i class="fa fa-star fa-lg star"></i> Jueves 09 - 18h00
-##### Presentación de la obra “Un parque para todos”
-Publicación del Programa Editorial Municipal de la autoría de la Arq. Sandra Esparsa.
+#### <i class="fa fa-star fa-lg star"></i> Sábado 03 - 09h00
+##### Liderazgo, Motivación y trabajo en equipo a las personas discapacitadas
 
-**Lugar:** Salón de Honor del Palacio Municipal.
+**Organiza:**   Red de Apoyo Familiar para la Inclusión.  
+
+**Lugar:** Salón Pedro Carbo, Biblioteca Municipal.
 
 
-#### <i class="fa fa-star fa-lg star"></i> Viernes 10 -  10h30
-##### Charla sobre la relación intercultural Guayaquil y Cuenca.
-Conferencista Lender Torres.
+#### <i class="fa fa-star fa-lg star"></i> 06 - 07 / 19h00
+##### Homenaje a Julio Jaramillo
+Exposición de fotografías y discografía. Charla - Conferencia.
 
-**Organiza:** Programa  Primicias, Arte, Cultura y Turismo de Radio San Francisco.
-
-**Lugar:** Salón de Actos “Pedro Carbo”, Biblioteca Municipal.
-
-#### <i class="fa fa-star fa-lg star"></i> Viernes 10 -  16h00
-##### Conferencia pública “ El perdón”
-Dr. Jose Miguel Flores Varas.
-
-**Lugar:** Salón de Actos “Pedro Carbo”, Biblioteca Municipal.
-
-### <i class="fa fa-star fa-lg star"></i> 10 - 23 (19h00)
-##### &laquo;TEATROMUESTRAS&raquo; VIII edición.
-
-**Organiza:** Dirección de Cultura.
+**Organiza:** Ab. Marcos Medina.
 
 **Lugar:** Auditorio del Museo Municipal. Sucre entre Chile y Pedro Carbo.
 
-#### <i class="fa fa-star fa-lg star"></i> Sábado 11 - 11h00
-##### Concierto al aire libre de la Orquesta de Cámara del Museo Municipal
+#### <i class="fa fa-star fa-lg star"></i> Miércoles 07 -  18h00
+##### Presentación del cómic “Barcelona heroico”
+Obar de la autoría de Otto Blacio, Carlos Toala y Andrés Toala.
 
-**Organiza:** Dirección de Cultura.
+**Lugar:** Salón de Actos “Pedro Carbo”, Biblioteca Municipal.
 
-**Lugar:** Parque Seminario.
+#### <i class="fa fa-star fa-lg star"></i> Miércoles 07 -  19h00
+##### Elección del mejor traje típico Miss Ecuador 2018
 
-#### <i class="fa fa-star fa-lg star"></i> Sábado 11 - 18h00
-##### “Atardecer en el Estero”
-Concierto de Boleros y Música Argentina que ofrece la **Orquesta Filarmónica de Guayaquil** dirigida por el maestro **David Harutyunyan**. Con la participación especial de los artistas: *Patricia Gonzalez*, el Maestro *Carlos Buono* y el Profesor *Oscar Mangione*.
+**Lugar:** Centro de Convenciones de Guayaquil.
 
-**Lugar:** Parque Lineal, Plaza Armando Romero Rodas.
+#### <i class="fa fa-star fa-lg star"></i> Jueves 08 - 18h30
+##### El arte visual de la Décimo Quinta Edición de Chine Chiro
+Presentación de cuatro cortometrajes.
 
-#### <i class="fa fa-star fa-lg star"></i> Domingo 12 - 11h00
-##### “El mestizaje Latinoamericano”
+**Organiza:** Estudiantes de la Universidad Católica de Santiago de Guayaquil.
 
-Tertulia musical de la Unidad Educativa Bilingüe Steiner .
+**Lugar:** Salón de Actos “Pedro Carbo”, Biblioteca Municipal.
 
-**Lugar:** Auditorio Nicasio Safadi, Museo de Julio Jaramillo, Puerto Santa Ana.
+#### <i class="fa fa-star fa-lg star"></i> Viernes 09 - 18h30
+##### Homenaje 40 años. Tributo a Julio Jaramillo
+Romería: 09h00 / Tertulia Café Musical: 17h00 Casa de la Cultura.
 
-#### <i class="fa fa-star fa-lg star"></i> 13 - 24 (09h00 a 17h00)
-##### Exposición “Escultura elemental”
+**Organiza:** Asociación Cultural Cerro Santa Ana / Grupo Cultural Julio Jaramillo  
 
-**Organiza:** Proyecto de Vinculación Cultural dirigido por Andy Fierro.
+**Lugar:** Casa de la Cultura.
 
-**Lugar:** Hall planta alta de la Biblioteca Municipal, 10 de Agosto y Chile.
+#### <i class="fa fa-star fa-lg star"></i> Viernes 09 - 09h00
+##### Concierto de grado de las especializaciones de canto del Conservatorio Antonio Neumane
 
-#### <i class="fa fa-star fa-lg star"></i> 16 Nov. - 09 Dic.
-##### Cherry me dice cosas que no quiero saber
-Exposición de Gabriela Cherrez - Inauguración: 16 Nov. 18h00.
+**Lugar:** Auditorio del Museo Municipal de Guayaquil, Sucre entre Chile y Pedro Carbo.
 
-**Lugar:** Sala de Artes Temporales del Museo Municipal de Guayaquil.
+#### <i class="fa fa-star fa-lg star"></i> Viernes 09 - 14h00
+##### Conversatorio y Exposición de Julio Jaramillo
+Conversatorio y Exposición de 300 LP en homenaje al XL Aniversario del fallecimiento del inmortal artista guayaquileño Julio Jaramillo
 
-#### <i class="fa fa-star fa-lg star"></i> Jueves 16 - 10h00
-##### Charla con las agrupaciones que forman parte de la mesa de concertación del VIH.
+**Lugar:** Salón de actos "Pedro Carbo" de la Biblioteca Municipal.
 
-**Organiza:** Dirección de Acción Social y Educación, Dase.
+#### <i class="fa fa-star fa-lg star"></i> 09 - 10  / 16h00
+##### Conciertos para conmemorar 40 años del fallecimiento de Julio Jaramillo
 
-**Lugar:** Salón de actos "Pedro Carbo" de la Biblioteca Municipal, 10 de Agosto y Chile.
+**Lugar:** Teatro José de la Cuadra.
 
+#### <i class="fa fa-star fa-lg star"></i> Viernes 09 - 18h00
+##### Concierto “Cultivando sueños”
 
-#### <i class="fa fa-star fa-lg star"></i> Jueves 16 - 18h00
-##### Presentación del poemario “Otoño” 
-Autoría de la Lcda. María Antonieta Rivadeneira.
+**Organiza:** Prof. María Delgado Montoya   .
 
-**Organiza:** SIPEA Sociedad Internacional, Capítulo Ecuador.
+**Lugar:** Auditorio del Museo Municipal de Guayaquil, Sucre entre Chile y Pedro Carbo.
 
-**Lugar:** Salón de actos "Pedro Carbo" de la Biblioteca Municipal, 10 de Agosto y Chile.
+#### <i class="fa fa-star fa-lg star"></i> Sábado 10 - 16h00
+#####  Desfile ‘Guayaquil es mi destino en Carnaval’   
+El desfile ‘Guayaquil es mi destino en Carnaval’  se llenará de color con el paso de seis carros alegóricos decorados con diferentes temáticas carnavaleras.
 
-#### <i class="fa fa-star fa-lg star"></i> Viernes 17 - 21h00
-##### TABLAO BILIRRUBINA
-Tributo flamenco a Juan Luis Guerra.
+**Organiza:** Empresa Pública Municipal de Turismo y Promoción Cívica.
 
-**Organiza:** Ana María Adum Gilbert.
+**Lugar:**  Av. 9 de Octubre desde la calle Lorenzo de Garaicoa hasta la Av. Malecón Simón Bolívar.
 
-**Lugar:** Teatro Centro de Arte.
+#### <i class="fa fa-star fa-lg star"></i> Sábado 10 - 18h00
+##### Festival posterior al desfile de Carnaval
 
-#### <i class="fa fa-star fa-lg star"></i> Domingo 19 -  11h00
-##### Tertulia “Voces y armonías”.
-Coro María Callas
+**Organiza:** Empresa Pública Municipal de Turismo y Promoción Cívica.
 
-**Lugar:** Plaza Pilsener, Puerto Santa Ana.
+**Lugar:** Plaza de San Fancisco, Av. 9 de Octubre y Pedro Carbo.
 
-#### <i class="fa fa-star fa-lg star"></i> Jueves 23 - 14h00
-##### Exposición Guía del servidor público.
-Dirigida a funcionarios municipales a cargo del Dr. Franklin Moreno Quezada, Dirección de Recursos Humanos.
+#### <i class="fa fa-star fa-lg star"></i> Domingo 11 -  11h00
+##### Show artístico musical carnavelero
+Participan: La sensacional Sanyi, Orquesta Eddy Conga Internacional, Sol y Kata – Homenaje a la Cumbia Colombiana, Festival del Son con Héctor Napolitano.
 
-**Lugar:** Salón de actos "Pedro Carbo" de la Biblioteca Municipal, 10 de Agosto y Chile.
+**Lugar:** Playa Varadero, Posorja.
 
-#### <i class="fa fa-star fa-lg star"></i> Viernes 24 -  19h00
-##### Presentación del Coro de la Universidad Laica Vicente Rocafuerte.
-Intervención de piano, zarzuela, música de cámara  coral y repertorio latinoamericano.
+#### <i class="fa fa-star fa-lg star"></i> Domingo 11 -  17h00
+##### Shows artísticos en el Malecón 2000 
+Tres tarimas pondrán el sabor musical a la tarde. Artistas como Alleguez Son, Sanyi, Nathalie Silvana ,entre otros.  
 
-**Lugar:** Auditorio del Museo Municipal de Guayaquil.
+**Organiza:** Empresa Pública Municipal de Turismo y Promoción Cívica.  
 
-#### <i class="fa fa-star fa-lg star"></i> Viernes 24 -  19h30
-##### Concierto Sinfónico Académico de la Orquesta Filarmónica Municipal de Guayaquil.
-Dirige el maestro David Harutyunyan.
+**Lugar:** A lo largo de la Av. Malecón Simón Bolívar.
 
-**Lugar:** Teatro Centro de Arte.
+#### <i class="fa fa-star fa-lg star"></i> Lunes 12 -  11h00
+##### Desfile náutico
+6 barcazas con temáticas referentes a Carnaval.
+
+**Lugar:** Isla Trinitaria.
+
+#### <i class="fa fa-star fa-lg star"></i> Lunes 12 -  11h00
+#####Show artístico musical.
+Varios artistas, Máximo Escaleras, Maité Palacios, entre otros.
+
+**Lugar:** Plaza de la Música.
 
 #### <i class="fa fa-star fa-lg star"></i> Sábado 25 - 11h00
 ##### Concierto al aire libre de la Orquesta de Cámara del Museo Municipal.
