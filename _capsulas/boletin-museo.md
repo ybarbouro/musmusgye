@@ -9,4 +9,4 @@ place: Auditorio del Museo Municipal
 image: "https://res.cloudinary.com/magnvs/image/upload/v1517258911/boletin15_pi7rot.jpg"
 ext-url: "/capsulas/"
 ---
-Presentación del Boletín Histórico e Informativo N. 15 del Museo Municipal de Guayaquil.
+Presentación del Boletín Histórico e Informativo N.15 del Museo Municipal de Guayaquil. En la sección histórica del boletín se incluyen artículos relacionados con la época de la revolución de Octubre de 1820: La goleta Alcance, La revolución paso a paso, Antecedentes de la revolución de Octubre, Nuestra Batalla del Pichincha, entre otros.
