@@ -3,34 +3,45 @@ layout: agenda
 image: "https://res.cloudinary.com/magnvs/image/upload/v1503461559/faal-04_gfzmv0.jpg"
 ---
 
-### <i class="fa fa-star fa-lg star"></i> 01 - 18
-##### "Exposición de obras ganadoras del Festival de Artes al Aire Libre - FAAL 2017"
+#### <i class="fa fa-star fa-lg star"></i> 01 - 10
+##### "Exposición de pinturas “Rostros Anónimos” de Jack Sotomayor y alumnos del Colegio SEK"
 
 **Horario:** De martes a sábado de 09h00 a 17h30.
 
-**Lugar:** Auditorio del Museo Municipal, Sucre entre Chile y Pedro Carbo.
+**Lugar:** Salas de Arte Contemporáneo y Polivalente del Museo Municipal, Sucre entre Chile y Pedro Carbo.
 
-#### <i class="fa fa-star fa-lg star"></i> 1 - 17  09h00 a 17h00
-##### Inscripciones del Programa “Aprendamos”
-Curso “Huertos Urbanos".
+#### <i class="fa fa-star fa-lg star"></i> 1   20h00
+##### Festival Artístico Japonés
+La noche contará con un concierto de música tradicional japonesa y acompañado de una presentación de danza típica.
 
-**Organiza:** Dirección de Acción Social y Educación, Dase.
+**Organiza:**  Empresa Pública Municipal de Turismo y Promoción Cívica.
 
-**Lugar:** Hall entrada de la Biblioteca Municipal, 10 de Agosto y Chile.
+**Lugar:** La Bota, Malecón del Estero Salado.
 
-#### <i class="fa fa-star fa-lg star"></i> 08 - 26
-##### Feria navideña
+### <i class="fa fa-star fa-lg star"></i> Viernes 02 - 18h00
+##### Inauguración de la Exposición de Hideyo Noguchi
 
-Horario de atención de Lunes a Viernes de 14h00 a 22h00. Fines de semana y feriados de 10h00 a 23h00
+Exposición en Homenaje a Hideyo Noguchi, eminente bacteriólogo japonés que contribuyó para la investigación de la fiebre amarilla.
+Al conmemorarse el primer centenario de su llegada a Guayaquil y de las relaciones diplomáticas entre Japón y Ecuador.
 
-**Lugar:** Explanada La Perla, Malecón 2000, Malecón y Loja junto a la Rueda.
+El evento inaugural contará con la intervención del Sr. Teppei Morita, especialista de &laquo;The Hideyo Noguchi Memorial Foundation&raquo; quien ofrecerá la **conferencia** &laquo;Hideyo Noguchi y sus vínculos con Ecuador&raquo;.
+
+A las 19h00, la presentación especial del Grupo &laquo;Wa-League&raquo; con música tradicional japonesa.
+
+La exposición estará abierta al pública hasta el 31 de marzo, de martes a sábado de 09h00 a 17h30.
+
+**Organiza:** Municipio de Guayaquil y la Embajada de Japón en Ecuador.  
+
+**Lugar:** Sala de Artes Temporales del Museo Municipal, Sucre entre Chile y Pedro Carbo.
 
 
-#### <i class="fa fa-star fa-lg star"></i> Jueves 09 -  18h00
-##### Asamblea de SIPEA.
-Sociedad Internacional, Capítulo Ecuador.
+#### <i class="fa fa-star fa-lg star"></i>  Viernes 02 -  18h00
+##### Elección Reina del Carnaval de Guayaquil.
+19 candidatas competirán por el título de Reina del Carnaval de Guayaquil. Las ganadoras de este certamen serán parte del desfile ‘Guayaquil es mi Destino en Carnaval’ que se realizará el sábado 10 de febrero.
 
-**Lugar:** Salón de Actos “Pedro Carbo”, Biblioteca Municipal
+**Organiza:**  Empresa Pública Municipal de Turismo y Promoción Cívica.  
+
+**Lugar:** Plaza Rodolfo Baquerizo Moreno, Malecón del Estero Salado
 
 #### <i class="fa fa-star fa-lg star"></i> Jueves 09 - 18h00
 ##### Presentación de la obra “Un parque para todos”
