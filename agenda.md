@@ -125,7 +125,7 @@ El desfile ‘Guayaquil es mi destino en Carnaval’  se llenará de color con e
 **Lugar:** Plaza de San Fancisco, Av. 9 de Octubre y Pedro Carbo.
 
 #### <i class="fa fa-star fa-lg star"></i> Domingo 11 -  11h00
-##### Show artístico musical carnavelero
+##### Show artístico musical carnavalero
 Participan: La sensacional Sanyi, Orquesta Eddy Conga Internacional, Sol y Kata – Homenaje a la Cumbia Colombiana, Festival del Son con Héctor Napolitano.
 
 **Lugar:** Playa Varadero, Posorja.
@@ -145,29 +145,100 @@ Tres tarimas pondrán el sabor musical a la tarde. Artistas como Alleguez Son, S
 **Lugar:** Isla Trinitaria.
 
 #### <i class="fa fa-star fa-lg star"></i> Lunes 12 -  11h00
-#####Show artístico musical.
+##### Show artístico musical.
 Varios artistas, Máximo Escaleras, Maité Palacios, entre otros.
 
 **Lugar:** Plaza de la Música.
 
-#### <i class="fa fa-star fa-lg star"></i> Sábado 25 - 11h00
-##### Concierto al aire libre de la Orquesta de Cámara del Museo Municipal.
+#### <i class="fa fa-star fa-lg star"></i> Miércoles 14 - 15h00
+##### Capacitación y premiación de asesores comerciales.
+
+**Lugar:** Salón de actos Pedro Carbo, Biblioteca Municipal.
+
+#### <i class="fa fa-star fa-lg star"></i> Miércoles 14 - 17h00
+##### Concierto por el día del Amor y la Amistad.
+Orquesta de Cámara del Colegio República de Francia.
+
+**Lugar:** Plaza de la Administración.
+
+#### <i class="fa fa-star fa-lg star"></i> Jueves 15 - 17h00
+##### Conferencia sobre historia Insular.
+
+**Lugar:** Salón de actos Pedro Carbo, Biblioteca Municipal.
+
+#### <i class="fa fa-star fa-lg star"></i> Jueves 15 - 18h30
+##### Presentación artística de danza.
+
+**Lugar:** Auditorio del Museo Municipal, Sucre entre Chile y Pedro Carbo.
+
+#### <i class="fa fa-star fa-lg star"></i> Jueves 15 - 18h00
+##### "Las diosas del spondylus".
+Inauguración de la exposición pictórica de Joe Alvear.
+
+**Lugar:** Sala de Arte Contemporáneo del Museo Municipal.
+
+#### <i class="fa fa-star fa-lg star"></i> Viernes 16 - 16h00
+##### Derechos humanos de las mujeres.
+Participación política de las mujeres en América Latina.
+
+**Lugar:** Salón de actos Pedro Carbo, Biblioteca Municipal.
+
+#### <i class="fa fa-star fa-lg star"></i> Viernes 16 - 19h00
+##### Sin fecha de caducidad
+Homenaje a Segovita, 65 años. Con la participación de Héctor Napolitano, Lucho Lara, Jefe Vergara, Raúl Molina, Harry Game y Luiggy Valero.
+
+**Lugar:** Plaza Colón.
+
+#### <i class="fa fa-star fa-lg star"></i> Sábado 17 - 10h00
+##### Presentación del cortometraje "Caucherías"
+
+**Lugar:** Auditorio del Museo Municipal, Sucre entre Chile y Pedro Carbo.
+
+
+#### <i class="fa fa-star fa-lg star"></i> Sábado 17 - 11h00
+##### Concierto al aire libre de la Orquesta de Cámara del Museo Municipal
 
 **Lugar:** Parque Seminario.
 
-#### <i class="fa fa-star fa-lg star"></i> Domingo 26 - 11h00
-##### Lanzamiento del disco “Amargo dilema” y recital de las Hnas. Toral.
+#### <i class="fa fa-star fa-lg star"></i> Lunes 19 - 15h00
+##### Conferencia "Tierra Santa en Ecuador"
 
-**Lugar:** Auditorio Nicasio Safadi, Museo de Julio Jaramillo, Puerto Santa Ana.
+**Lugar:** Salón de la Ciudad, Palacio Municipal.
 
-#### <i class="fa fa-star fa-lg star"></i> Miércoles 29 - 19h00
-##### Concierto de la Orquesta de Cámara del Museo Municipal.
-Dirige el Maestro Iván Fabre Fabre con la presentación especial de la solista Lady Loor Palma, (Flauta traversa).
+#### <i class="fa fa-star fa-lg star"></i> Jueves 22 - 17h00
+##### Conferencia "La importancia de las normas internacionales de contabilidad del sector público"
+NISCP
 
-**Lugar:** Auditorio del Museo Municipal.
+**Lugar:** Salón de la Ciudad, Palacio Municipal.
 
-#### <i class="fa fa-star fa-lg star"></i> Jueves 30 - 18h00
-##### Serenata Guayaca.
-Coro de adultos "Guayaquil más ciudad".
+#### <i class="fa fa-star fa-lg star"></i> Jueves 22 - 18h00
+##### "Serenata guayaca"
+Coro de voces "Guayaquil más ciudad" dirigido por la soprano Astrid Achi.
 
 **Lugar:** Parque Seminario.
+
+#### <i class="fa fa-star fa-lg star"></i> Sábado 24 - 09h00
+##### Charla sobre resilencia y autoestima a las personas discapacitadas
+
+**Lugar:** Salón de actos Pedro Carbo, Biblioteca Municipal.
+
+#### <i class="fa fa-star fa-lg star"></i> Sábado 24 - 11h00
+##### Concierto al aire libre de la Orquesta de Cámara del Museo Municipal
+
+**Lugar:** Parque Seminario.
+
+#### <i class="fa fa-star fa-lg star"></i> Sábado 24 - 13h00
+##### Festival Juvenil por el Arte y la Cultura
+
+**Lugar:** Auditorio del Museo Municipal de Guayaquil.
+
+#### <i class="fa fa-star fa-lg star"></i> Martes 27 - 19h00
+##### Grupo de danza Seneafrica de Senegal
+
+**Lugar:** Auditorio del Museo Municipal de Guayaquil.
+
+#### <i class="fa fa-star fa-lg star"></i> Miércoles 28 - 19h00
+##### Concierto de la Orquesta de Cámara del Museo Municipal
+
+**Lugar:** Auditorio del Museo Municipal de Guayaquil.
+
