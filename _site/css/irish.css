@@ -214,7 +214,7 @@ h2.league-two {
   font-family:"Oswald", sans-serif;
   font-weight: 400;
   font-size: 4.7rem;
-  color: grey;
+  color: rgba(69,90,100,.4);
   padding-bottom: 3rem;
   line-height: 4.5rem;
 }
