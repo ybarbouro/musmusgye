@@ -6,7 +6,7 @@ day: 02
 month: FEB
 time: 18h00
 place: Auditorio del Museo Municipal
-image: "https://res.cloudinary.com/magnvs/image/upload/v1517323648/confe-nogu_wdt6qa.jpg"
+image: "https://res.cloudinary.com/magnvs/image/upload/c_crop,h_260,w_400/v1517323648/confe-nogu_wdt6qa.jpg"
 ext-url: "/capsulas/"
 ---
 **Conferencia** sobre la vida del Dr. Hideyo Noguchi a cargo del Sr. Teppei Morita, especialista &laquo;The Hideyo Noguchi Memorial Foundation&raquo;.
