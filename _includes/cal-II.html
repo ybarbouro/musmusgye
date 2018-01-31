@@ -20,12 +20,10 @@
 
     <div class="premiere">
         <ul>
-          {% if capsulas.time %}<li><p>
-            <i class="fa fa-clock-o"></i>
-          Hora: {{ capsulas.time }}</p></li>{% endif %}
-          {% if capsulas.place %}<li><p>
-            <i class="fa fa-chevron-circle-right"></i>
-          Lugar: {{ capsulas.place }}</p></li>{% endif %}
+          {% if capsulas.time %}
+              <li><p><i class="fa fa-clock-o"></i> {{ capsulas.time }}</p></li>{% endif %}
+          {% if capsulas.place %}
+              <li><p><i class="fa fa-chevron-circle-right"></i> {{ capsulas.place }}</p></li>{% endif %}
         </ul>
     </div>
     </div>
