@@ -1,7 +1,7 @@
 ---
 title: Boletín del Museo Municipal
 object-id: boletin-museo
-listing-priority: 1
+listing-priority: 35
 day: 31
 month: ENE
 time: 11h00
