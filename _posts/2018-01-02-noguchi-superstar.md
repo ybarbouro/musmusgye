@@ -28,4 +28,4 @@ Cuando modela sus esculturas, Tony Balseca (Guayaquil, 1975) estudia con minucia
 <p><a href="/assets/noguchi-superstar.pdf" class="button outline" role="button"> <i class="fa fa-file-pdf-o"></i>  Descarga</a>&nbsp;&nbsp;el artículo completo</p>
 
 
-<small>Este artículo fue publicado originalmente en el diario [EL TELÉGRAFO](http://www.eltelegrafo.com.ec) el 02/02/2018 en el suplemeto **Cartón Piedra**. Autor: Luis Carlos Mussó | Fotografía: William Orellana.</small>
+<small>Este extracto es parte del artículo original publicado en el diario [EL TELÉGRAFO](http://www.eltelegrafo.com.ec) el 02/02/2018 en el suplemento **Cartón Piedra**. Autor: Luis Carlos Mussó | Fotografía: William Orellana.</small>
