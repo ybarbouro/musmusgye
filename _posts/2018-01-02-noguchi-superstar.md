@@ -27,4 +27,4 @@ Cuando modela sus esculturas, Tony Balseca (Guayaquil, 1975) estudia con minucia
 
 [...] 
 
-<p><a href="/assets/noguchi-superstar.pdf" class="button outline" role="button"> <i class="fa fa-file-o-pdf"></i>  Descarga</a>&nbsp;&nbsp;el artículo completo</p>
+<p><a href="/assets/noguchi-superstar.pdf" class="button outline" role="button"> <i class="fa fa-file-pdf-o"></i>  Descarga</a>&nbsp;&nbsp;el artículo completo</p>
