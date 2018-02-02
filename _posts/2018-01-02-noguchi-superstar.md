@@ -23,8 +23,9 @@ Hideyo Noguchi decidió quedarse en Guayaquil por cerca de un año; nadie en su 
 
 **Noguchi Superstar**  
 
-Cuando modela sus esculturas, Tony Balseca (Guayaquil, 1975) estudia con minucia y neurosis a sus personajes. Desde el instante en que Jaime Simons, cónsul General Honorario de Japón en Guayaquil, decidió encargar en sus hábiles manos el busto del científico nipón, rastreó cuanta información disponible tuvo a la mano. Literalmente, empapeló su estudio con fotografías de Hideyo Noguchi, quien varias veces fue nominado al Premio Nobel de Medicina.
-
-[...] 
+Cuando modela sus esculturas, Tony Balseca (Guayaquil, 1975) estudia con minucia y neurosis a sus personajes. Desde el instante en que Jaime Simons, cónsul General Honorario de Japón en Guayaquil, decidió encargar en sus hábiles manos el busto del científico nipón, rastreó cuanta información disponible tuvo a la mano. Literalmente, empapeló su estudio con fotografías de Hideyo Noguchi, quien varias veces fue nominado al Premio Nobel de Medicina. [...] 
 
 <p><a href="/assets/noguchi-superstar.pdf" class="button outline" role="button"> <i class="fa fa-file-pdf-o"></i>  Descarga</a>&nbsp;&nbsp;el artículo completo</p>
+
+
+<small>Este artículo fue publicado originalmente en el diario [EL TELÉGRAFO](http://www.eltelegrafo.com.ec) el 02/02/2018 en el suplemeto **Cartón Piedra**. Autor: Luis Carlos Mussó | Fotografía: William Orellana.</small>
