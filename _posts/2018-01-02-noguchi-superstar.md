@@ -6,6 +6,7 @@ comment: El Telégrafo | Luis Carlos Mussó
 image: "https://res.cloudinary.com/magnvs/image/upload/v1517411953/tb_fcmxrm.jpg"
 ffw: Leer más
 ---
+
 **Volviendo en el tiempo** <br /><br/>Hace un siglo, los diferentes puertos del Pacífico sudamericano (también de África y Asia) eran un ir y venir de productos de economía primaria, o sea, provenientes de la minería, la agricultura y la ganadería. Europa y Estados Unidos veían a Guayaquil, en esta autopista de exportaciones e importaciones, como un punto complejo: primero, la Costa entera vivía su segundo *boom* cacaotero (1880-1920); segundo, la ciudad era un espacio oscuro debido al florecimiento de pestes diversas. Algo de la memoria del nombre de los astilleros guayaquileños dejaba a un lado a puertos como Buenaventura y el Callao.  
 
 Aprovechando la coyuntura, las élites porteñas deseaban recuperar a la ciudad y ofrecer una cara distinta. Una mirada positiva de la urbe dependía en gran medida del desarrollo económico. La idea era que el puerto volcara su rostro burgués hacia uno que pudiera llamarse moderno.  
