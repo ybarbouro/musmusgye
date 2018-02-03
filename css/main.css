@@ -107,8 +107,8 @@ img.wide {
 }
 
 .raw {
-  background-color:#f00;
-  background-image: url('../img/WA-LEAGUE.jpg');
+  background-color:brown;
+  background-image: url('https://res.cloudinary.com/magnvs/image/upload/v1517681823/wa-noguer_ml4amm.jpg');
   background-blend-mode:lighten;
   background-size: cover;
   padding:0;
