@@ -108,7 +108,7 @@ img.wide {
 
 .raw {
   background-color:brown;
-  background: linear-gradient(to top, #fa709a 0%, #fee140 100%);
+  background-color: linear-gradient(to top, #fa709a 0%, #fee140 100%);
   background-image: url('https://res.cloudinary.com/magnvs/image/upload/v1517681823/wa-noguer_ml4amm.jpg');
   background-blend-mode:lighten;
   background-size: cover;
