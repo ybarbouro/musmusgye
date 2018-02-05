@@ -61,7 +61,7 @@ Exposición de fotografías y discografía. Charla - Conferencia.
 
 #### <i class="fa fa-star fa-lg star"></i> Miércoles 07 -  18h00
 ##### Presentación del cómic “Barcelona heroico”
-Obar de la autoría de Otto Blacio, Carlos Toala y Andrés Toala.
+Obra de la autoría de Otto Blacio, Carlos Toala y Andrés Toala.
 
 **Lugar:** Salón de Actos “Pedro Carbo”, Biblioteca Municipal.
 
