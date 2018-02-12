@@ -30,7 +30,7 @@ A las 19h00, la presentación especial del Grupo &laquo;Wa-League&raquo; con mú
 
 La exposición estará abierta al pública hasta el 31 de marzo, de martes a sábado de 09h00 a 17h30.
 
-**Organiza:** Municipio de Guayaquil y la Embajada de Japón en Ecuador.  
+**Organiza:** Municipio de Guayaquil y la Embajada de Japón en Ecuador.
 
 **Lugar:** Sala de Artes Temporales del Museo Municipal, Sucre entre Chile y Pedro Carbo.
 
@@ -39,14 +39,14 @@ La exposición estará abierta al pública hasta el 31 de marzo, de martes a sá
 ##### Elección Reina del Carnaval de Guayaquil.
 19 candidatas competirán por el título de Reina del Carnaval de Guayaquil. Las ganadoras de este certamen serán parte del desfile ‘Guayaquil es mi Destino en Carnaval’ que se realizará el sábado 10 de febrero.
 
-**Organiza:**  Empresa Pública Municipal de Turismo y Promoción Cívica.  
+**Organiza:**  Empresa Pública Municipal de Turismo y Promoción Cívica.
 
 **Lugar:** Plaza Rodolfo Baquerizo Moreno, Malecón del Estero Salado
 
 #### <i class="fa fa-star fa-lg star"></i> Sábado 03 - 09h00
 ##### Liderazgo, Motivación y trabajo en equipo a las personas discapacitadas
 
-**Organiza:**   Red de Apoyo Familiar para la Inclusión.  
+**Organiza:**   Red de Apoyo Familiar para la Inclusión.
 
 **Lugar:** Salón Pedro Carbo, Biblioteca Municipal.
 
@@ -82,7 +82,7 @@ Presentación de cuatro cortometrajes.
 ##### Homenaje 40 años. Tributo a Julio Jaramillo
 Romería: 09h00 / Tertulia Café Musical: 17h00 Casa de la Cultura.
 
-**Organiza:** Asociación Cultural Cerro Santa Ana / Grupo Cultural Julio Jaramillo  
+**Organiza:** Asociación Cultural Cerro Santa Ana / Grupo Cultural Julio Jaramillo
 
 **Lugar:** Casa de la Cultura.
 
@@ -131,10 +131,10 @@ Participan: La sensacional Sanyi, Orquesta Eddy Conga Internacional, Sol y Kata 
 **Lugar:** Playa Varadero, Posorja.
 
 #### <i class="fa fa-star fa-lg star"></i> Domingo 11 -  17h00
-##### Shows artísticos en el Malecón 2000 
-Tres tarimas pondrán el sabor musical a la tarde. Artistas como Alleguez Son, Sanyi, Nathalie Silvana ,entre otros.  
+##### Shows artísticos en el Malecón 2000
+Tres tarimas pondrán el sabor musical a la tarde. Artistas como Alleguez Son, Sanyi, Nathalie Silvana ,entre otros.
 
-**Organiza:** Empresa Pública Municipal de Turismo y Promoción Cívica.  
+**Organiza:** Empresa Pública Municipal de Turismo y Promoción Cívica.
 
 **Lugar:** A lo largo de la Av. Malecón Simón Bolívar.
 
@@ -200,10 +200,12 @@ Homenaje a Segovita, 65 años. Con la participación de Héctor Napolitano, Luch
 
 **Lugar:** Parque Seminario.
 
-#### <i class="fa fa-star fa-lg star"></i> Lunes 19 - 15h00
+#### <i class="fa fa-star fa-lg star"></i> Lunes 19 - 16h00
 ##### Conferencia "Tierra Santa en Ecuador"
+En el marco del Encuentro Internacional de Comisarías de Tierra Santa.
+**Organizan**: Comisaría de Tierra Santa en Ecuador y Radio San Francisco.
 
-**Lugar:** Salón de la Ciudad, Palacio Municipal.
+**Lugar:** Auditorio del Museo Municipal.
 
 #### <i class="fa fa-star fa-lg star"></i> Jueves 22 - 17h00
 ##### Conferencia "La importancia de las normas internacionales de contabilidad del sector público"
@@ -241,4 +243,3 @@ Coro de voces "Guayaquil más ciudad" dirigido por la soprano Astrid Achi.
 ##### Concierto de la Orquesta de Cámara del Museo Municipal
 
 **Lugar:** Auditorio del Museo Municipal de Guayaquil.
-
