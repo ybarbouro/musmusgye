@@ -107,9 +107,9 @@ img.wide {
 }
 
 .raw {
-  background-color:brown;
-  background-image: url('https://res.cloudinary.com/magnvs/image/upload/v1517681823/wa-noguer_ml4amm.jpg');
-  background-blend-mode:lighten;
+  background-color: rgba(255,179,0,.5);
+  background-image: url('https://res.cloudinary.com/magnvs/image/upload/v1518396514/jerusalem_hpfa75.jpg');
+  background-blend-mode:multiply;
   background-size: cover;
   padding:0;
   min-height: 400px;
