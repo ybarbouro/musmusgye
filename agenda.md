@@ -202,7 +202,8 @@ Homenaje a Segovita, 65 años. Con la participación de Héctor Napolitano, Luch
 
 #### <i class="fa fa-star fa-lg star"></i> Lunes 19 - 16h00
 ##### Conferencia "Tierra Santa en Ecuador"
-En el marco del Encuentro Internacional de Comisarías de Tierra Santa.
+En el marco del Encuentro Internacional de Comisarías de Tierra Santa.  
+
 **Organizan**: Comisaría de Tierra Santa en Ecuador y Radio San Francisco.
 
 **Lugar:** Auditorio del Museo Municipal.
