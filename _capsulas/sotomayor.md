@@ -1,7 +1,7 @@
 ---
 title: Rostros anónimos
 object-id: sotomayor
-listing-priority: 1
+listing-priority: 71
 day: 01
 month: FEB
 time: 18h00 (Inauguración)
