@@ -1,7 +1,7 @@
 ---
 title: Diosas de la spondylus
 object-id: joe-alvear
-listing-priority: 3
+listing-priority: 1
 day: 15
 month: FEB
 time: 18h00
