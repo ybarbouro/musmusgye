@@ -1,7 +1,7 @@
 ---
 title: «¡Quién me quita lo bailado!» Con Manuco
 object-id: manuco
-listing-priority: 32
+listing-priority: 69
 day: 23
 month: NOV
 time: 19h00
