@@ -1,7 +1,7 @@
 ---
 title: Arte Pasión
 object-id: arte-pasion
-listing-priority: 19
+listing-priority: 55
 day: 06
 month: SEP
 time: 09h00-17h00
