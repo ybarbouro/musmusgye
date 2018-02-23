@@ -2,7 +2,7 @@
 layout: agenda
 image: "https://res.cloudinary.com/magnvs/image/upload/v1503461559/faal-04_gfzmv0.jpg"
 ---
-#### <i class="fa fa-star fa-lg star"></i> Hasta el 3 de marzo
+### <i class="fa fa-star fa-lg star"></i> Hasta el 3 de marzo
 ##### Exposición pictórica de Joe Alvear "Las diosas del Spondylus"
 
 **Horario:** 09h00 a 17h30.
@@ -66,7 +66,7 @@ Inscripciones: [http://amigayanoestassola.com](http://amigayanoestassola.com)
 
 **Lugar:** Parque Seminario.
 
-### <i class="fa fa-star fa-lg star"></i> Sábado 10 - 16h00
+#### <i class="fa fa-star fa-lg star"></i> Sábado 10 - 16h00
 ##### Concierto de la Orquesta del Colegio República de Francia.  
 
 **Lugar:** Auditorio del Museo Municipal de Guayaquil.
@@ -85,7 +85,7 @@ Traer ensayado para audicionar el Pasillo “Pasional” o “ Romance de mi des
 
 **Lugar:** Martes y jueves a las 18h00 en el Museo Municipal de Guayaquil.
 
-#### <i class="fa fa-star fa-lg star"></i> 15 - 31
+### <i class="fa fa-star fa-lg star"></i> 15 - 31
 ##### BAQ 2016
 EXPOSICION XX Bienal Panamericana de Arquitectura de Quito -BAQ 2016-
 En el marco de las Jornadas Culturales en homenaje al arquitecto Guillermo Cubillo Renella.  
