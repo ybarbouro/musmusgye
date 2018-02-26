@@ -104,8 +104,9 @@ En el marco de las Jornadas Culturales en homenaje al arquitecto Guillermo Cubil
 
 **Organiza:** Concejal Grecia Cando Gossdenovich.
 
-**Lugar:** Auditorio del Museo Municipal de Guayaquil.#### <i class="fa fa-star fa-lg star"></i> Viernes 23 - 17h00
+**Lugar:** Auditorio del Museo Municipal de Guayaquil.  
 
+#### <i class="fa fa-star fa-lg star"></i> Viernes 23 - 17h00
 ##### Seminario Taller "Pensamiento Positivo"
 
 **Lugar:** Auditorio del Museo Municipal de Guayaquil.
