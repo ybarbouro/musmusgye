@@ -94,14 +94,18 @@ En el marco de las Jornadas Culturales en homenaje al arquitecto Guillermo Cubil
 
 **Lugar:** Sala de Arte Contemporáneo del Museo Municipal de Guayaquil.
 
+#### <i class="fa fa-star fa-lg star"></i> Sábado 17 - 15h00
+##### Presentación musical del grupo SeneÁfrica de Senegal.
+
+**Lugar:** Auditorio del Museo Municipal de Guayaquil.
+
 #### <i class="fa fa-star fa-lg star"></i> Jueves 22 - 18h00
 ##### Homenaje y Reconocimiento por el Día Internacional de la Mujer, Sexta Edición.
 
 **Organiza:** Concejal Grecia Cando Gossdenovich.
 
-**Lugar:** Auditorio del Museo Municipal de Guayaquil.
+**Lugar:** Auditorio del Museo Municipal de Guayaquil.#### <i class="fa fa-star fa-lg star"></i> Viernes 23 - 17h00
 
-#### <i class="fa fa-star fa-lg star"></i> Viernes 23 - 17h00
 ##### Seminario Taller "Pensamiento Positivo"
 
 **Lugar:** Auditorio del Museo Municipal de Guayaquil.
@@ -139,5 +143,6 @@ A cargo del Coro “Guayaquil más ciudad” dirigido por la soprano Astrid Achi
 #### <i class="fa fa-star fa-lg star"></i> Sábado 31 - 10h00
 ##### Charla en favor del Desarrollo de la Mujer.
 
-**organiza:** Club de Leones Albo-Noreste
+**Organiza:** Club de Leones Albo-Noreste.  
+
 **Lugar:** Auditorio del Museo Municipal de Guayaquil.
