@@ -1,10 +1,10 @@
 ---
 title: SeneÁfrica
 object-id: seneafrica
-listing-priority: 2
-day: 27
-month: FEB
-time: 19h00
+listing-priority: 3
+day: 17
+month: MAR
+time: 15h00
 place: Auditorio del Museo Municipal
 image: "https://res.cloudinary.com/magnvs/image/upload/v1519241818/seneafrica_upeymj.jpg"
 ext-url: "/capsulas/"
