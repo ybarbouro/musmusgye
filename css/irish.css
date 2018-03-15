@@ -63,6 +63,14 @@ h3{
   font-size:1.25em;
   margin:0 0 .5em}
 
+p.description {
+  color: #eee;
+}
+
+p.description small {
+  color: #fff;
+}
+
 .blank {
   min-height: 20px;
 }
