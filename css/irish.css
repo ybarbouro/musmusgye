@@ -64,11 +64,14 @@ h3{
   margin:0 0 .5em}
 
 p.description {
-  font-family:"league_gothicregular", sans-serif; 
-  font-size: 20px;
-  color: #eee;
+  color: #fff;
 }
-
+h3.description {
+  family-font: "league_gothicregular", sans-serif;
+  color: #ffa000;
+  letter-spacing: 2px;
+}
+	
 .blank {
   min-height: 20px;
 }
