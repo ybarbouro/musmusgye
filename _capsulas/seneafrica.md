@@ -1,7 +1,7 @@
 ---
 title: SeneÁfrica
 object-id: seneafrica
-listing-priority: 3
+listing-priority: 48
 day: 17
 month: MAR
 time: 15h00
