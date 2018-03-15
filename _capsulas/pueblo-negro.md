@@ -1,7 +1,7 @@
 ---
 title: Clip y Pasarela Señoritas Cimarronas
 object-id: pueblo-negro
-listing-priority: 2
+listing-priority: 49
 day: 01
 month: MAR
 time: 17h30
