@@ -230,7 +230,7 @@ span.suscribing{
 
 .premiere-b {
   position: relative;
-  background-image: linear-gradient(120deg, #f5f7fa 0%,#c3cfe2 100%);
+  background-image: linear-gradient(325deg, #f5f7fa 0%,#c3cfe2 100%);
 }
 
 .premiere-header {
@@ -274,11 +274,15 @@ div.premiere {
    }
 
 div.premiere-blue {
-        font-size: 1.2em;
+        font-size: 1em;
       	font-weight: 300;
       	color:rgba(36,57,73,1);
         padding-top: .7em;
       }
+
+.premiere-blue > div {
+  font-size: .879em;
+}
 
 .premiere > ul {
    	list-style: none;
