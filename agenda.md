@@ -33,7 +33,7 @@ Información acerca de la adicción visto por el programa de Narcóticos Anónim
 **Lugar:** Auditorio del Museo Municipal.
 
 #### <i class="fa fa-star fa-lg star"></i> Miércoles 11 - 18h00
-##### Presentación del Centro Artísitoc Pirouette
+##### Presentación del Centro Artístico Pirouette
 
 **Lugar:** Auditorio del Museo Municipal.
 
