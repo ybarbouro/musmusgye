@@ -87,7 +87,7 @@ Expone: Lender Torres.
 
 #### <i class="fa fa-star fa-lg star"></i> Jueves 19 - 18h30
 ##### Presentación del libro "Utopías y distopías, diálogos a dos voces" 
-La obra del autor Fernando Esparza será presentada por la Ab. María Josefa Coronel y el Dr. Francisco Huerta Montalvo.
+La obra del autor Fernando Esparza será presentada por el Econ. Xavier Neira y el Dr. Francisco Huerta Montalvo.
 
 **Lugar:** Auditorio del Museo Municipal de Guayaquil.
 
