@@ -67,7 +67,7 @@ p.description {
   color: #fff;
 }
 h3.description {
-  family-font: "league_gothicregular", sans-serif;
+	font-size: 1.3em;
   color: #ffa000;
   letter-spacing: 2px;
 }
@@ -288,10 +288,17 @@ h2.league-blue-light {
   line-height: 2.3rem;
 }
 .aside{
-  background-color:#fefff9;
+  background-color: #fefff9;
   border:solid #e3e3e3;
   border-width:1px 0;
   font-size:1.125em;
+  padding:1em 0;
+}
+
+.aside-b{
+  background-color: #fff;
+  border:solid #fff;
+  border-width:1px 0;
   padding:1em 0;
 }
 
