@@ -107,8 +107,8 @@ img.wide {
 }
 
 .raw {
-  background-color: rgba(255,179,0,.5);
-  background-image: url('https://res.cloudinary.com/magnvs/image/upload/c_crop,g_south,h_685,y_120/v1519241816/paracas_igmsru.jpg');
+  background-color: rgba(255,179,0,.4);
+  background-image: url('https://res.cloudinary.com/magnvs/image/upload/v1524068919/dim-mus_r5i0zr.jpg');
   background-blend-mode:multiply;
   background-size: cover;
   padding:0;

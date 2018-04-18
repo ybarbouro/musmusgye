@@ -17,8 +17,7 @@ html {
   }
 
 body {
-  /* background: #131a22; */
-	background: #455a64;
+  background: #131a22;
 }
 
 a{
@@ -265,6 +264,15 @@ h2.league-five{
 	line-height: 3.5rem;
 }
 
+h2.league-light{
+  font-family:"Oswald", sans-serif;
+  font-weight: 400;
+  font-size: 2.4rem;
+  color: rgba(255,255,255,.8);
+  padding-bottom: 3rem;
+	line-height: 2.7rem;
+}
+
 h2.league-blue {
 	font-family:"Oswald", sans-serif;
   font-weight: 400;
@@ -308,7 +316,14 @@ h2.league-blue-light {
 }
 .cta-option{
   margin:2.5em .5em 0;
-  vertical-align:top}
+  vertical-align:top;
+}
+
+.cta-option-premiere{
+	  margin:1.5em 0 1em;
+	  vertical-align:top;
+	}
+
 .btn{
   color:#fff;
   font-size:1.5em;
@@ -320,6 +335,21 @@ h2.league-blue-light {
   border:1px solid #333}
 .btn:active,.btn:focus,.btn:hover{
   text-decoration:none}
+
+	.btn-premiere{
+	  background-color:#FF80AB;
+	  background-image:-webkit-linear-gradient(#F06292 10%,#C2185B 100%);
+	  background-image:linear-gradient(#F06292 10%,#C2185B 100%);
+	  box-shadow:0 1px 0 rgba(255,255,255,.5) inset,0 1px 3px rgba(0,0,0,.2);
+	  border:1px solid #880E4F}
+	.btn-premiere:active,.btn-premiere:focus,.btn-premiere:hover{
+	  background-color:#F8BBD0;
+	  background-image:-webkit-linear-gradient(#F48FB1 10%,#FF4081 100%);
+	  background-image:linear-gradient(#F48FB1 10%,#FF4081 100%)}
+	.btn-premiere:active{
+	  background-color:#880E4F;
+	  box-shadow:0 2px 3px 0 rgba(0,0,0,.2) inset}
+
 .btn-download{
   background-color:#d9750b;
   background-image:-webkit-linear-gradient(#f90 10%,#e76a00 100%);
