@@ -9,4 +9,6 @@ place: Auditorio del Museo Municipal
 image: "https://res.cloudinary.com/magnvs/image/upload/v1525360107/mazinger_yyjbfi.jpg"
 ext-url: "/capsulas/"
 ---
-**Inauguración** de la exposición individual de pintura y escultura del artista Kontiki Viracocha "Ecuador paraíso en la Tierra". La muestra estará abierta al público hasta el 30 de abril de 2018.
+**30 de ABRIL - 02 de MAYO**  
+
+**Exposición de cómics, figuras de acción y Cosplay** de Mazinger y Star Wars a propósito del Día del Niño en el Museo Municipal. <br /> **Organizan**: Cómic Club de Guayaquil y el Museo Municipal de Guayaquil.
