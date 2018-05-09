@@ -296,7 +296,7 @@ h2.league-blue-light {
   line-height: 2.3rem;
 }
 .bg-hero {
-	min-height: 70vh;
+	min-height: 50vh;
 	background-image: url(../img/alcivar.jpg);
 	background-position: center;
 	background-size: cover;
