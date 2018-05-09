@@ -295,6 +295,13 @@ h2.league-blue-light {
   letter-spacing: 1px;
   line-height: 2.3rem;
 }
+.bg-hero {
+	min-height: 70vh;
+	background-image: url(../img/alcivar.jpg);
+	background-position: center;
+	background-size: cover;
+	margin: 0;
+}
 .aside{
   background-color: #fefff9;
   border:solid #e3e3e3;
@@ -373,6 +380,14 @@ h2.league-blue-light {
   background-color:rgba(46, 87, 103,0.8);}
 .star{
   color:#E65100}
+
+.bounce {
+	width: 20%;
+	padding: 0 0 20px 0;
+	margin:0;
+	margin-left:auto;
+	margin-right:auto;
+}
 .Icon{
   display:inline-block;
   height:64px;
@@ -450,6 +465,7 @@ h2.league-blue-light {
 
 .site-promo{
   padding:1em 0 6em}
+
 .site-promo .description{
   color:#1a1a1a;
   font-size:1.2em;
@@ -470,7 +486,25 @@ h2.league-blue-light {
   font-size: 3.7rem;
 	line-height: 3.9rem;
   color: #fff;
+	text-shadow:2px 2px 0 #000;
+	padding-top: 40%;
   }
+
+	.site-catch{
+	  padding: .3em}
+
+	.site-catch .description{
+	  color:#1a1a1a;
+	  font-size:1.2em;
+	  margin:1em 2em 0}
+
+	.site-catch h2 {
+	  font-family:'league_gothicregular', sans-serif;
+	  font-weight: 300;
+	  font-size: 2.7rem;
+	  color: #fff;
+	  padding-bottom: 1rem;
+	  }
 
 .last-update{
   color:#999;
@@ -565,6 +599,15 @@ h2.league-blue-light {
     font-size:1em}
   .grid-cell-left {
       width:100%}
+	.site-promo h2 {
+			font-size: 1.7rem;
+			line-height: 2.5rem;}
+	.bounce {
+			width: 50%;
+		  padding: 0;
+			margin:0;
+			margin-left:auto;
+			margin-right:auto;}
 }
 @media only screen and (max-width:460px){
   .grid-cell-left {
