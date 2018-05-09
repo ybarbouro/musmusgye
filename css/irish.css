@@ -481,13 +481,13 @@ h2.league-blue-light {
   }
 
 .site-promo h2 {
-	font-family:'Oswald', sans-serif;
+  font-family:'Oswald', sans-serif;
   font-weight: bold;
   font-size: 3.7rem;
-	line-height: 3.9rem;
+  line-height: 3.9rem;
   color: #fff;
-	text-shadow:2px 2px 0 #000;
-	padding-top: 40%;
+  text-shadow:2px 2px 0 #000;
+  padding-top: 20%;
   }
 
 	.site-catch{
