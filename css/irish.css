@@ -603,11 +603,12 @@ h2.league-blue-light {
 	.site-promo{
 			padding:3em 0 0 0;
 			margin-top: 3em;
-		height: 400px;}
+		  height: 400px;}
 	.site-promo h2 {
 			font-size: 2.5rem;
 			line-height: 2.5rem;
-			letter-spacing: 2px;}
+			letter-spacing: 2px;
+			padding-top: 3em;}
 	.bounce {
 			width: 50%;
 		  padding: 0;
