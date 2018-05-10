@@ -14,13 +14,13 @@
 	  #map { position:absolute; top:0; bottom:0; width:100%; }
 		.marker {
     display: block;
-    border: 5px solid #ffffff;
     border-radius: 50%;
     cursor: pointer;
     padding: 0;
 		}
+		.padre-map {position: relative; width:auto; height: 400px;}
 
-
+		}
 	</style>
 </head>
 <body style="font-family:'Open Sans';">
@@ -110,8 +110,9 @@ var map = new mapboxgl.Map({
 container: 'map',
 style: 'mapbox://styles/fernanz/cj6ppjbei2qwy2rnsi7basfxd',
 center: [-79.899,-2.186], // starting position
-zoom: 16 // starting zoom
+zoom: 15 // starting zoom
 });
+map.scrollZoom.disable();
 
 // add markers to map
 geojson.features.forEach(function(marker) {
