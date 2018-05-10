@@ -464,7 +464,7 @@ h2.league-blue-light {
     color:#00B0FF}
 
 .site-promo{
-  padding:1em 0 6em;
+  padding:3em 0 5em;
 }
 
 .site-promo .description{
@@ -601,7 +601,8 @@ h2.league-blue-light {
   .grid-cell-left {
       width:100%;}
 	.site-promo{
-			padding:4em 0 2em;}
+			padding:3em 0 5em;
+			margin-top: 2em;}		
 	.site-promo h2 {
 			font-size: 2.5rem;
 			line-height: 2.5rem;
