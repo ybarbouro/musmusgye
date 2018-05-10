@@ -488,7 +488,8 @@ h2.league-blue-light {
   line-height: 3.9rem;
   color: #fff;
   text-shadow:2px 2px 0 #000;
-  padding-top: 20%;
+	letter-spacing: 3px;
+  padding-top: 33%;
   }
 
 	.site-catch{
