@@ -237,6 +237,12 @@ span.suscribing{
  position: relative;
  background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
 }
+
+.premiere-expo {
+ position: relative;
+ background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+}
+
 /* .premiere-header {
    	position: relative;
    	z-index: 100;
