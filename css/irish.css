@@ -305,7 +305,7 @@ h2.league-blue-light {
 
 .bg-hero-expo {
 	min-height: 75vh;
-	background-image: url(https://cdn.filestackcontent.com/DR7HU6N6R2r536I7ypmQ);
+	background-image: url(../img/museo1920.jpg);
 	background-position: center;
 	background-size: cover;
 	margin: 0;
@@ -396,6 +396,15 @@ h2.league-blue-light {
 	margin-left:auto;
 	margin-right:auto;
 }
+
+.bouncing {
+	width: 55%;
+	padding: 0;
+	margin:0;
+	margin-left:auto;
+	margin-right:auto;
+}
+
 .Icon{
   display:inline-block;
   height:64px;
