@@ -346,7 +346,7 @@ div.premiere-blue {
 
    .grid-container {
        max-width: 1400px;
-       margin: -20px auto 1em auto;
+       margin: 1em auto 1em auto;
        background-color: transparent;
       /* border-radius: 5px;*/
 
@@ -377,46 +377,69 @@ div.premiere-blue {
    .card44 {
        grid-column: 5 / -1;
        grid-row: 2 / 3;
+       background-color: #eee;
    }
 
 
    .card5 {
-       grid-column: 1 / 3;
+       grid-column: 1 / 4;
        grid-row: 3 / 4;
-       background: url(../assets/vintage-concrete.png);
+       background-image:
+       url(../img/silla-man.png),
+       url(../assets/vintage-concrete.png);
+       background-repeat:
+       no-repeat,
+       repeat;
+       background-blend-mode:
+       multiply,
+       normal;
+       background-position:
+       bottom 1px right 150px;
        min-height: 500px;
+
+   }
+
+   .card55{
+     grid-column: 1 / 3;
+     grid-row: 2 / 4;
+     margin-top: 350px;
    }
 
    .card6 {
-     grid-column: 3 / 4 ;
+     grid-column: 3 / 5 ;
      grid-row: 3 / 4 ;
+     background: url(../assets/vintage-concrete.png);
+     z-index: 1;
+     background:transparent;
+     min-height: 500px;
 
    }
 
    .card7 {
-     grid-column: 4 / 5;
+     grid-column: 4 / -1;
      grid-row: 3 / 4 ;
+     background-image:
+     url(../img/sucre.jpg),
+     url(../assets/vintage-concrete.png);
+     background-repeat:
+     no-repeat,
+     repeat;
+     background-blend-mode:
+     multiply,
+     normal;
+     background-position:
+     bottom 1px right 80px;
+     min-height: 500px;
 
    }
-
-   .card8 {
-     grid-column: 5 / 6;
-     grid-row: 3 / 4 ;
-
-   }
-
-   .cardz9 {
-     grid-column: 6 / -1;
-     grid-row: 3 / 4 ;
-
-   }
-
 
    .cards li {
        padding: 0;
+       font-size: .8999rem;
+       overflow:visible;
    }
 
-   .cards img {
+   img.cards {
        width: 100%;
        height: 100%;
        object-fit: cover;
@@ -426,10 +449,10 @@ div.premiere-blue {
        transition: transform 0.8s ease, -webkit-transform 0.8s ease;
    }
 
-   .cards img:hover {
+/*   .cards img:hover {
        transform: scale(0.95);
        -webkit-transform: scale(0.95);
-   }
+   } */
 
   .pad {
      padding:10px!important;
