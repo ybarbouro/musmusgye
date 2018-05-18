@@ -340,80 +340,86 @@ div.premiere-blue {
        padding: 0;
        list-style: none;
        display: grid;
-       grid-template-columns: 1fr 1fr 1fr 1fr;
-       grid-gap: 10px;
+       grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
        grid-auto-flow: column;
    }
 
    .grid-container {
-       max-width: 1200px;
-       margin: 2em auto 1em auto;
+       max-width: 1400px;
+       margin: -20px auto 1em auto;
        background-color: transparent;
       /* border-radius: 5px;*/
 
    }
 
    .card1 {
-       grid-column: 1 / 2;
+       grid-column: 1 / 3;
        grid-row: 1 / 3;
    }
 
    .card2 {
-       grid-column: 2 / 3;
+       grid-column: 3 / 4;
        grid-row: 1 / 3;
-       margin-top: 7em;
-   }
-
-   .card11 {
-       grid-column: 3 / -1;
-       grid-row: 1 / 3;
+       background-color: #c8c8c8;
    }
 
    .card3 {
-     grid-column: 2 / 4;
-     grid-row: 2;
+     grid-column: 4 / 5;
+     grid-row: 1 / 3;
+     background-color: #c8c8c8;
    }
 
-   .card22 {
-       grid-column: 4;
-       grid-row: 1;
+   .card4 {
+     grid-column: 5 / -1;
+     grid-row:  1 / 2;
    }
 
-   .cardx {
-     grid-column: 2 ;
-     grid-row: 2 ;
+   .card44 {
+       grid-column: 5 / -1;
+       grid-row: 2 / 3;
+   }
+
+
+   .card5 {
+       grid-column: 1 / 3;
+       grid-row: 3 / 4;
+       background: url(../assets/vintage-concrete.png);
+       min-height: 500px;
+   }
+
+   .card6 {
+     grid-column: 3 / 4 ;
+     grid-row: 3 / 4 ;
 
    }
 
-   .cardy {
-     grid-column: 3;
-     grid-row: 2 ;
+   .card7 {
+     grid-column: 4 / 5;
+     grid-row: 3 / 4 ;
 
    }
 
-   .cardz {
-     grid-column: 4;
-     grid-row: 2 ;
+   .card8 {
+     grid-column: 5 / 6;
+     grid-row: 3 / 4 ;
 
    }
 
-   .cardz-1 {
-     grid-column: 3 / 5;
-     grid-row: 2 ;
+   .cardz9 {
+     grid-column: 6 / -1;
+     grid-row: 3 / 4 ;
 
    }
 
 
    .cards li {
-       background-color: transparent;
-       padding: 10px;
+       padding: 0;
    }
 
    .cards img {
        width: 100%;
        height: 100%;
        object-fit: cover;
-       border-radius: 4px;
        transition: transform .8s ease;
        -webkit-transition: -webkit-transform 0.8s ease;
        transition: -webkit-transform 0.8s ease;
@@ -425,6 +431,13 @@ div.premiere-blue {
        -webkit-transform: scale(0.95);
    }
 
+  .pad {
+     padding:10px!important;
+   }
+
+  li.pad-bottom {
+    padding-bottom:25px;
+  }
 
  @media only screen and (max-width:600px){
  .cards {
@@ -445,23 +458,23 @@ div.premiere-blue {
     grid-row:4 / 5;
     margin-top: -25px;
     }
-    .card11 {
+  .card11 {
     grid-column:1;
     grid-row:1 / 3;
     }
-    .card22 {
+  .card22 {
     grid-column:1;
     grid-row: 3;
     }
-     .cardz-1 {
+  .cardz-1 {
     grid-column:1;
     grid-row: 4;
     }
-     .cardx {
+  .cardx {
     grid-column:1;
     grid-row: 5;
     }
-    .card3, .cardy, .cardz {
+  .card3, .cardy, .cardz {
     display:none;
     }
  }
