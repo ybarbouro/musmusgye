@@ -21,7 +21,7 @@ image: "https://res.cloudinary.com/magnvs/image/upload/v1522811906/temporary_tim
 
 ### <i class="fa fa-star fa-lg star"></i> Viernes 01
 
-##### 11h00 <br/>Festival los niños hacemos cultura
+##### 11h00 <br/>Programa los niños hacemos cultura
 Programa de música, danza, oratoria, declamación y teatro. Realizado por niños para los niños.
 
 **Lugar:** Auditorio del Museo Municipal.
