@@ -1,7 +1,7 @@
 ---
 title: Creatividad diseño en barro
 object-id: arte-barro
-listing-priority: 1
+listing-priority: 49
 day: 03
 month: MAY
 time: 18h30
