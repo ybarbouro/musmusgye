@@ -2,9 +2,9 @@
 layout: agenda
 image: "https://res.cloudinary.com/magnvs/image/upload/v1522811906/temporary_timbbp.jpg"
 ---
-### <i class="fa fa-star fa-lg star"></i> 30 Mayo - 02 Junio
+![kabuto](/img/kabuto.jpg)
 
-![Zumar](/img/madres-1.jpg)
+### <i class="fa fa-star fa-lg star"></i> 30 Mayo - 02 Junio
 
 ##### 09h00 - 17h00<br/> Exposiciones Cómic Club de Guayaquil
 
@@ -17,17 +17,18 @@ image: "https://res.cloudinary.com/magnvs/image/upload/v1522811906/temporary_tim
 
 **Lugar:** Museo Municipal de Guayaquil.
 
+![music kids](/img/musikids.jpg)
+
 ### <i class="fa fa-star fa-lg star"></i> Viernes 01
 
-![Fresia Saavedra](/img/fresia.jpg)
 ##### 11h00 <br/>Festival los niños hacemos cultura
 Programa de música, danza, oratoria, declamación y teatro. Realizado por niños para los niños.
 
 **Lugar:** Auditorio del Museo Municipal.
 
-### <i class="fa fa-star fa-lg star"></i> Sábado 02
+![carita pintada](/img/paintedface.jpg)
 
-![reinas](/img/angelina.jpg)
+### <i class="fa fa-star fa-lg star"></i> Sábado 02
 
 ##### 10h00 <br />Presentación del Teatrino Itinerante
 Teatro infantil de títeres de la Dirección de Cultura.
@@ -38,6 +39,8 @@ Para los más pequeños en la **Sala Polivalente**.
 ##### 11h00 <br />Cuenta cuentos
 Representación de la **leyenda de Fray Simplón**.
 
+![magos](/img/magician-1.jpg)
+
 ##### 14h00 <br />Show de magia
 Diversión y entretenimiento con ilusionismo.
 
@@ -45,9 +48,10 @@ Diversión y entretenimiento con ilusionismo.
 
 **Lugar:** Salas del Museo.
 
+![star wars](/img/rey-chewie.jpg)
+
 ### <i class="fa fa-star fa-lg star"></i> Sábado 02
 
-![Fresia Saavedra](/img/fresia.jpg)
 ##### 10h00 <br/>Star Wars se toma el Museo
 Cosplay nos visitan durante todo el día desde las 10h00 hasta las 17h00.
 
@@ -56,16 +60,15 @@ Durante todo el día (1 y 2 de junio) en las salas del Museo los niños se podr�
 
 ### <i class="fa fa-star fa-lg star"></i> Sábado 02
 
-![reinas](/img/angelina.jpg)
-
 ##### 10h00, 13h00 y 15h00 <br />Cine Infantil para los peques y los no tan peques.
 Proyección de películas y videos infantiles: Clásicos de Hanna-Barbera, Tiny Toons, Mazinger Z, Marvel y DC.
 
+![oso yogui](/img/yogui.jpg)
+
 ### <i class="fa fa-star fa-lg star"></i> Sábado 09
 
-![reinas](/img/angelina.jpg)
 
 ##### 10h00 y 14h00 <br />Cine Infantil para los peques y los no tan peques.
 Proyección de películas y videos infantiles: Clásicos de Hanna-Barbera, Tiny Toons, Mazinger Z, Marvel y DC.
 
-**Nota:** Todas las actividades que realiza el Museo Municipal de Guayaquil son gratuitas.
+**Nota:** *Todas las actividades que realiza el Museo Municipal de Guayaquil son gratuitas*.
