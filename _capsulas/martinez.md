@@ -2,7 +2,7 @@
 title: Taller de arte
 object-id: martinez
 listing-priority: 3
-day:
+day: en
 month: JUNIO
 time: 15h00 - 17h00
 place: Salas del Museo Municipal de Guayaquil
