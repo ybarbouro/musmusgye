@@ -13,7 +13,7 @@ ext-url: "/capsulas/"
 
 **Fechas:**  
 
-**Martes** 5, 12, 19 y 26 de junio 
+**Martes** 5, 12, 19 y 26 de junio <br />
 **Miércoles** 6, 13, 20 y 27 de junio
 
 **Horario del taller:**
