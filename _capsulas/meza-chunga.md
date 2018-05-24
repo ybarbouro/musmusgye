@@ -1,7 +1,7 @@
 ---
 title: Mirando formas, estilos y color
 object-id: meza-chunga
-listing-priority: 2
+listing-priority: 1
 day: 10
 month: MAY
 time: 18h30
