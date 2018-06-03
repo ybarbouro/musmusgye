@@ -267,9 +267,8 @@ h2.league-five{
 h2.league-light{
   font-family:"Oswald", sans-serif;
   font-weight: 400;
-  font-size: 2.4rem;
-  color: rgba(255,255,255,.8);
-  padding-bottom: 3rem;
+  font-size: 1.9rem;
+  color: rgba(255,255,255,.9);
 	line-height: 2.7rem;
 }
 
@@ -294,6 +293,7 @@ h2.league-blue-light {
   color: #517fa4;
   letter-spacing: 1px;
   line-height: 2.3rem;
+	margin-top:-.3em!important;
 }
 .bg-hero {
 	min-height: 60vh;
@@ -388,7 +388,7 @@ h2.league-blue-light {
 
 .bounce {
 	width: 20%;
-	padding: 0 0 20px 0;
+	padding: 300px 0 0 0;
 	margin:0;
 	margin-left:auto;
 	margin-right:auto;
@@ -503,7 +503,7 @@ h2.league-blue-light {
   color: #fff;
   text-shadow:2px 2px 0 #000;
 	letter-spacing: 3px;
-  padding-top: 33%;
+  padding-top: 0;
   }
 
 	.site-catch{

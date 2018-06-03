@@ -230,12 +230,15 @@ span.suscribing{
 
 .premiere-b {
   position: relative;
-  background-image: linear-gradient(to bottom, #a18cd1 0%, #c3cfe2 100%);
+  background: url('/img/fauno-light.svg'), linear-gradient(to bottom, #a18cd1 0%, #c3cfe2 100%);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
 }
 
 .premiere-c {
  position: relative;
- background-image: linear-gradient(to top, #cfd9df 0%, #c3cfe2 100%);
+ background-image: linear-gradient(to top, #FBC96E 0%, #c3cfe2 100%);
 }
 
 .premiere-expo {
