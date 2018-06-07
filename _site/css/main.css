@@ -230,7 +230,7 @@ span.suscribing{
 
 .premiere-b {
   position: relative;
-  background: url('/img/fauno-light.svg'), linear-gradient(to bottom, #a18cd1 0%, #c3cfe2 100%);
+  background: url('../img/fauno-light.svg'), linear-gradient(to bottom, #a18cd1 0%, #c3cfe2 100%);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: right;
@@ -240,7 +240,12 @@ span.suscribing{
  position: relative;
  background-image: linear-gradient(to top, #FBC96E 0%, #c3cfe2 100%);
 }
-
+.salon-logo {
+  width:45%;
+  margin: 0;
+  margin-left: auto;
+  margin-right:auto;
+}
 .premiere-expo {
  position: relative;
  background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
@@ -332,6 +337,9 @@ div.premiere-blue {
            	margin: 0;
             padding: 1em 1em;
            }
+    .salon-logo {
+      width: 70%;
+    }
    }
 
 /* ==========================================================================

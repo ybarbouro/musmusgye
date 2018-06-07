@@ -611,6 +611,8 @@ h2.league-blue-light {
 @media only screen and (max-width:600px){
   html{
     font-size:14px}
+	.bg-hero {
+				min-height: 100vh;}
   .last-update,.site-footer{
     font-size:1em}
   .grid-cell-left {
@@ -623,7 +625,7 @@ h2.league-blue-light {
 			font-size: 2.5rem;
 			line-height: 2.5rem;
 			letter-spacing: 2px;
-			padding-top: 4.7em;}
+			padding-top: 1em;}
 	.bounce {
 			width: 50%;
 		  padding: 0;
@@ -640,7 +642,9 @@ h2.league-blue-light {
 			}
 }
 @media only screen and (max-width:460px){
-  .grid-cell-left {
+	.bg-hero {
+			min-height: 100vh;}
+	.grid-cell-left {
     width:100%}
 }
 @media only screen and (max-width:420px){
@@ -648,12 +652,16 @@ h2.league-blue-light {
     font-size:2.5em}
   html{
     font-size:13px}
-.grid-cell-left {
+	.bg-hero {
+			min-height: 100vh;}
+  .grid-cell-left {
         width:100%}
-.site-section{
+  .site-section{
 			  padding:2.7em 1em 4em}
 }
 @media only screen and (max-width:320px){
+	.bg-hero {
+		min-height: 100vh;}
   .grid-cell-left {
           width:100%}
 	.site-section{
