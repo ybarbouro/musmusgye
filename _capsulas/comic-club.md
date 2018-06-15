@@ -1,7 +1,7 @@
 ---
 title: Exposición y Cosplay del Cómic Club de Guayaquil
 object-id: comic-club
-listing-priority: 2
+listing-priority: 1
 day: 30
 month: MAY
 time: 09h00 - 17h30
