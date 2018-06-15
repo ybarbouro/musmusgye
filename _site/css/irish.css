@@ -201,9 +201,10 @@ img.rounds {
  }
 
  img.rounds-2 {
-    max-width: 90%;
- 	 margin-bottom: 0.5em;
+    max-width: 23%;
+ 	  margin: 0.5em;
     border-radius: 50%;
+		mix-blend-mode:multiply;
     -webkit-box-shadow: 6px 7px 13px -6px rgba(0,0,0,0.75);
     -moz-box-shadow: 6px 7px 13px -6px rgba(0,0,0,0.75);
     box-shadow: 6px 7px 13px -6px rgba(0,0,0,0.75);
