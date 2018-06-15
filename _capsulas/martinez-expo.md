@@ -2,7 +2,7 @@
 title: Exposición del Taller de Arte Infantil
 object-id: martinez-expo
 listing-priority: 3
-day: 28 - 30
+day: 28/30
 month: JUNIO
 time: 09h00 - 17h30
 place: Sala de Arte Contemporáneo del Museo Municipal
