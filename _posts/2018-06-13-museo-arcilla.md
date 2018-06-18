@@ -14,5 +14,6 @@ La exposición fue montada por la artista Carmen Navarro, una escultora quiteña
 
 Cuatro momentos importantes de la ciudad y el país son narrados en estas obras: la danza ritual, la emancipación nacional, la conquista española y nuestra vida como pueblo luego de obtener la independencia. Tapia resalta que la definición y alta calidad de las figuras y cuadros hechos en arcilla y que representan cada una de las épocas de la prehistoria e historia de la ciudad y del país llaman mucho la atención de los turistas.  
 
-Este centro, que está abierto desde noviembre del año pasado, se encuentra en el Parque Lineal de la avenida Barcelona, junto al Club Náutico del Salado. La entrada es totalmente gratuita y su horario de atención es de lunes a domingo, de 10:00 a 18:00. Este lugar fue inaugurado el 15 de noviembre de 2013. (I)
+Este centro, que está abierto desde noviembre del año pasado, se encuentra en el Parque Lineal de la avenida Barcelona, junto al Club Náutico del Salado. La entrada es totalmente gratuita y su horario de atención es de lunes a domingo, de 10:00 a 18:00. Este lugar fue inaugurado el 15 de noviembre de 2013. (I)  
+
 <small>Fuente: Artículo publicado en el diaro El Telégrafo, en la sección Sociedad. [www.eltelegrafo.com.ec](http://tinyurl.com/yc9esmdh)</small>
