@@ -1,6 +1,6 @@
 ---
 layout: post
-title: El Museo Municipal de Guayaquil, arte, historia y naturaleza a la mano
+title: Tradición y vanguardia en el festival Musimuestras de Guayaquil
 date: 2018-06-21 15:00:00
 comment: El Comercio | Alexander García
 image: "https://res.cloudinary.com/magnvs/image/upload/v1529614197/g-vargas_ctzbgw.jpg"
