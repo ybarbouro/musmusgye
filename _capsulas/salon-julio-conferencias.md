@@ -14,6 +14,4 @@ En el marco del Salón de Julio 2018, los miembros del jurado, nos ofrecen varia
 
 **Participan en la presente edición:**
 
-- Justo Pastor Mellado, Chile.
-- Gustavo Buntinx, Perú.
-- Fernando Baena, España.
+Justo Pastor Mellado, Chile.<br />Gustavo Buntinx, Perú.<br />Fernando Baena, España.
