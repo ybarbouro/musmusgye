@@ -9,7 +9,7 @@ place: Auditorio del Museo Municipal
 image: "https://res.cloudinary.com/magnvs/image/upload/v1530403747/sj-post_fqccc4.jpg"
 ext-url: "/capsulas/"
 ---
-**Inauguración, premiación y exposición**
+**Inauguración y premiación**
 
 La Inauguración de la exposición se realizará en el Acto Inicial de la **59° edición del Salón de Julio -Pintura- Fundación de Guayaquil**, el martes 24 de julio. En este acto se dará a conocer también el veredicto del jurado.
 
