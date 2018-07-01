@@ -6,7 +6,7 @@ day: 18-20
 month: JUL
 time: 18h00
 place: Auditorio del Museo Municipal
-image: "https://res.cloudinary.com/magnvs/image/upload/v1530423545/JURADO59_rss4bz.jpg"
+image: "https://res.cloudinary.com/magnvs/image/upload/v1530424416/JURADO59_blp7n7.jpg"
 ext-url: "/capsulas/"
 ---
 
