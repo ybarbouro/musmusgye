@@ -12,5 +12,6 @@ El Municipio de Guayaquil presentó este miércoles el manual de audioguía, un 
 
 Tabacchi destacó además la existencia de un quiosco tecnológico, instalado dentro del museo, para que los visitantes puedan chequear los eventos que desarrollan en torno a la actividad cultural.
 
-Por su parte Hoyos indicó que el uso de las audioguías constituye un servicio adicional al que ofrecen los guías municipales de martes a sábados, de 09:00 a 17:00. El funcionario además invitó a la ciudadanía a participar de la agenda cultural establecida para las fiestas de julio. (I)
+Por su parte Hoyos indicó que el uso de las audioguías constituye un servicio adicional al que ofrecen los guías municipales de martes a sábados, de 09:00 a 17:00. El funcionario además invitó a la ciudadanía a participar de la agenda cultural establecida para las fiestas de julio. (I)  
+
 <small>Fuente: Artículo publicado en el diaro El Universo en la sección Comunidad [www.eluniverso.com](https://www.eluniverso.com/guayaquil/2018/07/04/nota/6843056/presentan-audioguia-visitar-museo-municipal-guayaquil)</small>
