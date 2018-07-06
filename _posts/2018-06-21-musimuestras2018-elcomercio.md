@@ -6,7 +6,9 @@ comment: El Comercio | Alexander García
 image: "https://res.cloudinary.com/magnvs/image/upload/v1529614197/g-vargas_ctzbgw.jpg"
 ffw: Leer más
 ---
-Los sonidos tradicionales de la música ecuatoriana serán interpretados en el Musimuestras 2018 desde una visión contemporánea. Para ello, los aires nacionales irradiarán a la música internacional, con los aportes de músicos locales a géneros como el jazz y el blues instrumental.<br />La música tradicional ecuatoriana, la académica, el rock y el blues integran los cuatro capítulos de la decimocuarta edición del festival del Museo Municipal de Guayaquil, que mantiene un perfil didáctico.  
+Los sonidos tradicionales de la música ecuatoriana serán interpretados en el Musimuestras 2018 desde una visión contemporánea. Para ello, los aires nacionales irradiarán a la música internacional, con los aportes de músicos locales a géneros como el jazz y el blues instrumental.  
+
+La música tradicional ecuatoriana, la académica, el rock y el blues integran los cuatro capítulos de la decimocuarta edición del festival del Museo Municipal de Guayaquil, que mantiene un perfil didáctico.  
 
 El ciclo de conciertos gratuitos se inició ayer (20 de junio del 2018) y se extenderá hasta el 30 de junio, con 11 presentaciones en el propio museo y en la Plaza Colón.  
 
