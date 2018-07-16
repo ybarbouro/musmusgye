@@ -1,0 +1,35 @@
+<div class="site-section" style="background-color:#517fa4;">
+    <h2 class="league-blue">PRÓXIMOS EVENTOS EN EL MUSEO</h2>
+<section>
+      {% assign capsulas = site.capsulas | sort: 'listing-priority' %}
+      {% for capsulas in capsulas limit: 3 %}
+    <article>
+      <div class="row leftie">
+        {% if capsulas.day %}
+        <h2 style="margin:3px; padding:3px !important;" class="league-light">{{ capsulas.day }} {% endif %}{% if capsulas.month %} <span style="font-size:0.9em;">{{ capsulas.month }}</span></h2>
+      	{% endif %}
+      </div>
+   <div class="cardex">
+
+      {% if capsulas.image %}
+      <img src="{{ capsulas.image }}" alt="Fotografía de {{ capsulas.title }}">
+      {% endif %}
+
+        <h1 style="color: #FFECB3;">{{ capsulas.title }}</h1>
+        <h2>{{ capsulas.comment }}</h2>
+        {{ capsulas.content }}
+
+    <div class="premiere">
+        <ul>
+          {% if capsulas.time %}
+              <li><p><i class="fa fa-clock-o"></i> {{ capsulas.time }}</p></li>{% endif %}
+          {% if capsulas.place %}
+              <li><p><i class="fa fa-chevron-circle-right"></i> {{ capsulas.place }}</p></li>{% endif %}
+        </ul>
+    </div>
+    </div>
+
+    </article>
+      {% endfor %}
+</section>
+</div>

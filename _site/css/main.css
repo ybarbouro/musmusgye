@@ -173,7 +173,8 @@ img.wide {
 }
 
 .suscribe {
-  background-color:#131a22;
+  /* background-color:#131a22;*/
+  background-image: linear-gradient(to bottom, #517fa4 0%, #226691  100%);
   color:#fff;
   letter-spacing:2px;
   margin-bottom: 0;
@@ -306,7 +307,7 @@ span.suscribing{
 div.premiere {
    	font-size: 1em;
    	font-weight: 300;
-   	color:#fff;
+   	color:#eee;
    }
 
 div.premiere-blue {
