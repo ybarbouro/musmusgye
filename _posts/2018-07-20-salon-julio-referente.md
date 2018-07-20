@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Salón de Julio referente en el arte local
-date: 2018-20-07 00:00:00
+date: 2018-07-20 00:00:00
 comment: El Universo | Vida y Estilo
 image: "https://res.cloudinary.com/magnvs/image/upload/v1532091319/tglg2z2lvbjhqmm6tzun.jpg"
 ffw: Leer más
