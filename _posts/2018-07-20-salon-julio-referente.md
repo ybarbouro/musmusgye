@@ -12,11 +12,11 @@ El pintor ecuatoriano Hernán Zúñiga define a su experiencia en el certamen co
 
 Temas como la represión política en Latinoamérica, el retorno de la democracia al Ecuador, incluso el sonado caso de la ecuatoriana Lorena Bobbitt han transitado por la producción que Zúñiga llevó al Salón en los años 1978, 1980 y 1994. Añade que este certamen es una de las pocas opciones que tienen los artistas emergentes para mostrar su trabajo.
 
-El fallecido Theo Constante ganó el certamen en 1960, 1961, 1962, 1963 1964. Su hija, Hellen Constante, le siguió los pasos y se llevó en 2001 el primer lugar del Salón. “Mi padre fue el primer invitado a mi premiación del Salón de Julio, sin que él supiera las innumerables veces que yo presente mi obra al concurso. Creo que a él lo admiraba todo el Ecuador, pues él fue y es un pilar de nuestra plástica, pero eso no fue ninguna ventaja en mi carrera como artista, muy por el contrario”, manifiesta.
+El fallecido Theo Constante ganó el certamen en 1964. Su hija, Hellen Constante, le siguió los pasos y se llevó en 2001 el primer lugar del Salón. “Mi padre fue el primer invitado a mi premiación del Salón de Julio, sin que él supiera las innumerables veces que yo presente mi obra al concurso. Creo que a él lo admiraba todo el Ecuador, pues él fue y es un pilar de nuestra plástica, pero eso no fue ninguna ventaja en mi carrera como artista, muy por el contrario”, manifiesta.
 
 Considera que pese a que el mundo contemporáneo del arte está en constante evolución y, por ende, este Salón, siempre se debe de “conservar la premisa del color y pigmento, pues este es y debe ser siempre el objetivo de un salón de pintura en formato bidimensional como este fue creado”.
 
-Con ello coincide Hernán Pacurucu, director de jurado del Salón de Julio. En los últimos cinco años ha estado inmerso en el certamen, algunas veces como jurado y otras como la persona encargada de asesorar a los curadores finales.
+Con ello coincide Hernán Pacurucu, director del Salón de Julio. En los últimos cinco años ha estado inmerso en el certamen, algunas veces como jurado y otras como la persona encargada de asesorar a los curadores finales.
 
 Comenta que siempre trata de “equilibrar” el marco del Salón. Lo hace –dice– eligiendo a jurados con distintas visiones artísticas, esto para que no siempre gane un estilo determinado. La premiación e inauguración del Salón están previstas para el 24 de este mes, en el Museo Municipal. (F)
 
