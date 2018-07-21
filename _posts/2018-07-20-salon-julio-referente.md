@@ -3,7 +3,7 @@ layout: post
 title: Salón de Julio referente en el arte local
 date: 2018-07-20 00:00:00
 comment: El Universo | Vida y Estilo
-image: "https://res.cloudinary.com/magnvs/image/upload/v1532091319/tglg2z2lvbjhqmm6tzun.jpg"
+image: "https://res.cloudinary.com/magnvs/image/upload/v1532142986/sd53lt9plc4tpsxtfsri.jpg"
 ffw: Leer más
 ---
 Por sus filas han pasado cientos de exponentes de la plástica nacional e internacional, muchos de ellos ahora convertidos en artistas de renombre. Mientras unos han empezado su carrera con este certamen, otros le han sumado esa experiencia a sus ya amplias trayectorias. Se trata del Salón de Julio, que este 2018 llegó a sus 59 años, tiempo en el cual los retos y la evolución de los parámetros artísticos han sido sus constantes.
