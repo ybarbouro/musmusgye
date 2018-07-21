@@ -238,7 +238,7 @@ span.suscribing{
   background: url('../img/fauno-light.svg'), linear-gradient(to bottom, #A18CD1 0%, #c3cfe2 100%);
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: right;
+  background-position: bottom right;
 }
 
 .premiere-c {
