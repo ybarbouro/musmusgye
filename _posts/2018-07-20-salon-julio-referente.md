@@ -3,7 +3,7 @@ layout: post
 title: Salón de Julio referente en el arte local
 date: 2018-07-20 00:00:00
 comment: El Universo | Vida y Estilo
-image: "https://res.cloudinary.com/magnvs/image/upload/v1532142986/sd53lt9plc4tpsxtfsri.jpg"
+image: "https://res.cloudinary.com/magnvs/image/upload/v1532726896/i6tw5apjswr1duznk4cj.jpg"
 ffw: Leer más
 ---
 Por sus filas han pasado cientos de exponentes de la plástica nacional e internacional, muchos de ellos ahora convertidos en artistas de renombre. Mientras unos han empezado su carrera con este certamen, otros le han sumado esa experiencia a sus ya amplias trayectorias. Se trata del Salón de Julio, que este 2018 llegó a sus 59 años, tiempo en el cual los retos y la evolución de los parámetros artísticos han sido sus constantes.
@@ -21,3 +21,5 @@ Con ello coincide Hernán Pacurucu, director del Salón de Julio. En los último
 Comenta que siempre trata de “equilibrar” el marco del Salón. Lo hace –dice– eligiendo a jurados con distintas visiones artísticas, esto para que no siempre gane un estilo determinado. La premiación e inauguración del Salón están previstas para el 24 de este mes, en el Museo Municipal. (F)
 
 <small>Fuente: Lea el artículo completo del diaro El Universo (Vida y Estilo) publicado en el siguiente enlace: [www.eluniverso.com](https://www.eluniverso.com/vida/2018/07/20/nota/6867185/salon-julio-referente-arte-local).</small>
+
+<small>Fotografía de Alfredo Piedrahíta: Tercer premio del salón de Julio 2018 (Jonnathan Mosquera, "YOU")</small>
