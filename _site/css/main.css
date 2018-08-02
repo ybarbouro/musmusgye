@@ -348,9 +348,59 @@ div.premiere-blue {
    }
 
 /* ==========================================================================
+   Main grid classes
+   ========================================================================== */
+   
+@media (min-width:600px) {
+  main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 0px;
+    margin: 7em 0 0 0;
+  }
+  .info1 {
+    grid-column: span 2;
+    grid-row: span 2;
+  }
+  .info2 {
+    grid-column: span 2;
+  }
+  .figure1 {
+    grid-column: span 3;
+    grid-row: span 2;
+  }
+  .figure6 {
+    grid-column: span 2;
+  }
+  .figure7 {
+    grid-column: span 3;
+  }
+  .figure8 {
+    grid-column: span 3;
+  }
+}
+
+.figure-img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.info1, .info2 {
+  padding: 40px;
+  background-color: #ffa000;
+  color: #fff;
+}
+
+.info-link{
+  text-decoration: none;
+  color: #d80c0c
+}
+
+/* ==========================================================================
    Grid classes
    ========================================================================== */
-
    .cards {
        margin: 0;
        padding: 0;
