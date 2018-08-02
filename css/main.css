@@ -350,13 +350,20 @@ div.premiere-blue {
 /* ==========================================================================
    Main grid classes
    ========================================================================== */
-   
+
 @media (min-width:600px) {
   main {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-gap: 0px;
     margin: 7em 0 0 0;
+  }
+
+  .mid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 0px;
+    margin: 0;
   }
   .info1 {
     grid-column: span 2;
@@ -387,9 +394,15 @@ div.premiere-blue {
   object-fit: cover;
 }
 
-.info1, .info2 {
+.info1 {
   padding: 40px;
   background-color: #ffa000;
+  color: #fff;
+}
+
+.info2 {
+  padding: 40px;
+  background-color: #bada55;
   color: #fff;
 }
 
