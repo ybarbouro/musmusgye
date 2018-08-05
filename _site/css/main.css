@@ -235,7 +235,7 @@ span.suscribing{
 
 .premiere-b {
   position: relative;
-  background: linear-gradient(to top, #fff 0%, #c3cfe2 100%);
+  background: #2B5676;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom right;
@@ -321,6 +321,18 @@ div.premiere-blue {
   font-size: .879em;
 }
 
+
+div.premiere-kaki {
+        font-size: 1em;
+      	font-weight: 300;
+        color: #d1c5b5;
+        padding-top: .7em;
+      }
+
+.premiere-kaki > div {
+  font-size: .879em;
+}
+
 .premiere > ul {
    	list-style: none;
    	margin-left: -1px;
@@ -348,8 +360,51 @@ div.premiere-blue {
    }
 
 /* ==========================================================================
-   Main grid classes
+   gridz classes
    ========================================================================== */
+
+   .gridz {
+     display: grid;
+     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+     background: url(https://res.cloudinary.com/magnvs/image/upload/v1533443392/zzrcdzjrfmyc1znb1c5v.svg)
+       top center
+       no-repeat
+       #2B5676;
+     background-size: contain;
+     min-height: 765px;
+     min-width: 100vw;
+   }
+
+   .element {
+     grid-column: 1 / 2;
+     background:
+    url(https://cdn.filestackcontent.com/uDy8rwlhQJ6KHfOyMoGO),url(https://res.cloudinary.com/magnvs/image/upload/v1533443701/t5zziy5tsjbrtte7bx8l.svg);
+      background-position: top left, top left;
+      background-repeat: no-repeat, no-repeat;
+      background-size: contain, contain;
+      background-blend-mode: multiply;
+   }
+
+     .element-1 {
+     grid-column: 2 / 4 ;
+     background:
+    url(https://res.cloudinary.com/magnvs/image/upload/v1533454452/tmmkghrmvauq8mvhkmjy.svg)
+       top left
+       no-repeat;
+     background-size: 750px;
+   }
+
+   @media screen and (max-width: 700px){
+     .gridz {
+       min-height: 300px;
+     }
+     .element-1 {
+      background-size: contain;
+     }
+   }
+   /* ==========================================================================
+      Main grid classes
+      ========================================================================== */
 
 @media (min-width:600px) {
   main {

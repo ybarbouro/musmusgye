@@ -308,6 +308,9 @@ h2.league-blue-light {
 
 .bg-hero-expo {
 	min-height: 35vh;
+	background-image: url(https://cdn.filestackcontent.com/VYbQ59lXQH6GlhParWWq);
+	background-position: center;
+	background-size: cover;
 	margin: 0;
 }
 .aside{
