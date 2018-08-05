@@ -356,8 +356,8 @@ div.premiere-blue {
      grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
      background: url(https://res.cloudinary.com/magnvs/image/upload/v1533443392/zzrcdzjrfmyc1znb1c5v.svg)
        top center
-       no-repeat
-       linear-gradient(to bottom, #fff 0%, #2B5676 100%);
+       no-repeat;
+     background:linear-gradient(to bottom, #fff 0%, #2B5676 100%);
      background-size: contain;
      min-height: 765px;
      min-width: 100vw;
