@@ -377,7 +377,7 @@ div.premiere-blue {
      grid-column: 2 / 4 ;
      background:
     url(https://res.cloudinary.com/magnvs/image/upload/v1533454452/tmmkghrmvauq8mvhkmjy.svg)
-       top center
+       top left
        no-repeat;
      background-size: 750px;
    }
