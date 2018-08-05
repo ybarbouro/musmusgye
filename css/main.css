@@ -235,7 +235,7 @@ span.suscribing{
 
 .premiere-b {
   position: relative;
-  background: linear-gradient(to top, #fff 0%, #c3cfe2 100%);
+  background: #2B5676;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom right;
@@ -313,7 +313,8 @@ div.premiere {
 div.premiere-blue {
         font-size: 1em;
       	font-weight: 300;
-      	color:rgba(36,57,73,1);
+      	/*color:rgba(36,57,73,1);*/
+        color: #d1c5b5;
         padding-top: .7em;
       }
 
@@ -357,7 +358,7 @@ div.premiere-blue {
      background: url(https://res.cloudinary.com/magnvs/image/upload/v1533443392/zzrcdzjrfmyc1znb1c5v.svg)
        top center
        no-repeat
-       #c3cfe2;
+       #2B5676;
      background-size: contain;
      min-height: 765px;
      min-width: 100vw;
