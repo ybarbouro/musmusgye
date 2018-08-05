@@ -313,12 +313,23 @@ div.premiere {
 div.premiere-blue {
         font-size: 1em;
       	font-weight: 300;
-      	/*color:rgba(36,57,73,1);*/
-        color: #d1c5b5;
+      	color:rgba(36,57,73,1);
         padding-top: .7em;
       }
 
 .premiere-blue > div {
+  font-size: .879em;
+}
+
+
+div.premiere-kaki {
+        font-size: 1em;
+      	font-weight: 300;
+        color: #d1c5b5;
+        padding-top: .7em;
+      }
+
+.premiere-kaki > div {
   font-size: .879em;
 }
 
