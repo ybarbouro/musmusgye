@@ -1,7 +1,7 @@
 ---
 title: Charla con Gabriela Gonzalez Dellosso
 object-id: gabriella-gonzalez-dellosso
-listing-priority: 1
+listing-priority: 2
 day: 17
 month: AGO
 time: 11h00
