@@ -1,5 +1,5 @@
 ---
-title: Taller de creatividad
+title: Taller de creatividad con María José Argenzio
 object-id: argenzio
 listing-priority: 3
 day: 11 - 15
