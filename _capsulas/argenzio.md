@@ -1,11 +1,11 @@
 ---
 title: Taller de creatividad
-object-id: orquesta-camara
+object-id: argenzio
 listing-priority: 3
 day: 11 - 15
 month: SEP
 time: 15h00 - 17h00
-place: Parque Seminario
+place: Museo Municipal
 image: "https://res.cloudinary.com/magnvs/image/upload/v1533660349/argenzio_g43xds.jpg"
 ext-url: "/capsulas/"
 ---
