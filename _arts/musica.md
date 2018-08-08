@@ -5,8 +5,8 @@ title: CONCURSO DE MÚSICA
 featured: false
 featured-priority: 2
 listing-priority: 2
-dates: 5 y 6 de Octubre
-place: Parque Infantil Ferroviaria
+dates: 6 y 7 de octubre
+place: PLaza Colón. Teatro al aire libre José de la Cuadra.
 ---
 
 Este año el concurso de Música tendrá tema libre tanto en las categorías profesionales y amateur, mismas que se desarrollarán considerando los siguientes aspectos:

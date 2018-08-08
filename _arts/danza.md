@@ -5,8 +5,8 @@ title: CONCURSO DE DANZA
 featured: false
 featured-priority: 3
 listing-priority: 3
-dates: 7 al 10 de Octubre
-place: Parque Infantil Ferroviaria
+dates: 9 al 11 de Octubre
+place: Monumento a los Donantes del Malecón 2000. Jardines del Malecón
 ---
 Este año el concurso de danza calificará TALENTO, por lo cual podrán participar cualquier género (Salsa, Pop, contemporáneo, moderno, jazz, street dance, etc.), se llevará a cabo considerando los siguientes aspectos: 
 

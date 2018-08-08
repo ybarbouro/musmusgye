@@ -5,8 +5,8 @@ title: CONCURSO DE ARTES ALTERNATIVAS
 featured: false
 featured-priority: 9
 listing-priority: 9
-dates: 10 y 11 de Octubre
-place: La Bota - Terraza sur del Malecón del Estero Salado
+dates: 7 y 8 de octubre
+place: Monumento a los Donantes del Malecón 2000. Jardines del Malecón
 ---
 El concurso se desarrollará en la terraza de La Bota, Malecón del Estero Salado, los días 10 y 11 de octubre de 2017. Las propuestas se exhibirán presencialmente o documentalmente (según la factibilidad de la obra) de acuerdo con los siguientes aspectos:
  

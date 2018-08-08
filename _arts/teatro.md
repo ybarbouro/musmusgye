@@ -5,8 +5,8 @@ title: CONCURSO DE TEATRO
 featured: false
 featured-priority: 6
 listing-priority: 6
-dates: 11, 12 y 13 de Octubre
-place: Plaza de la Salud del Malecón del Estero Salado
+dates: 6 - 8 de octubre
+place: Malecón 2000. Ágora 1 (A la altura de la calle Illinworth)
 ---
 Este año el concurso será en el género “TEATRO DE CALLE”, tendrá tema libre y se desarrollará de acuerdo con los siguientes aspectos:  
 

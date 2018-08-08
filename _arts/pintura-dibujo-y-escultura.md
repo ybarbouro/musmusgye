@@ -5,8 +5,8 @@ title: CONCURSO DE PINTURA, DIBUJO Y ESCULTURA
 featured: true
 featured-priority: 1
 listing-priority: 1
-dates: 2 al 11 de Octubre
-place: Malecón de la Ferroviaria y Parque Lineal del Estero Salado
+dates: 1 al 11 de Octubre
+place: Malecón 2000, Hemiciclo de la Rotonda. Plaza Colón, junto a la iglesia de Sto. Domingo.
 ---
 El concurso de escultura se desarrollará del 2 al 11 de octubre del 2017 en el Parque Lineal del Estero Salado;  el concurso de pintura del 6 al 11 octubre en el Malecón de la Ferroviaria; y el concurso de dibujo, del 9 al 11 de octubre en el Malecón de la Ferroviaria. Los concursos se desarrollarán de 10h00 a 18h00 respectivamente, en las fechas y días anunciados previamente.
 

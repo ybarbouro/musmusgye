@@ -5,8 +5,8 @@ title: CONCURSO DE CORTOMETRAJE
 featured: true
 featured-priority: 8
 listing-priority: 8
-dates: 12 y 13 de Octubre
-place: La Bota - Terraza sur del Malecón del Estero Salado
+dates: 7 y 8 de octubre
+place: Monumento a los Donantes del Malecón 2000. Jardines del Malecón
 ---
 
 El concurso de cortometraje tendrá la temática libre y se llevará a cabo en la terraza de La Bota, Malecón del Estero Salado, los días 12 y 13 de octubre de 2017.

@@ -5,8 +5,8 @@ title: CONCURSO DE TÍTERES
 featured: false
 featured-priority: 5
 listing-priority: 5
-dates: 7 y 8 de Octubre
-place: Plaza de la Salud del Malecón del Estero Salado
+dates: 6 y 7 de octubre
+place: Malecón 2000. Ágora 1 (A la altura de la calle Illinworth)
 ---
 El concurso se desarrollará en la Plaza de la Salud del Malecón del Estero Salado y se llevará a cabo los día 7 y 8 de octubre de 2017 de acuerdo con los siguientes aspectos:
  

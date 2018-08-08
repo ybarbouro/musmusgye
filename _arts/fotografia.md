@@ -5,8 +5,8 @@ title: CONCURSO DE FOTOGRAFÍA
 featured: false
 featured-priority: 7
 listing-priority: 7
-dates: 12 y 13 de Octubre
-place: La Bota - Terraza sur del Malecón del Estero Salado
+dates: 7 y 8 de octubre
+place: Monumento a los Donantes del Malecón 2000. Jardines del Malecón
 ---
 Este año el concurso de fotografía tendrá como temática la expuesta en la cláusula general. El concurso se desarrollará en la terraza de La Bota, Malecón del Estero Salado, los días 12 y 13 de octubre de 2017 y se realizará según los siguientes aspectos:
 

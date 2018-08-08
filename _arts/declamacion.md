@@ -5,8 +5,8 @@ title: CONCURSO DE DECLAMACIÓN
 featured: false
 featured-priority: 4
 listing-priority: 4
-dates: 7 y 8 de Octubre
-place: Plaza de la Salud del Malecón del Estero Salado
+dates: 6 y 8 de Octubre
+place: Malecón 2000. Ágora 1 (A la altura de la calle Illinworth)
 ---
 El concurso se desarrollará en el Malecón del Salado (Plaza de la Salud - Paseo de los escritores) y se llevará a cabo el concurso de acuerdo a las siguientes bases:
  
