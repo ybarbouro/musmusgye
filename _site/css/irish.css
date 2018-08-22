@@ -264,7 +264,13 @@ h2.league-five{
 	font-size: 3rem;
 	line-height: 3.5rem;
 }
-
+h2.league-sm{
+  font-family:"Oswald", sans-serif;
+  font-weight: bold;
+  font-size: 1.8rem;
+  line-height: 2rem;
+  color:rgba(36,57,73,1);
+}
 h2.league-light{
   font-family:"Oswald", sans-serif;
   font-weight: 400;
