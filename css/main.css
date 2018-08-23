@@ -235,10 +235,7 @@ span.suscribing{
 
 .premiere-b {
   position: relative;
-  background: #2B5676;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: bottom right;
+  background-color: rgba(43,86,118,1);
 }
 
 .premiere-c {
@@ -323,7 +320,7 @@ div.premiere-blue {
 
 
 div.premiere-kaki {
-        font-size: 1em;
+        font-size: 1.2em;
       	font-weight: 300;
         color: #d1c5b5;
         padding-top: .7em;
@@ -451,7 +448,7 @@ div.premiere-kaki {
 
 .info1 {
   padding: 40px;
-  background-color: #ffa000;
+  background-color: #00979f;
   color: #fff;
 }
 

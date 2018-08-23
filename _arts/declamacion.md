@@ -5,7 +5,7 @@ title: CONCURSO DE DECLAMACIÓN
 featured: false
 featured-priority: 4
 listing-priority: 4
-dates: 6 y 8 de Octubre
+dates: 6 - 8 de Octubre
 place: Malecón 2000. Ágora 1 (A la altura de la calle Illinworth)
 ---
 El concurso se desarrollará en el Ágora 1 del Malecón 2000 (Calle Illingwoth) los días 06, 07 y 08 de octubre del 2018 de 13h00 a 15h00 y se llevará a cabo el concurso de acuerdo a las siguientes bases:
