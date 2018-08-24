@@ -4,8 +4,7 @@ first-name: Vargas
 last-name: Project Band
 job: Los reyes del pop
 listing-priority: 1
-wikipedia-url: http://www.elcomercio.com/tendencias/musimuestras-guayaqui-musica-madonna-michaeljackson.html
-image: "http://res.cloudinary.com/magnvs/image/upload/v1496847120/mmgye/vive.jpg"
+image: "https://res.cloudinary.com/magnvs/image/upload/v1496847120/mmgye/vive.jpg"
 fuente-imagen: Fernando Mayorga G.
 ---
 
