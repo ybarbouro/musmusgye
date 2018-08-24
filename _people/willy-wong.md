@@ -5,7 +5,7 @@ last-name: and The Brothers
 job: Historia de la música disco / El glam
 listing-priority: 2
 wikipedia-url: https://es.wikipedia.org/wiki/Municipalidad_de_Guayaquil
-image: "http://res.cloudinary.com/magnvs/image/upload/v1496847731/mmgye/wong02.jpg"
+image: "https://res.cloudinary.com/magnvs/image/upload/v1496847731/mmgye/wong02.jpg"
 fuente-imagen: Musimuestras 2017 - Fernando Mayorga
 ---
 
