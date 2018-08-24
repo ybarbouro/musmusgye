@@ -1,7 +1,7 @@
 ---
 title: Taller de creatividad con María José Argenzio
 object-id: argenzio
-listing-priority: 3
+listing-priority: 45
 day: 11 - 15
 month: SEP
 time: 15h00 - 17h00
