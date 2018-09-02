@@ -9,7 +9,7 @@
     <div class="top-anchor">
     <h2 class="league-sm-white">{{ post.title }}</h2>
     <p>{{ post.excerpt }}<p>
-    <p>{{ post.comment }}</p>  
+    <p>{{ post.comment }}</p>
     <p><i class="fa fa-arrow-circle-right"></i> <a href="{{post.url}}">{{ post.ffw }}</a></p>
     </div>
     {% endfor %}
@@ -27,9 +27,11 @@
           {% endif %}
           <ul>
                 {% if capsulas.time %}
-                    <li><p><i class="fa fa-clock-o"></i> {{ capsulas.time }}</p></li>{% endif %}
+                    <li><p><i class="fa fa-clock-o"></i> {{ capsulas.time }} {% endif %}
                 {% if capsulas.place %}
-                    <li><p><i class="fa fa-chevron-circle-right"></i> {{ capsulas.place }}</p></li>{% endif %}
+                    &nbsp;&nbsp;<i class="fa fa-chevron-circle-right"></i> {{ capsulas.place }}</p></li>{% endif %}
+                {% if capsulas.link%}
+                    <li><i class="fa fa-arrow-circle-right"></i><a href="{{ capsulas.link }}"> Más información</a></li>{% endif %}
           </ul>
       </div>
     </div>
@@ -40,11 +42,21 @@
 
 </div>
 
-  <figure class="figure2" style="margin:0;">
-    <img src="//res.cloudinary.com/magnvs/image/upload/v1534964621/charton-1_bdcj4k.jpg" alt="" class="figure-img">
-  </figure>
-  <figure class="figure3" style="margin:0;">
-    <img src="//res.cloudinary.com/magnvs/image/upload/v1534964621/charton_vze28y.jpg" alt="" class="figure-img">
-  </figure>
+<div class="info4 dimmer leftie" style="padding:0;">
+  {% assign person = site.people | sort: 'listing-priority' %}
+  {% for person in person limit: 1 %}
+
+    {% if person.image %}
+  <a href="{{ person.url }}">
+    <figure><img src="{{ person.image }}" alt="Fotografía de {{ person.title }}"></figure></a>
+    {% endif %}
+
+  <div class="top-anchor">
+  <h2 class="league-sm-white">{{ person.title }}</h2>
+  <p>{{ person.content }}<p>
+  <h4 style="color:#FBC96E;">{{ person.ad }}</h4>
+
+  {% endfor %}
+</div>
 </main>
 </div>
