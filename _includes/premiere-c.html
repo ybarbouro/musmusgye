@@ -47,8 +47,7 @@
   {% for person in person limit: 1 %}
 
     {% if person.image %}
-  <a href="{{ person.url }}">
-    <figure><img src="{{ person.image }}" alt="Fotografía de {{ person.title }}"></figure></a>
+    <figure><img src="{{ person.image }}" alt="Fotografía de {{ person.title }}"></figure>
     {% endif %}
 
   <div class="top-anchor">
