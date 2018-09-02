@@ -35,9 +35,9 @@
           </ul>
       </div>
     </div>
-      {% if capsulas.image %}
+      <!-- {% if capsulas.image %}
   <figure ><img src="{{ capsulas.image }}" alt="Fotografía de {{ capsulas.title }}"></figure>
-      {% endif %}
+      {% endif %}-->
     {% endfor %}
 
 </div>
@@ -57,5 +57,15 @@
 
   {% endfor %}
 </div>
+</div>
+{% assign capsulas = site.capsulas | sort: 'listing-priority' %}
+{% for capsulas in capsulas limit: 1 %}
+<figure class="figure-main" style="padding:0; margin:0;">
+  {% if capsulas.image %}
+  <img class="figure-img" src="{{ capsulas.image }}" alt="Fotografía de {{ capsulas.title }}">
+  {% endif %}
+
+</figure>
+{% endfor %}
 </main>
 </div>

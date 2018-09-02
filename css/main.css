@@ -432,7 +432,6 @@ div.premiere-kaki {
   }
   .info3 {
     grid-column: 3 / 4;
-    grid-row: span 2;
   }
   .info3 img{
     width: 100%;
@@ -477,6 +476,10 @@ div.premiere-kaki {
   }
   .figure8 {
     grid-column: span 3;
+  }
+  .figure-main {
+    grid-column: 3 / 4;
+    grid-row: 2 / 3;
   }
 }
 .top-anchor1 {
