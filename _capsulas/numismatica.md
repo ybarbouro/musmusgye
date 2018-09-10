@@ -1,7 +1,7 @@
 ---
 title: I Jornada de Numismática de Guayaquil - 2018
 object-id: numismática
-listing-priority: 1
+listing-priority: 50
 day: 6 - 7
 month: SEPTIEMBRE
 time: 18h00 - 20h00

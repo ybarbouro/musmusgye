@@ -30,17 +30,19 @@
                     <li><p><i class="fa fa-clock-o"></i> {{ capsulas.time }} {% endif %}
                 {% if capsulas.place %}
                     &nbsp;&nbsp;<i class="fa fa-chevron-circle-right"></i> {{ capsulas.place }}</p></li>{% endif %}
-                {% if capsulas.link%}
+                {% if capsulas.link %}
                     <li><i class="fa fa-arrow-circle-right"></i><a href="{{ capsulas.link }}"> Más información</a></li>{% endif %}
           </ul>
       </div>
-    </div>
-      <!-- {% if capsulas.image %}
-  <figure ><img src="{{ capsulas.image }}" alt="Fotografía de {{ capsulas.title }}"></figure>
-      {% endif %}-->
     {% endfor %}
 
-</div>
+    <div class="cta-option-download" style="margin-bottom:1.5em;">
+        <a class="btn btn-download" href="//redtur.surge.sh" target="blank" data-ga-category="outbound links">
+           CONFERENCIAS
+        </a>
+      </div>
+    </div>
+  </div>
 
 <div class="info4 dimmer leftie" style="padding:0;">
   {% assign person = site.people | sort: 'listing-priority' %}
@@ -60,7 +62,7 @@
 </div>
 {% assign capsulas = site.capsulas | sort: 'listing-priority' %}
 {% for capsulas in capsulas limit: 1 %}
-<figure class="figure-main" style="padding:0; margin:0;">
+<figure class="figure-main">
   {% if capsulas.image %}
   <img class="figure-img" src="{{ capsulas.image }}" alt="Fotografía de {{ capsulas.title }}">
   {% endif %}
