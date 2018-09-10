@@ -6,9 +6,9 @@ featured: false
 featured-priority: 7
 listing-priority: 7
 dates: 7 y 8 de octubre
-place: Monumento a los Donantes del Malecón 2000. Jardines del Malecón
+place: Hemiciclo de la Rotonda del Malecón 2000. 
 ---
-Este año el concurso de Fotografía tendrá como temática “Guayaquil en rostros”. El concurso se desarrollará en la Plaza de los Donantes del Malecón 2000 (entre Tomás Martínez y Loja en los Jardines del Malecón) los días 07 y 08 de octubre de 2018 de 19h00 a 20h00 y se realizará según los siguientes aspectos:
+Este año el concurso de Fotografía tendrá como temática “Guayaquil en rostros”. El concurso se desarrollará en el Hemiciclo de la Rotonda del Malecón 2000 los días 07 y 08 de octubre de 2018 de 19h00 a 20h00 y se realizará según los siguientes aspectos:
 
 ### SOBRE LOS PARTICIPANTES
 
