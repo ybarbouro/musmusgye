@@ -6,7 +6,7 @@ featured: false
 featured-priority: 6
 listing-priority: 6
 dates: 6 - 8 de octubre
-place: Malecón 2000. Ágora 1 (A la altura de la calle Illinworth)
+place: Malecón 2000. Ágora 1 (A la altura de la calle Illingworth)
 ---
 Este año el concurso será en el género “Teatro de Calle”, tendrá temática libre y se desarrollará de acuerdo con los siguientes aspectos:
 
