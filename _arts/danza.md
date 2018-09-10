@@ -6,7 +6,7 @@ featured: false
 featured-priority: 3
 listing-priority: 3
 dates: 9 al 11 de Octubre
-place: Monumento a los Donantes del Malecón 2000. Jardines del Malecón
+place: Paseo de los Presidentes. Loza +6
 ---
 Este año el concurso de Danza tendrá temática libre permitiendo participar con cualquier género como: Salsa, Pop, contemporáneo, moderno, jazz, street dance, etc. Se llevará a cabo considerando los siguientes aspectos:
 
@@ -34,7 +34,7 @@ El artista o representante deberá llevar a un ayudante para que maneje el audio
 
 ### SOBRE LA PARTICIPACIÓN
 
-El concurso se desarrollará en el Monumento a los Donantes del Malecón 2000 (entre Tomás Martínez y Loja en los Jardines del Malecón) los días 09, 10, y 11 de octubre de 2018.
+El concurso se desarrollará en la Loza+6 del Malecón 2000, Paseo de los Presidentes (A la altura de la calle Illingworth) los días 09, 10, y 11 de octubre de 2018.
 
 La presente edición tendrá temática libre.
 
