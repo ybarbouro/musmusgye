@@ -6,7 +6,7 @@ featured: false
 featured-priority: 5
 listing-priority: 5
 dates: 6 y 7 de octubre
-place: Malecón 2000. Ágora 1 (A la altura de la calle Illinworth)
+place: Malecón 2000. Ágora 1 (A la altura de la calle Illingworth)
 ---
 El concurso tendrá temática libre y se desarrollará en el Ágora 1 del Malecón 2000 (Calle Illingworth) y se llevará a cabo los días 06 y 07 de octubre de 2018 de 10h00 a 12h0 de acuerdo con los siguientes aspectos:
 
