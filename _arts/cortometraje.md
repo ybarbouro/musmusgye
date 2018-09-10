@@ -6,9 +6,9 @@ featured: true
 featured-priority: 8
 listing-priority: 8
 dates: 7 y 8 de octubre
-place: Monumento a los Donantes del Malecón 2000. Jardines del Malecón
+place: Hemiciclo de la Rotonda del Malecón 2000
 ---
-El Concurso de Cortometraje tendrá la temática libre y se llevará a cabo en el Monumento a los Donantes (entre Tomás Martínez y Loja en los Jardines del Malecón), los días 07 y 08 de octubre de 2018 de 20h00 a 22h00.
+El Concurso de Cortometraje tendrá la temática libre y se llevará a cabo en el Hemiciclo de la Rotonda del Malecón 2000, los días 07 y 08 de octubre de 2018 de 20h00 a 22h00.
 
 ### SOBRE LOS PARTICIPANTES
 
