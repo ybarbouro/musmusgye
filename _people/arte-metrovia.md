@@ -1,8 +1,9 @@
 ---
-object-id: arte-metrovia
+object-id: viva-asia
 first-name: viva
 last-name: asia
 job: artista
+title: Arte en la Metrovía
 listing-priority: 1
 image: "//res.cloudinary.com/magnvs/image/upload/v1536627604/rxhkaig7ormxpmo0c2nl.jpg"
 fuente-imagen: Fernando Mayorga

@@ -3,7 +3,7 @@ object-id: dampierre
 first-name: William
 last-name: Dampierre
 job: Corsario
-listing-priority: 1
+listing-priority: 12
 image: "//res.cloudinary.com/magnvs/image/upload/v1535873170/dmshykae4vuks0aommbh.jpg"
 fuente-imagen: Museo Municipal de guayaquil
 ad: ¡Conoce más en el Museo Municipal de Guayaquil!
