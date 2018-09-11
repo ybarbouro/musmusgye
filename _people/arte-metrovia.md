@@ -1,7 +1,7 @@
 ---
 object-id: arte-metrovia
-first-name: arte en
-last-name: la metrovía
+first-name: viva
+last-name: asia
 job: artista
 listing-priority: 1
 image: "//res.cloudinary.com/magnvs/image/upload/v1536627604/rxhkaig7ormxpmo0c2nl.jpg"
