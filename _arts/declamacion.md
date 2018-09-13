@@ -30,7 +30,7 @@ Los organizadores informarán con anticipación la hora, el lugar y el día de p
 
 ### SOBRE LA PARTICIPACIÓN
 
-Deberán declamar el texto escogido o creado, de manera pública. Podrán escoger textos de autores nacionales o internacionales, así como ser de autoría del narrador siempre que el tema esté relacionado con el “Bicentenario de Independencia de Guayaquil”.
+Deberán declamar el texto escogido o creado, de manera pública. Podrán escoger textos de autores nacionales o internacionales, así como ser de autoría del narrador. El tema es libre.
 
 Los textos serán obligatoriamente en idioma español y pertenecer a la literatura ecuatoriana y/o latinoamericana, sea en prosa o en verso.
 
