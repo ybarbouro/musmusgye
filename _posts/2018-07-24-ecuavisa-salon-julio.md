@@ -8,7 +8,7 @@ ffw: Leer más
 ---
 Reportaje (video) de Josabet Carchi para Ecuavisa. La premiación se llevó a cabo el martes 24 de julio a las 19h00 en el Auditorio del Museo Municipal y permanecerá abierta hasta el 25 de agosto del 2018.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LTGLaXkJunY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/LTGLaXkJunY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br />
 
 <small>Fuente: Reportaje de noticias, Ecuavisa [www.ecuavisa.com](http://www.ecuavisa.com/articulo/noticias/nacional/401976-conozca-ganadores-edicion-59-del-salon-julio).</small>
