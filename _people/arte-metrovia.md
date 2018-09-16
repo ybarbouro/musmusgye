@@ -4,7 +4,7 @@ first-name: viva
 last-name: asia
 job: artista
 title: Arte en la Metrovía
-listing-priority: 1
+listing-priority: 12
 image: "//res.cloudinary.com/magnvs/image/upload/v1536627604/rxhkaig7ormxpmo0c2nl.jpg"
 fuente-imagen: Fernando Mayorga
 ad: Del 10 al 15 de septiembre / 2018

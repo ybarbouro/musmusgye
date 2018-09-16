@@ -280,6 +280,7 @@ h2.league-sm-white{
   color:rgba(255,255,255,0.9);
   text-transform: uppercase;
 }
+
 h2.league-light{
   font-family:"Oswald", sans-serif;
   font-weight: 400;
@@ -315,7 +316,7 @@ h2.league-blue-light {
 }
 .bg-hero {
 	min-height: 60vh;
-	background-image: url(https://cdn.filestackcontent.com/soYpmASTVqxmAZLZLPUE);
+	background-image: url(//cdn.filestackcontent.com/uMz7I6tiRaKebe4n0a07);
 	background-position: center;
 	background-size: cover;
 	margin: 0;
@@ -469,7 +470,7 @@ h2.league-blue-light {
   }
 
   .site-nav a{
-    color:#fefff9;
+    color:#226691;
     display:block;
     text-decoration:none;
     text-transform:uppercase
