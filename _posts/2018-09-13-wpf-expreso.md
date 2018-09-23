@@ -2,7 +2,7 @@
 layout: post
 title: La exposición anual del World Press Photo 2018 arriba a Guayaquil
 date: 2018-09-13 00:00:00
-comment: Diario Expreso | Melissa gavilanes
+comment: Diario Expreso | Melissa Gavilanes
 image: "//res.cloudinary.com/magnvs/image/upload/v1537729575/lwemtma2asubofp7kxj9.png"
 ffw: Leer más
 ---
