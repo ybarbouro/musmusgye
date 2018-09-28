@@ -45,14 +45,11 @@
 
 </div><!-- end of container -->
 </div>
-
-<!-- <figure class='full-width'>
-  <img class="wide" src="https://cdn.filestackcontent.com/0XklAiMnShGXoPMBx2YN">
-</figure> -->
-
 </div><!-- end main noise -->
 
 {% include premiere-c.html %}
+
+{% include mid-menu.html %}
 
 {% include faal-anchor.html %}
 
@@ -61,8 +58,9 @@
 {% include aside-b.html %}
 
 {% include footer.html %}
-
-        <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+       
+        <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+        <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
         <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
         <script src="/js/plugins.js"></script>
         <script src="/js/main.js"></script>
@@ -70,7 +68,7 @@
         <script src="/js/wow.js"></script>
         <script src="/js/jquery.bxslider.min.js"></script>
   <script>
-          $(document).ready(function(){
+        $(document).ready(function(){
             $('.bxslider').bxSlider({
         mode: 'fade',
         auto: true
@@ -78,8 +76,7 @@
       	});
           });
   </script>
-
-        <script>
+  <script>
         wow = new WOW(
                 {
                   animateClass: 'animated',
@@ -87,8 +84,28 @@
                 }
         )
         wow.init()
-        </script>
-
+  </script>
+  <script>
+    $(document).ready( function(){
+  $('#mid-menu .it').each(function(){
+    var max = 360,
+        hue = Math.floor(Math.random() * max),
+        half = hue - 180;
+    $(this).find('.background-gradient').css({ backgroundImage: 'linear-gradient(45deg,hsl('+hue+',75%,50%) 0%,hsl('+half+',75%,50%) 100%)' });
+    var $title = $(this).find('.informax .titulado');
+    if ( $title.text().length > 35 ) {
+      $title.text( $title.text().substring(0,35) + '...' );
+    }
+    var $p = $(this).find('.informax p');
+    if ( $p.text().length > 100 ) {
+      $p.text( $p.text().substring(0,100) + '...' );
+    }
+    var content = $(this).find('.informax .content-mid').outerHeight();
+    $(this).find('.informax').css('bottom','-'+content+'px');
+  });
+});
+  </script>
+  
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
       <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
