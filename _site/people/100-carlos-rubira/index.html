@@ -10,7 +10,7 @@
         <!-- Facebook OpenGraph Info - Page Specific - Variables listed on each page -->
 	      <meta property="og:title" content="FAAL 2018" />
         <meta property="og:type" content="website">
-	      <meta property="og:image" content="//cdn.filestackcontent.com/4l0KfzsqQDGevLSqo9Hq" />
+	      <meta property="og:image" content="//res.cloudinary.com/magnvs/image/upload/v1522811906/temporary_timbbp.jpg" />
 	      <meta property="og:url" content="http://www.museoarteyciudad.com" />
 	      <meta property="og:description" content="Del 1 al 19 de octubre. ¡Más información aquí!" />
 
@@ -20,7 +20,7 @@
         <meta name="twitter:creator" content="@fernanz">
 	      <meta name="twitter:title" content="FAAL 2018" />
 	      <meta name="twitter:description" content="Del 1 al 19 de octubre. ¡Más información aquí!" />
-	      <meta name="twitter:image" content="//cdn.filestackcontent.com/4l0KfzsqQDGevLSqo9Hq" />
+	      <meta name="twitter:image" content="//res.cloudinary.com/magnvs/image/upload/v1522811906/temporary_timbbp.jpg" />
 
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
         <!-- Place favicon.ico in the root directory -->
@@ -56,6 +56,18 @@ article.breaking {
 -ms-flex-grow: 2;
 flex: 2;
 /* shortcut for "flex-grow: 2" */
+}
+
+article.columnas div {
+column-count: 2;
+}
+
+article.columnas h1 {
+font-size: 2.7rem;
+line-height: 2.7rem;
+padding-bottom: 1rem;
+margin-top: 0;
+max-width: 80%;
 }
 
 article.tarjetabg {
@@ -129,11 +141,23 @@ section {
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-		<!-- Add your site or application content here -->
-		<div class="noise">
+
+        <!-- Add your site or application content here -->
+        <div>
+        <ul class="cb-slideshow">
+            <li><span>Image 01</span></li>
+            <li><span>Image 02</span></li>
+            <li><span>Image 03</span></li>
+            <li><span>Image 04</span></li>
+            <li><span>Image 05</span></li>
+            <li><span>Image 06</span></li>
+        </ul>
+        </div>
+        <div class="main">
+
           <div class="container">
             <div class="site-header clearfix" role=banner>
-              <div class=site-logo>PROGRAMA MUSEO ARTE Y CIUDAD
+              <div class="site-logo">PROGRAMA MUSEO ARTE Y CIUDAD
               </div>
               <ul class="site-navi inline-block-list">
                 <li>
@@ -141,50 +165,61 @@ section {
                   </a>
                 </li>
                 <li>
-                  <a href="#bases" data-ga-category="Inbound links" data-ga-action="Nav click" data-ga-label="Source code">Bases FAAL
+                  <a href="/people" data-ga-category="Outbound links" data-ga-action="Nav click" data-ga-label=Docs>Artistas
                   </a>
-                </li>
-                <li>
-                  <a href="/crono-faal" data-ga-category="Inbound links" data-ga-action="Nav click" data-ga-label="Source code">
-                  Cronograma FAAL</a>
                 </li>
               </ul>
             </div>
 
-
             <div class="wow bounceInDown">
-                <div  style="width: 100%; margin:0; margin-left:auto; margin-right:auto;">
-                  <img src="/assets/faal-2018.svg"/>
+                <div  style="width: 25%; margin:0; margin-left:auto; margin-right:auto;">
+                  <img src="/img/mussim.svg"/>
                 </div>
             </div>
 
-            <!-- <div class="site-promo">
-              <h2 >Festival de Artes al Aire Libre</h2>
-              <h2> 2&mdash;18 OCTUBRE</h2>
-            </div> -->
+            <div class="site-promo">
+              <h2 >Junio 2&mdash;10</h2>
+              <h2> Auditorio del Museo Municipal<br />
+              Malecón 2000</h2>
+            </div>
 
           </div><!-- end of container -->
 
-<main>
-    <div class="info1 leftie">
-      <h2 class="league-sm">1 - 19 OCTUBRE / 2018</h2>
-      <h3 style="color:#9a0078">INAUGURACIÓN:<br/> VIERNES 5 DE OCTUBRE. 19h00<br/>
-        <span style="color:#ffffff">HEMICICLO DE LA ROTONDA / MALECÓN 2000</span></h3>
-    </div>
+        <div class="site-section-head">
+          <section>
+            <article>
 
-    <figure class="figure1" style="margin:0;">
-      <img src="https://cdn.filestackcontent.com/DR7HU6N6R2r536I7ypmQ" alt="" class="figure-img">
-    </figure>
-    <figure class="figure2" style="margin:0;">
-      <img src="https://res.cloudinary.com/magnvs/image/upload/v1533178049/niaqfays9l1tquyeqqei.jpg" alt="" class="figure-img">
-    </figure>
-    <figure class="figure3" style="margin:0;">
-      <img src="https://res.cloudinary.com/magnvs/image/upload/v1533178660/lsxels7ygdq3zxnmzdzk.jpg" alt="" class="figure-img">
-    </figure>
-</main>
+              <img  style="border-radius:7px 7px 0 0;" src="/img/fauno.jpg" />
+
+              
+              <img style="border-radius:0 0 7px 7px;" src="//res.cloudinary.com/magnvs/image/upload/v1537057960/k42k7anpn7d26zdplyfi.jpg" alt="Fotografía de Hasta siempre "Guayaquileño, Madera de Guerrero"">
+              
+
+            </article>
+            <article>
+
+              <header class="intro person-header">
+  <h1>Carlos Rubira</h1>
+  <h2>Compositor</h2>
+</header>
+
+<div class="person-body">
+  <p><i class="fa fa-plus" aria-hidden="true"></i> Profundamente consternado por el fallecimiento de <strong>Carlos Rubira Infante</strong>, un gran ecuatoriano, amigo personal y colaborador municipal. Sus canciones son verdaderas expresiones de civismo y amor a su país e inclusive himnos ciudadanos, como es el caso de “Guayaquileño, Madera de Guerrero”. Paz en su tumba. Le rendiremos los honores que merece, pero el principal será ser recordado por siempre por un pueblo que lo admiró y celebró en alto grado.</p>
+
+<p><strong>Jaime Nebot</strong></p>
+
+<p>Alcalde de Santiago de Guayaquil <i class="fa fa-star" aria-hidden="true"></i></p>
+
+<div style="color:#aaa;"><small>Fotografía: Bolívar Parra / Expreso</small></div>
+
+  <p><small><b>Fuente imagen:</b> </small></p>
+  <a href="">Lea más sobre el evento Carlos Rubira en la web.</a>
+</div>
 
 
-</div> <!-- END NOISE -->
+            </article>
+          </section>
+        </div>
 
   <div class="site-section-head">
     <div class="grid">
@@ -204,146 +239,78 @@ section {
   </div>
 
 
-<div class="site-section-head">
-<div class="article-mag-wrap">
-<div class="intro-ps leftie">
-
-	<p><strong>Desde el año 2000</strong>, por las fiestas de Independencia de la Ciudad, la Dirección de Cultura de la M. I. Municipalidad de Guayaquil ha venido realizando el FESTIVAL DE ARTES AL AIRE LIBRE en las instalaciones del Malecón 2000 y Plaza Colón, la presente edición continua con esta tradición y volvemos a la orilla del Manso Guayas. </p>
-
-  <p>Las artes plásticas, escénicas, visuales y alternativas estarán presentes con once categorías de concursos plenamente establecidos en el FESTIVAL DE ARTES AL AIRE LIBRE: <em>Pintura, escultura, dibujo, artes alternativas, música, danza, teatro, títeres, declamación, fotografía y cortometraje.</em></p>
-
-</div>
-<hr />
-</div>
-</div>
-
-
-<div id="registro" class="site-section-head">
-  <h2 class="league-three">Inscripciones<br /><span style="font-size: 0.7em;">hasta el 27 de septiembre de 2018</span></h2>
-  <ul class="in-the-wild">
-    <li>
-      <h3>1. Revisa las <a href="#bases">bases de participación</a> que se incluyen en la convocatoria al XIX Festival de Artes al Aire Libre &mdash; FAAL &laquo;Independencia de Guayaquil&raquo;</h3>
-      <p>Reúne la <strong>documentación del solicitada</strong> de acuerdo con la categoría en la que vas a participar.</p>
-    </li>
-    <li>
-      <h3>2. Descarga e imprime el <a href="//cdn.filestackcontent.com/PwS7RclGRFOpiRv6oVR9">formulario de inscripción</a>; llénalo, fírmalo y adjunta una fotografía tamaño carnet.</h3>
-      <p>La documentación solicitada deberá ser presentada, en las oficinas del <strong>Museo Municipal</strong> (Chile, entre Av. 10 de Agosto y Sucre) hasta las 17h00 del día jueves <strong>27 de septiembre de 2018</strong>.</p>
-    </li>
-    <li>
-      <h3>3. O si deseas, accede al <a href="//www.cognitoforms.com/None1533/registroenlinea">registro digital</a> en línea.</h3>
-
-    </li>
-    <li>
-    <h3>4. Revisa y pon atención a las fechas incluídas en el <a href="/crono-faal">cronograma</a> del FAAL</h3>
-    <p>Durante las reuniones previas al festival se procederá a la entrega de las credenciales para los participantes</p>
-    </li>
-   </ul>
-  <div class="cta-option">
-    <a class="btn btn-download" href="//cdn.filestackcontent.com/PwS7RclGRFOpiRv6oVR9" data-ga-category="Inbound links">
-      <strong>Formulario
-      </strong>
-      <span class="version"> de inscripción
-      </span>
-    </a>
-  </div>
-
-      <div class="cta-option" style="margin-bottom: 70px !important;">
-        <a class="btn btn-download" href="//www.cognitoforms.com/None1533/registroenlinea" data-ga-category="Outbound links" >
-          <strong>Registro
-          </strong>
-          <span class=version>digital
-          </span>
-        </a>
-      </div>
-
-
-  </div>
-
-
-<div class="mid">
-<figure class="figure4" style="margin:0;">
-  <img src="https://res.cloudinary.com/magnvs/image/upload/v1533262566/qlyuo17j7jqzp0b9k0fs.jpg" alt="" class="figure-img" >
-</figure>
-<figure class="figure5" style="margin:0;">
-  <img src="https://res.cloudinary.com/magnvs/image/upload/v1533262578/hjm7yvzdrajvd5xdrkr1.jpg" alt="" class="figure-img">
-</figure>
-<figure class="figure6" style="margin:0;">
-  <img src="https://res.cloudinary.com/magnvs/image/upload/v1533262555/m9xz2ylhco08yrwprcoe.jpg" alt="" class="figure-img">
-</figure>
-
-<div class="info2 leftie">
-  <h2>Bases de participación</h2>
-  <p>Son once categorías artísticas</p>
-</div>
-</div>
-
-
-<div class="site-section" id="bases">
-  <h2 class="league-three">XIX EDICIÓN</h2>
+<div id="musiquillos" class="site-section">
+  <h2 class="league-two">EN CARTELERA
+  </h2>
   <ul class="in-the-wild">
     
     
     <li>
-      <h3><a href="/arts/pintura-dibujo-y-escultura/">CONCURSO DE PINTURA, DIBUJO Y ESCULTURA </a></h3><p>1 al 11 de Octubre<br />Malecón 2000, Hemiciclo de la Rotonda. Plaza Colón, junto a la iglesia de Sto. Domingo.</p>
+      <h3><a href="/people/098-gino-molinari/">Gino Molinari</a></h3><p>Chef</p>
     </li>
     
     <li>
-      <h3><a href="/arts/musica/">CONCURSO DE MÚSICA </a></h3><p>6 y 7 de octubre<br />PLaza Colón. Teatro al aire libre José de la Cuadra.</p>
+      <h3><a href="/people/099-piel-colores/">piel Colores</a></h3><p>Artistas</p>
     </li>
     
     <li>
-      <h3><a href="/arts/danza/">CONCURSO DE DANZA </a></h3><p>9 al 11 de Octubre<br />Paseo de los Presidentes. Loza +6</p>
+      <h3><a href="/people/100-carlos-rubira/">Carlos Rubira</a></h3><p>Compositor</p>
     </li>
     
     <li>
-      <h3><a href="/arts/declamacion/">CONCURSO DE DECLAMACIÓN </a></h3><p>6 - 8 de Octubre<br />Malecón 2000. Ágora 1 (A la altura de la calle Illingworth)</p>
+      <h3><a href="/people/arte-metrovia/">viva asia</a></h3><p>artista</p>
     </li>
     
     <li>
-      <h3><a href="/arts/titeres/">CONCURSO DE TÍTERES </a></h3><p>6 y 7 de octubre<br />Malecón 2000. Ágora 1 (A la altura de la calle Illingworth)</p>
+      <h3><a href="/people/retroband/">Los 80's Retroband</a></h3><p>Rock latino</p>
     </li>
     
     <li>
-      <h3><a href="/arts/teatro/">CONCURSO DE TEATRO </a></h3><p>6 - 8 de octubre<br />Malecón 2000. Ágora 1 (A la altura de la calle Illingworth)</p>
+      <h3><a href="/people/saeke/">Saeké </a></h3><p>Salsa y merengue</p>
     </li>
     
     <li>
-      <h3><a href="/arts/fotografia/">CONCURSO DE FOTOGRAFÍA </a></h3><p>7 y 8 de octubre<br />Hemiciclo de la Rotonda del Malecón 2000.</p>
-    </li>
-    
-    <li>
-      <h3><a href="/arts/cortometraje/">CONCURSO DE CORTOMETRAJE </a></h3><p>7 y 8 de octubre<br />Hemiciclo de la Rotonda del Malecón 2000</p>
-    </li>
-    
-    <li>
-      <h3><a href="/arts/artes-alternativas/">CONCURSO DE ARTES ALTERNATIVAS </a></h3><p>7 y 8 de octubre<br />Hemiciclo de la Rotonda del Malecón 2000</p>
+      <h3><a href="/people/william-dampierre/">William Dampierre</a></h3><p>Corsario</p>
     </li>
     
   </ul>
-  <p><a href="/crono-faal" class="direct-to-section">VER CRONOGRAMA COMPLETO &raquo;</a>  </p>
-  <!-- <div class=cta-option>
-      <a class="btn btn-alt" href="/map-faal">VER MAPA &raquo;
+  <p><a href="/people" class="direct-to-section">Todos los participantes</a>  </p>
+  <div class=cta-option>
+      <a class="btn btn-alt" href="/afiche.pdf">Imprimir programa
       </a>
-    </div> -->
-
-  <div class="row">
-
-  <div class="col col-2 offset-5">
-  <figure style="margin-bottom:0;">
-    <img src="https://salondejulio.com/img/logo-municp.svg">
-  </figure>
+    </div>
   </div>
 
+
+        <div class="w100 site-section-nm">
+          <figure class="wow fadeInUp">
+              <img src="/img/afiche.jpg"/>
+          </figure>
+        </div>
+
+  <div class="aside">
+  <div class="container">
+    <ul class=inline-block-list>
+      <li>
+        <p>
+          <span class="Icon Icon--escudogye">
+          </span> Por Guayaquil Independiente
+        </p></li>
+        <li>
+          <p>
+            <span class="Icon Icon--municipio">
+            </span>Alcaldía de Guayaquil
+          </p></li>
+        <li>
+        <p>
+          <span class="Icon Icon--macm">
+          </span> Museo, Arte y Ciudad
+        </p></li>
+    </ul>
+  </div>
 </div>
 
-  </div>
-
-
-<figure class='full-width' style="margin-bottom:0 !important;">
-  <img class="wide" src="https://res.cloudinary.com/magnvs/image/upload/v1503461559/faal-04_gfzmv0.jpg">
-</figure>
-
-<div class="site-footer" >
+  <div class="site-footer" >
 <div class="row">
 
   <div style="text-align:center;" class="col col-12">
@@ -427,6 +394,32 @@ section {
   ga('send', 'pageview');
 
 </script>
+  <script>
+  !function(t,e){
+      "use strict";
+      function a(t,n){
+        return t.hasAttribute(n)===!0?t:t.parentNode!==r.body?a(t.parentNode,n):e}
+      function n(n){
+        var o,i,r,c,g,u=a(n.target,"data-ga-action"),l=!1;
+        u!==e&&(o=u.getAttribute("data-ga-action")||e,i=u.getAttribute("data-ga-category")||e,r=u.getAttribute("data-ga-label")||e,c=u.getAttribute("href"),g=parseInt(u.getAttribute("data-ga-value"),10)||e,ga!==e&&i!==e&&o!==e&&(n.preventDefault(),"Download"!==i&&n.ctrlKey!==!0&&n.metaKey!==!0&&2!==n.which||(l=!0,t.open(c)),function(a){
+          var n;
+          ga("send","event",i,o,r,g,{
+            hitCallback:function(){
+              l===!1&&(n!==e&&clearTimeout(n),t.location=a)}
+          }
+            ),n=setTimeout(function(){
+            l===!1&&(t.location.href=a)}
+                           ,1e3)}
+  (c)))}
+      function i(){
+        !function(t,e,a){
+          var n,o=t.getElementsByTagName(e)[0];
+          t.getElementById(a)||(n=t.createElement(e),n.id=a,n.src="//platform.twitter.com/widgets.js",o.parentNode.insertBefore(n,o))}
+        (r,"script","twitter-wjs")}
+      var r=t.document;
+      o(),t.onload=i}
+    (window)
+    </script>
 
     </body>
 </html>

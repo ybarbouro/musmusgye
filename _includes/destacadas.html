@@ -1,0 +1,30 @@
+<div class="last-main-title astro">
+  <h1 class="wow fadeInUp">Museo Arte y Ciudad</h1>
+  <h2 class="wow fadeInUp">noticias destacadas <span style="font-size:1.8rem;"><i class="fa fa-star-o" aria-hidden="true"></i></span></h2>
+</div>
+
+<section>
+    <article>
+      {% for person in site.people offset: 1 limit: 1 %}
+
+      {% if person.image %}
+      <img src="{{ person.image }}" alt="Fotografía de {{ person.title }}">
+      {% endif %}
+
+      {% endfor %}
+      </article>
+
+      <article class="columnas">
+
+        {% for person in site.people offset: 1 limit: 1 %}
+
+          <h1>{{ person.title }}</h1>
+        <div>
+          {{ person.content }}
+        </div>
+
+        {% endfor %}
+        </article>
+</section>
+
+</div>

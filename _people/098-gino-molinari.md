@@ -4,7 +4,7 @@ first-name: Gino
 last-name: Molinari
 title: Innovador e impulsor de la gastronomía ecuatoriana
 job: Chef
-listing-priority: 1
+listing-priority: 98
 image: "//res.cloudinary.com/magnvs/image/upload/v1537417835/molinari_ddqnlf.jpg"
 ---
 <i class="fa fa-star" aria-hidden="true"></i> El próximo martes 2 de octubre del presente año, a las 18h00, se realizará el Homenaje al Chef **Gino Molinari Negrete** por su contribución a la gastronomía nacional a través de su trayectoria profesional.

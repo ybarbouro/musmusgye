@@ -230,6 +230,71 @@ span.suscribing{
   /*max-width: calc(50% - 12px);*/
 }
 
+.last-main-title {
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+
+.last-main-title h1 {
+    font-family: 'league_gothicregular', sans-serif;
+    font-weight: bold;
+    font-size: 5rem;
+    font-stretch:extra-expanded;
+    font-kerning:auto;
+    letter-spacing: 2px;
+    color: #cfd9df;
+    text-align: left;
+    padding-left: 13%;
+    margin: 0 auto;
+    width: 1200px;
+   }
+
+.last-main-title h2 {
+       font-family: 'Open Sans Condensed', sans-serif;
+       font-weight:lighter;
+       font-size: 2.7rem;
+       font-kerning:auto;
+       color: rgba(36,57,73,1);
+       text-align: right;
+       padding-right: 20%;
+       margin: 0 auto;
+       width: 1200px;
+      }
+
+.astro::before {
+    content:url('//res.cloudinary.com/magnvs/image/upload/v1538279335/juzhxbt7fo3ce6usoyxs.png');
+    position: absolute;
+    float: right;
+    margin-top: -5%;
+    mix-blend-mode: multiply;
+  }
+@media only screen and (max-width: 600px) {
+
+  .last-main-title h1 {
+      font-family: 'league_gothicregular', sans-serif;
+      font-weight: bold;
+      font-size: 4rem;
+      letter-spacing: 1px;
+      text-align: left;
+      padding-left: 7%;
+      margin: 0 auto;
+      width: 600px;
+      line-height: 3rem;
+     }
+
+  .last-main-title h2 {
+         font-family: 'Open Sans Condensed', sans-serif;
+         font-weight:lighter;
+         font-size: 1.9rem;
+         text-align: right;
+         padding-right: 10%;
+         margin: 0 auto;
+         width: 500px;
+         line-height: 1.9rem;
+        }
+
+}
+
 /* ==========================================================================
    Premiere classes
    ========================================================================== */
@@ -371,7 +436,7 @@ div.premiere-kaki {
     padding: 0;
     grid-template-columns:repeat(12, 1fr);
     grid-auto-rows:minmax(155px, auto);
-    background-color: #eee;
+    background-color: #cfd9df;
   }
   .zona {
     grid-column: 1 / -1;
@@ -852,7 +917,7 @@ div.premiere-kaki {
 
       .info-link{
         text-decoration: none;
-        color: #d80c0c
+        color: #d80c0c;
       }
 
       .figure-main {

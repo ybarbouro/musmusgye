@@ -10,7 +10,7 @@
         <!-- Facebook OpenGraph Info - Page Specific - Variables listed on each page -->
 	      <meta property="og:title" content="FAAL 2018" />
         <meta property="og:type" content="website">
-	      <meta property="og:image" content="//cdn.filestackcontent.com/4l0KfzsqQDGevLSqo9Hq" />
+	      <meta property="og:image" content="//res.cloudinary.com/magnvs/image/upload/v1522811906/temporary_timbbp.jpg" />
 	      <meta property="og:url" content="http://www.museoarteyciudad.com" />
 	      <meta property="og:description" content="Del 1 al 19 de octubre. ¡Más información aquí!" />
 
@@ -20,7 +20,7 @@
         <meta name="twitter:creator" content="@fernanz">
 	      <meta name="twitter:title" content="FAAL 2018" />
 	      <meta name="twitter:description" content="Del 1 al 19 de octubre. ¡Más información aquí!" />
-	      <meta name="twitter:image" content="//cdn.filestackcontent.com/4l0KfzsqQDGevLSqo9Hq" />
+	      <meta name="twitter:image" content="//res.cloudinary.com/magnvs/image/upload/v1522811906/temporary_timbbp.jpg" />
 
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
         <!-- Place favicon.ico in the root directory -->
@@ -56,6 +56,18 @@ article.breaking {
 -ms-flex-grow: 2;
 flex: 2;
 /* shortcut for "flex-grow: 2" */
+}
+
+article.columnas div {
+column-count: 2;
+}
+
+article.columnas h1 {
+font-size: 2.7rem;
+line-height: 2.7rem;
+padding-bottom: 1rem;
+margin-top: 0;
+max-width: 80%;
 }
 
 article.tarjetabg {
@@ -137,10 +149,6 @@ section {
                 <li>
                   <a href="//cdn.filestackcontent.com/4IezzIxtSjOG8iNONO9Q" data-ga-category="Inbound links" data-ga-action="Nav click" data-ga-label="Source code">Agenda septiembre
                   </a>
-                </li>
-                <li>
-                    <a href="/faal" data-ga-category="Outbound links" data-ga-action="Nav click" data-ga-label=Docs>FAAL 2018
-                    </a>
                 </li>
                 <li>
                   <a href="/expo" data-ga-category="Outbound links" data-ga-action="Nav click" data-ga-label=Docs>Museo Municipal
@@ -310,38 +318,56 @@ section {
 </div>
 
 
-<div class="gridz">
-   <div class="element">
+<div style="background:#fff;">
+<svg viewBox="0 0 2000 120">
+  <use xlink:href="#tri-gris">
+</svg>
 
-   </div>
-   <div class="element-1">
-      <div class="wow bounceInLeft">
-          <figure class="full-width">
-                <img class="wide-alt" src="assets/faal-2018black.svg" alt="" />
-          </figure>
+<div class="last-main-title astro">
+  <h1 class="wow fadeInUp">Museo Arte y Ciudad</h1>
+  <h2 class="wow fadeInUp">noticias destacadas <span style="font-size:1.8rem;"><i class="fa fa-star-o" aria-hidden="true"></i></span></h2>
+</div>
+
+<section>
+    <article>
+      
+
+      
+      <img src="//res.cloudinary.com/magnvs/image/upload/v1538279391/ibhdjrxmtla1ejmqhfdr.jpg" alt="Fotografía de La piel se viste de color">
+      
+
+      
+      </article>
+
+      <article class="columnas">
+
+        
+
+          <h1>La piel se viste de color</h1>
+        <div>
+          <p>El colectivo cultural “La piel se viste de color” invita a todos los medios de comunicación a la rueda de prensa se realizará el <u>martes 2 de octubre</u> a las 10h00 en las escalinatas del cerro Santa Ana.
+Se contará con la presencia de los auspiciantes y artistas que forman parte del colectivo cultural.</p>
+
+<p>El domingo 7 de octubre a las 13h00 en las escalinatas del cerro Santa Ana, <strong>La piel se viste de color</strong> y los artistas invitados tendrán como tema el medio ambiente y el objetivo será entrar al récord Guinness con la mayor cantidad de cuerpos pintados.</p>
+
+<p>Estarán presentes los artistas plásticos nacionales e internacionales que realizarán el evento, tendremos la presencia de artistas musicales, cosplay, danza y zanqueros quienes complementarán este magno evento por el inicio de las fiestas octubrinas de nuestra querida ciudad.</p>
+
+<p>Coordinador: <strong>Artista Marco Martínez</strong></p>
+
         </div>
-        <h2 class="league">INSCRIPCIONES ABIERTAS</h2>
-        <p class="bold" style="color:#9a0078">HASTA EL 27 DE SEPTIEMBRE DEL 2018</p>
-        <div class="cta-option-premiere" style="margin-bottom:1.5em;">
-            <a class="btn btn-premiere" href="/faal" target="blank" data-ga-category="outbound links">
-               INSCRÍBETE AQUÍ
-            </a>
-          </div>
-    </div>
-    <div class="element-2">
 
-    </div>
- </div>
+        
+        </article>
+</section>
 
-
-<div id="news" class="site-section-head">
-<div class="wow fadeInUp">
-  <figure class="full-width">
-        <img class="wide" src="img/macg-rocket.svg" alt="" />
-  </figure>
 </div>
 
 
+<div id="news" class="site-section-head">
+<div class="last-main-title">
+  <h1 class="wow fadeInUp">Museo Arte y Ciudad</h1>
+  <h2 class="wow fadeInUp">en los medios digitales</h2>
+</div>
     <section>
         <article class="breaking">
           
@@ -503,7 +529,11 @@ section {
 
 </div><!-- end of main-->
 
-       
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" preserveAspectRatio="none" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+  <defs><path id="tri-gris" d="M-2.694,-1.898l2007.46,0l-2007.46,121.884l0,-121.884Z" style="fill:#cfd9df;"/>
+  </defs></svg>
+
         <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
         <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
         <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
@@ -550,7 +580,7 @@ section {
   });
 });
   </script>
-  
+
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
       <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
