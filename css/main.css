@@ -485,6 +485,8 @@ div.premiere-kaki {
     grid-row: 1 / 6;
     writing-mode: vertical-rl;
     transform: rotate(180deg);
+    -moz-writing-mode: vertical-rl;
+    -moz-transform: rotate(180deg);
     z-index: 200;
   }
 
