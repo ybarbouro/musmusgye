@@ -278,7 +278,7 @@ span.suscribing{
       text-align: left;
       padding-left: 7%;
       margin: 0 auto;
-      width: 400px;
+      width: 100vw;
       line-height: 3rem;
      }
 
@@ -287,9 +287,9 @@ span.suscribing{
          font-weight:lighter;
          font-size: 1.9rem;
          text-align: left;
-         padding-right: 9%;
+         padding-left: 9%;
          margin: 0 auto;
-         width: 400px;
+         width: 100vw;
          line-height: 1.9rem;
         }
   .astro::before {
