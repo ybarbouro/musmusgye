@@ -11,6 +11,6 @@ ext-url: "/capsulas/"
 ---
 **Charla de emprendimiento**  
 
-Evento previo al **Congreso Hispanoamericano de Negocios**. Auspician: M. I. municipio de Guayaquil, Técnológico EuroAmericano, Universidad Estatal Peninsular de Santa Elena y el Ministerio de Turismo del Ecuador.  
+Evento previo al **Congreso Hispanoamericano de Negocios**. Auspician: M. I. Municipio de Guayaquil, Técnológico EuroAmericano, Universidad Estatal Peninsular de Santa Elena y el Ministerio de Turismo del Ecuador.  
 
 <u>Coordina</u>: Arq. Grecia Cando G., Concejal de la ciudad de Guayaquil .
