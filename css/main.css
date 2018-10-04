@@ -268,6 +268,9 @@ span.suscribing{
     margin-top: -5%;
     mix-blend-mode: multiply;
   }
+.esta-es::after {
+      content:url('/assets/esta-es.svg');
+    }
 @media only screen and (max-width: 600px) {
 
   .last-main-title h1 {
