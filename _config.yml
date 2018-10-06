@@ -6,7 +6,7 @@ description: Sitio informativo del Programa Museo, Arte y Ciudad - Musimuestras 
 url: http://fernanz.github.io/
 permalink: pretty
 
-exclude: ['faal.html', 'crono-faal.html']
+exclude: ['crono-faal.html']
 
 collections:
   arts:

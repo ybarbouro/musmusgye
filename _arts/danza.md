@@ -5,7 +5,7 @@ title: CONCURSO DE DANZA
 featured: false
 featured-priority: 3
 listing-priority: 3
-dates: 9 al 11 de Octubre
+dates: 21 al 31 de octubre
 place: Paseo de los Presidentes. Loza +6
 ---
 Este año el concurso de Danza tendrá temática libre permitiendo participar con cualquier género como: Salsa, Pop, contemporáneo, moderno, jazz, street dance, etc. Se llevará a cabo considerando los siguientes aspectos:
@@ -34,7 +34,7 @@ El artista o representante deberá llevar a un ayudante para que maneje el audio
 
 ### SOBRE LA PARTICIPACIÓN
 
-El concurso se desarrollará en la Loza+6 del Malecón 2000, Paseo de los Presidentes (A la altura de la calle Illingworth) los días 09, 10, y 11 de octubre de 2018.
+El concurso se desarrollará en Loza +6 del Malecón 2000 (Calle Illingworth) los días 29, 30, y 31 de octubre de 2018.
 
 La presente edición tendrá temática libre.
 
@@ -67,7 +67,7 @@ d) Ejecución personal o grupal
 
 e) Tiempo
 
- 
+
 El jurado de selección y premiación estará integrado por profesionales que calificarán usando un sistema de votación simple y elegirán la propuesta ganadora. El concurso no podrá ser declarado desierto y el fallo del jurado será inapelable.
 
 ### SOBRE LOS PREMIOS

@@ -5,10 +5,10 @@ title: CONCURSO DE ARTES ALTERNATIVAS
 featured: false
 featured-priority: 9
 listing-priority: 9
-dates: 7 y 8 de octubre
-place: Hemiciclo de la Rotonda del Malecón 2000
+dates: 27 y 28 de octubre
+place: Ágora 2 del Malecón 2000 (Calle Aguirre)
 ---
-El concurso se desarrollará en el Hemiciclo de la Rotonda del Malecón 2000, los días 07 y 08 de octubre de 2018 de 10h00 a 18h00. Las propuestas se exhibirán presencialmente o documentalmente (según la factibilidad de la obra) de acuerdo con los siguientes aspectos:
+El concurso se desarrollará en el Ágora 2 del Malecón 2000 (calle Aguirre), los días sábado 27 y domingo 28 de octubre de 2018 de 10h00 a 18h00. Las propuestas se exhibirán presencialmente o documentalmente (según la factibilidad de la obra) de acuerdo con los siguientes aspectos:
 
 ### SOBRE LOS PARTICIPANTES
 

@@ -5,7 +5,7 @@ title: CONCURSO DE TEATRO
 featured: false
 featured-priority: 6
 listing-priority: 6
-dates: 6 - 8 de octubre
+dates: 3 - 5 de noviembre
 place: Malecón 2000. Ágora 1 (A la altura de la calle Illingworth)
 ---
 Este año el concurso será en el género “Teatro de Calle”, tendrá temática libre y se desarrollará de acuerdo con los siguientes aspectos:
@@ -28,7 +28,7 @@ Los organizadores informarán con anticipación la hora, el lugar y el día de p
 
 ### SOBRE LA PARTICIPACIÓN
 
-El concurso se desarrollará en Ágora 1 del Malecón 2000 (Calle Illingworth) los días 06, 07 y 08 de octubre de 2018 de 16h00 a 19h00.
+El concurso se desarrollará en Ágora 1 del Malecón 2000 (Calle Illingworth) los días sábado 03, domingo 04 y lunes 05 de noviembre de 2018 de 16h00 a 19h00.
 
 Los temas deberán ser de mínimo 15 y máximo 30 minutos.
 

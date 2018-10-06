@@ -12,4 +12,5 @@ Las otras cinco son: Lo mejor de Guayaquil eres tú, Los 100 años de Juan Puebl
 
 Gloria Gallardo, de la Empresa Pública Municipal de Turismo, indicó que a dos años del bicentenario, la ciudad se alista, y contará con la participación de miles de estudiantes, bailarines, entre otros artistas. (I)
 
-<small>Fuente y noticia completa: Artículo publicado en el sitio web de diario El Universo el 05.10.2018 [www.eluniverso.com](//www.eluniverso.com/guayaquil/2018/10/05/nota/6985409/cuatro-ferias-conciertos-desfile-mas-actos-realzan-fiesta)</small>
+<small>Fuente y noticia completa
+: Artículo publicado en el sitio web de diario El Universo el 05.10.2018 [www.eluniverso.com](//www.eluniverso.com/guayaquil/2018/10/05/nota/6985409/cuatro-ferias-conciertos-desfile-mas-actos-realzan-fiesta)</small>

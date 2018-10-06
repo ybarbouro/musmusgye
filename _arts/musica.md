@@ -5,7 +5,7 @@ title: CONCURSO DE MÚSICA
 featured: false
 featured-priority: 2
 listing-priority: 2
-dates: 6 y 7 de octubre
+dates: 1 y 2 de noviembre
 place: PLaza Colón. Teatro al aire libre José de la Cuadra.
 ---
 
@@ -31,13 +31,13 @@ El FAAL no cubrirá gastos de alojamiento, movilización ni transporte, por lo q
 Los organizadores informarán con anticipación la hora, el lugar y el día de participación de cada inscrito según sus categorías y estilos musicales. Si algún artista o grupo participante no se presentara al concurso el día y la hora indicada, automáticamente será descalificado.
 
 ### SOBRE LA PARTICIPACIÓN
-El concurso se desarrollará en la Plaza Colón, los días: sábado 06 y domingo 07 de octubre de 2018 a las 18h00.
+El concurso se desarrollará en la Plaza Colón, los días: jueves 01 y viernes 02 de noviembre del 2018 a las 18h00.
 
 Los integrantes de cada agrupación podrán participar una sola vez.
 
-Los participantes deberán entregar un CD que contenga la propuesta musical. 
+Los participantes deberán entregar un CD que contenga la propuesta musical.
 
-Los amateurs y profesionales participarán con un solo tema y dispondrán de 7 minutos incluyendo la conexión de instrumentos.  
+Los amateurs y profesionales participarán con un solo tema y dispondrán de 7 minutos incluyendo la conexión de instrumentos.
 
 Los inscritos en la categoría amateur podrán participar con un tema de otro músico o inédito, con músicos en vivo o con pista. Los inscritos en la categoría profesional solo podrán interpretar un tema inédito que no hayan participado en ediciones anteriores a este festival.
 

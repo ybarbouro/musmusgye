@@ -5,10 +5,10 @@ title: CONCURSO DE TÍTERES
 featured: false
 featured-priority: 5
 listing-priority: 5
-dates: 6 y 7 de octubre
+dates: 3 y 4 de noviembre
 place: Malecón 2000. Ágora 1 (A la altura de la calle Illingworth)
 ---
-El concurso tendrá temática libre y se desarrollará en el Ágora 1 del Malecón 2000 (Calle Illingworth) y se llevará a cabo los días 06 y 07 de octubre de 2018 de 10h00 a 12h0 de acuerdo con los siguientes aspectos:
+El concurso tendrá temática libre y se desarrollará en el Ágora 1 del Malecón 2000 (Calle Illingworth) y se llevará a cabo los días sábado 03 y domingo 04 de noviembre del 2018 de 10h00 a 12h00 de acuerdo con los siguientes aspectos:
 
 ### SOBRE LOS PARTICIPANTES
 

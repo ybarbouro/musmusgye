@@ -5,10 +5,10 @@ title: CONCURSO DE CORTOMETRAJE
 featured: true
 featured-priority: 8
 listing-priority: 8
-dates: 7 y 8 de octubre
-place: Hemiciclo de la Rotonda del Malecón 2000
+dates: 27 y 28 de octubre
+place: Ágora 2 del Malecón 2000 (Calle Aguirre)
 ---
-El Concurso de Cortometraje tendrá la temática libre y se llevará a cabo en el Hemiciclo de la Rotonda del Malecón 2000, los días 07 y 08 de octubre de 2018 de 20h00 a 22h00.
+El Concurso de Cortometraje tendrá la temática libre y se llevará a cabo en el Ágora 2 del Malecón 2000 (Calle Aguirre), los días sábado 27 y domingo 28 de octubre de 2018 de 20h00 a 21h00.
 
 ### SOBRE LOS PARTICIPANTES
 
@@ -40,7 +40,7 @@ Los participantes deberán inscribirse hasta las 17h00 del jueves 27 de septiemb
 
 En el caso de extranjeros, deberán cargar soportes de prensa, fotografías que certifiquen un tiempo mínimo de 2 años de trayectoria en el país.
 
- 
+
 
 ### SOBRE EL JURADO
 
