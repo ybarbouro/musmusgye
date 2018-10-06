@@ -5,7 +5,7 @@ title: CONCURSO DE DANZA
 featured: false
 featured-priority: 3
 listing-priority: 3
-dates: 21 al 31 de octubre
+dates: 29 - 31 de octubre
 place: Paseo de los Presidentes. Loza +6
 ---
 Este año el concurso de Danza tendrá temática libre permitiendo participar con cualquier género como: Salsa, Pop, contemporáneo, moderno, jazz, street dance, etc. Se llevará a cabo considerando los siguientes aspectos:
