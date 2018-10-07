@@ -6,7 +6,7 @@ day: 12
 month: OCTUBRE
 time: 12h00
 place: Auditorio del Museo Municipal de Guayaquil
-image: "//res.cloudinary.com/magnvs/image/upload/v1538536753/fdjfqmrmfv2dyblckc96.jpg"
+image: "//res.cloudinary.com/magnvs/image/upload/v1538949740/dytzunskgzoyg5vtmrsd.jpg"
 ext-url: "/capsulas/"
 ---
 **Charla de emprendimiento**

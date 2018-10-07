@@ -339,7 +339,7 @@ span.suscribing{
 
 .premiere-c {
  position: relative;
- background-image: linear-gradient(to bottom, #FBC96E 0%, #c3cfe2 100%);
+ background-image: linear-gradient(to top, #FBC96E 0%, #c3cfe2 100%);
 }
 .salon-logo {
   width:65%;
