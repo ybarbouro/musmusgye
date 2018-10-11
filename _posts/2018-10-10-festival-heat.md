@@ -3,7 +3,7 @@ layout: post
 title: Festival HEAT Guayaquil reúne al talento nacional y extranjero
 date: 2018-10-10 00:00:00
 comment: El Universo | Vida y Estilo
-image: "//res.cloudinary.com/magnvs/image/upload/v1539228796/mttghnzj0mjd20l0chba.jpg"
+image: "//res.cloudinary.com/magnvs/image/upload/v1539230532/heat_cfptic.jpg"
 ffw: Leer más
 ---
 En menos de 24 horas, Guayaquil será testigo del Festival HEAT, un espectáculo que se realiza por primera vez en el país y en la ciudad, en donde se reunirá el talento ecuatoriano y extranjero.<br />Mirella Cesa, Sophy Mell, J-Misá, Maykel, Álex Vizuete, Tres Dedos y Rocko y Blasty son los artistas nacionales que compartirán la tarima con sus colegas internacionales...

@@ -11,6 +11,4 @@ Conferencia que trata sobre puntos históricos patrimoniales relacionados con el
 
 Fecha y Hora: **Viernes 12 de octubre / 11h00**
 
-Salón Pedro Carbo de la **Biblioteca Municipal de Guayaquil**.  
-
-Ave. Diez de Agosto y Pedro Carbo.
+Salón Pedro Carbo de la **Biblioteca Municipal de Guayaquil**.<br />Ave. Diez de Agosto y Pedro Carbo.
