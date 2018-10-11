@@ -22,5 +22,4 @@ Asimismo, Montes señaló que  "es la primera vez que venimos a Ecuador. El fest
 
 El Festival HEAT Guayaquil será conducido por Mariela Encarnación de CNN en Español, junto con Anais Castro presentadora del canal HTV y del certamen de Viña del Mar para TNT y HTV. (E)
 
-<small>Fuente y noticia completa
-: Artículo publicado en el sitio web de diario El Universo el 10.10.2018 [www.eluniverso.com](//www.eluniverso.com/entretenimiento/2018/10/10/nota/6994226/festival-heat-guayaquil-reune-talento-nacional-extranjero#cxrecs_s)</small>
+<small>Fuente y noticia completa: Artículo publicado en el sitio web de diario El Universo el 10.10.2018 [www.eluniverso.com](//www.eluniverso.com/entretenimiento/2018/10/10/nota/6994226/festival-heat-guayaquil-reune-talento-nacional-extranjero#cxrecs_s)</small>
