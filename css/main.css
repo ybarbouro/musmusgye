@@ -849,7 +849,6 @@ div.premiere-kaki {
         }
         .figure-main {
           grid-column: 3 / 4;
-          grid-row: 2 / 3;
           padding:0;
           margin:0;
         }

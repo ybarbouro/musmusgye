@@ -23,7 +23,7 @@
     {% endfor %}
   </div>
 
-    <div class="info3 dimmer leftie">
+    <div class="info3 dimmer">
       {% assign capsulas = site.capsulas | sort: 'listing-priority' %}
       {% for capsulas in capsulas limit: 1 %}
       <figure class="figure-main">
@@ -48,8 +48,17 @@
                     <li><i class="fa fa-arrow-circle-right"></i><a href="{{ capsulas.link }}"> Más información</a></li>{% endif %}
           </ul>
       </div>
-    {% endfor %}
+      <div class="cta-option" style="padding-bottom:30px!important">
+        <a class="btn btn-download" href="//biblioteca.surge.sh" data-ga-category="Outbound links" >
+          <strong>MÁS
+          </strong>
+          <span class=version>INFORMACIÓN
+          </span>
+        </a>
+      </div>
     </div>
+        {% endfor %}
+
   </div>
 
 <div class="info4 dimmer leftie" style="padding:0;">
