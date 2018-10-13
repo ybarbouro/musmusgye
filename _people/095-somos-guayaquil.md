@@ -4,7 +4,7 @@ first-name: somos
 last-name: guayaquil
 title: Somos Guayaquil
 job: Faal
-listing-priority: 96
+listing-priority: 95
 image: "//res.cloudinary.com/magnvs/image/upload/v1539362740/i1mzkxlqrltfxtwfbomh.jpg"
 ---
 

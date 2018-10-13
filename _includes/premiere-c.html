@@ -72,8 +72,16 @@
   <div class="top-anchor">
   <h2 class="league-sm-white">{{ person.title }}</h2>
   <p>{{ person.content }}<p>
-  <h4 style="color:#FBC96E;">{{ person.ad }}</h4>
 
+  {% if person.day %}
+  <h2 style="text-transform: uppercase;" class="league-sm-white">{{ person.day }} {% endif %}{% if person.month %} <span style="font-size:0.9em;">{{ person.month }}</span></h2>
+    {% endif %}
+  <div style="color:rgba(255,255,255,.8)">
+          {% if person.time %}
+              <p><i class="fa fa-clock-o"></i> {{ person.time }}</p> {% endif %}
+          {% if person.place %}
+              <i class="fa fa-chevron-circle-right"></i> {{ person.place }}</p>{% endif %}
+  </div>
   {% endfor %}
 </div>
 </div>
