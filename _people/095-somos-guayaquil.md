@@ -5,7 +5,7 @@ last-name: guayaquil
 title: Somos Guayaquil
 job: Faal
 listing-priority: 95
-image: "//res.cloudinary.com/magnvs/image/upload/v1539362740/i1mzkxlqrltfxtwfbomh.jpg"
+image: "//res.cloudinary.com/magnvs/image/upload/v1539573804/oronammyxygxutute4su.jpg"
 ---
 
 El opening del **FAAL 2018** pondrá en escena el multiétnico tema musical **“Somos Guayaquil”**, de la autoría de Geraldine Weber en las voces de  artistas como: Job Rodríguez, Kathy Elisa Lamina y Freddy Rivadeneira, bajo la dirección técnica de Max Meitzner y arreglos musicales de Roberto Guerrero en el estudio Rogerhid Music bajo la coordinación general del Arq. Melvin Hoyos.
