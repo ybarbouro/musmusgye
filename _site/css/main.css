@@ -86,8 +86,33 @@ textarea {
     padding: 0.2em 0;
 }
 /* ==========================================================================
-   Mapa
+  jumo
    ========================================================================== */
+   .con-jump {
+     transition: all 0.3s ease-in-out;
+   }
+
+   .con-jump:hover .jump{
+     visibility: visible;
+     transform: translateY(-10px);
+     opacity: 1;
+    transition: .3s linear;
+     animation: jumpy 1s ease-in-out infinite  alternate;
+
+   }
+   @keyframes jumpy {
+     0%{
+       transform: translateY(6px);
+     }
+
+     100%{
+       transform: translateY(1px);
+     }
+
+   }
+
+   .top:hover {transform: translateY(-10px);
+   }
 
 /* ==========================================================================
    Author's custom styles

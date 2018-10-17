@@ -317,7 +317,7 @@ h2.league-blue-light {
 }
 .bg-hero {
 	min-height: 60vh;
-	background-image: url(//cdn.filestackcontent.com/BSIDhgViSsuyYGqLVIQn);
+	background-image: url(//cdn.filestackcontent.com/RndOkZIxROaoEKpeXiir);
 	background-position: center;
 	background-size: cover;
 	margin: 0;
@@ -325,7 +325,7 @@ h2.league-blue-light {
 
 .bg-hero-expo {
 	min-height: 35vh;
-	background-image: url(https://cdn.filestackcontent.com/VYbQ59lXQH6GlhParWWq);
+	background-image: url(//cdn.filestackcontent.com/VYbQ59lXQH6GlhParWWq);
 	background-position: center;
 	background-size: cover;
 	margin: 0;
@@ -471,7 +471,7 @@ h2.league-blue-light {
   }
 
   .site-nav a{
-    color:#226691;
+    color:#fff;
     display:block;
     text-decoration:none;
     text-transform:uppercase
