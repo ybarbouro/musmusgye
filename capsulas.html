@@ -3,9 +3,8 @@ layout: capsule
 ---
 <div class="site-section site-section-video noise">
   	<h2 style="color:rgba(34,102,145,0.6)" class="league-four">ESTA SEMANA<br /> en el Museo Municipal de Guayaquil</h2>
-    {% assign capsulas = site.capsulas.first %}
-
-    {% for capsulas in site.capsulas limit: 5 %}
+    {% assign person = site.people | sort: 'listing-priority' %}
+    {% for capsulas in capsulas limit: 5 %}
   <section>
 
   <div class="row leftie" style="margin-top:2em;">
