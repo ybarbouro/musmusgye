@@ -1,7 +1,7 @@
 ---
 title: IV Reunión internacional de amigos y seguidores de Julio Jaramillo
 object-id: music
-listing-priority: 99
+listing-priority: 50
 day: 29
 month: SEPTIEMBRE
 time: 13h00 - 17h00

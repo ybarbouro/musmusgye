@@ -36,94 +36,184 @@
         <link rel="stylesheet" href="/css/slides.css">
         <link rel="stylesheet" href="/css/animate.css">
         <link rel="stylesheet" href="/css/jquery.bxslider.css">
-        <link rel="stylesheet" href="/css/fancy-box.css">
-        <link rel="stylesheet" href="/css/griddler.css">
         <link rel="stylesheet" type="text/css" href="/fonts/font-awesome-4.7.0/css/font-awesome.min.css" />
         <script src="/js/vendor/modernizr-2.8.3.min.js"></script>
+        <style>
+/* NOTE: The styles were added inline because Prefixfree needs access to your styles and they must be inlined if they are on local disk! */
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300);
+section { display: flex;
+  justify-content: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  }
+article {
+margin: 1rem;
+-ms-flex: 1 0 0px;
+flex: 1;
+/* shortcut for "flex-grow: 1". Note that it MUST be a unitless value to work; defined with a unit (e.g. flex: 1px) the shortcut would alter the flex-basis property. */
+}
+article.breaking {
+-ms-flex-grow: 2;
+flex: 2;
+/* shortcut for "flex-grow: 2" */
+}
+
+article.columnas div {
+column-count: 2;
+}
+
+article.columnas h1 {
+font-size: 2.7rem;
+line-height: 2.7rem;
+padding-bottom: 1rem;
+margin-top: 0;
+max-width: 80%;
+}
+
+article.tarjetabg {
+background: url(/img/papers.png);
+padding: 5px 15px;
+}
+
+
+.cardex {
+  position: relative;
+  margin: 0;
+  padding: 15px 15px;
+  margin-left: -15px;
+  margin-right: -15px;
+  /* background-image: linear-gradient(to top, #243949 0%, rgba(46, 87, 103, 0.7) 100%);*/
+  height: 90%;
+  color:#fff;
+}
+
+.cardex > img {
+mix-blend-mode:normal;
+}
+
+article img {
+width: 100%; height: auto;
+border-radius: 7px;
+}
+article h1, article h2, article h3 { font-family: "Oswald", sans-serif; }
+article h1 {
+font-size: 1.7rem;
+line-height: 1.3;
+text-align: left;
+text-transform: uppercase;
+}
+article h2, article h3 {
+font-size: 1rem;
+text-align: right;
+line-height: 1.3;
+margin: 1.3rem 0;
+font-weight: 300;
+}
+article h3 {
+font-size: 1.1rem;
+}
+article p {
+line-height: 1.3;
+text-align: left;
+}
+
+@media screen and (max-width: 750px) {
+
+section {
+  -ms-flex-direction: column;
+  -webkit-box-orient: vertical;
+  flex-direction: column;
+}
+
+.cardex {
+  position: relative;
+  margin-bottom: -15px;
+  height: 100%;
+}
+
+}
+
+  </style>
 </head>
-    <body >
+
+    <body>
 
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-		<!-- Add your site or application content here -->
-		<div class="noise">
-          <div class="container">
+
+        <!-- Add your site or application content here -->
+        <div class="main-c noise">
+          <div class="container" style="margin-bottom: 30px; padding-bottom:20px;">
             <div class="site-header clearfix" role=banner>
               <div class=site-logo>PROGRAMA MUSEO ARTE Y CIUDAD
               </div>
-              <ul class="site-navi inline-block-list">
+              <ul class="site-nav inline-block-list">
                 <li>
-                  <a href="/" data-ga-category="Inbound links" data-ga-action="Nav click" data-ga-label="Source code">Inicio
+                  <a href="/faal" data-ga-category="Inbound links" data-ga-action="Nav click" data-ga-label="Source code">FAAL 2018
                   </a>
                 </li>
                 <li>
-                  <a href="/faal" data-ga-category="Inbound links" data-ga-action="Nav click" data-ga-label="Source code">Bases FAAL
+                  <a href="https://www.salondejulio.com" data-ga-category="Outbound links" data-ga-action="Nav click" data-ga-label=Docs>Salón de Julio
                   </a>
-                </li>
-                <li>
-                  <a href="/faal" data-ga-category="Inbound links" data-ga-action="Nav click" data-ga-label="Source code">
-                  Cronograma FAAL</a>
                 </li>
               </ul>
             </div>
 
-
             <div class="wow bounceInDown">
-                <div  style="width: 100%; margin:0; margin-left:auto; margin-right:auto;">
-                  <img src="/assets/faal-2018.svg"/>
+                <div  style="width: 20%; margin:0; margin-left:auto; margin-right:auto;">
+                  <img src="/img/museo-alt.svg"/>
                 </div>
             </div>
 
-            <!-- <div class="site-promo">
-              <h2 >Festival de Artes al Aire Libre</h2>
-              <h2> 2&mdash;18 OCTUBRE</h2>
-            </div> -->
+            <div class="site-promo-min">
+              <div class="in-the-wild"><h4>&laquo;Descubre Arte, Cultura y Entretenimiento en la Ciudad&raquo;<br />Sitio oficial de los eventos que realiza la Dirección de Cultura de la M. I. Municipalidad de Guayaquil</h4></div>
+            </div>
 
-          </div><!-- end of container -->
+</div><!-- end of container -->
 
-          <h2 class="league-five">PREMIOS Y MENCIONES DE HONOR</h2>
-          <h2 class="league-sm-white">artes alternativas, fotografía y cortometraje
-          </h2>
 
-          <div class="gallery">
-    <figure class="gallery__item"><a href="/assets/faal/birdman-lg.jpg" data-fancybox="images"><img class="gallery__image" src="/assets/faal/birdman.jpg"/></a></figure>
-    <figure class="gallery__item"><a href="/assets/faal/madre.jpg" data-fancybox="images"><img class="gallery__image" src="/assets/faal/madre-sm.jpg"/></a></figure>
-    <figure class="gallery__item"><a href="/assets/faal/sincro-lg.jpg" data-fancybox="images"><img class="gallery__image" src="/assets/faal/sincro-sm.jpg"/></a></figure>
-    <figure class="gallery__item"><a href="/assets/faal/nueve.jpg" data-fancybox="images"><img class="gallery__image" src="/assets/faal/nueve-sm.jpg"/></a></figure>
-    <figure class="gallery__item"><a href="/assets/faal/ello-lg.png" data-fancybox="images">     <img class="gallery__image" src="/assets/faal/ello-sm.png"/></a></figure>
-    <figure class="gallery__item"><a href="/assets/faal/mujer-lg.jpg" data-fancybox="images">
-      <img class="gallery__image" src="/assets/faal/mujer.jpg"/></a></figure>
-    <figure class="gallery__item"><a href="/assets/faal/gusanos.jpg" data-fancybox="images">
-      <img class="gallery__image" src="/assets/faal/gusanos-sm.jpg"/></a></figure>
-    <figure class="gallery__item"><a href="/assets/faal/sopa.jpg" data-fancybox="images"><img class="gallery__image" src="/assets/faal/sopa-sm.jpg"/></a></figure>
-    <figure class="gallery__item"><a href="/assets/faal/alter-lg.jpg" data-fancybox="images">
-      <img class="gallery__image" src="/assets/faal/alter-sm.jpg"/></a></figure>
-  </div>
+        <div class="site-section-head">
+          <div class="container">
 
-</div> <!-- END NOISE -->
 
-<div class="site-section-head">
-<div class="article-mag-wrap">
-<div class="intro-ps leftie">
 
-	<p><strong>Desde el año 2000</strong>, por las fiestas de Independencia de la Ciudad, la Dirección de Cultura de la M. I. Municipalidad de Guayaquil ha venido realizando el FESTIVAL DE ARTES AL AIRE LIBRE en las instalaciones del Malecón 2000 y Plaza Colón, la presente edición continua con esta tradición y volvemos a la orilla del Manso Guayas. </p>
+            <div class="grid">
+              <div class="grid-cell">
+                <img src="/img/escudo-gye.svg"/>
 
-  <p>Las artes plásticas, escénicas, visuales y alternativas estarán presentes con once categorías de concursos plenamente establecidos en el FESTIVAL DE ARTES AL AIRE LIBRE: <em>Pintura, escultura, dibujo, artes alternativas, música, danza, teatro, títeres, declamación, fotografía y cortometraje.</em></p>
+              </div>
+              <div class="grid-cell">
+                <img src="/img/museo.svg"/>
 
-</div>
-</div>
-</div>
+              </div>
+              <div class="grid-cell">
+                <img src="/img/macm.svg"/>
 
+              </div>
+            </div>
+
+
+          </div>
+        </div>    <!-- End site section-head -->
+
+<p><strong>CICLO DE CONFERENCIAS</strong></p>
+
+<p>Rumbo al Bicentenario de la gesta revolucionaria del 9 de Octubre de 1820, la <strong>Biblioteca Municipal de Guayaquil</strong> invita al ciclo de conferencias de historia con la participación de reconocidos historiadores contemporáneos como Roberto Vergara Noboa, Víctor Hugo Arellano, Alberto Sánchez Varas, Alberto Montalvo Landín, y Enrique Estarellas V.</p>
+
+
+<div class="aside-b">
 <div class="row">
 
-  <div class="col col-2 offset-5">
+  <div class="col col-6 offset-3">
   <figure style="margin-bottom:0;">
-    <img src="https://salondejulio.com/img/logo-municp.svg">
+    <img src="/img/nu-mncp.svg">
   </figure>
   </div>
 
 </div>
+</div>
+
 
 <div class="site-footer" >
 <div class="row">
@@ -181,37 +271,29 @@
 </div><!-- end of main-->
 
 
-  <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
-  <script src="/JS/"></script>
-  <script src="/JS/main.js"></script>
-  <script src="/JS/kube.js"></script>
-  <script src="/JS/wow.js"></script>
-  <script src="/JS/fancy-box.js"></script>
-  <script src="/JS/jquery.bxslider.min.js"></script>
+        <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+        <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
+        <script src="/js/plugins.js"></script>
+        <script src="/js/main.js"></script>
+        <script src="/js/kube.js"></script>
+        <script src="/js/wow.js"></script>
 
-  <script>
-  wow = new WOW(
-          {
-            animateClass: 'animated',
-            offset: 100
-          }
-  )
-  wow.init()
-  </script>
+        <script>
+        wow = new WOW(
+                {
+                  animateClass: 'animated',
+                  offset: 100
+                }
+        )
+        wow.init()
+        </script>
 
-  <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
   <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
   ga('create', 'UA-100191210-1', 'auto');
   ga('send', 'pageview');
-
 </script>
-
-    </body>
-</html>

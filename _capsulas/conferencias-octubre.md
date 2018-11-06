@@ -1,7 +1,7 @@
 ---
 title: La Revolución de Octubre, causas y consecuencias
 object-id: conferencias
-listing-priority: 1
+listing-priority: 2
 day: 22 - 26
 month: OCTUBRE
 time: 17h00
