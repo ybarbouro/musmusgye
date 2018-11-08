@@ -515,7 +515,7 @@ div.premiere-kaki {
   }
   .zona2 {
     grid-column: 7 / span 4;
-    grid-row: 3 / 4;
+    grid-row: 4 / 5;
     font-weight: 100;
     font-style: italic;
     font-size: .875rem;
