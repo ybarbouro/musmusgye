@@ -521,14 +521,10 @@ div.premiere-kaki {
     font-size: .875rem;
     line-height: 1.3rem;
     text-align: left;
-    padding-top: 1.5rem;
     padding-left: 1.5rem;
-    margin-top: 1.5rem;
-    margin-left: 1rem;
+    margin-top: 2.5rem;
     color: #fff;
     z-index: 300;
-    background: rgba(0,0,0,0.3);
-    border-radius: 3px;
   }
 
   .zona3 {
