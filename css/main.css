@@ -495,7 +495,7 @@ div.premiere-kaki {
   .zona {
     grid-column: 1 / -1;
     grid-row: 1 / 6;
-    background-image: url(//res.cloudinary.com/magnvs/image/upload/v1541611922/arpia_xkwywt.jpg);
+    background-image: url(//cdn.filestackcontent.com/L8Mcfq2ESyyplP4N0GOx);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center top;
@@ -522,13 +522,13 @@ div.premiere-kaki {
     line-height: 1.3rem;
     text-align: left;
     padding-top: 1.5rem;
-    padding-left: 1.5rem; 
+    padding-left: 1.5rem;
     margin-top: 1.5rem;
     margin-left: 1rem;
     color: #fff;
     z-index: 300;
     background: rgba(0,0,0,0.3);
-    border-radius: 3px; 
+    border-radius: 3px;
   }
 
   .zona3 {
