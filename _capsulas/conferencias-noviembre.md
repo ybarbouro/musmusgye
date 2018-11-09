@@ -2,7 +2,7 @@
 title: Consecuencias de la Independencia de Guayaquil
 object-id: conferencias
 listing-priority: 1
-day: 22 - 26
+day: 26 - 30
 month: NOVIEMBRE
 time: 17h00
 place: Biblioteca Municipal de Guayaquil
