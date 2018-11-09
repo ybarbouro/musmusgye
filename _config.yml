@@ -1,7 +1,7 @@
 name: MUSIMUESTRAS 2017
 markdown: kramdown
 highlighter: rouge
-exclude: [main.scss, config.rb, crono-faal.html, faal-expo.html]
+exclude: [main.scss, config.rb, crono-faal.html]
 description: Sitio informativo del Programa Museo, Arte y Ciudad - Musimuestras 2017
 url: https://fernanz.github.io/
 permalink: pretty
