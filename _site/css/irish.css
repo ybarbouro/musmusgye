@@ -580,6 +580,11 @@ h2.league-blue-light {
   color:#fff;
   text-align:center;
 }
+.site-section-gray{
+  background-color: slategray;
+  color:#fff;
+  text-align:center;
+}
 
 .site-section-video .content{
   max-width:720px;
