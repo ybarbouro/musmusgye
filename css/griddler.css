@@ -1,5 +1,6 @@
 .gallery {
   margin-top: 3em;
+  margin-bottom: .3em;
   display: -ms-grid;
   display: grid;
   grid-gap: 5px;
@@ -12,6 +13,22 @@
           "a a f f"
           "d e f f"
           "g g h i";
+}
+
+.gallery-b {
+  margin-top: 3em;
+  margin-bottom: .3em;
+  display: -ms-grid;
+  display: grid;
+  grid-gap: 5px;
+      -ms-grid-rows: 1fr 5px 1fr 5px 1fr;
+      grid-template-rows: repeat(3, 230px);
+      -ms-grid-columns: 1fr 5px 1fr 5px 1fr 5px 1fr;
+      grid-template-columns: repeat(4, 1fr);
+      grid-template-areas:
+          "a a b c"
+          "a a f f"
+          "d e f f";
 }
 
 .gallery__item {
