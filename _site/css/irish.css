@@ -593,19 +593,26 @@ h2.league-blue-light {
 
 .site-section-video h2{
   margin:1em 0}
+
 .in-the-wild{
-  font-size:1.25em;
+  font-size:1.4em;
   margin:0 auto;
-  max-width:720px}
+  max-width:720px; 
+}
 
 .in-the-wild {
   list-style-type:none;}
 
 .in-the-wild li {
-    padding-bottom: 1em;}
+    padding-bottom: 1em;
+    color: #b3d4fc;}
 
 .in-the-wild li > h2 {
-	color:#00B0FF}
+  color:#00B0FF}
+  
+.in-the-wild li > h3 {
+    color:#00B0FF}
+  
 
 .in-the-wild > h4 {
 	color:#00B0ff}
@@ -651,7 +658,8 @@ h2.league-blue-light {
 			margin-top: 3em;
 		  height: 200px;}
 	.site-promo h2 {
-			font-size: 2.5rem;
+      display: none;
+      font-size: 2.5rem;
 			line-height: 2.5rem;
 			letter-spacing: 2px;
 			padding-top: 1em;}
