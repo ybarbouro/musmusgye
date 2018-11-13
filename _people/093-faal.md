@@ -6,7 +6,8 @@ title: Exposición FAAL 2018
 job: Arte
 listing-priority: 93
 image: "//res.cloudinary.com/magnvs/image/upload/v1542120306/espartaco_vjwd95.jpg"
----
+---  
+
 **Festival de Artes al Aire Libre - Independencia de Guayaquil** 
 La exposición de las obras premiadas, menciones de honor y la selección del jurado de la 19° edición del Festival de Artes al Aire Libre - FAAL en la categoría de pintura, escultura y dibujo estará abierta en las salas del Museo Municipal de Guayaquil hasta el 8 de diciembre del presente año.
 
