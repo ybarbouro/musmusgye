@@ -3,7 +3,7 @@ object-id: faal
 first-name: Festival 
 last-name: Artes
 title: Exposición FAAL 2018
-day: 14
+day: 13
 month: NOVIEMBRE
 time: 09h00 - 17h30
 place: Salas del Museo Municipal de Guayaquil
