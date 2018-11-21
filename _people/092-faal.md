@@ -1,17 +1,17 @@
 ---
 object-id: faal
-first-name: Festival 
+first-name: Festival
 last-name: Artes
 title: Exposición FAAL 2018
 day: 13
 month: NOVIEMBRE
 time: 09h00 - 17h30
 place: Salas del Museo Municipal de Guayaquil
-listing-priority: 93
+listing-priority: 92
 image: "//res.cloudinary.com/magnvs/image/upload/v1542120306/espartaco_vjwd95.jpg"
----  
+---
 
-**Festival de Artes al Aire Libre - Independencia de Guayaquil**  
+**Festival de Artes al Aire Libre - Independencia de Guayaquil**
 
 La exposición de las obras premiadas, menciones de honor y la selección del jurado de la 19° edición del FAAL estará abierta en la planta alta del Museo Municipal de Guayaquil hasta el **8 de diciembre** del presente año. La entrada es libre.
 
