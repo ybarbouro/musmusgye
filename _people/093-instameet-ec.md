@@ -2,7 +2,7 @@
 object-id: instameet-remembranzas
 first-name: instameet
 last-name: remembranzas
-title: Instameet Remembranzas
+title: Instameet EC Remembranzas
 job: Fotografía
 listing-priority: 93
 image: "//res.cloudinary.com/magnvs/image/upload/v1542775408/unbh0ulm6morhtswboff.jpg"
