@@ -317,7 +317,7 @@ h2.league-blue-light {
 }
 .bg-hero {
 	min-height: 60vh;
-	background-image: url(//res.cloudinary.com/magnvs/image/upload/c_scale,e_art:aurora,w_2600/v1541612824/arquitecturas_tnnbyt.jpg);
+	background-image: url(//cdn.filestackcontent.com/lGkXHT6wRp2W6YFWKqJT);
 	background-position: center;
 	background-size: cover;
 	margin: 0;
@@ -597,7 +597,7 @@ h2.league-blue-light {
 .in-the-wild{
   font-size:1.4em;
   margin:0 auto;
-  max-width:720px; 
+  max-width:720px;
 }
 
 .in-the-wild {
@@ -609,10 +609,10 @@ h2.league-blue-light {
 
 .in-the-wild li > h2 {
   color:#00B0FF}
-  
+
 .in-the-wild li > h3 {
     color:#00B0FF}
-  
+
 
 .in-the-wild > h4 {
 	color:#00B0ff}
