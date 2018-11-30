@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Retrato", obra ganadora del FAAL, tendrá una corta temporada teatral en El Altillo
+title: 'Retrato', obra ganadora del FAAL, tendrá una corta temporada teatral en El Altillo
 date: 2018-11-30 01:00:00
 comment: Expreso | MTN
 image: "//res.cloudinary.com/magnvs/image/upload/v1541960995/bcg0ctlkjqafakpku1ok.jpg"
 ffw: Leer más
 ---
+
 Rosa Ernestina y Juan Manuel son un par de amigos inseparables, ancianos que transitan por una ciudad que no está hecha para viejos, cuando una devastadora noticia hace que emprendan un viaje que marcará sus vidas.<br />
 Esta es la historia de "Retrato", obra que recientemente ganó en la categoría de teatro en el XIX Festival de Artes al Aire Libre (FAAL), organizado por el Cabildo.  
 
