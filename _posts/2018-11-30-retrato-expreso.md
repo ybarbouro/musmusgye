@@ -7,7 +7,7 @@ image: "//res.cloudinary.com/magnvs/image/upload/v1541960995/bcg0ctlkjqafakpku1o
 ffw: Leer más  
 ---  
 
-Rosa Ernestina y Juan Manuel son un par de amigos inseparables, ancianos que transitan por una ciudad que no está hecha para viejos, cuando una devastadora noticia hace que emprendan un viaje que marcará sus vidas.<br />
+Rosa Ernestina y Juan Manuel son un par de amigos inseparables, ancianos que transitan por una ciudad que no está hecha para viejos, cuando una devastadora noticia hace que emprendan un viaje que marcará sus vidas.<br /><br />
 Esta es la historia de "Retrato", obra que recientemente ganó en la categoría de teatro en el XIX Festival de Artes al Aire Libre (FAAL), organizado por el Cabildo.  
 
 La historia, que rinde tributo a la vejez y a la memoria de los abuelos de los protagonistas, los actores Mario Suárez y Vanessa Guamán Saavedra, nació como proyecto de la residencia "Primer Piso", del colectivo Zona Escena.  
