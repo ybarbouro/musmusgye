@@ -1,6 +1,6 @@
 ---  
 layout: post
-title: 'Retrato', obra ganadora del FAAL, tendrá una corta temporada teatral en El Altillo
+title: Retrato, obra ganadora del FAAL, tendrá una corta temporada teatral en El Altillo
 date: 2018-11-30 01:00:00
 comment: Expreso | MTN
 image: "//res.cloudinary.com/magnvs/image/upload/v1541960995/bcg0ctlkjqafakpku1ok.jpg"
