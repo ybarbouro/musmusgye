@@ -317,7 +317,7 @@ h2.league-blue-light {
 }
 .bg-hero {
 	min-height: 60vh;
-	background-image: url(//cdn.filestackcontent.com/lGkXHT6wRp2W6YFWKqJT);
+	background-image: url(//cdn.filestackcontent.com/zRPxCRBKTMCvWRMiRJ4h);
 	background-position: center;
 	background-size: cover;
 	margin: 0;
@@ -410,7 +410,7 @@ h2.league-blue-light {
   color:#E65100}
 
 .bounce {
-	width: 100%;
+	width: 30%;
 	padding: 155px 0 0 0;
 	margin:0;
 	margin-left:auto;
@@ -647,8 +647,9 @@ h2.league-blue-light {
   html{
     font-size:14px}
 		.bg-hero {
-				min-height: 70vh;
-				background-position-x: -100px;}
+				min-height: 60vh;
+				background-position-x: -100px;
+			}
   .last-update,.site-footer{
     font-size:1em}
   .grid-cell-left {
@@ -664,7 +665,7 @@ h2.league-blue-light {
 			letter-spacing: 2px;
 			padding-top: 1em;}
 	.bounce {
-			width: 100%;
+			width: 50%;
 		  padding: 0;
 			margin:0;
 			margin-left:auto;
