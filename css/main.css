@@ -430,7 +430,8 @@ div.premiere {
    	font-size: 1em;
    	font-weight: 300;
    	color:#eee;
-    padding-left: 1em;
+    padding-left: .8em;
+    padding-right: .8em;
    }
 
 div.premiere-blue {
