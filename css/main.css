@@ -345,7 +345,7 @@ span.suscribing{
    ========================================================================== */
 .raw {
     background-color: rgba(233,183,139,1);
-    background-image: url(/img/biblioteca.jpg);
+    background-image: url(//res.cloudinary.com/magnvs/image/upload/v1544501541/biblioteca-1908_e6srjy.jpg);
     background-blend-mode:multiply;
     background-size: cover;
     padding:0;
