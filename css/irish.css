@@ -233,7 +233,7 @@ h2.league-two {
   font-family:"Oswald", sans-serif;
   font-weight: 400;
   font-size: 4.7rem;
-  color: rgba(69,90,100,.6);
+  color:  #e76a00;
   padding-bottom: 3rem;
   line-height: 4.5rem;
 }
@@ -243,7 +243,7 @@ h2.league-three {
   font-weight: 400;
   font-size: 4.7rem;
   text-shadow:0 -1px 0 rgba(0,0,0,.5);
-  color: #e76a00;
+  color: #BCC6CC;
   padding-bottom: 3rem;
   line-height: 4.9rem;
 }
