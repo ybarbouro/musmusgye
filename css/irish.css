@@ -685,6 +685,15 @@ h2.league-blue-light {
 			background-position-x: -100px;}
 	.grid-cell-left {
     width:100%}
+	h2.league-three {
+		  font-family:"Oswald", sans-serif;
+		  font-weight: 400;
+		  font-size: 1.7rem;
+		  text-shadow:0 -1px 0 rgba(0,0,0,.5);
+		  color: #BCC6CC;
+		  padding-bottom: 1rem;
+		  line-height: 1.9rem;
+		}
 }
 @media only screen and (max-width:420px){
   h1{
