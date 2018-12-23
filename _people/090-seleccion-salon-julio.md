@@ -7,7 +7,7 @@ day: 21
 month: DICIEMBRE
 time: 09h00 - 17h30
 place: Sala Polivalente del Museo Municipal de Guayaquil
-listing-priority: 91
+listing-priority: 90
 image: "//res.cloudinary.com/magnvs/image/upload/v1545107700/ochoa-sj_rwnnk4.jpg"
 ---
 
