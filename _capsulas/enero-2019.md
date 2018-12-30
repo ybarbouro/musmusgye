@@ -2,7 +2,7 @@
 title: ACTIVIDADES DESTACADAS ENERO - 2019
 object-id: enero-2019
 listing-priority: 1
-place: SUcre entre Chile y Pedro Carbo
+place: Sucre entre Chile y Pedro Carbo
 image: "//res.cloudinary.com/magnvs/image/upload/v1501892745/ocm-1_beajud.jpg"
 ext-url: "/capsulas/"
 ---
