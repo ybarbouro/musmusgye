@@ -16,6 +16,6 @@ ext-url: "/capsulas/"
 
 **Sábado 19 de enero** 13H00<br />**Festival de arte musical**<br/>Colegio de Artes "Adoradores de Dios".
 
-**Sábado 26 de enero** 09H00<br />**Festival de artístico cultural**<br/>Centro Artístico "Noelia Bedoy Torre".
+**Sábado 26 de enero** 09H00<br />**Festival artístico cultural**<br/>Centro Artístico "Noelia Bedoy Torre".
 
 **Miércoles 30 de enero** 19H00<br />**Concierto Orquesta de Cámara del Museo Municipal**<br/>Maestro José Valdivieso.
