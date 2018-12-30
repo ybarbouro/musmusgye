@@ -1,7 +1,7 @@
 ---
 title: Consecuencias de la Independencia de Guayaquil
 object-id: conferencias
-listing-priority: 2
+listing-priority: 48
 day: 26 - 30
 month: NOVIEMBRE
 time: 17h00
