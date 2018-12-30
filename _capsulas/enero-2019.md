@@ -2,10 +2,11 @@
 title: ACTIVIDADES DESTACADAS ENERO - 2019
 object-id: enero-2019
 listing-priority: 1
-place: Auditorio del Museo Municipal de Guayaquil
+place: SUcre entre Chile y Pedro Carbo
 image: "//res.cloudinary.com/magnvs/image/upload/v1501892745/ocm-1_beajud.jpg"
 ext-url: "/capsulas/"
 ---
+<h2 class="league-sm-white">AUDITORIO DEL MUSEO MUNICIPAL DE GUAYAQUIL</h2>
 
 **Viernes 4 de enero** 18H30<br />Conferencia: **Mutación 2019**<br/>Ricardo Gómez.
 
