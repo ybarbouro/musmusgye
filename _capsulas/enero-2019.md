@@ -6,7 +6,7 @@ place: SUcre entre Chile y Pedro Carbo
 image: "//res.cloudinary.com/magnvs/image/upload/v1501892745/ocm-1_beajud.jpg"
 ext-url: "/capsulas/"
 ---
-<h2 class="league-sm-white">AUDITORIO DEL MUSEO MUNICIPAL DE GUAYAQUIL</h2>
+<h2 class="league-sm-white">AUDITORIO DEL MUSEO MUNICIPAL <br />DE GUAYAQUIL</h2>
 
 **Viernes 4 de enero** 18H30<br />Conferencia: **Mutación 2019**<br/>Ricardo Gómez.
 
