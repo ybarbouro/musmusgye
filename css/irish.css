@@ -718,7 +718,7 @@ h2.league-blue-light {
 		  font-weight: bold;
 		  font-size: 2.5rem;
 		  line-height: 1em;
-			margin-top: -1.6em;
+			margin-top: 0;
 		}
 }
 @media only screen and (max-width:420px){
