@@ -1,11 +1,10 @@
 ---
 title: Estigmas, virus y sacrilegios de la contemporaneidad
-subtitle: EXPOSICIÓN
 object-id: pintura
 listing-priority: 1
-day: 07
-month: FEBRERO
-time: 18H30
+day: 07 
+month: FEBRERO - 2 MARZO
+time: Inauguración 07.02.2019 / 18H30
 place: Sala de Arte Contemporáneo del Museo Municipal de Guayaquil
 image: "//res.cloudinary.com/magnvs/image/upload/v1548262957/Botticelliz_kdk2ps.jpg"
 ext-url: "/capsulas/"
