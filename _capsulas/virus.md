@@ -15,5 +15,5 @@ el malestar con las nuevas tendencias de la nada o el mal llamado arte contempor
 del arte, ha sido escogidas para su intervención, la cual será aplicar el estigma, el virus o practicar el sacrilegio con ellas.  
 
 Hay imágenes reproducidas de los grandes maestros de la plástica renacentista,
-oportunamente aplicadas con los mencionados fenómenos, como si se tratase de una señal 
+oportunamente aplicadas con los mencionados fenómenos como si se tratase de una señal 
 divina que anuncia el fin y la decadencia del arte.
