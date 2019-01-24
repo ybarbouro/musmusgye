@@ -14,12 +14,14 @@ image: "//res.cloudinary.com/magnvs/image/upload/v1548355652/FSMWB0319_M19A1_02_
 **XVIII Concurso Nacional de Modelismo a Escala**
 
 El Modelismo a escala consiste en ensamblar, detallar y pintar réplicas de aviones, helicópteros, vehículos militares, vehículos civiles
-como autos, motocicletas, camiones, figuras, naves espaciales, barcos, etc. El concurso y la exposición comprende el MODELISMO PLÁSTICO A 
+como autos, motocicletas, camiones, figuras, naves espaciales, barcos, etc.  
+
+El concurso y la exposición comprenden el MODELISMO PLÁSTICO A 
 ESCALA, lo que significa que los modelos son maquetas comerciales fabricadas en plástico y que deben ser ensambladas, detalladas y 
 pintadas para tener como resultado final un modelo a escala detallado.  
 
 **Cronograma:**  
-<ul>
+<ul style="color:#fff;">
 <li><u>Jueves 7 de Febrero</u> 11h00: Evento de lanzamiento y Rueda de Prensa.</li>
 <li><u>Viernes 8 de Febrero</u>: Ingreso de Modelistas participantes con sus maquetas, inscripción y ubicación.</li>
 <li><u>Sábado 9 de Febrero</u>: Ultima inscripción de modelo hasta las 11h00. Premiación, entrega de medallas y sesión de fotos (16h00).</li>
