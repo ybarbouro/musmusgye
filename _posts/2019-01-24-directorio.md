@@ -7,7 +7,8 @@ subtitle: Datos del Museo Municipal de Guayaquil están en el directorio.
 image: "//res.cloudinary.com/magnvs/image/upload/v1548358442/directorio_hiqzyb.jpg"
 ffw: Leer más
 ---
-Una guía en la cual se pueden encontrar datos como la ubicación, horario, dirección, teléfonos, correo electrónico, responsables, entre otros, de los diferentes museos, constan en el primer Directorio de la Red Ecuatoriana de Museos. El libro recoge información de 175 museos del país: 120 públicos, 29 privados, 18 eclesiásticos y 8 comunitarios. 
+Una guía en la cual se pueden encontrar datos como la ubicación, horario, dirección, teléfonos, correo electrónico, responsables, entre otros, de los diferentes museos, constan en el primer Directorio de la Red Ecuatoriana de Museos.
+<br /><br />El libro recoge información de 175 museos del país: 120 públicos, 29 privados, 18 eclesiásticos y 8 comunitarios. 
 <br /><br />“Necesitábamos generar una herramienta de política que nos permita mapear los distintos museos que existen en el país, que nos permita entender cómo estos museos prestan un servicio en la constitución de la memoria y prestan una articulación a partir de esa memoria...”, explica Gabriel Cisneros, viceministro de Cultura y Patrimonio.
 
 En ese contexto –dice– la Subsecretaría de Memoria Social del Ministerio de Cultura y Patrimonio comenzó a levantar información en cada una de las provincias de los museos.
@@ -33,5 +34,6 @@ Además de la Subsecretaría, en el proceso del Directorio también participaron
 
 Zurita cuenta que Ecuador ya participa en los programas de los Ibermuseos y de los procesos que ya acreditan a nivel internacional. “Entonces estos museos quedan registrados en este programa. No solo es una red local, nacional, es una red regional, nos incorporamos ahora los 175 museos a este red”, cuenta Zurita.
 
-La presentación del Directorio se realizará simultáneamente a las 11:00 en Guayaquil, en el MAAC; en Quito, en el Museo Nacional del Ecuador; en Cuenca, en el Museo de Sitio y Parque Arqueológico Pumapungo; y en Portoviejo, en el Museo Portoviejo y en el Archivo Histórico. (F)
+La presentación del Directorio se realizará simultáneamente a las 11:00 en Guayaquil, en el MAAC; en Quito, en el Museo Nacional del Ecuador; en Cuenca, en el Museo de Sitio y Parque Arqueológico Pumapungo; y en Portoviejo, en el Museo Portoviejo y en el Archivo Histórico. (F)  
+
 <small>Este artículo fue publicado en la versión digital de [El Universo](//www.eluniverso.com/entretenimiento/2019/01/24/nota/7154186/directorio-acoge-datos-museos-ecuador) del 24 de enero de 2019. Sección Cultura</small>
