@@ -82,7 +82,8 @@ h3.description {
   min-height: 20px;
 }
 .grid{
-  margin:0 -15px;
+  margin:0;
+  padding: 5em;
   letter-spacing:-.31em;
   word-spacing:-.43em;
   text-rendering:optimizespeed;}
@@ -102,10 +103,9 @@ h3.description {
     text-align:left;
     text-rendering:auto;
     vertical-align:top;
-    width:30%;
     word-spacing:normal;
-    margin-right: 20px;
-    margin-bottom: 30px;}
+    width: 97%;
+  }
 
 .grid-cell-left h5  {
       color:#E65100}
@@ -118,7 +118,7 @@ h3.description {
 .inline-block-list{
   list-style-type:none;
   margin:0;
-  padding:0
+  padding:0;
 }
 .inline-block-list li{
   display:inline-block;
@@ -340,6 +340,14 @@ h2.league-blue-light {
   line-height: 2.3rem;
 	margin-top:0;
 	padding-top: 0;
+}
+h2.animosa {
+  font-family:"Animosa", sans-serif;
+  font-weight: bold;
+  font-size: 4.3rem;
+  color: rgba(255,255,255,.7);
+  letter-spacing: 1px;
+  line-height: 4.3rem;
 }
 .bg-hero {
 	min-height: 85vh;
@@ -691,7 +699,16 @@ h2.league-blue-light {
       font-size: 1.5rem;
 			line-height: 1.5rem;
 			letter-spacing: 2px;
-			padding-top: 1em;}
+      padding-top: 1em;}
+      
+  h2.animosa {
+        font-family:"Animosa", sans-serif;
+        font-weight: bold;
+        font-size: 2.5rem;
+        color: rgba(255,255,255,.7);
+        letter-spacing:normal;
+        line-height: 2.7rem;
+      }
 	.bounce {
 			width: 23%;
 		  padding: 0;
@@ -719,7 +736,7 @@ h2.league-blue-light {
 		  font-size: 2.5rem;
 		  line-height: 1em;
 			margin-top: 0;
-		}
+    }
 }
 @media only screen and (max-width:420px){
   h1{
