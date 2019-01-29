@@ -749,9 +749,9 @@ h2.animosa {
     font-size:2.5em}
   html{
     font-size:13px}
-	.bg-hero {
-			min-height: 70vh;
-			background-position-x: -100px;}
+  .bg-hero {
+    min-height: 70vh;
+    background-position-x: -100px;}
   .grid-cell-left {
         width:100%}
   .site-section{
@@ -761,10 +761,14 @@ h2.animosa {
           letter-spacing: 0;
           line-height: 2rem;
         }
-	.grid-cell-left img {
-				  padding-left: 0;
-					width:100%;
-				}
+.grid-cell-left img {
+	padding-left: 0;
+	width:100%;
+	}
+.grid {
+  margin:0;
+  padding: .5em;
+ }	
 }
 @media only screen and (max-width:320px){
 	.bg-hero {
