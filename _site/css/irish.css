@@ -113,6 +113,12 @@ h3.description {
 .grid-cell img {
   width:60%;
 }
+
+.grid-cell-left img {
+  padding-left: 15%;
+	width:75%;
+}
+
 .grid-cell>*{
   padding:0 15px}
 .inline-block-list{
@@ -385,7 +391,7 @@ h2.animosa {
   position:relative;
 }
 .cta-option{
-  margin:2.5em .5em 0;
+  margin:2.5em 0;
   vertical-align:top;
 }
 
@@ -700,7 +706,7 @@ h2.animosa {
 			line-height: 1.5rem;
 			letter-spacing: 2px;
       padding-top: 1em;}
-      
+
   h2.animosa {
         font-family:"Animosa", sans-serif;
         font-weight: bold;
