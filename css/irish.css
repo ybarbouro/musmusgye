@@ -761,6 +761,10 @@ h2.animosa {
           letter-spacing: 0;
           line-height: 2rem;
         }
+	.grid-cell-left img {
+				  padding-left: 0;
+					width:100%;
+				}
 }
 @media only screen and (max-width:320px){
 	.bg-hero {
