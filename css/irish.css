@@ -121,6 +121,22 @@ h3.description {
 
 .grid-cell>*{
   padding:0 15px}
+
+a.button-animated img {
+ border-radius: 10px;
+ border: 2px rgba(255,255,255,.9) solid;
+ width:250px;
+ padding-left:0!important;
+ box-shadow:0 3px 6px rgba(0,0,0,.16), 0 3px 6px rgba(0,0,0,.23);
+ transition: all ease-in-out .3s;
+} 
+
+a.button-animated img:hover {
+  mix-blend-mode: overlay;
+  -webkit-filter: hue-rotate(90deg);
+  filter:hue-rotate(90deg);
+}
+
 .inline-block-list{
   list-style-type:none;
   margin:0;

@@ -121,6 +121,22 @@ h3.description {
 
 .grid-cell>*{
   padding:0 15px}
+
+a.button-animated img {
+ border-radius: 10px;
+ border: 2px rgba(255,255,255,.9) solid;
+ width:250px;
+ padding-left:0!important;
+ box-shadow:0 3px 6px rgba(0,0,0,.16), 0 3px 6px rgba(0,0,0,.23);
+ transition: all ease-in-out .3s;
+} 
+
+a.button-animated img:hover {
+  mix-blend-mode: overlay;
+  -webkit-filter: hue-rotate(90deg);
+  filter:hue-rotate(90deg);
+}
+
 .inline-block-list{
   list-style-type:none;
   margin:0;
@@ -749,9 +765,9 @@ h2.animosa {
     font-size:2.5em}
   html{
     font-size:13px}
-	.bg-hero {
-			min-height: 70vh;
-			background-position-x: -100px;}
+  .bg-hero {
+    min-height: 70vh;
+    background-position-x: -100px;}
   .grid-cell-left {
         width:100%}
   .site-section{
@@ -761,6 +777,14 @@ h2.animosa {
           letter-spacing: 0;
           line-height: 2rem;
         }
+.grid-cell-left img {
+	padding-left: 0;
+	width:100%;
+	}
+.grid {
+  margin:0;
+  padding: .7em;
+ }	
 }
 @media only screen and (max-width:320px){
 	.bg-hero {
