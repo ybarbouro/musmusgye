@@ -4,7 +4,7 @@ title: Directorio acoge datos de Museos de Ecuador
 date: 2019-01-24 07:00:00
 comment: El Universo | Cultura
 subtitle: Datos del Museo Municipal de Guayaquil están en el directorio. 
-image: "//res.cloudinary.com/magnvs/image/upload/v1548358442/directorio_hiqzyb.jpg"
+image: "https://res.cloudinary.com/magnvs/image/upload/ar_16:9,c_fill,g_auto,e_sharpen/v1548358442/directorio_hiqzyb.jpg"
 ffw: Leer más
 ---
 Una guía en la cual se pueden encontrar datos como la ubicación, horario, dirección, teléfonos, correo electrónico, responsables, entre otros, de los diferentes museos, constan en el primer Directorio de la Red Ecuatoriana de Museos.
