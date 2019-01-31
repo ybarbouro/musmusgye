@@ -6,7 +6,7 @@ day: 07
 month: FEBRERO - 2 MARZO
 time: Inauguración 07.02.2019 / 18H30
 place: Sala de Arte Contemporáneo del Museo Municipal de Guayaquil
-image: "//res.cloudinary.com/magnvs/image/upload/v1548262957/Botticelliz_kdk2ps.jpg"
+image: "//res.cloudinary.com/magnvs/image/upload/v1548948668/Botticelliz_kdk2ps.jpg"
 ext-url: "/capsulas/"
 ---
 <h2 class="league-sm-white">MOREANO, SEGOVIA, CÓRDOVA & VRNDAVAN</h2>
