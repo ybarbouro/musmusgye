@@ -9,7 +9,8 @@ ffw: Leer más
 ---
 Una guía en la cual se pueden encontrar datos como la ubicación, horario, dirección, teléfonos, correo electrónico, responsables, entre otros, de los diferentes museos, constan en el primer Directorio de la Red Ecuatoriana de Museos.
 <br /><br />El libro recoge información de 175 museos del país: 120 públicos, 29 privados, 18 eclesiásticos y 8 comunitarios. 
-<br /><br />“Necesitábamos generar una herramienta de política que nos permita mapear los distintos museos que existen en el país, que nos permita entender cómo estos museos prestan un servicio en la constitución de la memoria y prestan una articulación a partir de esa memoria...”, explica Gabriel Cisneros, viceministro de Cultura y Patrimonio.
+
+“Necesitábamos generar una herramienta de política que nos permita mapear los distintos museos que existen en el país, que nos permita entender cómo estos museos prestan un servicio en la constitución de la memoria y prestan una articulación a partir de esa memoria...”, explica Gabriel Cisneros, viceministro de Cultura y Patrimonio.
 
 En ese contexto –dice– la Subsecretaría de Memoria Social del Ministerio de Cultura y Patrimonio comenzó a levantar información en cada una de las provincias de los museos.
 
