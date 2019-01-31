@@ -7,7 +7,9 @@ subtitle: En el Museo Municipal de Guayaquil, visitantes aprovecharon la exposic
 image: "//res.cloudinary.com/magnvs/image/upload/v1547734881/QUEGUAYAQUIL-MUSEO-SELFIE-MUNICIPAL-e1547678247126_opvzrg.jpg"
 ffw: Leer más
 ---
-Alrededor de 100 niños de la unidad educativa Hideyo Noguchi llegaron al Museo Arqueológico de Arte Contemporáneo (MAAC) cargados de curiosidad, el pasado 16 de enero.<br/>Lo que no sabían es que allí los recibiría Christian Levi, mediador cultural, con una noticia. “Chicos, hoy es el día de la selfie (autofoto) en los museos. Vamos a tomarnos una foto”, les pidió Levi. Enseguida los pequeños mostraron su sonrisa y una pose a la cámara del teléfono.<br /><br/> Al igual que en ese centro cultural porteño, los museos Municipal y Nahím Isaías promocionaron entre sus visitantes esta tendencia de redes sociales que fue creada en 2015 por la usuaria Mar Dixon y su hija, en Estados Unidos.
+Alrededor de 100 niños de la unidad educativa Hideyo Noguchi llegaron al Museo Arqueológico de Arte Contemporáneo (MAAC) cargados de curiosidad, el pasado 16 de enero.<br/><br/>Lo que no sabían es que allí los recibiría Christian Levi, mediador cultural, con una noticia. “Chicos, hoy es el día de la selfie (autofoto) en los museos. Vamos a tomarnos una foto”, les pidió Levi. Enseguida los pequeños mostraron su sonrisa y una pose a la cámara del teléfono.
+
+Al igual que en ese centro cultural porteño, los museos Municipal y Nahím Isaías promocionaron entre sus visitantes esta tendencia de redes sociales que fue creada en 2015 por la usuaria Mar Dixon y su hija, en Estados Unidos.
 
 “Nosotros queremos fomentar que la tecnología se utilice en beneficio de la comunidad, del conocimiento, de la historia. Con esta tendencia queremos que el museo llegue a las redes sociales y los jóvenes vean que este es un lugar divertido, distinto”, explicó Peggy Artieda, relacionista pública del Museo Municipal.
 
