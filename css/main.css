@@ -259,7 +259,7 @@ span.suscribing{
     font-stretch:extra-expanded;
     font-kerning:auto;
     letter-spacing: 2px;
-    color: slategray;
+    color: var(--main-bg-1);
     text-align: left;
     padding-left: 13%;
     margin: 0 auto;
