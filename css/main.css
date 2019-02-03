@@ -247,7 +247,8 @@ span.suscribing{
 }
 
 .last-main-title {
-  margin-top: 3rem;
+  margin-top: 0;
+  padding-top: 3rem;
   margin-bottom: 1rem;
 }
 
@@ -258,7 +259,7 @@ span.suscribing{
     font-stretch:extra-expanded;
     font-kerning:auto;
     letter-spacing: 2px;
-    color: #cfd9df;
+    color: slategray;
     text-align: left;
     padding-left: 13%;
     margin: 0 auto;
