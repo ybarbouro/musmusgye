@@ -11,6 +11,7 @@
 .is-item--inner {
   position: relative;
   right: 0em;
+  padding-left: 1rem;
 }
 
 .parent--el {
