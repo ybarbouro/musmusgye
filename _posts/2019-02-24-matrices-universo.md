@@ -7,10 +7,8 @@ subtitle: Una relectura del arte clásico y su origen
 image: "//res.cloudinary.com/magnvs/image/upload/v1551042804/raqd4yepqumd5ildd2vy.jpg"
 ffw: Leer más
 ---
-Pretender debatir los estándares del arte y del mercado contemporáneo es lo que motivó a cuatros artistas guayaquileños a realizar la exposición Matrices, que se desarrolla desde el 7 de febrero y el resto del mes en el Museo Municipal de Guayaquil, ubicado en Sucre entre Chile y Pedro Carbo.
-
-En esta muestra participan los pintores Christian Moreano, Abdón Segovia, Gunther Córdova y Víctor Perdomo, bajo la curaduría de Siomara España, poeta y crítica de arte y literatura.
-
+Pretender debatir los estándares del arte y del mercado contemporáneo es lo que motivó a cuatros artistas guayaquileños a realizar la exposición Matrices, que se desarrolla desde el 7 de febrero y el resto del mes en el Museo Municipal de Guayaquil, ubicado en Sucre entre Chile y Pedro Carbo.<br /><br />
+En esta muestra participan los pintores Christian Moreano, Abdón Segovia, Gunther Córdova y Víctor Perdomo, bajo la curaduría de Siomara España, poeta y crítica de arte y literatura.<br /><br />
 España explica que la presentación es en blanco y negro, como un retorno propositivo al origen, “a lo elemental del trazo y el dibujo, pero no se trata de un hecho aislado”.
 
 Agrega que en la última década, el blanco y negro se ha propuesto como una práctica discursiva, que ha marcado también el universo de la cinematografía. “El blanco y negro entraña un retorno anacrónico a la matriz del séptimo arte, pienso en El gabinete del doctor Caligari, de Robert Wiene; en Metrópolis, de Fritz Lang; y a la luz de estos días en Roma, de Alfonso Cuarón. Es un flash-back hacia el pasado, contrastado con sombras ante el exceso del color”, señala la curadora.
