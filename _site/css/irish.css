@@ -133,7 +133,7 @@ a.button-animated img {
  margin-bottom: 2em;
  box-shadow:0 3px 6px rgba(0,0,0,.16), 0 3px 6px rgba(0,0,0,.23);
  transition: all ease-in-out .3s;
-} 
+}
 
 a.button-animated img:hover {
   mix-blend-mode: overlay;
@@ -634,7 +634,7 @@ h2.animosa {
     background-color:#fff;
     color:#333;
     overflow:hidden;
-    padding:2em 0 1em}
+    padding:0 0 1em}
 
 .site-section-transparente{
         background-color:transparent;
@@ -794,7 +794,7 @@ h2.animosa {
 .grid {
   margin:0;
   padding: .7em;
- }	
+ }
 }
 @media only screen and (max-width:320px){
 	.bg-hero {
