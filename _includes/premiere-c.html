@@ -67,6 +67,7 @@
   <div class="top-anchor">
   <h2 class="league-sm-white">{{ person.title }}</h2>
   <p>{{ person.excerpt }}<p>
+  <p><i class="fa fa-arrow-circle-right"></i> <a href="{{person.url}}">Ver nota completa</a></p>
 
   {% if person.day %}
   <h2 style="text-transform: uppercase;" class="league-sm-white">{{ person.day }} {% endif %}{% if person.month %} <span style="font-size:0.9em;">{{ person.month }}</span></h2>
@@ -75,8 +76,8 @@
           {% if person.time %}
               <p><i class="fa fa-clock-o"></i> {{ person.time }}</p> {% endif %}
           {% if person.place %}
-              <p><i class="fa fa-chevron-circle-right"></i> {{ person.place }}</p> {% endif %}
-          <p><i class="fa fa-arrow-circle-right"></i> <a href="{{person.url}}">Ver nota completa</a></p>
+              <p><i class="fa fa-chevron-circle-right"></i> {{ person.place }}</p> 
+    {% endif %}
   </div>
   {% endfor %}
 </div>
