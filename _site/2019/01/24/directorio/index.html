@@ -68,7 +68,17 @@ font-size: 2.7rem;
 line-height: 2.7rem;
 padding-bottom: 1rem;
 margin-top: 0;
-max-width: 80%;
+max-width: 40%;
+}
+
+article.columnas h2 {
+font-size: 2.3rem;
+line-height: 2.3rem;
+padding-bottom: 1rem;
+margin-top: 0;
+max-width: 35%;
+text-align: left;
+color: #777;
 }
 
 article.tarjetabg {
@@ -96,6 +106,15 @@ article img {
 width: 100%; height: auto;
 border-radius: 7px;
 }
+
+img.destacada {
+float: right;
+width: 49%;
+height: auto;
+border-radius: 7px;
+margin-left: 2.5rem;
+}
+
 article h1, article h2, article h3 { font-family: "Oswald", sans-serif; }
 article h1 {
 font-size: 1.7rem;
@@ -130,6 +149,25 @@ section {
   position: relative;
   margin-bottom: -15px;
   height: 100%;
+}
+
+img.destacada {
+float: none;
+width: 100vw;
+margin-bottom: 1.7rem;
+margin-left: 0;
+}
+
+article.columnas div {
+column-count: 1;
+}
+
+article.columnas h1{
+max-width: 83%;
+}
+
+article.columnas h2{
+max-width: 83%;
 }
 
 }

@@ -13,6 +13,8 @@ collections:
     output: true
   capsulas:
     output: true
+  destacadas:
+    output: true
 
 defaults:
   - scope:

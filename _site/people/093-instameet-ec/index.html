@@ -68,7 +68,17 @@ font-size: 2.7rem;
 line-height: 2.7rem;
 padding-bottom: 1rem;
 margin-top: 0;
-max-width: 80%;
+max-width: 40%;
+}
+
+article.columnas h2 {
+font-size: 2.3rem;
+line-height: 2.3rem;
+padding-bottom: 1rem;
+margin-top: 0;
+max-width: 35%;
+text-align: left;
+color: #777;
 }
 
 article.tarjetabg {
@@ -96,6 +106,15 @@ article img {
 width: 100%; height: auto;
 border-radius: 7px;
 }
+
+img.destacada {
+float: right;
+width: 49%;
+height: auto;
+border-radius: 7px;
+margin-left: 2.5rem;
+}
+
 article h1, article h2, article h3 { font-family: "Oswald", sans-serif; }
 article h1 {
 font-size: 1.7rem;
@@ -132,6 +151,25 @@ section {
   height: 100%;
 }
 
+img.destacada {
+float: none;
+width: 100vw;
+margin-bottom: 1.7rem;
+margin-left: 0;
+}
+
+article.columnas div {
+column-count: 1;
+}
+
+article.columnas h1{
+max-width: 83%;
+}
+
+article.columnas h2{
+max-width: 83%;
+}
+
 }
 
   </style>
@@ -144,16 +182,6 @@ section {
         <![endif]-->
 
         <!-- Add your site or application content here -->
-        <div>
-        <ul class="cb-slideshow">
-            <li><span>Image 01</span></li>
-            <li><span>Image 02</span></li>
-            <li><span>Image 03</span></li>
-            <li><span>Image 04</span></li>
-            <li><span>Image 05</span></li>
-            <li><span>Image 06</span></li>
-        </ul>
-        </div>
         <div class="main">
 
           <div class="container">
@@ -165,23 +193,13 @@ section {
                   <a href="/" data-ga-category="Inbound links" data-ga-action="Nav click" data-ga-label="Source code">Inicio
                   </a>
                 </li>
-                <li>
-                  <a href="/people" data-ga-category="Outbound links" data-ga-action="Nav click" data-ga-label=Docs>Artistas
-                  </a>
-                </li>
               </ul>
             </div>
 
             <div class="wow bounceInDown">
-                <div  style="width: 25%; margin:0; margin-left:auto; margin-right:auto;">
-                  <img src="/img/mussim.svg"/>
+                <div  style="width: 25%; margin:0; margin-left:auto; margin-right:auto;padding-bottom:7em;">
+                  <img src="/img/museo-alt.svg"/>
                 </div>
-            </div>
-
-            <div class="site-promo">
-              <h2 >Junio 2&mdash;10</h2>
-              <h2> Auditorio del Museo Municipal<br />
-              Malecón 2000</h2>
             </div>
 
           </div><!-- end of container -->
@@ -200,8 +218,7 @@ section {
             <article>
 
               <header class="intro person-header">
-  <h1>instameet remembranzas</h1>
-  <h2>Fotografía</h2>
+  <h1>Instameet EC Remembranzas</h1>
 </header>
 
 <div class="person-body">
@@ -223,8 +240,9 @@ section {
 
 <p><small>Foto: @peggyartieda / Arte: @pacoalvarezr</small></p>
 
-  <p><small><b>Fuente imagen:</b> </small></p>
-  <a href="">Lea más sobre el evento instameet remembranzas en la web.</a>
+  <p>
+  <a href="">Lea más sobre el evento "Instameet EC Remembranzas" en la web.</a>
+  </p>
 </div>
 
 
@@ -232,128 +250,7 @@ section {
           </section>
         </div>
 
-  <div class="site-section-head">
-    <div class="grid">
-      <div class=grid-cell>
-        <img src="/img/escudo-gye.svg"/>
-
-      </div>
-      <div class=grid-cell>
-        <img src="/img/museo.svg"/>
-
-      </div>
-      <div class=grid-cell>
-        <img src="/img/macm.svg"/>
-
-      </div>
-    </div>
-  </div>
-
-
-<div id="musiquillos" class="site-section">
-  <h2 class="league-two">EN CARTELERA
-  </h2>
-  <ul class="in-the-wild">
-    
-    
-    <li>
-      <h3><a href="/people/088-mirada/">Mirada Mirar</a></h3><p></p>
-    </li>
-    
-    <li>
-      <h3><a href="/people/089-modelismo/">Modelismo Escala</a></h3><p></p>
-    </li>
-    
-    <li>
-      <h3><a href="/people/090-seleccion-salon-julio/">Salón Julio</a></h3><p></p>
-    </li>
-    
-    <li>
-      <h3><a href="/people/091-110-mmdg/">Museo Municipal</a></h3><p></p>
-    </li>
-    
-    <li>
-      <h3><a href="/people/092-faal/">Festival Artes</a></h3><p></p>
-    </li>
-    
-    <li>
-      <h3><a href="/people/093-instameet-ec/">instameet remembranzas</a></h3><p>Fotografía</p>
-    </li>
-    
-    <li>
-      <h3><a href="/people/094-olimpiadas/">Eduardo Álvarez</a></h3><p>Profesor</p>
-    </li>
-    
-    <li>
-      <h3><a href="/people/095-somos-guayaquil/">somos guayaquil</a></h3><p>Faal</p>
-    </li>
-    
-    <li>
-      <h3><a href="/people/096-garcia-moreno/">garcía moreno</a></h3><p>Presidente</p>
-    </li>
-    
-    <li>
-      <h3><a href="/people/097-piel-colores/">piel Colores</a></h3><p>Artistas</p>
-    </li>
-    
-    <li>
-      <h3><a href="/people/098-gino-molinari/">Gino Molinari</a></h3><p>Chef</p>
-    </li>
-    
-    <li>
-      <h3><a href="/people/099-marchena/">Juan Marchena</a></h3><p>docente</p>
-    </li>
-    
-    <li>
-      <h3><a href="/people/100-carlos-rubira/">Carlos Rubira</a></h3><p>Compositor</p>
-    </li>
-    
-    <li>
-      <h3><a href="/people/retroband/">Los 80's Retroband</a></h3><p>Rock latino</p>
-    </li>
-    
-    <li>
-      <h3><a href="/people/william-dampierre/">William Dampierre</a></h3><p>Corsario</p>
-    </li>
-    
-  </ul>
-  <p><a href="/people" class="direct-to-section">Todos los participantes</a>  </p>
-  <div class=cta-option>
-      <a class="btn btn-alt" href="/afiche.pdf">Imprimir programa
-      </a>
-    </div>
-  </div>
-
-
-        <div class="w100 site-section-nm">
-          <figure class="wow fadeInUp">
-              <img src="/img/afiche.jpg"/>
-          </figure>
-        </div>
-
-  <div class="aside">
-  <div class="container">
-    <ul class=inline-block-list>
-      <li>
-        <p>
-          <span class="Icon Icon--escudogye">
-          </span> Por Guayaquil Independiente
-        </p></li>
-        <li>
-          <p>
-            <span class="Icon Icon--municipio">
-            </span>Alcaldía de Guayaquil
-          </p></li>
-        <li>
-        <p>
-          <span class="Icon Icon--macm">
-          </span> Museo, Arte y Ciudad
-        </p></li>
-    </ul>
-  </div>
-</div>
-
-  <div class="site-footer" >
+<div class="site-footer" >
 <div class="row">
 
   <div style="text-align:center;" class="col col-12">

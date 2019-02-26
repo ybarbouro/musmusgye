@@ -3,12 +3,12 @@ layout: people
 ---
 
 <header class="intro person-header">
-  <h1>{{ page.first-name }} {{ page.last-name }}</h1>
-  <h2>{{ page.job }}</h2>
+  <h1>{{ page.title }}</h1>
 </header>
 
 <div class="person-body">
   {{ page.content }}
-  <p><small><b>Fuente imagen:</b> {{ page.fuente-imagen }}</small></p>
-  <a href="{{ page.wikipedia-url }}">Lea más sobre el evento {{ page.first-name }} {{ page.last-name }} en la web.</a>
+  <p>
+  <a href="{{ page.media-url }}">Lea más sobre el evento "{{ page.title }}" en la web.</a>
+  </p>
 </div>
