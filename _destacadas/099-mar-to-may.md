@@ -6,8 +6,9 @@ month: MARZO
 time: 18H30
 place: Salas del Museo Municipal de Guayaquil
 listing-priority: 99
-image: "//res.cloudinary.com/magnvs/image/upload/v1551385069/medrano_ox0i4i.jpg"
 ---
+
+![Sin título. Omar Medrano](//res.cloudinary.com/magnvs/image/upload/v1551385069/medrano_ox0i4i.jpg)  
 
 El **14 de marzo**, coincidiendo con el mes de la mujer, en las salas del Museo Municipal se inaugura la muestra **"UNA MIRADA PARA MIRAR DE NUEVO"**, propuesta pictórica del colectivo artístico femenino del Austro "Barranco", conformado por 14 artistas tales como Alicia Abad, Isabel Astudillo, Miriam Cárdenas, Rosalía Cordero, Lídice Correa, Lourdes Hurtado, Carolina Larriva, entre otras. 
 
