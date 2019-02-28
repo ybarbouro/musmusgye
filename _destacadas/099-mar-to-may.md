@@ -1,6 +1,6 @@
 ---
 title: Artes plásticas en el Museo Municipal de Guayaquil
-subtitle: Trimestre: Marzo a mayo del 2019
+subtitle: Marzo a mayo del 2019
 day: 14
 month: MARZO
 time: 18H30
@@ -21,4 +21,4 @@ El martes 14 de mayo, a las 11h00 en el marco de la celebración del *Día Inter
 
 La entrada a todas las exposiciones y eventos es gratuita.  
 
-<small><b>Imagen:</b>Óleo sin título del pintor Omar Medrano</small>
+<small><b>Imagen:</b> Óleo sin título del pintor Omar Medrano</small>
