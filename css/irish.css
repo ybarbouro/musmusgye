@@ -379,7 +379,7 @@ h2.animosa {
 	min-height: 70vh;
 	background-image: url(//cdn.filestackcontent.com/1abe1uCBQSyeBJSV6cfL);
 	background-position: top center;
-	background-size: contain;
+	background-size: cover;
 	background-repeat: no-repeat;
 	margin: 0;
 }
