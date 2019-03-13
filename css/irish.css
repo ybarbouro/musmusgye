@@ -715,7 +715,7 @@ h2.animosa {
     font-size:14px}
 		.bg-hero {
 				min-height: 60vh;
-				background-size: 175%;
+				background-size: cover;
 				background-position: top center;
 			}
   .last-update,.site-footer{
