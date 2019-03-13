@@ -567,7 +567,7 @@ h2.animosa {
     color:#00B0FF}
 
 .site-promo{
-  margin-top: 1,7em;
+  margin-top: 2,7em;
 	padding: 0;
 }
 
@@ -757,7 +757,7 @@ h2.animosa {
 }
 @media only screen and (max-width:460px){
 	.bg-hero {
-		min-height: 70vh;
+		min-height: 60vh;
 		background-position-x: -100px;}
 	.grid-cell-left {
     		width:100%}
@@ -776,7 +776,7 @@ h2.animosa {
   html{
     font-size:13px}
   .bg-hero {
-    min-height: 70vh;
+    min-height: 60vh;
     background-position-x: -100px;}
   .grid-cell-left {
         width:100%}
@@ -808,7 +808,7 @@ h2.animosa {
 }
 @media only screen and (max-width:320px){
 	.bg-hero {
-		height: 70vh;
+		height: 60vh;
 	  background-position-x: -100px;}
   .grid-cell-left {
           width:100%}
