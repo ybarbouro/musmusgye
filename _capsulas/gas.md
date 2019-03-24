@@ -4,7 +4,7 @@ listing-priority: 1
 day: 2019
 month: marzo
 place: Museo Municipal de Guayaquil
-image: "/res.cloudinary.com/magnvs/image/upload/v1553448380/rhn8ihcog1eggqmokipr.jpg"
+image: "//res.cloudinary.com/magnvs/image/upload/v1553448380/rhn8ihcog1eggqmokipr.jpg"
 ext-url: "/capsulas/"
 ---
 <h2 style="color:brown;font-family:'Oswald',sans-serif;font-weight:bold;font-size:1.7rem">POR TRABAJOS DE GASIFICACIÓN</h2>
