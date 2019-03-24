@@ -1,7 +1,7 @@
 ---
 title: Matrices
 object-id: pintura
-listing-priority: 1
+listing-priority: 43
 day: 07
 month: FEBRERO - 1 MARZO
 time: Inauguración 07.02.2019 / 18H30
