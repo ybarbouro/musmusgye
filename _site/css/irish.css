@@ -376,10 +376,10 @@ h2.animosa {
   line-height: 4.3rem;
 }
 .bg-hero {
-	min-height: 85vh;
-	background-image: url(/assets/mural.svg);
-	background-position: right bottom;
-	background-size: contain;
+	min-height: 70vh;
+	background-image: url(//cdn.filestackcontent.com/1abe1uCBQSyeBJSV6cfL);
+	background-position: top center;
+	background-size: cover;
 	background-repeat: no-repeat;
 	margin: 0;
 }
@@ -567,14 +567,14 @@ h2.animosa {
     color:#00B0FF}
 
 .site-promo{
-  margin-top: 1,7em;
+  margin-top: 2,7em;
 	padding: 0;
 }
 
 .site-promo .description{
   color:#1a1a1a;
   font-size:1.2em;
-  margin:1em 2em 0}
+  margin:2em 2em 0}
 
 .site-promo h1 {
   font-family:'league_gothicregular', sans-serif;
@@ -590,7 +590,7 @@ h2.animosa {
   font-weight: bold;
   font-size: 2.5rem;
   line-height: 2.7rem;
-  color: #BCC6CC;
+  color: #FFA618;
   text-shadow:2px 2px 0 #000;
 	letter-spacing: 3px;
   padding-top: 0;
@@ -715,8 +715,8 @@ h2.animosa {
     font-size:14px}
 		.bg-hero {
 				min-height: 60vh;
-				background-size: 175%;
-				background-position: center bottom;
+				background-size: cover;
+				background-position: top center;
 			}
   .last-update,.site-footer{
     font-size:1em}
@@ -757,7 +757,7 @@ h2.animosa {
 }
 @media only screen and (max-width:460px){
 	.bg-hero {
-		min-height: 70vh;
+		min-height: 60vh;
 		background-position-x: -100px;}
 	.grid-cell-left {
     		width:100%}
@@ -776,7 +776,7 @@ h2.animosa {
   html{
     font-size:13px}
   .bg-hero {
-    min-height: 70vh;
+    min-height: 60vh;
     background-position-x: -100px;}
   .grid-cell-left {
         width:100%}
@@ -808,7 +808,7 @@ h2.animosa {
 }
 @media only screen and (max-width:320px){
 	.bg-hero {
-		height: 70vh;
+		height: 60vh;
 	  background-position-x: -100px;}
   .grid-cell-left {
           width:100%}
