@@ -153,6 +153,7 @@ img.wide-alt {
 
 }
  .main {margin-top: 0;
+       margin-bottom: 0;
        position:relative;
        background-color: var(--main-bg-1);
    }
@@ -169,6 +170,12 @@ img.wide-alt {
   .noise{
     background-color: #131a22;
     background-image:url(data:image/png;base64,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)
+}
+
+.head-news {
+  background-color:#ECEFF1;
+  margin-top: 0;
+  padding-top: 3rem;
 }
 
 .icn {
@@ -366,7 +373,8 @@ padding-bottom: 4em;
 
 .premiere-c {
  position: relative;
- background-image: linear-gradient(to top, #FBC96E 0%, #c3cfe2 100%);
+ background-image: transparent;
+ border-top: 1px solid rgba(102,119,136,.2);
 }
 .salon-logo {
   width:65%;
@@ -1041,7 +1049,7 @@ div.premiere-kaki {
       @media (min-width:600px) {
         main {
           display: grid;
-          grid-template-columns: 1fr 1fr minmax(25%, 45%) 1fr 1fr;
+          grid-template-columns: 1fr 1fr minmax(25%, 43%) 1fr 1fr;
           grid-gap: 0px;
           margin: 7em 0 0 0;
         }
@@ -1056,11 +1064,18 @@ div.premiere-kaki {
           grid-column: span 2;
           grid-row: span 2;
         }
-        .info2 {
+        .info1 img{
+          width: 100%;
+          object-fit: cover;
+          border-radius: 3px;
+         }
+
+         .info2 {
           grid-column: span 2;
         }
         .info3 {
           grid-column: 3 / 4;
+          border-left: 1px solid rgba(102,119,136,.2);
         }
         .info3 img{
           width: 100%;
@@ -1074,10 +1089,12 @@ div.premiere-kaki {
          .info4 {
            grid-column: span 2;
            grid-row: span 2;
+           border-left: 1px solid rgba(102,119,136,.2);
          }
          .info4 img{
            width: 100%;
            object-fit: cover;
+           border-radius: 3px;
           }
          .info4 figure {
            width: 100%;
@@ -1134,7 +1151,7 @@ div.premiere-kaki {
         padding: 1em;
       }
       .top-anchor a{
-        color:#B0BEC5;
+        color:brown;
       }
       .top-anchor p {
         font-size: .9em;
@@ -1161,6 +1178,7 @@ div.premiere-kaki {
       }
       .figure2:hover img {
         opacity: .3;
+        border-radius: 3px;
       }
 
       .figure3 {
@@ -1173,6 +1191,7 @@ div.premiere-kaki {
       }
       .figure3:hover img {
         opacity: .1;
+        border-radius: 3px;
       }
 
       .figure-img {
@@ -1184,8 +1203,8 @@ div.premiere-kaki {
 
       .info1 {
         padding: 40px;
-        background-color: #2E5767;
-        color: #fff;
+        background-color: transparent;
+        color: var(--main-bg);
       }
 
       .info2 {
@@ -1196,15 +1215,17 @@ div.premiere-kaki {
 
       .info3 img{
         object-fit: cover;
+        border-radius: 3px;
        }
+
       .info3 figure {
         margin-bottom: 0;
        }
 
        .info4 {
          padding: 40px;
-         background-color: #008CBA;
-         color: #fff;
+         background-color: transparent;
+         color: var(--main-bg);
        }
 
       .info-link{

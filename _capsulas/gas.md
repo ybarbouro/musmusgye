@@ -5,7 +5,7 @@ place: Guayaquil, marzo del 2019
 image: "//res.cloudinary.com/magnvs/image/upload/v1553448380/rhn8ihcog1eggqmokipr.jpg"
 ext-url: "/capsulas/"
 ---
-<h2 style="color:#A52A2A;font-family:'Oswald',sans-serif;font-weight:bold;font-size:1.7rem;">POR TRABAJOS DE GASIFICACIÓN<br/><span style="color:#800000;">SE SUSPENDERÁN ACTIVIDADES EN LA BIBLIOTECA Y EL MUSEO MUNICIPAL</span></h2>
+<h2 style="color:#800000;font-family:'Oswald',sans-serif;font-weight:bold;font-size:1.7rem;">POR TRABAJOS DE GASIFICACIÓN<br/>SE SUSPENDERÁN ACTIVIDADES EN LA BIBLIOTECA Y EL MUSEO MUNICIPAL</h2>
 
 Se informa a la ciudadanía en general, que no  habrá atención al público en los días que se anotan:
 

@@ -1,15 +1,15 @@
 <div class="premiere-c">
   <main style="margin-top:0;">
-  <div class="info1 dimmer leftie" style="padding:0;">
+  <div class="info1 leftie" style="padding:0;">
       {% for post in site.posts offset: 0 limit: 1 %}
+    <div class="top-anchor">
       {% if post.image %}
     <a href="{{ post.url }}">
       <figure><img src="{{ post.image }}" alt="Fotografía de {{ post.title }}"></figure></a>
       {% endif %}
-    <div class="top-anchor">
-    <h2 class="league-sm-white">{{ post.title }}</h2>
+    <h2 class="league-sm">{{ post.title }}</h2>
     {% if post.subtitle %}
-    <h3 class="league-light">{{ post.subtitle }}</h3>
+    <h3 class="league-gray">{{ post.subtitle }}</h3>
     {% endif %}
     <p>{{ post.excerpt }}<p>
     <p>{{ post.comment }}</p>
@@ -18,16 +18,16 @@
     {% endfor %}
   </div>
 
-    <div class="info3 dimmer">
+    <div class="info3">
       {% assign capsulas = site.capsulas | sort: 'listing-priority' %}
       {% for capsulas in capsulas limit: 1 %}
-      <figure class="figure-main">
-        {% if capsulas.image %}
-        <img class="figure-img" src="{{ capsulas.image }}" alt="Fotografía de {{ capsulas.title }}">
-        {% endif %}
-      </figure>
 
       <div class="top-anchor1">
+        <figure class="figure-main">
+          {% if capsulas.image %}
+          <img class="figure-img" src="{{ capsulas.image }}" alt="Fotografía de {{ capsulas.title }}">
+          {% endif %}
+        </figure>
       <div class="leftie">
           <h2 style="text-transform: uppercase;" class="league-sm">{{ capsulas.title }}</h2>
           <p>{{ capsulas.content }}</p>
@@ -56,23 +56,24 @@
 
   </div>
 
-<div class="info4 dimmer leftie" style="padding:0;">
+<div class="info4 leftie" style="padding:0;">
   {% assign person = site.people | sort: 'listing-priority' %}
   {% for person in person limit: 1 %}
 
-    {% if person.image %}
-    <figure><img src="{{ person.image }}" alt="Fotografía de {{ person.title }}"></figure>
-    {% endif %}
 
   <div class="top-anchor">
-  <h2 class="league-sm-white">{{ person.title }}</h2>
+  {% if person.image %}
+  <figure><img src="{{ person.image }}" alt="Fotografía de {{ person.title }}"></figure>
+  {% endif %}
+
+  <h2 class="league-sm">{{ person.title }}</h2>
   <p>{{ person.excerpt }}<p>
   <p><i class="fa fa-arrow-circle-right"></i> <a href="{{person.url}}">Más información</a></p>
 
   {% if person.day %}
-  <h2 style="text-transform: uppercase;" class="league-sm-white">{{ person.day }} {% endif %}{% if person.month %} <span style="font-size:0.9em;">{{ person.month }}</span></h2>
+  <h2 style="text-transform: uppercase;" class="league-sm">{{ person.day }} {% endif %}{% if person.month %} <span style="font-size:0.9em;">{{ person.month }}</span></h2>
     {% endif %}
-  <div style="color:rgba(255,255,255,.8)">
+  <div style="color:brown">
           {% if person.time %}
               <p><i class="fa fa-clock-o"></i> {{ person.time }}</p> {% endif %}
           {% if person.place %}
@@ -84,6 +85,8 @@
 </div>
 </main>
 </div>
+
+</div> <!-- END head-news class -->
 
 <div class="nia">
   <div class="row">
