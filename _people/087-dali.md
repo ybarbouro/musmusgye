@@ -9,7 +9,7 @@ media-url: "https://mmdg-press.netlify.com/dali-en-guayaquil"
 image: "//res.cloudinary.com/magnvs/image/upload/v1553915450/couovjx13qgrn45rlhx0.jpg"
 ---
 
-El Museo Municipal de Guayaquil y la Embajada de España exponen tres series de grabados, dos de ellas son obra del genio surrealista Salvador Dalí, **“Las cenas de Gala”** y **“Los sueños caprichosos de Pantagruel”**, ambas pertenecen a la colección de arte de la **Fundación Universitaria Iberoamericana** - FUNIBER.<br /><br />La tercera colección **“Ser Urbano”** es contemporánea y fue producida por artistas de la **Fundación Estampería Quiteña**.
+La Embajada de España y el Museo Municipal de Guayaquil exponen tres series de grabados, dos de ellas son obra del genio surrealista Salvador Dalí, **“Las cenas de Gala”** y **“Los sueños caprichosos de Pantagruel”**, ambas pertenecen a la colección de arte de la **Fundación Universitaria Iberoamericana** - FUNIBER.<br /><br />La tercera colección **“Ser Urbano”** es contemporánea y fue producida por artistas de la **Fundación Estampería Quiteña**.
 
 ### “Las cenas de Gala” y “Los sueños caprichosos de Pantagruel” de Salvador Dalí
 
