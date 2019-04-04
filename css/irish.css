@@ -582,7 +582,7 @@ h2.animosa {
   font-weight: bold;
   font-size: 3.4rem;
   line-height: 4rem;
-  color: #FFD180;
+  color: #ffffff;
   }
 
 .site-promo h2 {
@@ -730,6 +730,14 @@ h2.animosa {
 			line-height: 1.5rem;
 			letter-spacing: 2px;
       padding-top: 1em;}
+
+	.site-promo h1 {
+			  font-family:'Oswald', sans-serif;
+			  font-weight: bold;
+			  font-size: 2rem;
+			  line-height: 2.1rem;
+			  color: #ffffff;
+			  }
 
   h2.animosa {
         font-family:"Animosa", sans-serif;
