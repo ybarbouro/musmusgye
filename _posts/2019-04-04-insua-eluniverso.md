@@ -6,9 +6,7 @@ comment: Karla Medina | El Universo
 image: "//res.cloudinary.com/magnvs/image/upload/v1554489447/gye-masonico_ifk3eg.jpg"
 ffw: Leer más
 ---
-“El mundo tiene mucha información, pero no la puede procesar”. De esta premisa partió el artista guayaquileño Fernando Insua cuando emprendió su nueva producción denominada Guayaquil masónico, que se inaugura a las 18:30 de hoy, en el Museo Municipal.
-
-La exposición nos adentra en la simbología masónica, manifiesta Insua. El artista explica que esta serie “trata de abordar ciertos símbolos, no todos” de esta comunidad que por “un nivel de sincretismo siempre mantiene un respeto hacia lo que quieren que esté velado y lo que quieren que sea público”.
+“El mundo tiene mucha información, pero no la puede procesar”. De esta premisa partió el artista guayaquileño Fernando Insua cuando emprendió su nueva producción denominada Guayaquil masónico, que se inaugura a las 18:30 de hoy, en el Museo Municipal.<br /><br/>La exposición nos adentra en la simbología masónica, manifiesta Insua. El artista explica que esta serie “trata de abordar ciertos símbolos, no todos” de esta comunidad que por “un nivel de sincretismo siempre mantiene un respeto hacia lo que quieren que esté velado y lo que quieren que sea público”.
 
 El pintor, cuya obra siempre se ha visto matizada por las diversas simbologías que eran utilizadas por culturas ancestrales o por las comunidades religiosas, apunta que en esta nueva serie de alguna manera desmitifica la idea que el colectivo se hace de esta comunidad, surgida en Europa entre finales del siglo XVII y principios del XVIII, y que ahora tiene presencia en cientos de países, y Ecuador no es la excepción.
 
