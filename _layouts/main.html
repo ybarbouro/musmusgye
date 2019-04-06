@@ -46,26 +46,36 @@
 
 <div class="site-section-head">
 <figure  class='full-width' style="margin-bottom:0 !important;">
-  <img class="wide" src="//cdn.filestackcontent.com/mwC3L2GdQBWWIpeEcjka" />
+  <img class="wide" src="//cdn.filestackcontent.com/PDkhLj66REewRzVKPpIA" />
+  <div class="cta-option-premiere-up">
+  <button class="btn-alt js-video-button" data-video-id='328853231' data-channel="vimeo">  <h2 class="league-sm-white-btn">50 años&nbsp;<i class="fa fa-play-circle"></i></h2></button>
+      </div>
 </figure>
-<div class="row">
-  <div class="col col-6" style="background-color: rgba(102,119,136,.4);">
+<div class="row" style="background-color:rgba(119,136,153,.4);">
+  <div class="col offset-2 col-8">
+    <h2 class="league-blue">MANUEL VELASTEGUÍ MORENO</h2>
+    <h2 class="league-three">&laquo;50 años de nuevos comienzos&raquo;</h2>
+          <div style="padding: 1rem 2rem;  column-count:2; column-gap: 2em;">
+                  <p class="leftie">Con 50 años de connotada labor artística, el maestro Velasteguí, nos sigue asombrando con nuevos proyectos y propuestas. Este año nos presenta su más reciente producción escultórica, en ella se pueden evidenciar seis técnicas escultóricas con mármol, granito, cuarzo, madera petrificada, madera antigua y material rescatado.</p>
+          </div>
+    <h2 class="league">2 - 25 MAYO</h2>
+
+    <p><strong>&laquo;Pasaje Arosemena&raquo;<br />Palacio Municipal de Guayaquil</strong></p>
+  </div>
+</div>
+
+<figure  class='full-width' style="margin-bottom:0 !important;">
+  <img class="wide" src="//res.cloudinary.com/magnvs/image/upload/v1554582317/dgl4uxbw631dfdya1bol.jpg" />
+</figure>
+<div class="row" style="background-color: rgba(102,119,136,.1);">
+  <div class="col offset-2 col-8">
     <h2 class="league-blue">FERNANDO INSUA ROMERO</h2>
     <h2 class="league-three">&laquo;Guayaquil masónico&raquo;</h2>
-          <div style="padding: 1rem 2rem;">
-                  <p>Producto de una investigación y su curiosidad por la simbología, el artista, genera esta exposición para vincular al público con la simbología masónica actual y antigua.<br />La obra gráfica comprende 7 pinturas de gran formato trabajadas con técnica mixta: oro laminado y acrílico sobre lienzo; la complementan 9 acuarelas.</p>
+          <div style="padding: 1rem 2rem; column-count:2; column-gap: 2em;">
+                  <p class="leftie">Producto de una investigación y su curiosidad por la simbología, el artista, genera esta exposición para vincular al público con la simbología masónica actual y antigua.<br /><br />La obra gráfica comprende 7 pinturas de gran formato trabajadas con técnica mixta: oro laminado y acrílico sobre lienzo; la complementan 9 acuarelas.</p>
           </div>
     <h2 class="league">3 - 30 ABRIL</h2>
     <p><strong>&laquo;Sala Polivalente&raquo;<br />Museo Municipal de Guayaquil</strong></p>
-  </div>
-  <div class="col col-6" style="background-color:rgba(119,136,153,.4);">
-    <h2 class="league-blue">MANUEL VELASTEGUÍ MORENO</h2>
-    <h2 class="league-three">&laquo;50 años&raquo;</h2>
-          <div style="padding: 1rem 2rem;">
-                  <p>Con 50 años de connotada labor artística, el maestro Velasteguí, nos sigue asombrando con nuevos proyectos y propuestas. Este año nos presenta su más reciente producción escultórica, en ella se pueden evidenciar seis técnicas escultóricas con mármol, granito, cuarzo, madera petrificada, madera antigua y material rescatado.</p>
-          </div>
-    <h2 class="league">2 - 25 MAYO</h2>
-    <p><strong>&laquo;Pasaje Arosemena&raquo;<br />Palacio Municipal de Guayaquil</strong></p>
   </div>
 </div>
 </div>
@@ -98,6 +108,7 @@
 
 {% include footer.html %}
 
+        <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
         <script src='//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
         <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
         <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
@@ -107,6 +118,7 @@
         <script src="/js/wow.js"></script>
         <script src="/js/jquery.bxslider.min.js"></script>
         <script src="/js/heritage.js"></script>
+        <script src="/js/jquery-modal-video.min.js"></script>
   <script>
         $(document).ready(function(){
             $('.bxslider').bxSlider({
@@ -125,6 +137,14 @@
         )
         wow.init()
   </script>
+  <script>
+		$(".js-video-button").modalVideo({
+			youtube:{
+				controls:0,
+				nocookie: true
+			}
+		});
+	</script>
   <script>
     $(document).ready( function(){
   $('#mid-menu .it').each(function(){

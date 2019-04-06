@@ -325,6 +325,15 @@ h2.league-sm-white{
   text-transform: uppercase;
 }
 
+h2.league-sm-white-btn{
+  font-family:"Oswald", sans-serif;
+  font-weight: 400;
+  font-size: 1.5rem;
+	line-height: 1.5rem;
+  color:rgba(255,255,255,0.9);
+  text-transform: uppercase;
+}
+
 h2.league-light{
   font-family:"Oswald", sans-serif;
   font-weight: 400;
@@ -377,7 +386,7 @@ h2.animosa {
 }
 .bg-hero {
 	min-height: 70vh;
-	background-image: url(//cdn.filestackcontent.com/cR7mZnCVSt6E5Ukl33RF);
+	background-image: url(//cdn.filestackcontent.com/PDKCiA02S8iDzkKgwtrl);
 	background-position: top center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -416,6 +425,12 @@ h2.animosa {
 	  margin:1.5em 0 1em;
 	  vertical-align:top;
 	}
+
+.cta-option-premiere-up{
+		  margin:-6em 0 2.7em;
+		  vertical-align:top;
+			z-index: 100;
+		}
 
 .btn{
   color:#fff;
@@ -462,8 +477,7 @@ h2.animosa {
   border-radius: 7px;
   border-color:#eee;
   box-shadow:0 3px 6px rgba(0,0,0,.16), 0 3px 6px rgba(0,0,0,.23);
-  font-size:1.25em;
-  margin-top:.25em}
+	height: 3rem;}
 
 .btn-alt:active,.btn-alt:focus,.btn-alt:hover{
   background-color:rgba(255, 0, 0,0.8);
@@ -582,7 +596,7 @@ h2.animosa {
   font-weight: bold;
   font-size: 3.4rem;
   line-height: 4rem;
-  color: #fff;
+  color: #ffffff;
   }
 
 .site-promo h2 {
@@ -730,6 +744,14 @@ h2.animosa {
 			line-height: 1.5rem;
 			letter-spacing: 2px;
       padding-top: 1em;}
+
+	.site-promo h1 {
+			  font-family:'Oswald', sans-serif;
+			  font-weight: bold;
+			  font-size: 2rem;
+			  line-height: 2.1rem;
+			  color: #ffffff;
+			  }
 
   h2.animosa {
         font-family:"Animosa", sans-serif;
