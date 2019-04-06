@@ -15,7 +15,3 @@ Se informa a la ciudadanía en general, que no  habrá atención al público en 
 Los trabajos de gasificación, que implican la aplicación de ingredientes nocivos para la salud humana, anualmente se ejecutan en estas dependencias municipales, para preservar los bienes bibliográficos y museográficos.
 
 **La Dirección**
-
-<figure style="max-width:20%;background:transparent;">
-<img style="width:100%;" src="/img/escudo-gye.svg"/>
-</figure>
