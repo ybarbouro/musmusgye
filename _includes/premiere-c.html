@@ -67,6 +67,11 @@
   {% endif %}
 
   <h2 class="league-sm">{{ person.title }}</h2>
+
+  {% if person.subtitle %}
+  <h3 class="league-gray">{{ person.subtitle }}</h3>
+  {% endif %}
+
   <p>{{ person.excerpt }}<p>
   <p><i class="fa fa-arrow-circle-right"></i> <a href="{{person.url}}">Más información</a></p>
 
