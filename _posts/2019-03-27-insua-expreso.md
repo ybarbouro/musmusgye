@@ -6,9 +6,7 @@ comment: Blanca Moncada | Expreso
 image: "//res.cloudinary.com/magnvs/image/upload/v1554526413/z52rihswbajt3juwcjjl.jpg"
 ffw: Leer más
 ---
-La marca registrada de las obras del artista plástico Fernando Insúa se la dan los símbolos y la historia. Lo demostró en Diosas, hace dos años, donde escudriñó el rol de la mujer en diversas aristas de la sociedad, incluida la religión, o en exposiciones en las que abordó el nacimiento de la humanidad o el judaísmo.
-
-El símbolo representa algo mágico de conocimiento, suele explicar. “Detrás de los símbolos puedes descubrir civilizaciones enteras”, afirma en tono catedrático, al hablar de su nueva muestra, Guayaquil masónico, que se inaugurará el próximo jueves 4 de abril, en el Museo Municipal.
+La marca registrada de las obras del artista plástico Fernando Insúa se la dan los símbolos y la historia. Lo demostró en Diosas, hace dos años, donde escudriñó el rol de la mujer en diversas aristas de la sociedad, incluida la religión, o en exposiciones en las que abordó el nacimiento de la humanidad o el judaísmo.<br /><br />El símbolo representa algo mágico de conocimiento, suele explicar. “Detrás de los símbolos puedes descubrir civilizaciones enteras”, afirma en tono catedrático, al hablar de su nueva muestra, Guayaquil masónico, que se inaugurará el próximo jueves 4 de abril, en el Museo Municipal.
 
 Esta vez, Insúa elige los secretos de la masonería para desmitificar algunas ideas que han permanecido en la cultura colectiva. “En el área de la simbología, es inevitable echar revista a elementos masones”, sostiene.
 
