@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Los secretos d ela masonería en una muestra
+title: Los secretos de la masonería en una muestra
 date: 2019-03-27 09:00:00
 comment: Blanca Moncada | Expreso
 image: "//res.cloudinary.com/magnvs/image/upload/v1554526413/z52rihswbajt3juwcjjl.jpg"
