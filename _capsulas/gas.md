@@ -1,6 +1,6 @@
 ---
 title: LA DIRECCIÓN DE CULTURA INFORMA &colon;
-listing-priority: 1
+listing-priority: 41
 place: Guayaquil, marzo del 2019
 image: "//res.cloudinary.com/magnvs/image/upload/v1553448380/rhn8ihcog1eggqmokipr.jpg"
 ext-url: "/capsulas/"
