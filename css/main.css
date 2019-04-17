@@ -156,7 +156,7 @@ img.wide-alt {
  .main {margin-top: 0;
        margin-bottom: 0;
        position:relative;
-       background-color: var(--main-bg-1);
+       background-color: var(--gray);
    }
  .main-c {margin-top: 0;
        position:relative;
