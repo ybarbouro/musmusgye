@@ -3,7 +3,7 @@ layout: post
 title: Manuel Velasteguí
 subtitle: "Mis obras llegaron hasta el centro mundial de las artes"
 date: 2019-04-10 12:00:00
-comment: Chyntia Flores R. | Expreso
+comment: Cynthia Flores R. | Expreso
 image: "//res.cloudinary.com/magnvs/image/upload/v1554263185/zo9gexj3sv24kvf445q1.jpg"
 ffw: Leer más
 ---
