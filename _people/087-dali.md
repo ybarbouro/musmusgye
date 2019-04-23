@@ -5,7 +5,7 @@ day: 10-30
 month: MAYO
 place: Salas del Museo Municipal de Guayaquil
 listing-priority: 87
-media-url: "https://mmdg-press.netlify.com/dali-en-guayaquil"
+media-url: "//obra-cultural.funiber.org/exposicion-ciudad/cenas-de-gala-suenos-caprichosos-de-pantagruel-salvador-dali-guayaquil/"
 image: "//res.cloudinary.com/magnvs/image/upload/v1553915450/couovjx13qgrn45rlhx0.jpg"
 ---
 
