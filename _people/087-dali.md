@@ -17,6 +17,8 @@ Los grabados de la serie “Las Cenas de Gala” ilustran el exótico recetario 
 
 En la serie de 25 grabados que integran “Los sueños caprichosos de Pantagruel” (1972), Dalí reinterpreta, de manera desbordante y surrealista, las ilustraciones que había realizado *François Desprez* hacia el siglo XVI para los relatos de “Gargantúa y Pantagruel” del humanista *Rabelais*.
 
+![Ser Urbano](//res.cloudinary.com/magnvs/image/upload/v1554261811/tziushjnec6c2dvy7ixh.jpg)
+
 ### “Ser Urbano” Exposición de grabado
 
 Muestra itinerante que nace de la residencia de 14 artistas gráficos de la Fundación Estampería Quiteña en el taller Alfara Estudio de Salamanca - España (2017).
