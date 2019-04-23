@@ -6,7 +6,7 @@ month: MAYO
 place: Salas del Museo Municipal de Guayaquil
 listing-priority: 87
 media-url: "//obra-cultural.funiber.org/exposicion-ciudad/cenas-de-gala-suenos-caprichosos-de-pantagruel-salvador-dali-guayaquil/"
-image: "//res.cloudinary.com/magnvs/image/upload/v1553915450/couovjx13qgrn45rlhx0.jpg"
+image: "//res.cloudinary.com/magnvs/image/upload/v1556042757/expodali_yz9wnp.jpg"
 ---
 
 La Embajada de España y el Museo Municipal de Guayaquil exponen tres series de grabados, dos de ellas son obra del genio surrealista Salvador Dalí, **“Las cenas de Gala”** y **“Los sueños caprichosos de Pantagruel”**, ambas pertenecen a la colección de arte de la **Fundación Universitaria Iberoamericana** - FUNIBER.<br /><br />La tercera colección **“Ser Urbano”** es contemporánea y fue producida por artistas de la **Fundación Estampería Quiteña**.
