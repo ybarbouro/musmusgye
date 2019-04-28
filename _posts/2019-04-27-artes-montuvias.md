@@ -15,6 +15,6 @@ La poesía montuvia será abordada por el gestor cultural Ramón Sonnenholzner, 
 
 La danza tradicional campesina será expresada por Gonzalo Freire, coreógrafo del Ballet Regional Folcosta, quien mostrará los orígenes, adopción, adoración y recreación de los distintos géneros de danza.
 
-El músico folclorista Gabriel Paredes realizará un conversatorio sobre la vida en el campo como resultado de las investigaciones recogidas en los pueblos del Litoral. La oralidad montuvia será comentada a través de los amorfinos y la música. Entre las últimas canciones compuestas por Paredes están "El montuvio machetero", "El burro necio", "Don Cornelio y don Venancio", "El baile del gallinazo", "San jacinto de Yaguachi", entre otras.
+El músico folclorista Gabriel Paredes realizará un conversatorio sobre la vida en el campo como resultado de las investigaciones recogidas en los pueblos del Litoral. La oralidad montuvia será comentada a través de los amorfinos y la música. Entre las últimas canciones compuestas por Paredes están "El montuvio machetero", "El burro necio", "Don Cornelio y don Venancio", "El baile del gallinazo", "San Jacinto de Yaguachi", entre otras.
 
 <small>Este artículo fue publicado en la versión impresa del diario [Expreso](//www.expreso.ec) del 27 de abril de 2019. Sección Intercultural.</small>
