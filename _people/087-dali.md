@@ -1,12 +1,12 @@
 ---
 title: Dalí en los grabados de España
 subtitle: “Las cenas de Gala” y “Los sueños caprichosos de Pantagruel” + “Ser urbano”
-day: 10-30
+day: 10-31
 month: MAYO
 place: Salas del Museo Municipal de Guayaquil
 listing-priority: 87
-media-url: "https://mmdg-press.netlify.com/dali-en-guayaquil"
-image: "//res.cloudinary.com/magnvs/image/upload/v1553915450/couovjx13qgrn45rlhx0.jpg"
+media-url: "//obra-cultural.funiber.org/exposicion-ciudad/cenas-de-gala-suenos-caprichosos-de-pantagruel-salvador-dali-guayaquil/"
+image: "//res.cloudinary.com/magnvs/image/upload/v1556042757/expodali_yz9wnp.jpg"
 ---
 
 La Embajada de España y el Museo Municipal de Guayaquil exponen tres series de grabados, dos de ellas son obra del genio surrealista Salvador Dalí, **“Las cenas de Gala”** y **“Los sueños caprichosos de Pantagruel”**, ambas pertenecen a la colección de arte de la **Fundación Universitaria Iberoamericana** - FUNIBER.<br /><br />La tercera colección **“Ser Urbano”** es contemporánea y fue producida por artistas de la **Fundación Estampería Quiteña**.
@@ -16,6 +16,8 @@ La Embajada de España y el Museo Municipal de Guayaquil exponen tres series de 
 Los grabados de la serie “Las Cenas de Gala” ilustran el exótico recetario del mismo nombre (1971) que es el reflejo de las opulentas y copiosas cenas que ofrecían Dalí y su musa Gala. En la elaboración de las litografías participaron los cocineros del célebre restaurante *Maxim’s de París*.
 
 En la serie de 25 grabados que integran “Los sueños caprichosos de Pantagruel” (1972), Dalí reinterpreta, de manera desbordante y surrealista, las ilustraciones que había realizado *François Desprez* hacia el siglo XVI para los relatos de “Gargantúa y Pantagruel” del humanista *Rabelais*.
+
+![Ser Urbano](//res.cloudinary.com/magnvs/image/upload/v1554261811/tziushjnec6c2dvy7ixh.jpg)
 
 ### “Ser Urbano” Exposición de grabado
 
