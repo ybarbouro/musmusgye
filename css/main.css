@@ -307,9 +307,9 @@ span.suscribing{
         position:relative;
         background: url(/assets/ser-urbano.svg) #ECEFF1;
         background-repeat: no-repeat;
-        background-size: 90vw;
+        background-size: 100vw;
         background-position: center bottom;
-        min-height: 87vh;
+        min-height: 85vh;
     }
 .last-main-title h1 {
       font-family: 'league_gothicregular', sans-serif;
