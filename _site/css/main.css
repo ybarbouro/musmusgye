@@ -156,7 +156,11 @@ img.wide-alt {
  .main {margin-top: 0;
        margin-bottom: 0;
        position:relative;
-       background-color: var(--main-bg-1);
+       background: url(/assets/ser-urbano.svg) #ECEFF1;
+       background-repeat: no-repeat;
+       background-size: cover;
+       background-position: center bottom;
+       min-height: 90vh;
    }
  .main-c {margin-top: 0;
        position:relative;
@@ -298,7 +302,16 @@ span.suscribing{
     }
 @media only screen and (max-width: 600px) {
 
-  .last-main-title h1 {
+  .main {margin-top: 0;
+        margin-bottom: 0;
+        position:relative;
+        background: url(/assets/ser-urbano.svg) #ECEFF1;
+        background-repeat: no-repeat;
+        background-size: 100vw;
+        background-position: center bottom;
+        min-height: 60vh;
+    }
+.last-main-title h1 {
       font-family: 'league_gothicregular', sans-serif;
       font-weight: bold;
       font-size: 4rem;
@@ -379,6 +392,12 @@ padding-bottom: 4em;
 }
 .salon-logo {
   width:65%;
+  margin: 0;
+  margin-left:auto;
+  margin-right:auto;
+}
+.dali-logo {
+  max-width:50%;
   margin: 0;
   margin-left:auto;
   margin-right:auto;
@@ -490,6 +509,10 @@ div.premiere-kaki {
            }
     .salon-logo {
       width: 70%;
+    }
+
+    .dali-logo {
+      min-width:90vw;
     }
   }
 /* ==========================================================================
