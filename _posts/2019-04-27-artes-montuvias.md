@@ -4,7 +4,7 @@ title: La oralidad y formas de vida del agro costeño serán expresadas en un en
 subtitle: "Las tradiciones del hombre del campo serán abordadas en Guayaquil"
 date: 2019-04-27 01:00:00
 comment: Intercultural | Expreso
-image: "//res.cloudinary.com/magnvs/image/upload/v1556433500/sjovbod3rakchmb3u2oo.jpg"
+image: "//res.cloudinary.com/magnvs/image/upload/v1556648903/tablao_gzw41v.jpg"
 ffw: Leer más
 ---
 Un encuentro con la cultura y tradiciones montuvias se realizará en Guayaquil. Bajo el nombre de "Las Artes Montuvias" y producido por el grupode tradición oral Los Montuvios del Tablao, se desarrollará este evento que pretende visibilizar y asimilar las diferentes artes y formas de vida del hombre de campo del Litoral. Será desde el próximo 8 de mayo, entre las 18:00 y 20:00.
