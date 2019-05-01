@@ -386,7 +386,7 @@ h2.animosa {
   line-height: 4.3rem;
 }
 .bg-hero {
-	min-height: 78vh;
+	min-height: 85vh;
 	background-image: url(/assets/pantax.svg);
 	background-position: top center;
 	background-size: cover;
@@ -830,7 +830,7 @@ h2.animosa {
 }
 @media only screen and (max-width:320px){
 	.bg-hero {
-		max-height: 60vh;
+		height: 100vh;
 		background-image: url(/assets/pantax.svg);
 		background-position: top -300px  center;
 		background-size: 100vw;

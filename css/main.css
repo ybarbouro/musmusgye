@@ -160,7 +160,7 @@ img.wide-alt {
        background-repeat: no-repeat;
        background-size: cover;
        background-position: center bottom;
-       min-height: 135vh;
+       min-height: 110vh;
    }
  .main-c {margin-top: 0;
        position:relative;
@@ -302,14 +302,14 @@ span.suscribing{
     }
 @media only screen and (max-width: 600px) {
 
-  .main {margin-top: 0;
+.main { margin-top: 0;
         margin-bottom: 0;
         position:relative;
         background: url(/assets/ser-urbano.svg) #ECEFF1;
         background-repeat: no-repeat;
         background-size: 100vw;
         background-position: center bottom;
-        min-height: 85vh;
+        min-height: 75vh;
     }
 .last-main-title h1 {
       font-family: 'league_gothicregular', sans-serif;
