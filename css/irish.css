@@ -6,11 +6,11 @@
 html {
 	--main-bg:#131a22;
 	--main-bg-1:#0C354F;
-    --vino:#942020;
+  --vino:#942020;
 	--gray: #ECEFF1;
-    --plata: rgba(207,217,223,.1);
-    --platino: rgba(207,217,223,1);
-    --cemento: rgb(204,255,221);
+  --plata: rgba(207,217,223,.1);
+  --platino: rgba(207,217,223,1);
+  --cemento: rgb(204,255,221);
 }
 
 html,body {

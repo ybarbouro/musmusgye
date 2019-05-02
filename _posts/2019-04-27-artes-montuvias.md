@@ -7,7 +7,9 @@ comment: Intercultural | Expreso
 image: "//res.cloudinary.com/magnvs/image/upload/v1556648903/tablao_gzw41v.jpg"
 ffw: Leer más
 ---
-Un encuentro con la cultura y tradiciones montuvias se realizará en Guayaquil. Bajo el nombre de "Las Artes Montuvias" y producido por el grupode tradición oral Los Montuvios del Tablao, se desarrollará este evento que pretende visibilizar y asimilar las diferentes artes y formas de vida del hombre de campo del Litoral. Será desde el próximo 8 de mayo, entre las 18:00 y 20:00.<br/><br />Como parte del programa han sido invitados diferentes cultores de las tradiciones montuvias, quienes expondrán sus saberes, procesos, juicios e instrucciones sobre el arte que cada uno domina, exponiendo a la ciudadanía sus trabajos e investigaciones de campo.
+Un encuentro con la cultura y tradiciones montuvias se realizará en Guayaquil. Bajo el nombre de "Las Artes Montuvias" y producido por el grupode tradición oral Los Montuvios del Tablao, se desarrollará este evento que pretende visibilizar y asimilar las diferentes artes y formas de vida del hombre de campo del Litoral. Será desde el próximo 8 de mayo, entre las 18:00 y 20:00.
+
+Como parte del programa han sido invitados diferentes cultores de las tradiciones montuvias, quienes expondrán sus saberes, procesos, juicios e instrucciones sobre el arte que cada uno domina, exponiendo a la ciudadanía sus trabajos e investigaciones de campo.
 
 La poesía montuvia será abordada por el gestor cultural Ramón Sonnenholzner, identificado como montuvio y habitante de la cuenca baja del Guayas y sus alrededores. El investigador ha escrito poemarios, los cuales han sido recogidos en varios libros.
 

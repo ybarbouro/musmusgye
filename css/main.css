@@ -204,6 +204,14 @@ img.wide-alt {
     border: none;
     margin-top: 75px;
 }
+#musmus {
+  background-image: url(//cdn.filestackcontent.com/yRcCMtfJTnKJvBaoSS86);
+  background-size: contain;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-blend-mode: multiply;
+  background-image: url(//cdn.filestackcontent.com/yRcCMtfJTnKJvBaoSS86), linear-gradient(35deg, #FFA618 0%, #E74E0F 100%);
+}
 
 .suscribe {
   /* background-color:#131a22;*/
