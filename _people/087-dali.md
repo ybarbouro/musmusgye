@@ -1,7 +1,7 @@
 ---
 title: Dalí en los grabados de España
 subtitle: “Las cenas de Gala” y “Los sueños caprichosos de Pantagruel” + “Ser urbano”
-day: 10-31
+day: 10-30
 month: MAYO
 place: Salas del Museo Municipal de Guayaquil
 listing-priority: 87
