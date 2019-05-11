@@ -7,9 +7,7 @@ image: "//res.cloudinary.com/magnvs/image/upload/v1557601599/nf9uankumwbgfjeeecp
 ffw: Leer más
 ---
 
-El genio del surrealismo, Salvador Dalí, “volverá a la vida”. Lo hará mañana, en el museo que lleva su apellido, en San Petersburgo (Estados Unidos), gracias a la realidad virtual que permitirá a los visitantes interactuar con él y verlo como cuando tenía 50 años. Y aunque no con la misma tecnología, Guayaquil también podrá disfrutar de algunas de sus majestuosas obras, en una muestra que arriba por primera vez al Ecuador.
-
-La llegada de sus creaciones al país tiene un significado especial, pues la exposición estará abierta al público justo un 11 de mayo, que coincide con el día en que se recuerdan los 115 años de nacimiento del reconocido artista español.
+El genio del surrealismo, Salvador Dalí, “volverá a la vida”. Lo hará mañana, en el museo que lleva su apellido, en San Petersburgo (Estados Unidos), gracias a la realidad virtual que permitirá a los visitantes interactuar con él y verlo como cuando tenía 50 años. Y aunque no con la misma tecnología, Guayaquil también podrá disfrutar de algunas de sus majestuosas obras, en una muestra que arriba por primera vez al Ecuador.<br /><br />La llegada de sus creaciones al país tiene un significado especial, pues la exposición estará abierta al público justo un 11 de mayo, que coincide con el día en que se recuerdan los 115 años de nacimiento del reconocido artista español.
 
 Esta tarde será la ceremonia oficial de inauguración de “Dalí en los grabados de España”, en el Museo Municipal de Guayaquil, gracias a una gestión en conjunto con la Embajada de España en Ecuador.
 
