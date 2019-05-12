@@ -184,9 +184,10 @@ a.button-animated img:hover {
   top:50%;
   -webkit-transition:1s;
   transition:1s;
-  width:150px}
+  width:150px;
+  opacity:.4;}
 .flex-embed:hover .play-btn{
-  opacity:.5}
+  opacity:.8}
 .clearfix:after,.clearfix:before{
   content:' ';
   display:table}
