@@ -30,4 +30,4 @@ La música coral se oirá el 23 con el Grupo inVIA y el 24 estará la Orquesta d
 
 El jueves 30 –a diferencia de los otros shows que se dan en el Museo Municipal– la música electrónica de Reydel Allegues y Marcjack se escuchará en la Plaza Colón. Y el 31 estarán en la clausura de Musimuestras Armada de Juguete, Ludovico y Los Brigante, en el mismo sitio. Todos los conciertos son gratuitos. (I)
 
-<small>Este artículo fue publicado en la versión digital del diario [EL Universo](//www.eluniverso.com/entretenimiento/2019/05/16/nota/7331642/si-no-hago-musica-muero-inanicion-emocional) del 15 de mayo de 2019. Vida y Estilo</small>
+<small>Este artículo fue publicado en la versión digital del diario [EL Universo](//www.eluniverso.com/entretenimiento/2019/05/16/nota/7331642/si-no-hago-musica-muero-inanicion-emocional) del 16 de mayo de 2019. Vida y Estilo</small>
