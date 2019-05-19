@@ -22,4 +22,4 @@ Para los guayaquileños hay una ruta variada por recorrer. En el Museo Nahim Isa
 
 [...]El Día Internacional de los Museos se celebra desde 1977, por decisión del consejo mundial, en un intento por sensibilizar al público sobre la importancia de estos espacios como centros de memoria en la tranformación social. En 2009, 20.000 museos de más de 90 países organizaron eventos por la fecha; ahora son más de 30.000 en más de 120 países, uniéndose para dar vida y color a estos espacios llenos de tradiciones e historia.
 
-<small>Este artículo fue publicado en la versión impresa del diario [Expreso](//www.xpreso.ec) del 17 de mayo de 2019. Sección Sociedad</small>
+<small>Fotografía: Jorge Quimí<br/>Este artículo fue publicado en la versión impresa del diario [Expreso](//www.xpreso.ec) del 17 de mayo de 2019. Sección Sociedad</small>
