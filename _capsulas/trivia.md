@@ -1,6 +1,6 @@
 ---
 title: Programa de selección de finalistas a la Trivia Genios del Museo
-listing-priority: 1
+listing-priority: 40
 image: "///res.cloudinary.com/magnvs/image/upload/v1554239058/Arte_genios_1_zoc6nt.jpg"
 ext-url: "//mmdg-press.netlify.com/programa-de-seleccion-de-finalistas-a-la-trivia-genios-del-museo"
 ---
