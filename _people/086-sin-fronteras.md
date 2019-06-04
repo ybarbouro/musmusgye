@@ -3,7 +3,7 @@ title: Exposición Binacional
 subtitle: “Colores Sin Fronteras”
 day: 06-29
 month: JUNIO
-place: Salas Polivalente del Museo Municipal de Guayaquil
+place: Sala Polivalente del Museo Municipal de Guayaquil
 listing-priority: 86
 image: "https://res.cloudinary.com/magnvs/image/upload/v1559667196/sin-fron-2_paqoxy.jpg"
 ---
