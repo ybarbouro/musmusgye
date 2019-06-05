@@ -801,7 +801,9 @@ h2.animosa {
     font-size:13px}
   .bg-hero {
     min-height: 85vh;
-    background-position: bottom center;}
+    background-image: url(/assets/sj-19BRAND.svg);
+    background-position: center center;
+	}
   .grid-cell-left {
         width:100%}
   .site-section{
