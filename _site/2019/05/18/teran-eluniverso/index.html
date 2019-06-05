@@ -1,0 +1,536 @@
+<!doctype html>
+<html class="no-js" lang="es">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Museo Arte y Ciudad</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Facebook OpenGraph Info - Page Specific - Variables listed on each page -->
+	      <meta property="og:title" content="Museo Municipal de Guayaquil" />
+        <meta property="og:type" content="website">
+	      <meta property="og:image" content="//res.cloudinary.com/magnvs/image/upload/v1522811906/temporary_timbbp.jpg" />
+	      <meta property="og:url" content="//www.museoarteyciudad.com" />
+	      <meta property="og:description" content="Abrimos de martes a sábado de 09h00 a 17h30. ¡Conoce más sobre nuestras actividades aquí!" />
+
+	      <!-- Twitter Card Tags -->
+	      <meta name="twitter:card" content="summary_large_image" />
+	      <meta name="twitter:site" content="@MUMG1" />
+        <meta name="twitter:creator" content="@fernanz">
+	      <meta name="twitter:title" content="Museo Municipal de Guayaquil" />
+	      <meta name="twitter:description" content="Abrimos de martes a sábado de 09h00 a 17h30. ¡Conoce más sobre nuestras actividades aquí" />
+	      <meta name="twitter:image" content="//res.cloudinary.com/magnvs/image/upload/v1522811906/temporary_timbbp.jpg" />
+
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <!-- Place favicon.ico in the root directory -->
+
+        <link rel=stylesheet href="https://fonts.googleapis.com/css?family=Open+Sans:400,700">
+        <link href="https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200" rel="stylesheet">
+        <link rel="stylesheet" href="/css/normalize.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/irish.css">
+        <link rel="stylesheet" href="/css/kube.css">
+        <link rel="stylesheet" href="/css/magazine.css">
+        <link rel="stylesheet" href="/css/fonts.css">
+        <link rel="stylesheet" href="/css/heritage.css">
+        <link rel="stylesheet" href="/css/slides.css">
+        <link rel="stylesheet" href="/css/animate.css">
+        <link rel="stylesheet" href="/css/jquery.bxslider.css">
+        <link rel="stylesheet" href="/css/modal-video.min.css">
+        <link rel="stylesheet" type="text/css" href="/fonts/font-awesome-4.7.0/css/font-awesome.min.css" />
+        <script src="/js/vendor/modernizr-2.8.3.min.js"></script>
+        <style>
+/* NOTE: The styles were added inline because Prefixfree needs access to your styles and they must be inlined if they are on local disk! */
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300);
+section { display: flex;
+  justify-content: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  }
+article {
+margin: 1rem;
+-ms-flex: 1 0 0px;
+flex: 1;
+/* shortcut for "flex-grow: 1". Note that it MUST be a unitless value to work; defined with a unit (e.g. flex: 1px) the shortcut would alter the flex-basis property. */
+}
+article.breaking {
+-ms-flex-grow: 2;
+flex: 2;
+/* shortcut for "flex-grow: 2" */
+}
+
+article.columnas div {
+column-count: 3;
+}
+
+article.columnas h1 {
+font-size: 2.7rem;
+line-height: 2.7rem;
+padding-bottom: 1rem;
+margin-top: 0;
+max-width: 65%;
+}
+
+article.columnas h2 {
+font-size: 2.3rem;
+line-height: 2.3rem;
+padding-bottom: 1rem;
+margin-top: 0;
+max-width: 55%;
+text-align: left;
+color: #777;
+}
+
+article.columnas p {
+font-size:.8rem;
+}
+
+article.tarjetabg {
+background: url(/img/papers.png);
+padding: 5px 15px;
+}
+
+
+.cardex {
+  position: relative;
+  margin: 0;
+  padding: 15px 15px;
+  margin-left: -15px;
+  margin-right: -15px;
+  /* background-image: linear-gradient(to top, #243949 0%, rgba(46, 87, 103, 0.7) 100%);*/
+  height: 90%;
+  color:#fff;
+}
+
+.cardex > img {
+mix-blend-mode:normal;
+}
+
+article img {
+width: 100%; height: auto;
+border-radius: 7px;
+}
+
+img.destacada {
+float: left;
+width: 100%;
+height: auto;
+border-radius: 7px;
+}
+
+article h1, article h2, article h3 { font-family: "Oswald", sans-serif; }
+article h1 {
+font-size: 1.7rem;
+line-height: 1.3;
+text-align: left;
+text-transform: uppercase;
+}
+article h2, article h3 {
+font-size: 1rem;
+text-align: right;
+line-height: 1.3;
+margin: 1.3rem 0;
+font-weight: 300;
+}
+article h3 {
+font-size: 1.1rem;
+}
+article p {
+line-height: 1.3;
+text-align: left;
+}
+
+@media screen and (max-width: 750px) {
+
+section {
+  -ms-flex-direction: column;
+  -webkit-box-orient: vertical;
+  flex-direction: column;
+}
+
+.cardex {
+  position: relative;
+  margin-bottom: -15px;
+  height: 100%;
+}
+
+img.destacada {
+float: none;
+width: 100vw;
+margin-bottom: 1.7rem;
+margin-left: 0;
+}
+
+article.columnas div {
+column-count: 1;
+}
+
+article.columnas h1{
+max-width: 83%;
+}
+
+article.columnas h2{
+max-width: 83%;
+}
+
+}
+
+  </style>
+</head>
+
+    <body>
+
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <!-- Add your site or application content here -->
+        <div class="main">
+
+          <div class="container">
+            <div class="site-header clearfix" role=banner>
+              <div class=site-logo>PROGRAMA MUSEO ARTE Y CIUDAD
+              </div>
+              <ul class="site-navi inline-block-list">
+                <li>
+                  <a href="/" data-ga-category="Inbound links" data-ga-action="Nav click" data-ga-label="Source code">Inicio
+                  </a>
+                </li>
+                <li>
+                  <a href="/faal" data-ga-category="Inbound links" data-ga-action="Nav click" data-ga-label="Source code">FAAL 2018
+                  </a>
+                </li>
+                <li>
+                  <a href="#" data-ga-category="Inbound links" data-ga-action="Nav click" data-ga-label="Source code">
+                  </a>
+                </li>
+              </ul>
+            </div>
+
+            <div class="wow bounceInDown">
+                <div  style="width: 35%; margin:0; margin-left:auto; margin-right:auto;">
+                  <img src="/img/institucional-municipio.svg"/>
+                </div>
+              </div>
+
+          </div><!-- end of container -->
+
+
+        <div class="site-section-head">
+          <div class="container" style="max-width: 775px;">
+          <section>
+            <article>
+              <h1>Guayaquil cantó al ritmo de Francisco Terán y la Orquesta Filarmónica Municipal</h1>
+
+              
+              <img style="border-radius:7px;margin:20px 0 60px 0;" src="//res.cloudinary.com/magnvs/image/upload/v1558231011/rhorngwfxzuurmckidg9.jpg" alt="Fotografía de Guayaquil cantó al ritmo de Francisco Terán y la Orquesta Filarmónica Municipal">
+              
+
+              <p>Cientos de personas se congregaron la tarde del jueves en las inmediaciones del muelle de Puerto Santa Ana. ¿La razón? se ofrecía un concierto del cantautor ecuatoriano Francisco Terán, junto con la Orquesta Filarmónica Municipal de Guayaquil. El encuentro se dio como sesión inaugural de la <strong>décimoquinta edición de Musimuestras</strong>.<br /><br /><em>“Venimos ya un poco atrasadas, pero lo importante es que sí alcanzamos a verlo”</em>, contó Lucía Armijos, quien -junto a su hija Marcela Paredes- llegó al espectáculo que incluyó varios de los éxitos del artista quiteño.<br /><br /><em>“Es un excelente artista, cantante. Me gustan mucho los temas, escribe con el alma, escribe de cosas reales, es un ‘capo’“</em>, refirió Gonzalo Cadena, que con su novia asistieron al show gratuito, que contó con la asistencia de decenas de personas.<br /><br />Sin mayor preámbulo, a las 19:00 inició la presentación de Terán. Tu lugar fue el tema con el que arrancó su participación; los acordes de la Filarmónica se conjuban con las melodías de su banda que también lo acompañaba.</p>
+
+<p>El artista supo manifestar su emoción por participar en este tipo de encuentros, porque se demuestra <em>“que el arte y la cultura no solo es un tema de ciudad, o de región, sino de un país”</em>.</p>
+
+<p>Seguido de esta canción llevó al público Samurái, un tema que -según explico- <em>“habla sobre el guerrero que todos llevamos dentro”</em>. Aseguró que no debemos dejarnos agobiar por los problemas y tampoco culpar a los demás por ellos, e instó a seguir luchando.</p>
+
+<p><em>“Sus letras tienen mucha conciencia, nos llaman a reflexionar, a ver el mundo al menos por un momento de otra manera”</em>, señalo Martha Galvez, una de las asistentes a este espectáculo que se extendió hasta las 20:40.</p>
+
+<p>En este concierto también hubo palabras de aliento para el pueblo venezolano. Aquella noche Terán había invitado a un colega de ese país a compartir la letra de Samurái. El artista quiteño instó a ser solidarios, dijo que en algún momentos todos hemos sido migrantes, <em>“todos hemos sido caminantes del mundo”</em>.</p>
+
+<p>Otros temas como Una luz, El planeta de las rosas, De cuando en vez (reciente sencillo que lanzó), así como otras de sus producciones integraron el repertorio que el cantante, con más de 40 años de trayectoria, compartió con el público local.</p>
+
+<p>La noche no podía concluir sin escuchar Negra, aquel popular tema que hizo hace 32 años y se lo dedicó a la mujer que más ha amado, su hija Gabriela. Ahora “la negra” es la que le está produciendo su nuevo disco Caleidoscopio y que espera lanzar entre agosto y septiembre próximos. (E)</p>
+
+<p><small>Fotografía: Karla Medina - Instagram<br />Este artículo fue publicado en la versión digital del diario <a href="//www.eluniverso.com/entretenimiento/2019/05/18/nota/7336061/guayaquil-canto-ritmo-francisco-teran-orquesta-filarmonica#cxrecs_s">EL Universo</a> del 18 de mayo de 2019. Vida y Estilo</small></p>
+
+
+            </article>
+          </section>
+
+          <div>
+              <h3>Otros artículos</h3>
+                <ul style="list-style-type:none">
+            
+                
+                <li><a href="/2019/05/20/velastegui-elcomercio/">El escultor Manuel Velasteguí reafirma mística de 50 años</a></li>
+             
+          
+                
+                <li class="current-post">Guayaquil cantó al ritmo de Francisco Terán y la Orquesta Filarmónica Municipal</li>
+                
+          
+                
+                <li><a href="/2019/05/17/camila-elcomercio/">La cantautora ecuatoriana Camila Pérez hace una fiesta del desamor</a></li>
+             
+          
+                
+                <li><a href="/2019/05/16/musimuestras-eluniverso/">Francisco Terán ‘Si no hago música, muero de inanición emocional’</a></li>
+             
+          
+                
+                <li><a href="/2019/05/15/trivia-expreso/">Trivias, teatro y danza para celebrar el Día de los Museos</a></li>
+             
+          
+                
+                <li><a href="/2019/05/15/musimuestras-elcomercio/">Francisco Terán adelanta su nueva música con la Filarmónica Municipal de Guayaquil</a></li>
+             
+          
+                
+                <li><a href="/2019/05/14/musimuestras-expreso/">La música popular será el eje del Musimuestras</a></li>
+             
+          
+                
+                <li><a href="/2019/05/14/dali-eluniverso/">Dalí se apodera de Guayaquil con serie de grabados</a></li>
+             
+          
+                
+                <li><a href="/2019/05/10/dali-expreso/">Los grabados de Salvador Dalí llegaron a Guayaquil</a></li>
+             
+          
+                
+                <li><a href="/2019/05/01/velastegui-eluniverso/">El escultor Manuel Velasteguí, con muestra por aniversario</a></li>
+             
+          
+                
+                <li><a href="/2019/04/30/insua-eltelegrafo/">Fernando Insua recrea la logia guayaquileña</a></li>
+             
+          
+                
+                <li><a href="/2019/04/26/artes-montuvias/">La oralidad y formas de vida del agro costeño serán expresadas en un encuentro con 'Las Artes Montuvias'</a></li>
+             
+          
+                
+                <li><a href="/2019/04/10/velastegui-expreso/">Manuel Velasteguí</a></li>
+             
+          
+                
+                <li><a href="/2019/04/04/insua-eluniverso/">El 'Guayaquil Masónico', en una serie de Fernando Insua</a></li>
+             
+          
+                
+                <li><a href="/2019/03/27/insua-expreso/">Los secretos de la masonería en una muestra</a></li>
+             
+          
+                
+                <li><a href="/2019/02/24/matrices-universo/">Matrices</a></li>
+             
+          
+                
+                <li><a href="/2019/02/09/matrices/">Los defensores de la pintura sobre lienzo</a></li>
+             
+          
+                
+                <li><a href="/2019/01/31/maquetas/">Museo Municipal dará cabida a los modelos a escala</a></li>
+             
+          
+                
+                <li><a href="/2019/01/24/directorio/">Directorio acoge datos de Museos de Ecuador</a></li>
+             
+          
+                
+                <li><a href="/2019/01/16/selfie-museos-day/">Museos guayaquileños se unieron a la tendencia &num;MuseumSelfieDay</a></li>
+             
+          
+                
+                <li><a href="/2018/12/22/expreso-110/">Un recorrido por 110 años de historia</a></li>
+             
+          
+                
+                <li><a href="/2018/12/16/universo-110/">110 años del Museo Municipal de Guayaquil, en busca de expansión</a></li>
+             
+          
+                
+                <li><a href="/2018/12/04/suegras/">La obra ‘Suegras’ abrió séptima edición de Teatro Muestras en el Museo Municipal de Guayaquil</a></li>
+             
+          
+                
+                <li><a href="/2018/11/29/retrato-expreso/">Retrato, obra ganadora del FAAL, tendrá una corta temporada teatral en El Altillo</a></li>
+             
+          
+                
+                <li><a href="/2018/11/06/el-comercio/">Arquitectura futurista y ‘tsantsa’ gigante obtienen los premios de pintura y escultura del Faal</a></li>
+             
+          
+                
+                <li><a href="/2018/10/27/faal-xix/">Guayaquil, el escenario de una edición más del FAAL</a></li>
+             
+          
+                
+                <li><a href="/2018/10/23/nia/">Municipio amplía sistema virtual ‘Nia’ y entrega información turística de Guayaquil</a></li>
+             
+          
+                
+                <li><a href="/2018/10/11/somos-gye/">Somos Guayaquil</a></li>
+             
+          
+                
+                <li><a href="/2018/10/09/festival-heat/">Festival HEAT Guayaquil reúne al talento nacional y extranjero</a></li>
+             
+          
+                
+                <li><a href="/2018/10/04/festejos-octubrinos-cuatro-ferias/">Cuatro ferias, conciertos, desfile y más actos realzan fiesta octubrina</a></li>
+             
+          
+                
+                <li><a href="/2018/09/30/festejos-octubrinos/">Se iniciaron los festejos octubrinos</a></li>
+             
+          
+                
+                <li><a href="/2018/09/18/guayaquil-en-accion/">Guayaquil en acción</a></li>
+             
+          
+                
+                <li><a href="/2018/09/06/world-press-photo/">Guayaquil acoge muestra del World Press Photo</a></li>
+             
+          
+                
+                <li><a href="/2018/09/03/wpf-comercio/">La exposición anual del World Press Photo 2018 arriba a Guayaquil</a></li>
+             
+          
+                
+                <li><a href="/2018/08/25/iluminantes/">Las pintoras que la historia olvidó, retratadas en serie</a></li>
+             
+          
+                
+                <li><a href="/2018/07/26/eluniverso-teorias-salon-julio/">Teorías, la obra ganadora del Salón de Julio 2018</a></li>
+             
+          
+                
+                <li><a href="/2018/07/26/eluniverso-salon-julio/">Universitarios ganan Salón de Julio 2018</a></li>
+             
+          
+                
+                <li><a href="/2018/07/26/elcomercio-salon-julio/">La pintura ganadora del Salón de Julio 2018 tiñe de hollín motivos naturales</a></li>
+             
+          
+                
+                <li><a href="/2018/07/26/telegrafo-salon-julio/">Buntinx "Es necesario una renovación de infraestructura"</a></li>
+             
+          
+                
+                <li><a href="/2018/07/23/ecuavisa-salon-julio/">Conozca a los ganadores de la edición 59 del Salón de Julio</a></li>
+             
+          
+                
+                <li><a href="/2018/07/19/salon-julio-referente/">Salón de Julio referente en el arte local</a></li>
+             
+          
+                
+                <li><a href="/2018/07/19/salon-julio-mujeres/">El aporte y la lucha femenina no es solo dentro del certamen</a></li>
+             
+          
+                
+                <li><a href="/2018/07/06/previa-salon-julio/">El Salón de Julio revisa su primera década</a></li>
+             
+          
+            </ul>
+              </div>
+        </div>
+      </div>
+
+  <div class="site-section-head">
+    <div class="grid">
+      <div class=grid-cell>
+        <img src="/img/escudo-gye.svg"/>
+
+      </div>
+      <div class=grid-cell>
+        <img src="/img/museo.svg"/>
+
+      </div>
+      <div class=grid-cell>
+        <img src="/img/macm.svg"/>
+
+      </div>
+    </div>
+  </div>
+
+
+<div class="site-footer" >
+<div class="row">
+
+  <div style="text-align:center;" class="col col-12">
+  <p><span class="Icon Icon--museo"></span><br />
+  <small>MUSEO MUNICIPAL DE GUAYAQUIL</small></p>
+  </div>
+
+<div class="col col-8 offset-2">
+
+  <div class="row gutter">
+    <div class="col col-8 item">
+      <p><i class="fa fa-phone"></i>&emsp; +593-4 2594800 ext. 7402</p>
+      <p><i class="fa fa-bank"></i>&emsp; Sucre entre Chile y Pedro Carbo</p >
+      <p><i class="fa fa-calendar"></i>&emsp; Martes a sábado</p>
+      <p><i class="fa fa-clock-o"></i>&emsp; 09h00 - 17h30</p>
+      <p><i class="fa fa-bus"></i>&emsp; Parada Metrovia más cercana: Biblioteca Municipal</p>
+    </div>
+
+    <div class="col col-4 item">
+      <p>
+        <a class="twitter-share-button" href=https://twitter.com/share data-count=none data-lang=es data-size=large data-text="Musimuestras 2017" data-url="https://twitter.com/" ><i class="fa fa-twitter">&ensp;</i>Comparte
+        </a>
+      </p>
+      <p>
+        <a class="facebook-share-button" href="https://www.facebook.com/museoarteyciudadgye/" data-count=none data-lang=es data-size=large data-text="Musimuestras 2017" data-url="https://www.facebook.com/museoarteyciudadgye/" ><i class="fa fa-facebook">&ensp;</i>Encuéntranos en Facebook
+        </a>
+      </p>
+    </div>
+  </div>
+
+</div>
+
+
+<div style="text-align:center;" class="col col-12">
+
+
+     <hr id="final"/>
+       <p>
+       <a href="https://www.netlify.com"><img style="width:100px"  src="/img/netlify-color-accent.svg"/></a>&nbsp;&nbsp;
+       <a href="https://jekyllrb.com"><img style="width:85px; border-radius:3px" src="/img/jekyll-logo.svg" /></a>&nbsp;&nbsp;
+       <a href="https://html5boilerplate.com"><img style="width:42px; border-radius:3px" src="/img/html5-boilerplate.svg"/></a>
+       </p>
+       <p>
+       <a href="https://fernanz.github.io"><img style="width:55px; border-radius:3px" src="/img/fernanz-logo.svg"/></a>
+       </p>
+
+     <p>
+       DESARROLLO WEB: <a href="mailto:fmayorga.uno@gmail.com">FERNANDO MAYORGA</a><br /><span style="color:#aaa;">&copy; Programa Museo, Arte y Ciudad 2018.</span>
+     </p>
+</div>
+
+</div>
+</div>
+
+</div><!-- end of main-->
+
+        <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+        <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
+        <script src="/js/plugins.js"></script>
+        <script src="/js/main.js"></script>
+        <script src="/js/kube.js"></script>
+        <script src="/js/wow.js"></script>
+
+        <script>
+        wow = new WOW(
+                {
+                  animateClass: 'animated',
+                  offset: 100
+                }
+        )
+        wow.init()
+        </script>
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-100191210-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+    </body>
+</html>

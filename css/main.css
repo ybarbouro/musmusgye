@@ -153,14 +153,15 @@ img.wide-alt {
   float:left;
 
 }
- .main {margin-top: 0;
+ .main {
+       margin-top: 0;
        margin-bottom: 0;
        position:relative;
-       background: url(/assets/ser-urbano.svg) #ECEFF1;
+       background: url(/assets/sj-19FONDO.svg) #ECEFF1;
        background-repeat: no-repeat;
        background-size: cover;
-       background-position: center bottom;
-       min-height: 110vh;
+       background-position: center top;
+       min-height: 80vh;
    }
  .main-c {margin-top: 0;
        position:relative;
@@ -313,10 +314,10 @@ span.suscribing{
 .main { margin-top: 0;
         margin-bottom: 0;
         position:relative;
-        background: url(/assets/ser-urbano.svg) #ECEFF1;
+        background: url(/assets/sj-19FONDO.svg) #ECEFF1;
         background-repeat: no-repeat;
-        background-size: 100vw;
-        background-position: center bottom;
+        background-size: cover;
+        background-position: top center;
         min-height: 75vh;
     }
 .last-main-title h1 {
