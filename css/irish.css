@@ -831,10 +831,10 @@ h2.animosa {
  }
 }
 @media only screen and (max-width:320px){
-	.bg-hero {
-		height: 90vh;
+ .bg-hero {
+		height: 100vh;
 		background-image: url(/assets/sj-19BRAND.svg);
-		background-position: bottom center;
+		background-position: center center;
 		background-repeat: no-repeat;
 	}
   .grid-cell-left {
