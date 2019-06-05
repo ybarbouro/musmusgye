@@ -729,7 +729,7 @@ h2.animosa {
   html{
     font-size:14px}
 	.bg-hero {
-				min-height: 65vh;
+				min-height: 75vh;
 				background-size: contain;
 				background-position: bottom center;
 			}
@@ -780,7 +780,7 @@ h2.animosa {
 }
 @media only screen and (max-width:460px){
 	.bg-hero {
-		min-height: 70vh;
+		min-height: 75vh;
 		background-position: bottom center;
 	}
 	.grid-cell-left {
