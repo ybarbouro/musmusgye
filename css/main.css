@@ -318,7 +318,7 @@ span.suscribing{
         background-repeat: no-repeat;
         background-size: cover;
         background-position: top center;
-        min-height: 75vh;
+        min-height: 100vh;
     }
 .last-main-title h1 {
       font-family: 'league_gothicregular', sans-serif;
