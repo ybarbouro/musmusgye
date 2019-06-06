@@ -6,7 +6,9 @@ comment: Alexander García | El Comercio
 image: "//res.cloudinary.com/magnvs/image/upload/v1558150997/mnzuk5mukbayxtzgh3ym.jpg"
 ffw: Leer más
 ---
-La cantautora ecuatoriana Camila Pérez llegó a considerarse en un tiempo una suerte de jazzista acérrima e intransigente, pues aunque había disfrutado de otros géneros a lo largo de su vida, en sus años académicos solo quería cantar y componer jazz.<br /><br />Lo curioso es que cuando hace dos años se fue a cursar una maestría en España y se sentó a componer, lo que le salía naturalmente era distinto al jazz. “Eran sonidos un poco más latinos, una mezcla de cosas que había venido escuchado”, explicó la artista guayaquileña. <br /><br />El resultado de ese viaje físico y emocional está volcado en su disco debut, titulado ‘Souvenir’, que adelantará en un concierto previsto para hoy, a las 19:00, en el Museo Municipal de Guayaquil, como parte del festival musical Musimuestras 2019.
+La cantautora ecuatoriana Camila Pérez llegó a considerarse en un tiempo una suerte de jazzista acérrima e intransigente, pues aunque había disfrutado de otros géneros a lo largo de su vida, en sus años académicos solo quería cantar y componer jazz.<br /><br />Lo curioso es que cuando hace dos años se fue a cursar una maestría en España y se sentó a componer, lo que le salía naturalmente era distinto al jazz. “Eran sonidos un poco más latinos, una mezcla de cosas que había venido escuchado”, explicó la artista guayaquileña.
+
+El resultado de ese viaje físico y emocional está volcado en su disco debut, titulado ‘Souvenir’, que adelantará en un concierto previsto para hoy, a las 19:00, en el Museo Municipal de Guayaquil, como parte del festival musical Musimuestras 2019.
 
 La artista fusiona una impronta particular de pop latino con ritmos folclóricos suda­mericanos, a menudo en una mezcla indefinible que incluye también los aires del propio jazz, que “se filtra siempre por las hendijas de la creatividad”, dijo.
 

@@ -6,7 +6,11 @@ comment: Karla Medina | El Universo
 image: "//res.cloudinary.com/magnvs/image/upload/v1558231011/rhorngwfxzuurmckidg9.jpg"
 ffw: Leer más
 ---
-Cientos de personas se congregaron la tarde del jueves en las inmediaciones del muelle de Puerto Santa Ana. ¿La razón? se ofrecía un concierto del cantautor ecuatoriano Francisco Terán, junto con la Orquesta Filarmónica Municipal de Guayaquil. El encuentro se dio como sesión inaugural de la **décimoquinta edición de Musimuestras**.<br /><br />*"Venimos ya un poco atrasadas, pero lo importante es que sí alcanzamos a verlo"*, contó Lucía Armijos, quien -junto a su hija Marcela Paredes- llegó al espectáculo que incluyó varios de los éxitos del artista quiteño.<br /><br />*"Es un excelente artista, cantante. Me gustan mucho los temas, escribe con el alma, escribe de cosas reales, es un 'capo'"*, refirió Gonzalo Cadena, que con su novia asistieron al show gratuito, que contó con la asistencia de decenas de personas.<br /><br />Sin mayor preámbulo, a las 19:00 inició la presentación de Terán. Tu lugar fue el tema con el que arrancó su participación; los acordes de la Filarmónica se conjuban con las melodías de su banda que también lo acompañaba.
+Cientos de personas se congregaron la tarde del jueves en las inmediaciones del muelle de Puerto Santa Ana. ¿La razón? se ofrecía un concierto del cantautor ecuatoriano Francisco Terán, junto con la Orquesta Filarmónica Municipal de Guayaquil. El encuentro se dio como sesión inaugural de la **décimoquinta edición de Musimuestras**.<br /><br />*"Venimos ya un poco atrasadas, pero lo importante es que sí alcanzamos a verlo"*, contó Lucía Armijos, quien -junto a su hija Marcela Paredes- llegó al espectáculo que incluyó varios de los éxitos del artista quiteño.
+
+*"Es un excelente artista, cantante. Me gustan mucho los temas, escribe con el alma, escribe de cosas reales, es un 'capo'"*, refirió Gonzalo Cadena, que con su novia asistieron al show gratuito, que contó con la asistencia de decenas de personas.
+
+Sin mayor preámbulo, a las 19:00 inició la presentación de Terán. Tu lugar fue el tema con el que arrancó su participación; los acordes de la Filarmónica se conjuban con las melodías de su banda que también lo acompañaba.
 
 El artista supo manifestar su emoción por participar en este tipo de encuentros, porque se demuestra *"que el arte y la cultura no solo es un tema de ciudad, o de región, sino de un país"*.
 
