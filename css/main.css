@@ -157,7 +157,7 @@ img.wide-alt {
        margin-top: 0;
        margin-bottom: 0;
        position:relative;
-       background: url(/assets/sj-19FONDO.svg) #ECEFF1;
+       background: url(//res.cloudinary.com/magnvs/image/upload/v1560031042/olskkow3bcbxg66ff2q8.svg) #ECEFF1;
        background-repeat: no-repeat;
        background-size: cover;
        background-position: center top;
@@ -205,22 +205,12 @@ img.wide-alt {
     border: none;
     margin-top: 75px;
 }
-#musmus {
-  background-image: url(//cdn.filestackcontent.com/yRcCMtfJTnKJvBaoSS86);
-  background-size: contain;
-  background-position: center top;
-  background-repeat: no-repeat;
-  background-blend-mode: multiply;
-  background-image: url(//cdn.filestackcontent.com/yRcCMtfJTnKJvBaoSS86), linear-gradient(35deg, #FFA618 0%, #E74E0F 100%);
-}
 
 .suscribe {
-  /* background-color:#131a22;*/
-  background-image: linear-gradient(to bottom, #517fa4 0%, #226691  100%);
-  color:#fff;
-  letter-spacing:2px;
+  color:#131a22;
+  letter-spacing:1px;
   margin-bottom: 0;
-  padding-top: 10px;
+  padding-top: 30px;
   padding-bottom: 20px;
 }
 
@@ -233,10 +223,11 @@ figcaption {
 }
 
 span.suscrib{
-  letter-spacing:3px;
+  color: rgba(19,26,34,.8);
+  letter-spacing:0;
   font-weight: bold;
   font-size: 1.5em;
-  line-height: 1.3em;
+  line-height: 1.7em;
 }
 
 span.suscribing{

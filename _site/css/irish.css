@@ -651,6 +651,12 @@ h2.animosa {
     overflow:hidden;
     padding: 0 0 1em 0}
 
+.site-section-board{
+		    background-color:#b8d8e1;
+		    color:#333;
+		    overflow:hidden;
+		    padding: 0 0 1em 0}
+
 .site-section-transparente{
         background-color:transparent;
         color:#333;
@@ -729,7 +735,7 @@ h2.animosa {
   html{
     font-size:14px}
 	.bg-hero {
-				min-height: 65vh;
+				min-height: 75vh;
 				background-size: contain;
 				background-position: bottom center;
 			}
@@ -780,7 +786,7 @@ h2.animosa {
 }
 @media only screen and (max-width:460px){
 	.bg-hero {
-		min-height: 70vh;
+		min-height: 75vh;
 		background-position: bottom center;
 	}
 	.grid-cell-left {
@@ -801,7 +807,9 @@ h2.animosa {
     font-size:13px}
   .bg-hero {
     min-height: 85vh;
-    background-position: bottom center;}
+    background-image: url(/assets/sj-19BRAND.svg);
+    background-position: center center;
+	}
   .grid-cell-left {
         width:100%}
   .site-section{
@@ -831,10 +839,10 @@ h2.animosa {
  }
 }
 @media only screen and (max-width:320px){
-	.bg-hero {
-		height: 90vh;
+ .bg-hero {
+		height: 100vh;
 		background-image: url(/assets/sj-19BRAND.svg);
-		background-position: bottom center;
+		background-position: center center;
 		background-repeat: no-repeat;
 	}
   .grid-cell-left {
