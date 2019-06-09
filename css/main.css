@@ -157,7 +157,7 @@ img.wide-alt {
        margin-top: 0;
        margin-bottom: 0;
        position:relative;
-       background: url(//res.cloudinary.com/magnvs/image/upload/v1560031042/olskkow3bcbxg66ff2q8.svg) #ECEFF1;
+       background: url(/assets/SJ-SNAKE.svg) #ECEFF1;
        background-repeat: no-repeat;
        background-size: cover;
        background-position: center top;
@@ -305,7 +305,7 @@ span.suscribing{
 .main { margin-top: 0;
         margin-bottom: 0;
         position:relative;
-        background: url(//res.cloudinary.com/magnvs/image/upload/v1560031042/olskkow3bcbxg66ff2q8.svg) #ECEFF1;
+        background: url(/assets/SJ-SNAKE.svg) #ECEFF1;
         background-repeat: no-repeat;
         background-size: cover;
         background-position: top center;

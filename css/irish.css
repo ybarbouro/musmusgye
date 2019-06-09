@@ -301,7 +301,6 @@ h2.league-four{
 	line-height: 2.7rem;
 }
 
-
 h2.league-five{
   font-family:"Oswald", sans-serif;
   font-weight: bold;
@@ -553,7 +552,7 @@ h2.animosa {
   }
 
   .site-nav a{
-    color:#fff;
+    color:brown;
     display:block;
     text-decoration:none;
     text-transform:uppercase
