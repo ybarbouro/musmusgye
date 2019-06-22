@@ -6,7 +6,9 @@ comment: Alexander García | El Comercio
 image: "//res.cloudinary.com/magnvs/image/upload/v1559717520/lgg2hgzfxjrcb7ryrrmv.jpg"
 ffw: Leer más
 ---
-El Museo Municipal de Guayaquil abrió oficialmente la convocatoria del 2019 de la edición 60 del certamen nacional de pintura Salón de Julio 2018 -Fundación de Guayaquil-, que repartirá premios por USD 20 000.<br /><br />Los artistas ecuatorianos y los extranjeros residentes en el país por más de dos años podrán inscribir sus propuestas –en un inicio fotos de las obras, fichas, marco referencial, entre otra documentación- hasta las 17:00 del día 24 de junio de 2019 en las oficinas del Museo Municipal, ubicadas en las calles Chile y Sucre, en el centro de Guayaquil.
+El Museo Municipal de Guayaquil abrió oficialmente la convocatoria del 2019 de la edición 60 del certamen nacional de pintura Salón de Julio 2018 -Fundación de Guayaquil-, que repartirá premios por USD 20 000.
+
+Los artistas ecuatorianos y los extranjeros residentes en el país por más de dos años podrán inscribir sus propuestas –en un inicio fotos de las obras, fichas, marco referencial, entre otra documentación- hasta las 17:00 del día 24 de junio de 2019 en las oficinas del Museo Municipal, ubicadas en las calles Chile y Sucre, en el centro de Guayaquil.
 
 Como es tradicional desde el 2003, el primer premio será de USD 10 000 y se entregarán además montos de USD 6 000 y USD 4 000 para el segundo y al tercer lugar, además tres menciones de honor sin remuneración económica.
 

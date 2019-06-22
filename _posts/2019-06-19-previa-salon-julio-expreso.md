@@ -7,9 +7,7 @@ comment: Juan Ponce Merchán | Expreso
 image: "//res.cloudinary.com/magnvs/image/upload/v1561236674/lpdrqsnktspseekzirtg.jpg"
 ffw: Leer más
 ---
-Una de las salas del Museo Municipal fue escenario, la tarde de hoy 19 de junio, de la presentación del programa especial de la sexagésima edición del Salón de Julio.
-
-Estudiantes, gestores culturales y diferentes invitados acudieron a la cita, en la que el director del museo, Víctor Hugo Arellano, destacó la importancia de este emblemático concurso que se realiza anualmente en la ciudad desde 1959.
+Una de las salas del Museo Municipal fue escenario, la tarde de hoy 19 de junio, de la presentación del programa especial de la sexagésima edición del Salón de Julio.<br /><br />Estudiantes, gestores culturales y diferentes invitados acudieron a la cita, en la que el director del museo, Víctor Hugo Arellano, destacó la importancia de este emblemático concurso que se realiza anualmente en la ciudad desde 1959.
 
 “Es un honor que después de 60 años del concurso (este) continúe. Es uno de los más antiguos por lo que es un privilegio para nosotros porque podemos tener nuevos valores y descubrir otros artistas”, dijo.
 
