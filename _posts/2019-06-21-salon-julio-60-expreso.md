@@ -42,5 +42,7 @@ Tres autores han ganado la mayor cantidad de premios: José Carreño, en tres oc
 **7. LAS EXPOSICIONES**  
 
 
-Desde ayer, se xponen en el Nahim Isaías las correspondientes a 1999 - 2008 y en el Presley Norton desde hoy se muestran las de 1989 a 1998.
+Desde ayer, se xponen en el Nahim Isaías las correspondientes a 1999 - 2008 y en el Presley Norton desde hoy se muestran las de 1989 a 1998.  
+
+
 <small>Fotografía: Cynthia Flores<br />Este artículo fue publicado en la versión impresa del diario [Expreso](//www.expreso.ec) del 21 de junio de 2019.</small>
