@@ -1,6 +1,6 @@
 ---
 title: Exposición restrospectiva de Manuel Jara
-listing-priority: 1
+listing-priority: 39
 image: "//res.cloudinary.com/magnvs/image/upload/v1559664114/Jara-2_okvihe.jpg"
 ---
 Manuel Jara Vanegas, artista plástico nacido en Gualaceo, provincia del Azuay, desde muy joven viaja a la ciudad de Guayaquil, cautivado por este puerto costeño decide radicarse;  ingresa a estudiar en la Escuela de Bellas Artes de Guayaquil. De esta manera comienza una  larga trayectoria, 50 años plasmando en el lienzo diversos paisajes de nuestro país.  
