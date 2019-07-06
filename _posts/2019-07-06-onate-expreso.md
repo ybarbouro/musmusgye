@@ -2,7 +2,7 @@
 layout: post
 title: Una muestra pictórica retrata los 'colores y formas andinas'
 subtitle: Son 28 0bras donde también resaltan figuras antropomorfas
-date: 2019-06-06 12:00:00
+date: 2019-07-06 12:00:00
 comment: JPM | Expreso
 image: "//res.cloudinary.com/magnvs/image/upload/v1562429436/qefxfmvkhv5yqctaylyn.jpg"
 ffw: Leer más
