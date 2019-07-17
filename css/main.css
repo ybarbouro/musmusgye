@@ -382,7 +382,12 @@ padding-bottom: 4em;
 
 .premiere-b {
   position: relative;
-  background-color: rgba(43,86,118,1);
+  background-color: #131A22;
+  color:#ccc;
+}
+
+.premiere-b h3 {
+   color: #fff;
 }
 
 .premiere-c {
