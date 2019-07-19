@@ -86,7 +86,7 @@ textarea {
     padding: 0.2em 0;
 }
 /* ==========================================================================
-  jumo
+  jum + tca img
    ========================================================================== */
    .con-jump {
      transition: all 0.3s ease-in-out;
@@ -112,6 +112,15 @@ textarea {
    }
 
    .top:hover {transform: translateY(-10px);
+   }
+
+  img.tca {
+     max-width: 250px;
+     transition: all ease-in-out .4s;
+   }
+   img.tca:hover {
+     -webkit-filter: opacity(0.5);
+     filter: opacity(0.5);
    }
 
 /* ==========================================================================
