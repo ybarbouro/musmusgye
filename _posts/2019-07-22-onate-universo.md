@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Mario Oñate hace tributo a sus raìces latinoamericanas
+title: Mario Oñate hace tributo a sus raíces latinoamericanas
 date: 2019-07-22 03:00:00
 comment: Cultura | El Universo
 image: "//res.cloudinary.com/magnvs/image/upload/v1563787338/zh15penne4q9q9eynen0.jpg"
 ffw: Leer más
 ---
-Hasta el próximo sábado 27 de julio se exhibirá la exposición de pintura Colores y formas en el mundo andino del artista ecuatoriano Mario Oñate, en el Museo Municipal de Guayaquil.
-
-La exhibición muestra alrededor de 20 piezas realizadas en técnicas variadas como acuarela, grafito, tinta china, carboncillo, acrílico, óleo y muestras de grabado en serigrafía artística, a través de las cuales el artista logró un acercamiento a las obras clásicas, especialmente al arte español.
+Hasta el próximo sábado 27 de julio se exhibirá la exposición de pintura Colores y formas en el mundo andino del artista ecuatoriano Mario Oñate, en el Museo Municipal de Guayaquil.<br /><br />La exhibición muestra alrededor de 20 piezas realizadas en técnicas variadas como acuarela, grafito, tinta china, carboncillo, acrílico, óleo y muestras de grabado en serigrafía artística, a través de las cuales el artista logró un acercamiento a las obras clásicas, especialmente al arte español.
 
 El trabajo pictórico de Mario Oñate está teñido de un tono poético. La imagen de cada pieza está construida desde la textura, el color, el clima que percibe en su trabajo. En cada pintura el artista habla de la imaginación y un mundo interior que no excluye sus orígenes y su amor por la tierra que lo vio nacer.
 
