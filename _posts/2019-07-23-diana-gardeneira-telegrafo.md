@@ -6,10 +6,7 @@ comment: Redacción Cultura | El Telégrafo
 image: "//res.cloudinary.com/magnvs/image/upload/v1563980363/navas_xk6tss.jpg"
 ffw: Leer más  
 ---
-La artista guayaquileña-costarricense Diana Gardeneira ganó el primer lugar de la edición 60 del Salón de Julio, con la obra "Cojuda, acepta mi halago". <br /><br />Gardeneira es la sexta mujer en sesenta años en recibir esta distinción, que entrega $ 10.000 al primer lugar. Además de Gardeneira han ganado y recibido menciones de honor en el Salón solo ocho mujeres. Entre ellas se encuentran Hellen Constante, Mariela García, Gabriela Chérrez, Mayra Silva y Mónica López Gordillo.<br /><br />La propuesta de Gardeneira dialoga con insultos que reciben las mujeres en las calles para construir armaduras sobre cómo se piensa la ropa, como una excusa para que la mujer evite el acoso femenino.  
-
-Gardeneira trabaja en este proyecto hace tres años en colaboración con mujeres abusadas.  
-Después de recabar cifras, de hacer su propia encuesta, de contar los bustos de mujeres representadas en la ciudad se propuso visibilizar la violencia.  
+La artista guayaquileña-costarricense Diana Gardeneira ganó el primer lugar de la edición 60 del Salón de Julio, con la obra "Cojuda, acepta mi halago". <br /><br />Gardeneira es la sexta mujer en sesenta años en recibir esta distinción, que entrega $ 10.000 al primer lugar. Además de Gardeneira han ganado y recibido menciones de honor en el Salón solo ocho mujeres. Entre ellas se encuentran Hellen Constante, Mariela García, Gabriela Chérrez, Mayra Silva y Mónica López Gordillo.<br /><br />La propuesta de Gardeneira dialoga con insultos que reciben las mujeres en las calles para construir armaduras sobre cómo se piensa la ropa, como una excusa para que la mujer evite el acoso femenino. <br /><br />Gardeneira trabaja en este proyecto hace tres años en colaboración con mujeres abusadas. Después de recabar cifras, de hacer su propia encuesta, de contar los bustos de mujeres representadas en la ciudad se propuso visibilizar la violencia.  
 
 Tomó la ropa, aquel símbolo que define una identidad femenina en la mayoría de los casos y un elemento con el que también se culpa a quienes reciben piropos en la calle con ideas como “si no quiere que la miren, no se ponga esa minifalda”.  
 
