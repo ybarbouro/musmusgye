@@ -130,6 +130,10 @@ body {
   overflow-x: hidden;
 }
 
+.quickie {
+  column-count: 3;
+}
+
 img.wide {
   max-width: 100%;
 }
@@ -345,6 +349,10 @@ span.suscribing{
   .astro::before {
     display:none;
   }
+   
+  .quickie {
+  column-count: 1;
+} 
 
 }
 
