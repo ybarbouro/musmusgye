@@ -1122,7 +1122,6 @@ div.premiere-kaki {
         }
         .info3 {
           grid-column: 3 / 4;
-          border-left: 1px solid rgba(102,119,136,.2);
         }
         .info3 img{
           width: 100%;
