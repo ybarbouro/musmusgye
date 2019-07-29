@@ -91,6 +91,7 @@ textarea {
    ========================================================================== */
 .notes {
   margin-top: 5%;
+  margin-bottom: 10px; 
   padding-left: 20px!important;
   padding-right: 20px;
   background-color: rgba(207,217,223,.7);
@@ -157,6 +158,7 @@ textarea {
   padding-right: 10px;
   background-color: rgba(207,217,223,.7);
   border-radius: 0;
+  margin-bottom: 0; 
 } 
  .notes h2  {
   margin: 1.3rem 0;
