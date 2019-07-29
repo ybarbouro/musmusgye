@@ -152,7 +152,7 @@ textarea {
   .notes-bg {min-height: 210px;
   }
   .notes {
-  margin-top: 5%;
+  margin-top: 0;
   padding-left: 7px!important;
   padding-right: 7px;
   background-color: rgba(207,217,223,.7);
@@ -166,7 +166,7 @@ textarea {
  .notese {
   margin-top: 0;
   margin-left: 1vw;
-  padding-top: 10vh;
+  padding-top: 5vh;
   padding-right: 7px;
 }
 
@@ -177,7 +177,7 @@ textarea {
   color: var(--vino);
   letter-spacing: 0;
   line-height: 3.3rem;
-  text-align: right;
+  text-align: left;
   text-shadow:2px 2px 0 #000;
 }
 
