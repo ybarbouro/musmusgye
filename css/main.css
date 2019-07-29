@@ -151,6 +151,37 @@ textarea {
 @media screen and (max-width: 370px){
   .notes-bg {min-height: 210px;
   }
+  .notes {
+  margin-top: 5%;
+  padding-left: 7px!important;
+  padding-right: 7px;
+  background-color: rgba(207,217,223,.7);
+  border-radius: 0;
+} 
+ .notes h2  {
+  margin: 1.3rem 0;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+ .notese {
+  margin-top: 0;
+  margin-left: 1vw;
+  padding-top: 10vh;
+  padding-right: 7px;
+}
+
+.notese h1  {
+  font-family:"Akkurat", sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+  color: var(--vino);
+  letter-spacing: 0;
+  line-height: 3.3rem;
+  text-align: right;
+  text-shadow:2px 2px 0 #000;
+}
+
+
 }
 
 /* ==========================================================================
