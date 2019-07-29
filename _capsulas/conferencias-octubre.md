@@ -13,4 +13,4 @@ ext-url: "/capsulas/"
 
 En homenaje a la Fundación de Guayaquil, el Museo Municipal de Guayaquil invita a la sexagésima edición del Salón de Julio.
 
-Abierta hasta el 25 de agosto de 2019.
+**Abierta hasta el 25 de agosto de 2019.**
