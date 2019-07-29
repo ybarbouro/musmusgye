@@ -85,6 +85,74 @@ textarea {
     color: #000;
     padding: 0.2em 0;
 }
+
+/* ==========================================================================
+  notes
+   ========================================================================== */
+.notes {
+  margin-top: 5%;
+  padding-left: 20px!important;
+  padding-right: 20px;
+  background-color: rgba(207,217,223,.7);
+  border-radius: 4px;
+}
+
+.notes h2  {
+  font-family: "Oswald", sans-serif;
+  margin: 1.3rem 0;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.notese {
+  margin-top: 10%;
+  margin-left: 1vw;
+  padding-top: 10vh;
+  padding-right: 10px;
+}
+
+.notese h1  {
+  font-family:"Akkurat", sans-serif;
+  font-weight: bold;
+  font-size: 4.3rem;
+  color: var(--vino);
+  letter-spacing: 1px;
+  line-height: 4.3rem;
+  text-align: right;
+  text-shadow:2px 2px 0 #000;
+}
+
+.notes img {
+  border-radius: 4px;
+}
+
+.notes-bg {
+  background-color: #f8f8f8;
+  background-image: url(//res.cloudinary.com/magnvs/image/upload/v1564368906/qagjstio84rhnpsmdph1.jpg);
+  background-size: cover;
+  width: 100%;
+  min-height: 1000px;
+}
+
+@media screen and (max-width: 1500px){
+  .notes-bg {min-height: 800px
+  }
+}
+@media screen and (max-width: 720px){
+  .notes-bg {min-height: 500px;
+  }
+  .notes h2 { max-width: 83%;
+  }
+}
+@media screen and (max-width: 420px){
+  .notes-bg {min-height: 375px
+  }
+}
+@media screen and (max-width: 370px){
+  .notes-bg {min-height: 210px;
+  }
+}
+
 /* ==========================================================================
   jum + tca img
    ========================================================================== */
@@ -128,10 +196,6 @@ textarea {
    ========================================================================== */
 body {
   overflow-x: hidden;
-}
-
-.quickie {
-  column-count: 3;
 }
 
 img.wide {
@@ -349,10 +413,6 @@ span.suscribing{
   .astro::before {
     display:none;
   }
-
-  .quickie {
-  column-count: 1;
-}
 
 }
 
