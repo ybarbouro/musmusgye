@@ -131,15 +131,15 @@ textarea {
   background-image: url(//res.cloudinary.com/magnvs/image/upload/v1564368906/qagjstio84rhnpsmdph1.jpg);
   background-size: cover;
   width: 100%;
-  min-height: 1000px;
+  min-height: 1200px;
 }
 
 @media screen and (max-width: 1500px){
-  .notes-bg {min-height: 800px
+  .notes-bg {min-height: 1000px
   }
 }
 @media screen and (max-width: 720px){
-  .notes-bg {min-height: 500px;
+  .notes-bg {min-height: 700px;
   }
   .notes h2 { max-width: 83%;
   }
