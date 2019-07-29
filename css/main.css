@@ -153,8 +153,8 @@ textarea {
   }
   .notes {
   margin-top: 0;
-  padding-left: 7px!important;
-  padding-right: 7px;
+  padding-left: 10px!important;
+  padding-right: 10px;
   background-color: rgba(207,217,223,.7);
   border-radius: 0;
 } 
