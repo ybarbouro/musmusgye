@@ -1,6 +1,6 @@
 ---
 layout: post
-title: El buen arte tienen que ser tóxico
+title: El buen arte tiene que ser tóxico
 date: 2019-07-28 00:00:00
 comment: Alexander García | El Comercio
 image: "https://res.cloudinary.com/magnvs/image/upload/v1564428815/pacurucu_pblobf.jpg"
