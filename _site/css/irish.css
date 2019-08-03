@@ -341,7 +341,6 @@ h2.league-light{
   font-size: 2.3rem;
   color: rgba(255,255,255,.7);
 	line-height: 2.7rem;
-	margin-bottom: 2em;
 }
 
 h3.league-gray{
@@ -349,15 +348,14 @@ h3.league-gray{
   font-weight: 400;
   font-size: 1.5rem;
   color: #778899;
-	line-height: 1.9rem;
-	margin-bottom: 2em;
+  line-height: 1.9rem;
 }
 
 h2.league-blue {
   font-family:"Oswald", sans-serif;
   font-weight: 400;
   font-size: 2.7rem;
-  color: rgba(36,57,73,1);
+  color: #226691;
   letter-spacing: 1px;
   line-height: 3rem;
 }
@@ -651,7 +649,10 @@ h2.animosa {
     padding: 0 0 1em 0}
 
 .site-section-board{
-		    background-color:#b8d8e1;
+				background-image: url(/assets/blue.svg), radial-gradient(#F6FBFF 50%, #93a5cf 100%);
+				background-size: 100% 100%;
+				background-blend-mode:soft-light;
+				background-position: center top;
 		    color:#333;
 		    overflow:hidden;
 		    padding: 0 0 1em 0}
