@@ -1,25 +1,29 @@
 ---
-title: Artes plásticas en el Museo Municipal de Guayaquil
-subtitle: Marzo a mayo del 2019
-day: 14
-month: MARZO
-time: 18H30
-place: Salas del Museo Municipal de Guayaquil
-listing-priority: 99
+title: Artes plásticas e Historia en el Museo Municipal Guayaquil
+subtitle: Agosto del 2019
+listing-priority: 98
 ---
 
-![Sin título. Omar Medrano](//res.cloudinary.com/magnvs/image/upload/v1551385069/medrano_ox0i4i.jpg)  
+![Gardeneira y Falconí](//res.cloudinary.com/magnvs/image/upload/v1565154481/iirj5n5r8iqk5j3hieyd.jpg)
 
-El **14 de marzo**, coincidiendo con el mes de la mujer, en las salas del Museo Municipal se inaugura la muestra **"UNA MIRADA PARA MIRAR DE NUEVO"**, propuesta pictórica del colectivo artístico femenino del Austro "Barranco", conformado por 14 artistas tales como Alicia Abad, Isabel Astudillo, Miriam Cárdenas, Rosalía Cordero, Lídice Correa, Lourdes Hurtado, Carolina Larriva, entre otras. 
+![Gardeneira y Falconí](//res.cloudinary.com/magnvs/image/upload/v1565154509/ri0teja7feakekfiz16f.jpg)
 
-Para el mes de abril, el Museo Municipal presenta **"GUAYAQUIL MASÓNICO"**, exposición pictórica del investigador y artista plástico *Fernando Insua*, la cual es el resultado de más de 2 años de investigación sobre simbología masónica y la vinculación histórica del puerto principal con personajes y momentos de su historia. La exposición comprende doce obras de gran formato donde el artista utiliza técnicas mixtas en oro y plata laminada con acierto cromático. Se inaugurará el dia **miércoles 3 de abril**. 
+### Aniversario de Iniciativas Culturales GYE
 
-En mayo, con 50 años de connotada labor artística, el maestro  *Velasteguí*, nos sigue asombrando con nuevos proyectos y propuestas. Este año nos presenta su más reciente producción escultórica, en ella se pueden evidenciar seis técnicas escultóricas con mármol, granito, cuarzo, madera petrificada, madera antigua y material rescatado. **"50 AÑOS - 50 OBRAS"**. 
+El pasado sábado **3 de agosto**, en la sala de Arte Contemporáneo del Museo Municipal, se realizó un conversatorio abierto al público en general con **Diana Gardeneira**; la artista expuso el marco referencial de su obra "Cojuda, acepta mi halago", pintura ganadora de la sexagésima edición del Salón de Julio.
 
-Mayo también nos trae **"SOBRENATURAL"**, título de la exposición del artista *Omar Medrano* y que estará compuesta por 24 óleos sobre lienzo. Medrano, pintor autodidacta y sociólogo de profesión, con más de dos décadas de labor artística, afirma que *“Las obras parten de una riqueza espiritual que experimento hoy en día con base en lecturas bíblicas”*.
+Esta actividad se realizó para conmemorar el aniversario de **"Iniciativas Culturales GYE"**, la licenciada Lorena Falconí coordinó y también participó en el evento.
 
-El martes 14 de mayo, a las 11h00 en el marco de la celebración del *Día Internacional de los Museos*, tanto el escultor Manuel Velasteguí, así como el pintor Omar Medrano estarán en el Museo Municipal realizando un recorrido especial para el público asistente, comentarán sobre sus obras, sus técnicas y procedimientos artísticos y algunas anécdotas personales relacionadas con su trabajo.
+La obra de Diana Gardeneira estará expuesta en el Museo Municipal de Guayaquil hasta este 25 de agosto.
 
-La entrada a todas las exposiciones y eventos es gratuita.  
+### Director de Cultura ofrece charla sobre la historia de Guayaquil a las candidatas a Reina de Guayaquil
 
-<small><b>Imagen:</b> Óleo sin título del pintor Omar Medrano</small>
+Del Museo Municipal pasamos a la Biblioteca Municipal, donde el día martes **3 de agosto** se llevó a cabo una charla didáctica sobre la historia de Guayaquil dirigida a las candidatas a reina de Guayaquil.
+
+![Arq. Hoyos y candidatas a reina](//res.cloudinary.com/magnvs/image/upload/v1565154551/mghahze2hsc2jhml5ptt.jpg)
+
+El arquitecto **Melvin Hoyos**, Director de Cultura del M. I. Municipio de Guayaquil, ofreció una emocionante y cautivadora conversación sobre temas históricos con las 16 candidatas a la corona de belleza guayaquileña; el historiador trató varios tópicos como la Fundación hispana, los hechos relevantes del período virreinal y  la Independencia de Guayaquil, entre otros.
+
+La entrada a todas las exposiciones y eventos es gratuita.
+
+<small><b>Imágenes:</b> Cortesía</small>
