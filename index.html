@@ -58,6 +58,7 @@ nav-area: home
       <ul style="list-style-type:none">
         {% for post in site.posts offset: 7 limit: 6 %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        <p><small>{{ post.date }}</small></p>
         {% endfor %}
       </ul>
     </div>
