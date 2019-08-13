@@ -1327,7 +1327,7 @@ div.premiere-kaki {
         background:#F6FBFF;
       }
       .figure3 img {
-        opacity: .8;
+        opacity: 1;
         -webkit-transition: .3s ease-in-out;
         transition: .3 ease-in-out;
       }
@@ -1351,7 +1351,7 @@ div.premiere-kaki {
 
       .info2 {
         padding: 40px;
-        background-color: #e76a00;
+        background-color:orange;
         color: #fff;
       }
 
