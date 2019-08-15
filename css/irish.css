@@ -815,8 +815,8 @@ h2.animosa {
     background-position: center center;
 	}
 	.site-section-video{
+			background-image: none;
 			background-color:#131a22;
-			background-position: left top;
 	}
   .grid-cell-left {
         width:100%}
