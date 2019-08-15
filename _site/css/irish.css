@@ -665,7 +665,10 @@ h2.animosa {
         padding:2em 0 1em}
 
 .site-section-video{
-  background-color: #131a22;
+	background-image: url(/assets/Doubs.svg), linear-gradient(to left, #131a22 100%, #131a99 0%);
+	background-size:cover;
+	background-blend-mode:normal; 
+	background-position: right top;
   color:#fff;
   text-align:center;
 }
