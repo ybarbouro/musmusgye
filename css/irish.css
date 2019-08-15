@@ -814,6 +814,10 @@ h2.animosa {
     background-image: url(/assets/sj-19BRAND.svg);
     background-position: center center;
 	}
+	.site-section-video{
+			background-color:#131a22;
+			background-position: left top;
+	}
   .grid-cell-left {
         width:100%}
   .site-section{
@@ -855,10 +859,6 @@ h2.animosa {
 	.site-section{
 			     padding:2.7em 1em 4em
 				 }
-	.site-section-video{
-			background-color:#131a22;
-			background-position: center top;
-	}
 }
 @media print{
   *{
