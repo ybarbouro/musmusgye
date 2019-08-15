@@ -850,11 +850,13 @@ h2.animosa {
 		background-repeat: no-repeat;
 	}
   .grid-cell-left {
-          width:100%}
+          width:100%
+				}
 	.site-section{
-			     padding:2.7em 1em 4em}
+			     padding:2.7em 1em 4em
+				 }
 	.site-section-video{
-			background-blend-mode:normal;
+			background-color:#131a22;
 			background-position: center top;
 	}
 }
