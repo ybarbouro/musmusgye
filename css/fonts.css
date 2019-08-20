@@ -41,6 +41,6 @@ h2.breathing_small {
 
 @media screen and (max-width: 360px){
   h2.breathing_small {
-  	font-size: 33vw;
+  	font-size: 6vw;
   }
 }
