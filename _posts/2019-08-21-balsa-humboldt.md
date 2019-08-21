@@ -7,7 +7,10 @@ comment: Eva Acosta | Metro
 image: "//res.cloudinary.com/magnvs/image/upload/v1566398188/balsa-builders_dnlgpd.jpg"
 ffw: Leer más  
 ---
-**El 5 de septiembre la balsa llega al Parque Histórico de Guayaquil. Realizarán un recorrido similar al que hizo el investigador Alexander Von Humboldt por el río Daule.**<br/>El proyecto educativo-cultural “Balsa de Humboldt” pretende alentar la navegabilidad por los ríos ecuatorianos mediante la recreación de la balsa con la que Alexander Von Humboldt recorrió el río Daule.<br/>Cuenta con el apoyo de la Fundación Garza Roja, Astinave EP, la Empresa de Turismo del Municipio de Guayaquil y la Armada del Ecuador, con el fin de reconstruir la icónica balsa de Humboldt,  en coincidencia con el 250 aniversario del natalicio de ese investigador.
+**El 5 de septiembre la balsa llega al Parque Histórico de Guayaquil. Realizarán un recorrido similar al que hizo el investigador Alexander Von Humboldt por el río Daule.**<br/><br/>Cuenta con el apoyo de la Fundación Garza Roja, Astinave EP, la Empresa de Turismo del Municipio de Guayaquil y la Armada del Ecuador, con el fin de reconstruir la icónica balsa de Humboldt, en coincidencia con el 250 aniversario del natalicio de ese investigador.  
+
+El proyecto educativo-cultural “Balsa de Humboldt” pretende alentar la navegabilidad por los ríos ecuatorianos mediante la recreación de la balsa con la que Alexander Von Humboldt recorrió el río Daule.  
+
 “El proyecto es una conexión metafísica de respetar el río, de cuidar sus riveras”, así lo describe Ramón Sonnenholzner, de la Fundación Garza Roja.
 
 **Rescatando tradiciones**  
