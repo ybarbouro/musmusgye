@@ -5,10 +5,10 @@ title: CONCURSO DE DECLAMACIÓN
 featured: false
 featured-priority: 4
 listing-priority: 4
-dates: 3 y 4 de noviembre
-place: Malecón 2000. Ágora 1 (A la altura de la calle Illingworth)
+dates: 12 y 13 de octubre
+place: Expanada de La Bota, Malecón del Salado.
 ---
-El concurso se desarrollará en el Ágora 1 del Malecón 2000 (Calle Illingworth) los días sábado 03 y domingo 04 de noviembre del 2018 de 13h00 a 15h00 y se llevará a cabo el concurso de acuerdo a las siguientes bases:
+El concurso se desarrollará en el Malecón del Salado explanada de La Bota (Calle 9 de octubre), los días sábado 12 y domingo 13 de octubre del 2019, de 13h00 a 15h00, y se llevará a cabo el concurso de acuerdo a las siguientes bases:
 
 ### SOBRE LOS PARTICIPANTES
 
@@ -30,7 +30,7 @@ Los organizadores informarán con anticipación la hora, el lugar y el día de p
 
 ### SOBRE LA PARTICIPACIÓN
 
-Deberán declamar el texto escogido o creado, de manera pública. Podrán escoger textos de autores nacionales o internacionales, así como ser de autoría del narrador. El tema es libre.
+Deberán declamar el texto escogido o creado, de manera pública. Podrán escoger textos de autores nacionales o internacionales, así como ser de autoría del narrador.
 
 Los textos serán obligatoriamente en idioma español y pertenecer a la literatura ecuatoriana y/o latinoamericana, sea en prosa o en verso.
 
@@ -40,7 +40,9 @@ En caso de usarse efectos de sonido en la obra, el artista o representante deber
 
 ### SOBRE LA DOCUMENTACIÓN
 
-Los participantes deberán inscribirse hasta las 17h00 del jueves 27 de septiembre de 2018, digitalmente en [www.museoarteyciudad.com](https://www.museoarteyciudad.com/faal) o en las oficinas del Museo Municipal (Sucre entre Chile y Pedro Carbo) entregando la siguiente documentación:
+Los participantes deberán inscribirse hasta las 17h00 del jueves 20 de septiembre de 2019, digitalmente en [www.museoarteyciudad.com](https://www.museoarteyciudad.com/faal) y entregando los documentos necesarios en las oficinas del Museo Municipal (Sucre entre Chile y Pedro Carbo). Únicamente el registro será efectivo cuando se haya realizado la inscripción en los dos formatos anteriormente mencionados, digital y físico.
+
+Entregando la siguiente documentación:
 
 **Mayores de edad:**
 
@@ -75,4 +77,4 @@ El premio M.I. Municipalidad de Guayaquil corresponde a US$ 1.000,00 (un mil dó
 
 Se consideran menciones de honor MUNICIPALIDAD DE GUAYAQUIL, según el criterio del jurado.
 
-La participación implica aceptar todas las bases anteriormente expuestas. En caso de algún contratiempo, de diversa índole que afecte la seriedad y organización del XIX Festival de Artes en Presencia y al Aire Libre - 2018, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura lo resolverá.
+La participación implica aceptar todas las bases anteriormente expuestas. En caso de algún contratiempo, de diversa índole que afecte la seriedad y organización del XX Festival de Artes en Presencia y al Aire Libre - 2019, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura lo resolverá.

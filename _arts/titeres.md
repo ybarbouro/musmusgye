@@ -5,10 +5,10 @@ title: CONCURSO DE TÍTERES
 featured: false
 featured-priority: 5
 listing-priority: 5
-dates: 3 y 4 de noviembre
+dates: 12 y 13 de octubre
 place: Malecón 2000. Ágora 1 (A la altura de la calle Illingworth)
 ---
-El concurso tendrá temática libre y se desarrollará en el Ágora 1 del Malecón 2000 (Calle Illingworth) y se llevará a cabo los días sábado 03 y domingo 04 de noviembre del 2018 de 10h00 a 12h00 de acuerdo con los siguientes aspectos:
+El concurso tendrá temática libre y se desarrollará en el Ágora 1 del Malecón 2000 (Calle Illingworth) y se llevará a cabo los días sábado 12 y domingo 13 de octubre del 2019 de 10h00 a 12h00 de acuerdo con los siguientes aspectos:
 
 ### SOBRE LOS PARTICIPANTES
 
@@ -42,7 +42,7 @@ En caso de usar efectos de sonido en la obra, el artista o representante deberá
 
 ### SOBRE LA DOCUMENTACIÓN
 
-Los participantes deberán inscribirse hasta las 17h00 del jueves 27 de septiembre de 2018, digitalmente en [www.museoarteyciudad.com](https://museoarteyciudad.com/faal) o en las oficinas del Museo Municipal (Sucre entre Chile y Pedro Carbo) entregando la siguiente documentación:
+Los participantes deberán inscribirse hasta las 17h00 del viernes 20 de septiembre de 2019, digitalmente en [www.museoarteyciudad.com](https://museoarteyciudad.com/faal) o en las oficinas del Museo Municipal (Sucre entre Chile y Pedro Carbo) entregando la siguiente documentación:
 
 1. Ficha de inscripción con los datos personales del artista o del responsable del grupo concursante y detalles de la obra a presentarse.
 1. Copia de cédula del artista y de cada uno de los participantes en caso de ser agrupación.
@@ -68,4 +68,4 @@ El jurado de selección y premiación estará integrado por profesionales que ca
 
 El premio M.I. Municipalidad de Guayaquil corresponde a US$ 1.000,00 (un mil dólares de los Estados Unidos de Norteamérica) que serán entregados al artista o agrupación ganadora de la categoría. Se consideran menciones de honor MUNICIPALIDAD DE GUAYAQUIL, según el criterio del jurado.
 
-La participación implica aceptar todas las bases anteriormente expuestas. En caso de algún contratiempo, de diversa índole que afecte la seriedad y organización del XIX Festival de Artes en Presencia y al Aire Libre - 2018, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura lo resolverá.
+La participación implica aceptar todas las bases anteriormente expuestas. En caso de algún contratiempo, de diversa índole que afecte la seriedad y organización del XX Festival de Artes en Presencia y al Aire Libre - 2019, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura lo resolverá.

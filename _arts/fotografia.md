@@ -5,10 +5,10 @@ title: CONCURSO DE FOTOGRAFÍA
 featured: false
 featured-priority: 7
 listing-priority: 7
-dates: 27 y 28 de octubre
-place: Ágora 2 del Malecón 2000 (Calle Aguirre).
+dates: 05 y 06 de octubre
+place: Explanada de La Bota, Malecón del Salado.
 ---
-Este año el concurso de Fotografía tendrá como temática “Guayaquil en rostros”. El concurso se desarrollará en el Ágora 2 del Malecón 2000 (Calle Aguirre) los días sábado 27 y domingo 28 de octubre de 2018 de 19h00 a 20h00 y se realizará según los siguientes aspectos:
+Este año el concurso de Fotografía tendrá como temática “Guayaquil en rostros”. El concurso se desarrollará en el Malecón del Salado explanada de La Bota (Calle 9 de octubre), los días sábado 05 y domingo 06 de octubre de 2019 de 19h00 a 20h00 y se realizará según los siguientes aspectos:
 
 ### SOBRE LOS PARTICIPANTES
 
@@ -38,7 +38,9 @@ La presente edición tendrá como temática única el “Guayaquil en rostros”
 
 ### SOBRE LA DOCUMENTACIÓN
 
-Los participantes deberán inscribirse hasta las 17h00 del jueves 27 de septiembre de 2018, digitalmente en [www.museoarteyciudad.com](https://www.museoaarteyciudad.com/faal) o en las oficinas del Museo Municipal (Sucre entre Chile y Pedro Carbo) entregando la siguiente documentación:
+Los participantes deberán inscribirse hasta las 17h00 del viernes 20 de septiembre de 2019, digitalmente en [www.museoarteyciudad.com](https://www.museoaarteyciudad.com/faal) y entregando los documentos necesarios en las oficinas del Museo Municipal (Sucre entre Chile y Pedro Carbo). Únicamente el registro será efectivo cuando se haya realizado la inscripción en los dos formatos anteriormente mencionados, digital y físico.
+
+Entregando la siguiente documentación:
 
 **Mayores de edad:**
 
@@ -75,4 +77,4 @@ El premio M.I. Municipalidad de Guayaquil corresponde a US$ 1.000,00 (un mil dó
 
 Se consideran menciones de honor MUNICIPALIDAD DE GUAYAQUIL, según el criterio del jurado.
 
-La participación implica aceptar todas las bases anteriormente expuestas. En caso de algún contratiempo, de diversa índole que afecte la seriedad y organización del XIX Festival de Artes en Presencia y al Aire Libre – 2018, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura lo resolverá.
+La participación implica aceptar todas las bases anteriormente expuestas. En caso de algún contratiempo, de diversa índole que afecte la seriedad y organización del XX Festival de Artes en Presencia y al Aire Libre – 2019, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura lo resolverá.

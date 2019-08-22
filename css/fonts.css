@@ -10,37 +10,3 @@
   src:url('Akkurat.otf') format('opentype');
   font-weight:bold;
 }
-
-h2.breathing {
-	color: #1a1a1a;
-  font-family: "Inter var", sans-serif;
-  font-weight: 100;
-	font-size: 4vw;
-  line-height: .1;
-	font-variation-settings: 'wght' 100, 'wdth' 85;
-	animation: breathe 4000ms infinite forwards;
-}
-h2.breathing_small {
-	color: #1a1a1a;
-  font-family: "Inter var", sans-serif;
-  font-weight: 100;
-	font-size: 2vw;
-	font-variation-settings: 'wght' 100, 'wdth' 85;
-	animation: breathe 4000ms infinite forwards;
-}
-
-@keyframes breathe {
-	60% {
-		font-variation-settings: 'wght' 700, 'wdth' 100;
-	}
-
-	100% {
-		font-variation-settings: 'wght' 100, 'wdth' 85;
-	}
-}
-
-@media only screen and (max-width: 360px){
-  h2.breathing_small {
-  	font-size: 6vw;
-  }
-}

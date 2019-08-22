@@ -5,10 +5,10 @@ title: CONCURSO DE TEATRO
 featured: false
 featured-priority: 6
 listing-priority: 6
-dates: 3 - 5 de noviembre
-place: Malecón 2000. Ágora 1 (A la altura de la calle Illingworth)
+dates: 12 y 13 de octubre
+place: Expalnada de La Bota, Malecón del Salado.
 ---
-Este año el concurso será en el género “Teatro de Calle”, tendrá temática libre y se desarrollará de acuerdo con los siguientes aspectos:
+El concurso se desarrollará los días sábado 12 y domingo 13 de octubre del 2019 en el Malecón del Salado explanada de La Bota (Calle 9 de octubre), de 16h00 a 19h00. Tendrá como género “Teatro de Calle” y será de temática libre de acuerdo con los siguientes aspectos:
 
 ### SOBRE LOS PARTICIPANTES
 
@@ -28,7 +28,7 @@ Los organizadores informarán con anticipación la hora, el lugar y el día de p
 
 ### SOBRE LA PARTICIPACIÓN
 
-El concurso se desarrollará en Ágora 1 del Malecón 2000 (Calle Illingworth) los días sábado 03, domingo 04 y lunes 05 de noviembre de 2018 de 16h00 a 19h00.
+El concurso se desarrollará en la explanada de La Bota, Malecón del Salado (Av. 9 de Octubre) los días sábado 12 y domingo 13 de octubre de 2019 de 16h00 a 19h00.
 
 Los temas deberán ser de mínimo 15 y máximo 30 minutos.
 
@@ -44,7 +44,7 @@ En caso de usar efectos de sonido en la obra, el artista o representante deberá
 
 ### SOBRE LA DOCUMENTACIÓN
 
-Los participantes deberán inscribirse hasta las 17h00 del jueves 27 de septiembre de 2018, digitalmente en [www.museoarteyciudad.com](https://www.museoarteyciudad.com/faal) o en las oficinas del Museo Municipal (Sucre entre Chile y Pedro Carbo) entregando la siguiente documentación:
+Los participantes deberán inscribirse hasta las 17h00 del vierns 20 de septiembre de 2019, digitalmente en [www.museoarteyciudad.com](https://www.museoarteyciudad.com/faal) y en las oficinas del Museo Municipal (Sucre entre Chile y Pedro Carbo) entregando la siguiente documentación:
 
 1. Ficha de inscripción con los datos personales del artista o del responsable del grupo concursante. Además del nombre de la agrupación o integrantes, nombre de la obra y nombre del director.
 1. Copia de cédula del artista y de cada uno de los participantes.
@@ -74,4 +74,4 @@ El premio M.I. Municipalidad de Guayaquil corresponde a US$ 3.000,00 (tres mil d
 
 Se considerarán menciones de honor MUNICIPALIDAD DE GUAYAQUIL, según el criterio del jurado.
 
-La participación implica aceptar todas las bases anteriormente expuestas. En caso de algún contratiempo, de diversa índole que afecte la seriedad y organización del XIX Festival de Artes en Presencia y al Aire Libre – 2018, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura lo resolverá.
+La participación implica aceptar todas las bases anteriormente expuestas. En caso de algún contratiempo, de diversa índole que afecte la seriedad y organización del XX Festival de Artes en Presencia y al Aire Libre – 2019, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura lo resolverá.

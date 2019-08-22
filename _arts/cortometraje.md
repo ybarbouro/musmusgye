@@ -5,10 +5,10 @@ title: CONCURSO DE CORTOMETRAJE
 featured: true
 featured-priority: 8
 listing-priority: 8
-dates: 27 y 28 de octubre
-place: Ágora 2 del Malecón 2000 (Calle Aguirre)
+dates: 05 y 06 de octubre
+place: Expalnada de La Bota, Malecón del Salado
 ---
-El Concurso de Cortometraje tendrá la temática libre y se llevará a cabo en el Ágora 2 del Malecón 2000 (Calle Aguirre), los días sábado 27 y domingo 28 de octubre de 2018 de 20h00 a 21h00.
+El Concurso de Cortometraje tendrá la temática libre y se llevará a cabo en el Malecón del Salado explanada de La Bota (Calle 9 de octubre), los días sábado 05 y domingo 06 de octubre de 2019 de 20h00 a 21h00.
 
 ### SOBRE LOS PARTICIPANTES
 
@@ -30,7 +30,9 @@ Los cortometrajes deben ser inéditos, no pueden haber sido premiados anteriorme
 
 ### SOBRE LA DOCUMENTACIÓN
 
-Los participantes deberán inscribirse hasta las 17h00 del jueves 27 de septiembre de 2018, digitalmente en [www.museoarteyciudad.com](https://www.museoarteyciudad.com/faal) o en las oficinas del Museo Municipal (Sucre entre Chile y Pedro Carbo) entregando la siguiente documentación:
+Los participantes deberán inscribirse hasta las 17h00 del jueves 20 de octubre de 2019, digitalmente en [www.museoarteyciudad.com](https://www.museoarteyciudad.com/faal) y entregando los documentos necesarios en las oficinas del Museo Municipal (Sucre entre Chile y Pedro Carbo). Únicamente el registro será efectivo cuando se haya realizado la inscripción en los dos formatos anteriormente mencionados, digital y físico.
+
+Entregando la siguiente documentación: 
 
 1. Ficha de inscripción con los datos personales del director o del responsable del grupo concursante.
 1. El cortometraje deberá ser entregado en formato DVD y debe haber sido grabado en Minidv o HD, y debe de tener como tiempo máximo 20 minutos (incluidos los créditos). Si los cortometrajes no son en español, deberán contar con subtítulos en dicho idioma.
@@ -60,4 +62,4 @@ El premio M.I. Municipalidad de Guayaquil corresponde a US$ 2.000,00 (dos mil d�
 
 Se consideran menciones de honor MUNICIPALIDAD DE GUAYAQUIL, según el criterio del jurado.
 
-La participación implica aceptar todas las bases anteriormente expuestas. En caso de algún contratiempo, de diversa índole que afecte la seriedad y organización del XIX Festival de Artes en Presencia y al Aire Libre –Bicentenario de Independencia de Guayaquil- 2018, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura lo resolverá.
+La participación implica aceptar todas las bases anteriormente expuestas. En caso de algún contratiempo, de diversa índole que afecte la seriedad y organización del XX Festival de Artes en Presencia y al Aire Libre –Bicentenario de Independencia de Guayaquil- 2019, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura lo resolverá.

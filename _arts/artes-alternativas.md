@@ -5,10 +5,10 @@ title: CONCURSO DE ARTES ALTERNATIVAS
 featured: false
 featured-priority: 9
 listing-priority: 9
-dates: 27 y 28 de octubre
-place: Ágora 2 del Malecón 2000 (Calle Aguirre)
+dates: 05 y 06 de octubre
+place: Terraza de La Bota, Malecón del Salado.
 ---
-El concurso se desarrollará en el Ágora 2 del Malecón 2000 (calle Aguirre), los días sábado 27 y domingo 28 de octubre de 2018 de 10h00 a 18h00. Las propuestas se exhibirán presencialmente o documentalmente (según la factibilidad de la obra) de acuerdo con los siguientes aspectos:
+El concurso se desarrollará en el Malecón del Salado explanada de La Bota (Calle 9 de octubre), los días sábado 05 y domingo 06 de octubre de 2019 de 10h00 a 18h00. Las propuestas se exhibirán presencialmente o documentalmente (según la factibilidad de la obra) de acuerdo con los siguientes aspectos:
 
 ### SOBRE LOS PARTICIPANTES
 
@@ -26,7 +26,7 @@ El FAAL no cubrirá gastos de alojamiento, movilización ni transporte, por lo q
 
 Los organizadores informarán con anticipación la hora, el lugar y el día de participación de cada inscrito. Si algún grupo participante no se presentara al concurso el día y la hora indicada, automáticamente será descalificado.
 
-En caso de que exista negligencia en el uso del espacio como dañar las instalaciones del Malecón 2000, la Coordinación se reserva el derecho a sacar al participante del concurso.
+En caso de que exista negligencia en el uso del espacio como dañar las instalaciones del Malecón del Salado, la Coordinación se reserva el derecho a sacar al participante del concurso.
 
 Los jurados elegirán las propuestas que entran al Festival.
 
@@ -42,7 +42,7 @@ La presente edición tendrá temática libre.
 
 ### SOBRE LA DOCUMENTACIÓN
 
-Los participantes deberán inscribirse hasta las 17h00 del jueves 27 de septiembre de 2018 digitalmente en [www.museoarteyciudad.com](https://www.museoarteyciudad.com/faal) o en las oficinas del Museo Municipal (Sucre entre Chile y Pedro Carbo) entregando la siguiente documentación:
+Los participantes deberán inscribirse hasta las 17h00 del viernes 20 de septiembre de 2019 digitalmente en [www.museoarteyciudad.com](https://www.museoarteyciudad.com/faal) y entregando los documentos necesarios en las oficinas del Museo Municipal (Sucre entre Chile y Pedro Carbo). Únicamente el registro será efectivo cuando se haya realizado la inscripción en los dos formatos anteriormente mencionados, digital y físico.
 
 1. Ficha de inscripción con los datos personales del artista o del responsable del grupo concursante y detalles de la obra.
 1. Copia de cédula del inscrito y de los participantes.
@@ -60,4 +60,4 @@ El premio M.I. Municipalidad de Guayaquil corresponde a US$ 2.000,00 (dos mil d�
 
 Se consideran menciones de honor MUNICIPALIDAD DE GUAYAQUIL, según el criterio del jurado.
 
-La participación implica aceptar todas las bases anteriormente expuestas. En caso de algún contratiempo, de diversa índole que afecte la seriedad y organización del XIX Festival de Artes en Presencia y al Aire Libre – 2018, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura lo resolverá.
+La participación implica aceptar todas las bases anteriormente expuestas. En caso de algún contratiempo, de diversa índole que afecte la seriedad y organización del XX Festival de Artes en Presencia y al Aire Libre – 2019, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura lo resolverá.

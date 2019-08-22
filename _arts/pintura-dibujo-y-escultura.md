@@ -5,17 +5,17 @@ title: CONCURSO DE PINTURA, DIBUJO Y ESCULTURA
 featured: true
 featured-priority: 1
 listing-priority: 1
-dates: 26 de octubre al 5 de noviembre
-place: Malecón 2000, Paseo de los presidentes. Plaza Colón, junto a la iglesia de Sto. Domingo.
+dates: 04 al 13 de octubre
+place: Malecón 2000, Hemiciclo de la Rotonda; Plaza Colón, junto a la iglesia de Sto. Domingo.
 ---
-El Concurso de Escultura se desarrollará del 26 de octubre al 05 de noviembre del 2018 en Plaza Colón; el Concurso de Pintura del 29 de octubre al 04 de noviembre en el Paseo de los Presidentes; y el Concurso de Dibujo, del 29 al 31 de octubre en el Paseo de los Presidentes. Los Concursos de Pintura y Dibujo se desarrollarán de 10h00 a 20h00 y Escultura de 10h00 a 18h00, en las fechas y días anunciados previamente.
+El Concurso de Escultura se desarrollará del viernes 04 al domingo 13 de octubre del 2019 en Plaza Colón; el Concurso de Pintura del lunes 07 al sábado 12 de octubre del 2019 en el malecón 2000; y el Concurso de Dibujo, del lunes 07 al miércoles 09 de octubre del 2019 en el malecón 2000. Los Concursos de Pintura y Dibujo se desarrollarán de 10h00 a 20h00 y Escultura de 10h00 a 18h00, en las fechas y días anunciados previamente.
 
 ### 1.- PARTICIPANTES
 Podrán participar artistas de nacionalidad ecuatoriana, residentes en el país o en el extranjero, y/o artistas extranjeros residentes en el país por más de dos años.
 
 Para entrar a concurso deberán ser mayores de 16 años. Si el participante es menor de 18 años, deberá presentar una carta de autorización de su representante con copia de la cédula de ciudadanía del mismo.
 
-El número máximo de participantes será ciento ochenta en Pintura, veinte en Dibujo y cincuenta en Escultura.
+El número máximo de participantes será ciento ochenta en Pintura, veinte en Dibujo y treinta en Escultura.
 
 ### 2.- CARÁCTER DE LA OBRA
 Se aceptarán todas las formas, estilos y corrientes en las que sea posible expresar la creatividad, tanto en pintura como en escultura, con sus técnicas variadas y aportaciones. Sin embargo, no se permiten copias, ni obras que muestren una marcada influencia de artistas de reconocido prestigio. Para dibujo, la ilustración contará la historia de un personaje totalmente nuevo y que además sea el protagonista de la misma. Se permiten desnudos y manifestaciones de carácter erótico, sin embargo, tomando en consideración que es un festival a realizarse en plazas y lugares públicos, no se aceptarán propuestas cuyo contenido sea pornográfico, es decir obsceno.
@@ -23,7 +23,7 @@ Se aceptarán todas las formas, estilos y corrientes en las que sea posible expr
 La temática es libre.
 
 ### 3.- INSCRIPCIÓN Y PARTICIPACIÓN
-Los participantes deberán inscribirse hasta las 17h00 del jueves 27 de septiembre de 2018, digitalmente en [www.museoarteyciudad.com](https://www.museoarteyciudad.com/faal) o entregando los documentos necesarios en las oficinas del Museo Municipal (Sucre entre Chile y Pedro Carbo).
+Los participantes deberán inscribirse hasta las 17h00 del viernes 20 de septiembre de 2019, digitalmente en [www.museoarteyciudad.com](https://www.museoarteyciudad.com/faal) y entregando los documentos necesarios en las oficinas del Museo Municipal (Sucre entre Chile y Pedro Carbo). Únicamente el registro será efectivo cuando se haya realizado la inscripción en los dos formatos anteriormente mencionados, digital y físico.
 
 Los participantes podrán exponer durante el evento un máximo de 2 obras (fuera de concurso) para mostrar su técnica y estilo a los visitantes que acudan al Festival, sin embargo, debido a que se trata de un concurso, no se permitirá la comercialización de ninguna obra.
 
@@ -49,7 +49,6 @@ En el caso de extranjeros, deberán presentar soportes de prensa, fotografías q
 1. Copia de la cédula de ciudadanía del artista y del representante.
 
 
-
 **LA DOCUMENTACIÓN A ENTREGAR EN LA CATEGORÍA ESCULTURA ES:**
 
 **Mayores de edad:**
@@ -72,14 +71,14 @@ En el caso de extranjeros, deberán presentar soportes de prensa, fotografías q
 Las obras no seleccionadas, deberán ser retiradas de los sitios designados, el mismo día en que se notifique el veredicto de selección. La Fundación Malecón 2000, La Fundación Siglo XXI,  la Muy Ilustre Municipalidad de Guayaquil y el Museo Municipal, no se harán responsables de las obras que no sean retiradas por sus autores.
 
 ### 5.-  OBRAS SELECCIONADAS
-Las obras seleccionadas se trasladarán al Museo Municipal de Guayaquil únicamente el jueves 11 de octubre para su exposición, hasta el sábado 17 de noviembre.
+Las obras seleccionadas de pintura se trasladarán al Museo Municipal de Guayaquil únicamente el sábado 12 de octubre, las esculturas el día domingo 13 de octubre y dibujo el miércoles 09 de octubre del 2019. La exposición será del lunes 21 de octubre hasta el jueves 21 de noviembre.
 
-Las obras seleccionadas no premiadas, serán devueltas una vez efectuado el cierre de la exposición. Transcurrido el mes a partir de esa fecha, es decir, hasta el viernes 17 de diciembre de 2018, el Museo Municipal dispondrá de ellas, según su propio criterio.
+Las obras seleccionadas no premiadas, serán devueltas una vez efectuado el cierre de la exposición. Transcurrido el mes a partir de esa fecha, es decir, hasta el sábado 21 de diciembre de 2019, el Museo Municipal dispondrá de ellas, según su propio criterio.
 
 ### 6.- TIEMPO DE TRABAJO
 Los participantes de Escultura deberán comenzar a trabajar una vez que un delegado de la Dirección de Cultura haya inspeccionado que no existan obras pre-trabajadas antes de iniciar el concurso.
 
-Los artistas que participen en el género Pintura deberán trabajar a partir del viernes 05 de octubre de 2018, una vez que un delegado de la Dirección de Cultura haya sellado los lienzos en blanco. Las obras pictóricas, escultóricas y de dibujo deberán estar terminadas hasta las 12h30 del jueves 11 de octubre de 2018.
+Los artistas que participen en el género Pintura deberán trabajar a partir del lunes 07 de octubre de 2019, una vez que un delegado de la Dirección de Cultura haya sellado los lienzos en blanco. Las obras pictóricas deberán estar terminadas hasta las 12h30 del sábado 12 de octubre, las escultóricas hasta las 12:30 del domingo 13 de octubre y dibujo hasta las 12h30 del miércoles 09 de octubre del 2019.  
 
 Si la obra es terminada antes de la fecha prevista, permanecerá en exposición en el sitio designado hasta el día de la selección.
 
@@ -94,9 +93,9 @@ A cada participante se le asignará un área en los sitios previamente estableci
 La organización del FAAL se reserva el derecho de invitar a artistas de amplia trayectoria escultórica y pictórica, para que participen, exponiendo sus obras en una sección “Fuera de concurso”.
 
 ### 9.- DIMENSIONES
-El formato de la obra pictórica en su totalidad se establece en un máximo de 2m alto x 3m de ancho, con la posibilidad de que los trabajos sean dípticos o trípticos, siempre y cuando mantengan el tamaño arriba indicado, aceptándose en pintura: óleo, témpera, acuarela, serigrafía, etc.
+El formato de la obra pictórica en su totalidad se establece en un máximo de 2 m alto x 3 m de ancho, con la posibilidad de que los trabajos sean dípticos o trípticos, siempre y cuando mantengan el tamaño arriba indicado, aceptándose en pintura: óleo, témpera, acuarela, serigrafía, etc.
 
-Para dibujo, los trabajos se presentarán en formato A2 (42,0x59,4 cm) en las que se ilustrará una historia en 6 viñetas.
+Para dibujo, los trabajos se presentarán en formato A2 (42,0 cm x 59,4 cm) en las que se ilustrará una historia en 6 viñetas.
 
 Las esculturas deberán ser realizadas en un formato no mayor de 1,20 metros de altura y 1,50 metros de ancho, aceptándose en este género: trabajos de madera, barro, yeso, mármol, cera, etc.
 
@@ -104,33 +103,33 @@ Las esculturas deberán ser realizadas en un formato no mayor de 1,20 metros de 
 La Dirección de Cultura designará tres cuerpos de jurados para los concursos de pintura, dibujo y escultura. Cada jurado estará compuesto por tres expertos en el género convocado. Estos podrán ser ecuatorianos y/o extranjeros.
 
 ### 11.- FUNCIONES DEL JURADO
-Verificar que cada participante trabaje su obra en el sitio asignado, en coordinación con la Dirección de Cultura.
+1. Verificar que cada participante trabaje su obra en el sitio asignado, en coordinación con la Dirección de Cultura  
 
-Concurrir por lo menos una vez al día al sitio designado por la actividad artística revisando el proceso de trabajo.
+1. Concurrir por lo menos una vez al día al sitio designado por la actividad artística revisando el proceso de trabajo.
 
-Seleccionar las obras a ser admitidas y que serán expuestas al público en el Museo Municipal.
+1. Seleccionar las obras a ser admitidas y que serán expuestas al público en el Museo Municipal.
 
-Emitir un veredicto sobre las obras mencionadas.
+1. Emitir un veredicto sobre las obras mencionadas.
 
-Emitir un veredicto sobre las obras premiadas.
+1. Emitir un veredicto sobre las obras premiadas.
 
 ### 12.- PREMIOS
 La Muy Ilustre Municipalidad de Guayaquil otorgará tres premios para Pintura y tres premios para Escultura.
 
 ### EN PINTURA
 * PRIMER PREMIO INDEPENDENCIA DE GUAYAQUIL $ 3.000,00 (tres mil dólares de los Estados Unidos de Norteamérica).
-* SEGUNDO PREMIO INDEPENDENCIA DE GUAYAQUIL $ 2.500,00 (tres mil dólares de los Estados Unidos de Norteamérica).
-* TERCER PREMIO INDEPENDENCIA DE GUAYAQUIL $ 2.000,00 (tres mil dólares de los Estados Unidos de Norteamérica).
+* SEGUNDO PREMIO INDEPENDENCIA DE GUAYAQUIL $ 2.500,00 (dos mil quinientos dólares de los Estados Unidos de Norteamérica).
+* TERCER PREMIO INDEPENDENCIA DE GUAYAQUIL $ 2.000,00 (dos mil dólares de los Estados Unidos de Norteamérica).
 Se otorgan tres (3) menciones de honor MUNICIPALIDAD DE  GUAYAQUIL, las cuales carecen de jerarquía.
 
 ### EN ESCULTURA
 * PRIMER PREMIO INDEPENDENCIA DE GUAYAQUIL $ 3.000,00 (tres mil dólares de los Estados Unidos de Norteamérica).
-* SEGUNDO PREMIO INDEPENDENCIA DE GUAYAQUIL $ 2.500,00 (tres mil dólares de los Estados Unidos de Norteamérica).
-* TERCER PREMIO INDEPENDENCIA DE GUAYAQUIL $2.000,00 (tres mil dólares de los Estados Unidos de Norteamérica).
+* SEGUNDO PREMIO INDEPENDENCIA DE GUAYAQUIL $ 2.500,00 (dos mil quinientos dólares de los Estados Unidos de Norteamérica).
+* TERCER PREMIO INDEPENDENCIA DE GUAYAQUIL $2.000,00 (dos mil dólares de los Estados Unidos de Norteamérica).
 Se otorgan tres (3) menciones de honor MUNICIPALIDAD DE  GUAYAQUIL, las cuales carecen de jerarquía.
 
 ### EN DIBUJO
-- PREMIO ÚNICO INDEPENDENCIA DE GUAYAQUIL $ 1.000,00 (tres mil dólares de los Estados Unidos de Norteamérica).
+- PREMIO ÚNICO INDEPENDENCIA DE GUAYAQUIL $ 1.000,00 (Mil dólares de los Estados Unidos de Norteamérica).
 Se otorgan tres (3) menciones de honor MUNICIPALIDAD DE  GUAYAQUIL, las cuales carecen de jerarquía.
 
 Los tres premios en Pintura y Escultura, además del premio único en dibujo son de adquisición, por lo que las obras pasarán a formar parte de la reserva del Museo Municipal de Guayaquil.
@@ -161,4 +160,4 @@ La coordinación se reserva el derecho de ceder los espacios designados para cad
 
 En caso de que exista negligencia en el uso del espacio, como dañar las instalaciones del Malecón 2000, la Coordinación se reserva el derecho a sacar al participante del concurso.
 
-La participación implica aceptar todas las bases. En caso de algún contratiempo, de diversa índole que afecte la seriedad y organización del XIX Festival de Artes en presencia y al Aire Libre 2018, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura lo resolverá.
+La participación implica aceptar todas las bases. En caso de algún contratiempo, de diversa índole que afecte la seriedad y organización del XX Festival de Artes en presencia y al Aire Libre 2019, evento organizado por la Muy Ilustre Municipalidad de Guayaquil, la Dirección de Cultura lo resolverá.
