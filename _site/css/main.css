@@ -300,6 +300,20 @@ img.wide-alt {
   color: rgba(255,255,255,0.3);
 }
 
+.pod-brands {
+  margin-bottom: 3rem;
+}
+
+.pod-brands > p > a > img {
+  margin-top: 1rem;
+}
+
+.pod-brands > p {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left:3%;
+}
+
 .blugray {
   color: #B0BEC5;
 }
