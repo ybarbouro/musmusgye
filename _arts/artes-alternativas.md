@@ -44,6 +44,8 @@ La presente edición tendrá temática libre.
 
 Los participantes deberán inscribirse hasta las 17h00 del viernes 20 de septiembre de 2019 digitalmente en [www.museoarteyciudad.com](https://www.museoarteyciudad.com/faal) y entregando los documentos necesarios en las oficinas del Museo Municipal (Sucre entre Chile y Pedro Carbo). Únicamente el registro será efectivo cuando se haya realizado la inscripción en los dos formatos anteriormente mencionados, digital y físico.
 
+Entregando la siguiente documentación:
+
 1. Ficha de inscripción con los datos personales del artista o del responsable del grupo concursante y detalles de la obra.
 1. Copia de cédula del inscrito y de los participantes.
 1. Documento con la descripción, fundamentación teórica, justificación de los medios expresivos que se utilizarán conjuntamente con la proposición del espacio y en el caso de ser necesaria, duración y horarios tentativos para la implementación de la obra; se podrá presentar cualquier documentación adicional, escrita o gráfica, que facilite al jurado de premiación la evaluación del proyecto.
