@@ -679,7 +679,8 @@ text-align:center;
   background-color: slategray;
   color:#fff;
   text-align:center;
-  padding-top: 3em;
+  padding-top: 1.5em;
+	padding-bottom: 1rem;
 }
 
 .site-section-video .content{
@@ -691,7 +692,7 @@ text-align:center;
   margin:1em 0}
 
 .in-the-wild{
-  font-size:1.4em;
+  font-size:1rem;
   margin:0 auto;
   max-width:720px;
 }
