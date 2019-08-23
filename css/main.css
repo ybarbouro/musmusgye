@@ -288,7 +288,8 @@ img.wide-alt {
 
 .dandelion {
     margin-top: 0;
-    background-image: url(/assets/dandelion.svg) top center;
+    background-image: url(/assets/dandelion.svg);
+    background-position: top center;
     background-size: contain;
    }
 
