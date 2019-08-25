@@ -24,6 +24,6 @@ En el evento participaron el "Ballet de danzas folclóricas de la Espol", varios
 
 También puedes escuchar nuestro podcast en [Apple Podcasts](//podcasts.apple.com/ec/podcast/desde-el-museo-municipal/id1477126077) y en [Simplecast](//desde-el-museo-municipal.simplecast.com).
 
-Para mayor información, sobre los organizadores, en INSTAGRAM: <span style="color:brown"> @observatoriovisual @melttorr</span>  y  <span style="color:brown">@jaime_ruiz</span>. A los artistas musicales, como: <span style="color:#226691">@saritaleonc</div> y <span style="color:#226691">@leo.vasco99</div>
+Para mayor información, sobre los organizadores, en INSTAGRAM: <span style="color:brown"> @observatoriovisual @melttorr</span>  y  <span style="color:brown">@jaime_ruiz</span>. A los artistas musicales, como: <span style="color:#226691">@saritaleonc</span> y <span style="color:#226691">@leo.vasco99</span>
 
 <small><b>Imágenes:</b> Cortesía</small>
