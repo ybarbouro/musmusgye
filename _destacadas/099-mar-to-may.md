@@ -10,7 +10,7 @@ listing-priority: 98
 
 ![grabando podcast](//res.cloudinary.com/magnvs/image/upload/v1566692622/mjbhsinikjduqd4i1z7n.jpg)
 
-### Nuevo episodio del podacast "Desde el Museo Municipal"
+### Nuevo episodio del podcast "Desde el Museo Municipal"
 
 Durante dos días en el Museo Municipal de Guayaquil se desarrolló el evento cultural "El corazón hecho canción", los días 22 y 23 de agosto del año en curso, hubo música, danza, exposición de pintura y talleres, entre otros elementos relacionados con el género musical del pasillo.
 
