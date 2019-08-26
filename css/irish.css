@@ -318,6 +318,10 @@ h2.league-sm{
   color:rgba(36,57,73,1);
 }
 
+h2.league-sm span {
+  color:rgba(36,57,73,.5);
+}
+
 h2.league-sm-white{
   font-family:"Oswald", sans-serif;
   font-weight: bold;
