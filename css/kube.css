@@ -1154,7 +1154,7 @@ button:hover,
     box-shadow: none; }
 
 .button.outline {
-  background: none;
+  background: rgba(144,164,174,.3);
   font-weight: normal; }
 
 .button.outline:hover {
