@@ -12,4 +12,6 @@ EL FIARTES-G Llega a su edición XXII y para inaugurar lo haremos con Música, e
 
 Seguimos soñando con una ciudad con más teatro y con un público más grande y diverso.
 
-![taller FIARTES-G](//res.cloudinary.com/magnvs/image/upload/v1566848480/flayer_residencia_b823yh.jpg)
+![taller FIARTES-G](//res.cloudinary.com/magnvs/image/upload/v1566848480/flayer_residencia_b823yh.jpg)  
+
+<a class="button outline" href="//fiartes-g.com/" role="button"> Sitio Oficial FIARTES-G </a>
