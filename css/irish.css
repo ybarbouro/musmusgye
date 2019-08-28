@@ -857,7 +857,7 @@ text-align:center;
 }
 @media only screen and (max-width:320px){
  .bg-hero {
-		height: 100vh;
+		height: 75vh;
 		background-image: url(/assets/sj-19BRAND.svg);
 		background-position: center center;
 		background-repeat: no-repeat;
