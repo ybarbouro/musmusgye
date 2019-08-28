@@ -799,7 +799,7 @@ text-align:center;
 }
 @media only screen and (max-width:460px){
 	.bg-hero {
-		min-height: 75vh;
+		min-height: 85vh;
 		background-position: bottom center;
 	}
 	.grid-cell-left {
@@ -819,7 +819,7 @@ text-align:center;
   html{
     font-size:13px}
   .bg-hero {
-    min-height: 85vh;
+    min-height: 75vh;
     background-image: url(/assets/sj-19BRAND.svg);
     background-position: center center;
 	}
@@ -857,7 +857,7 @@ text-align:center;
 }
 @media only screen and (max-width:320px){
  .bg-hero {
-		height: 75vh;
+		height: 65vh;
 		background-image: url(/assets/sj-19BRAND.svg);
 		background-position: center center;
 		background-repeat: no-repeat;
