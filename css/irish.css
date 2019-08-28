@@ -390,7 +390,10 @@ h2.animosa {
 }
 .bg-hero {
 	min-height: 50vh;
-	background-image: linear-gradient(120deg, #89f7fe 0%, #66a6ff 100%);
+	background-image: url(/assets/sj-19BRAND.svg);
+	background-position: bottom center;
+	background-size: contain;
+	background-repeat: no-repeat;
 }
 
 .bg-hero-expo {
