@@ -389,7 +389,7 @@ h2.animosa {
   line-height: 4.3rem;
 }
 .bg-hero {
-	min-height: 70vh;
+	min-height: 50vh;
 	background-image: url(/assets/sj-19BRAND.svg);
 	background-position: bottom center;
 	background-size: contain;
