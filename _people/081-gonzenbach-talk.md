@@ -4,7 +4,7 @@ subtitle: Visita guiada y conversatorio
 day: 17
 month: SEPTIEMBRE
 place: Sala Polivalente del Museo Municipal
-hour: 11h00
+time: 11h00
 listing-priority: 81
 image: "https://res.cloudinary.com/magnvs/image/upload/v1568215317/fede_tamcky.jpg"
 ---
