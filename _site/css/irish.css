@@ -318,6 +318,10 @@ h2.league-sm{
   color:rgba(36,57,73,1);
 }
 
+h2.league-sm span {
+  color:rgba(36,57,73,.5);
+}
+
 h2.league-sm-white{
   font-family:"Oswald", sans-serif;
   font-weight: bold;
@@ -350,6 +354,13 @@ h3.league-gray{
   font-size: 1.5rem;
   color: #778899;
   line-height: 1.9rem;
+}
+
+h3.league-darkie{
+  font-family:"Oswald", sans-serif;
+  font-weight: 400;
+  font-size: 1.3rem;
+  color:rgba(36,57,73,1);
 }
 
 h2.league-blue {
@@ -385,7 +396,7 @@ h2.animosa {
   line-height: 4.3rem;
 }
 .bg-hero {
-	min-height: 70vh;
+	min-height: 50vh;
 	background-image: url(/assets/sj-19BRAND.svg);
 	background-position: bottom center;
 	background-size: contain;
@@ -795,7 +806,7 @@ text-align:center;
 }
 @media only screen and (max-width:460px){
 	.bg-hero {
-		min-height: 75vh;
+		min-height: 85vh;
 		background-position: bottom center;
 	}
 	.grid-cell-left {
@@ -815,7 +826,7 @@ text-align:center;
   html{
     font-size:13px}
   .bg-hero {
-    min-height: 85vh;
+    min-height: 75vh;
     background-image: url(/assets/sj-19BRAND.svg);
     background-position: center center;
 	}
@@ -853,7 +864,7 @@ text-align:center;
 }
 @media only screen and (max-width:320px){
  .bg-hero {
-		height: 100vh;
+		height: 65vh;
 		background-image: url(/assets/sj-19BRAND.svg);
 		background-position: center center;
 		background-repeat: no-repeat;
