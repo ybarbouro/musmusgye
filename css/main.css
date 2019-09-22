@@ -185,7 +185,6 @@ textarea {
   text-shadow:2px 2px 0 #000;
 }
 
-
 }
 
 /* ==========================================================================
@@ -458,7 +457,7 @@ span.suscribing{
       line-height: 3rem;
      }
 
-  .last-main-title h2 {
+.last-main-title h2 {
          font-family: 'Open Sans Condensed', sans-serif;
          font-weight:lighter;
          font-size: 1.9rem;
