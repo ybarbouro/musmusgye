@@ -6,7 +6,7 @@ featured: false
 featured-priority: 4
 listing-priority: 4
 dates: 12 y 13 de octubre
-place: Expanada de La Bota, Malecón del Salado.
+place: Explanada de La Bota, Malecón del Salado.
 ---
 El concurso se desarrollará en el Malecón del Salado explanada de La Bota (Calle 9 de octubre), los días sábado 12 y domingo 13 de octubre del 2019, de 13h00 a 15h00, y se llevará a cabo el concurso de acuerdo a las siguientes bases:
 
