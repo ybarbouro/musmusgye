@@ -46,7 +46,7 @@ Los participantes podrán elegir el uso de instrumentos musicales o de pistas. E
 Una vez que se haya concluido el periodo de inscripción, el jurado realizará una preselección y elegirá 20 participantes (10 amateurs y 10 profesionales) para presentarse en vivo los días del concurso antes mencionados.
 
 ### SOBRE LA DOCUMENTACIÓN
-Los participantes deberán inscribirse hasta las 17h00 del viernes 20 de septiembre de 2018 digitalmente en [www.museoarteyciudad.com](https://www.museoarteyciudad.com/faal) y entregando los documentos necesarios en las oficinas del Museo Municipal (Sucre entre Chile y Pedro Carbo). Únicamente el registro será efectivo cuando se haya realizado la inscripción en los dos formatos anteriormente mencionados, digital y físico.
+Los participantes deberán inscribirse hasta las 17h00 del viernes 20 de septiembre de 2019 digitalmente en [www.museoarteyciudad.com](https://www.museoarteyciudad.com/faal) y entregando los documentos necesarios en las oficinas del Museo Municipal (Sucre entre Chile y Pedro Carbo). Únicamente el registro será efectivo cuando se haya realizado la inscripción en los dos formatos anteriormente mencionados, digital y físico.
 
 Entregando la siguiente documentación:
 
