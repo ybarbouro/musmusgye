@@ -6,7 +6,7 @@ featured: false
 featured-priority: 6
 listing-priority: 6
 dates: 12 y 13 de octubre
-place: Expalnada de La Bota, Malecón del Salado.
+place: Explanada de La Bota, Malecón del Salado.
 ---
 El concurso se desarrollará los días sábado 12 y domingo 13 de octubre del 2019 en el Malecón del Salado explanada de La Bota (Calle 9 de octubre), de 16h00 a 19h00. Tendrá como género “Teatro de Calle” y será de temática libre de acuerdo con los siguientes aspectos:
 
