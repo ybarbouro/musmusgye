@@ -6,7 +6,7 @@ featured: true
 featured-priority: 8
 listing-priority: 8
 dates: 05 y 06 de octubre
-place: Expalnada de La Bota, Malecón del Salado
+place: Explanada de La Bota, Malecón del Salado
 ---
 El Concurso de Cortometraje tendrá la temática libre y se llevará a cabo en el Malecón del Salado explanada de La Bota (Calle 9 de octubre), los días sábado 05 y domingo 06 de octubre de 2019 de 20h00 a 21h00.
 
