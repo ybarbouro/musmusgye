@@ -1,10 +1,10 @@
 ---
 title: Entrevista de Bolívar y San Martín
 subtitle: Lanzamiento de Comicbook en la Feria del Libro de Guayaquil
-day: 27
-month: SEPTIEMBRE
+day: 
+month:
 place:
-time: 
+time:
 listing-priority: 1
 image: "//res.cloudinary.com/magnvs/image/upload/v1569692298/kfhmyunmhuc5ove3ldxf.jpg"
 ---
