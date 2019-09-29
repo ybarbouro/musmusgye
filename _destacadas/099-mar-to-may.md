@@ -22,6 +22,8 @@ En la mañana tuvimos una charla con la escritora guayaquileña **Ana Libia Gavi
 
 Más adelante tuvimos como invitado a **Eduardo Moreira**, vicepresidente del club de fans de Star Wars **"Orden 66"** quien nos comenta sobre la misión del club y temas relacionados con la literatura de ciencia ficción. La poesía no podía faltar, es así como contamos con dos promotores culturales, el primero **Gabriel Solórzano** representante de **Editorial Luna Nueva** e intéprete de Medardo Ángel Silva, y; **Wilson Illescas** representante de la autora Noemí Illescas, poetisa creadora de **"Cartas de un Loco"**.
 
+![interview-2](//res.cloudinary.com/magnvs/image/upload/v1569796850/duogs4ca8fzabk03q1ea.jpg)
+
 Concluímos la jornada con dos temas muy importantes, uno de crónica investigativa con el ex asambleísta **Galo Lara** que presentó la obra de Emilio Palacio **"La masacre exquisita de Rafael Correa: La historia secreta de la persecución a Galo Lara"**; el otro relacionado con la educación y proyectos de sociales, para lo cual nos acompañaron **Gabriela Fiallos** y **Roberto Anchaluisa** del departamento de RR.PP. y Comunicación de la Fundación Ecuador, con ellos hablamos, entre otros temas, sobre el **"Programa Aprendamos"** de la M. I. Municipalidad de Guayaquil.
 
 Puedes escuchar todos estos episodios de nuestro podcast y más en [Apple Podcasts](//podcasts.apple.com/ec/podcast/desde-el-museo-municipal/id1477126077) y en [Simplecast](//desde-el-museo-municipal.simplecast.com).
