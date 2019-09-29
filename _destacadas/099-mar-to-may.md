@@ -34,7 +34,7 @@ Al llegar la tarde, surgió un ameno diálogo con la Ing. **Nelly Pullas, Concej
 
 ![personajes](//res.cloudinary.com/magnvs/image/upload/v1569798430/ayz4mdyjsymz10jrjeat.jpg)
 
-Para finalizar, no podía faltar una de las invitadas de honor a la feria, la Sra. **María Gloria Alarcón, Cónsul Honorario de Alemania**, destacó la contribución de esta nación en la cultura universal, también presentó las actividades que están realizando en la Feria Internacional del Libro de Guayaquil - 2019 donde son el país invitado.
+Para finalizar, no podía faltar una de las invitadas de honor a la feria, la Sra. **María Gloria Alarcón, Cónsul Honoraria de Alemania**, destacó la contribución de esta nación en la cultura universal, también presentó las actividades que están realizando en la Feria Internacional del Libro de Guayaquil - 2019 donde son el país invitado.
 
 Puedes escuchar todos estos episodios de nuestro podcast y más en [Apple Podcasts](//podcasts.apple.com/ec/podcast/desde-el-museo-municipal/id1477126077) y en [Simplecast](//desde-el-museo-municipal.simplecast.com).
 
