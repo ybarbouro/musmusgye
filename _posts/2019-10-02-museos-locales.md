@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rincones de guayaquil que recrean historia y fauna local'
+title: 'Rincones de Guayaquil que recrean historia y fauna local'
 subtitle: ' '
 date: 2019-10-02 00:30:00
 comment: Comunidad | El Universo
