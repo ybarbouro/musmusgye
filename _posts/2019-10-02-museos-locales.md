@@ -7,11 +7,7 @@ comment: Comunidad | El Universo
 image: "//res.cloudinary.com/magnvs/image/upload/v1570044092/e-mez_jlajrd.jpg"
 ffw: Leer más
 ---
-Guayaquil tiene una oferta de 13 museos que recogen desde obras de arte colonial, miniaturas, creaciones en arcilla, de equipos, hasta fauna disecada. Pero esa variada oferta, por desconocimiento o falta de mayor promoción, no es conocida por todos.
-
-Durante los últimos años, hay museos que han ido incorporando cambios o agregando áreas. Así, por ejemplo, en el museo municipal hay una sección de historia natural con 8.000 animales disecados. El de miniatura, en el norte del malecón, ha ido incorporando dioramas desde que abrió. La zona del estero Salado cuenta con el museo de arcilla.
-
-Del total de museos, tres son manejados por el Municipio y otros tres a través de la Fundación Malecón 2000. El año pasado, a los museos municipales fueron 40.833 personas, es decir, 4.264 más que el 2017.
+Guayaquil tiene una oferta de 13 museos que recogen desde obras de arte colonial, miniaturas, creaciones en arcilla, de equipos, hasta fauna disecada. Pero esa variada oferta, por desconocimiento o falta de mayor promoción, no es conocida por todos.<br/><br/>Durante los últimos años, hay museos que han ido incorporando cambios o agregando áreas. Así, por ejemplo, en el museo municipal hay una sección de historia natural con 8.000 animales disecados. El de miniatura, en el norte del malecón, ha ido incorporando dioramas desde que abrió. La zona del estero Salado cuenta con el museo de arcilla.<br/><br/>Del total de museos, tres son manejados por el Municipio y otros tres a través de la Fundación Malecón 2000. El año pasado, a los museos municipales fueron 40.833 personas, es decir, 4.264 más que el 2017.
 
 La actual administración municipal tiene la intención de impulsar el proyecto del Museo Metropolitano de Guayaquil y que se forme una cadena de pequeños museos especializados. Dentro de los museos habrá varias temáticas, el Museo del Abanico, el Museo del Disco de Vinilo, el Museo de Arte Contemporáneo y el Museo de Historia Natural. A eso se agrega que el Comité Bicentenario alista el museo de la Casa de Villamil, en el malecón.(I)
 
