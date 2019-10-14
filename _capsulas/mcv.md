@@ -2,7 +2,7 @@
 title: Arqueología del cómic ecuatoriano
 object-id: comic
 listing-priority: 1
-day: 21 - 26
+day: 22 - 26
 month: OCTUBRE
 time: 09h00 - 17h30
 place: Sala de Artes Temporales
