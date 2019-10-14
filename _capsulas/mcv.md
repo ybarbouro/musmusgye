@@ -5,7 +5,7 @@ listing-priority: 1
 day: 21 - 26
 month: OCTUBRE
 time: 09h00 - 17h30
-place: Salas de Artes Temporales
+place: Sala de Artes Temporales
 image: "//res.cloudinary.com/magnvs/image/upload/v1567098190/2_1_wkc0s8.jpg"
 ext-url: "/capsulas/"
 ---
