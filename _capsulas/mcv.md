@@ -1,15 +1,17 @@
 ---
-title: HISTORIA VIVA - El Museo Cobra Vida.
-object-id: teatro
+title: Arqueología del cómic ecuatoriano
+object-id: comic
 listing-priority: 1
-day: 10 - 12
+day: 21 - 26
 month: OCTUBRE
-time: 10H00 Y 11H00
-place: Salas del Museo Municipal de Guayaquil
-image: "//res.cloudinary.com/magnvs/image/upload/v1570115635/museo-cobra-vida_he05th.jpg"
+time: 09h00 - 17h30
+place: Salas de Artes Temporales
+image: "//res.cloudinary.com/magnvs/image/upload/v1567098190/2_1_wkc0s8.jpg"
 ext-url: "/capsulas/"
 ---
-Guianza teatralizada sobre al Historia de Guayaquil, puesta en escena en las salas del museo. Son 10 actores con un despliegeue de audio e iluminación para ambientar cada una de las épocas de nuestro pasado, tales como el aporte de las culturas prehispánicas, la Fundación de la ciudad, el hundimiento del galeón "La Capitana", Guayaquil en la Independencia, entre otros.
+**EXPOSICIÓN** 
 
-Historia Viva es realizada por OSSO Producciones bajo la dirección de Franklin Hurtado y la producción de Lenin Vargas, con la asesoría de Melvin Hoyos.  
+La premisa principal de este proyecto es la búsqueda. El origen del cómic en el Ecuador es un tanto difuso, existen diferentes versiones sobre cuál es el primer antecedente de arte secuencial en el Ecuador, pero nada concreto. Partimos de eso.  
+
+Armamos esta expedición arqueológica desde la visión del fan en busca de la joya para su colección, con el fin encontrar la mayor cantidad posible de viñetas fósiles, viejas y perdidas publicaciones y proyectos, escaneados digitales enterrados en viejos discos duros, de encontrar y descubrir los restos ilustrados de nuestro pasado gráfico.
 
