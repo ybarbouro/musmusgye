@@ -189,194 +189,292 @@ text {
   </style>
 </head>
 
-    <body>
+ <body>
 
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
 		<!-- Add your site or application content here -->
-		<div>
-      <div class="dandelion">
-          <div class="container">
+<div>
+
+<!doctype html>
+<html class="no-js" lang="es">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Museo Arte y Ciudad</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Facebook OpenGraph Info - Page Specific - Variables listed on each page -->
+	      <meta property="og:title" content="Museo Municipal de Guayaquil" />
+        <meta property="og:type" content="website">
+	      <meta property="og:image" content="//res.cloudinary.com/magnvs/image/upload/v1522811906/temporary_timbbp.jpg" />
+	      <meta property="og:url" content="//www.museoarteyciudad.com" />
+	      <meta property="og:description" content="Abrimos de martes a sábado de 09h00 a 17h30. ¡Conoce más sobre nuestras actividades aquí!" />
+
+	      <!-- Twitter Card Tags -->
+	      <meta name="twitter:card" content="summary_large_image" />
+	      <meta name="twitter:site" content="@MUMG1" />
+        <meta name="twitter:creator" content="@fernanz">
+	      <meta name="twitter:title" content="Museo Municipal de Guayaquil" />
+	      <meta name="twitter:description" content="Abrimos de martes a sábado de 09h00 a 17h30. ¡Conoce más sobre nuestras actividades aquí" />
+	      <meta name="twitter:image" content="//res.cloudinary.com/magnvs/image/upload/v1522811906/temporary_timbbp.jpg" />
+
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <!-- Place favicon.ico in the root directory -->
+
+        <link rel=stylesheet href="https://fonts.googleapis.com/css?family=Open+Sans:400,700">
+        <link href="https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200" rel="stylesheet">
+        <link rel="stylesheet" href="/css/normalize.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/irish.css">
+        <link rel="stylesheet" href="/css/kube.css">
+        <link rel="stylesheet" href="/css/magazine.css">
+        <link rel="stylesheet" href="/css/fonts.css">
+        <link rel="stylesheet" href="/css/heritage.css">
+        <link rel="stylesheet" href="/css/slides.css">
+        <link rel="stylesheet" href="/css/animate.css">
+        <link rel="stylesheet" href="/css/jquery.bxslider.css">
+        <link rel="stylesheet" href="/css/modal-video.min.css">
+        <link rel="stylesheet" type="text/css" href="/fonts/font-awesome-4.7.0/css/font-awesome.min.css" />
+        <script src="/js/vendor/modernizr-2.8.3.min.js"></script>
+        <style>
+/* NOTE: The styles were added inline because Prefixfree needs access to your styles and they must be inlined if they are on local disk! */
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300);
+section { display: flex;
+  justify-content: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  }
+article {
+margin: 1rem;
+-ms-flex: 1 0 0px;
+flex: 1;
+/* shortcut for "flex-grow: 1". Note that it MUST be a unitless value to work; defined with a unit (e.g. flex: 1px) the shortcut would alter the flex-basis property. */
+}
+article.breaking {
+-ms-flex-grow: 2;
+flex: 2;
+/* shortcut for "flex-grow: 2" */
+}
+
+article.columnas div {
+column-count: 3;
+}
+
+article.columnas h1 {
+font-size: 2.7rem;
+line-height: 2.7rem;
+padding-bottom: 1rem;
+margin-top: 0;
+max-width: 65%;
+}
+
+article.columnas h2 {
+font-size: 2.3rem;
+line-height: 2.3rem;
+padding-bottom: 1rem;
+margin-top: 0;
+max-width: 55%;
+text-align: left;
+color: #777;
+}
+
+article.columnas h3 {
+text-align: left;
+font-size: 1.3rem;
+}
+
+article.columnas p {
+font-size:.9rem;
+font-family: 'Open Sans', sans-serif;
+}
+
+article.tarjetabg {
+background: url(/img/papers.png);
+padding: 5px 15px;
+}
+
+
+.cardex {
+  position: relative;
+  margin: 0;
+  padding: 15px 15px;
+  margin-left: -15px;
+  margin-right: -15px;
+  /* background-image: linear-gradient(to top, #243949 0%, rgba(46, 87, 103, 0.7) 100%);*/
+  height: 90%;
+  color:#fff;
+}
+
+.cardex > img {
+mix-blend-mode:normal;
+}
+
+article img {
+width: 100%; height: auto;
+border-radius: 7px;
+}
+
+img.destacada {
+float: left;
+width: 100%;
+height: auto;
+border-radius: 7px;
+}
+
+article h1, article h2, article h3 { font-family: "Oswald", sans-serif; }
+article h1 {
+font-size: 1.7rem;
+line-height: 1.3;
+text-align: left;
+text-transform: uppercase;
+}
+article h2, article h3 {
+font-size: 1rem;
+text-align: right;
+line-height: 1.3;
+margin: 1.3rem 0;
+font-weight: 300;
+}
+article h3 {
+font-size: 1.1rem;
+}
+article p {
+line-height: 1.3;
+text-align: left;
+}
+
+@media screen and (max-width: 750px) {
+
+section {
+  -ms-flex-direction: column;
+  -webkit-box-orient: vertical;
+  flex-direction: column;
+}
+
+.cardex {
+  position: relative;
+  margin-bottom: -15px;
+  height: 100%;
+}
+
+img.destacada {
+float: none;
+width: 100vw;
+margin-bottom: 1.7rem;
+margin-left: 0;
+}
+
+article.columnas div {
+column-count: 1;
+}
+
+article.columnas h1{
+max-width: 83%;
+}
+
+article.columnas h2{
+max-width: 83%;
+}
+}
+
+text {
+  font-size: 315px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+}
+  </style>
+</head>
+
+<body class="noise">
+        <!-- Add your site or application content here -->
+<div class="main"><!-- Aquí va class main -->
+<div class="bg-hero">
             <div class="site-header clearfix" role=banner>
-              <div class=site-logo>PROGRAMA MUSEO ARTE Y CIUDAD
+              <div class="site-logo">PROGRAMA MUSEO ARTE Y CIUDAD
               </div>
-              <ul class="site-navi inline-block-list">
+              <ul class="site-nav inline-block-list">
                 <li>
-                  <a href="/" data-ga-category="Inbound links" data-ga-action="Nav click" data-ga-label="Source code">Inicio
+                  <a href="/" data-ga-category="Outbound links" data-ga-action="Nav click" data-ga-label=Docs>INICIO
                   </a>
                 </li>
                 <li>
-                  <a href="#bases" data-ga-category="Inbound links" data-ga-action="Nav click" data-ga-label="Source code">
-                  Bases del concurso</a>
+                  <a href="/contactos" data-ga-category="Outbound links" data-ga-action="Nav click" data-ga-label=Docs>CONTACTOS
+                  </a>
                 </li>
               </ul>
             </div>
 
+<div class="site-promo" style="margin-top:7em;">
 
-            <div class="wow bounceInDown">
-                <div  style="width: 100%; margin:0; margin-left:auto; margin-right:auto;">
-                  <img src="/assets/faal-2019.svg"/>
-                </div>
-            </div>
+<div class="wow bounceInDown">
+    <div  class="dali-logo">
+      <img src="/assets/sj-19.svg"/>
+    </div>
+  </div>
 
-            <!-- <div class="site-promo">
-              <h2 >Festival de Artes al Aire Libre</h2>
-              <h2> 2&mdash;18 OCTUBRE</h2>
-            </div> -->
+<h2>REANUDACIÓN DE CONCURSOS</h2>
 
-          </div><!-- end of container -->
-          </div><!-- end dandelion -->
+</div><!-- END site-promo-->
 
-  <div class="site-section-gray">
-      <h2 class="league-five">FESTIVAL DE ARTES AL AIRE LIBRE</h2>
-      <h2 class="league-sm-white">04 &mdash; 18 OCTUBRE
+<div class="row">
+  		<div class="col col-1">
+  		</div>
+		<div class="col col-5 opaco">
+			<h2 class="league"><span>PINTURA Y DIBUJO</span></h2>
+			<h2 class="league-sm">MIÉRCOLES 16 DE OCTUBRE</h2>
+			<h3 class="league-darkie">EXPLANADA DEL MAAC: 10h00 - 20h00 </h3>
+			
+  		</div>
+		<div class="col col-5 opaco">
+			<h2 class="league"><span>ESCULTURA</span></h2>
+			<h2 class="league-sm">MIÉRCOLES 16 DE OCTUBRE</h2>
+			<h3 class="league-darkie">PLAZA COLÓN: 10h00 - 20h00 </h3>  		</div>
+		<div class="col col-1">
+  		</div>
+	</div><!-- END ROW -->
+
+</div><!-- end of bg-hero -->
+</div><!-- end main -->
+
+      
+<div class="site-section-gray">
+
+<div class="aside-b">
+<div class="row">
+
+  <div class="col col-6 offset-3">
+  <figure style="margin-bottom:0;">
+    <img src="/assets/main-logos.svg">
+  </figure>
+  </div>
+
+</div>
+</div>
+
+
+  <h2 class="league-sm">MUSEO MUNICIPAL DE GUAYAQUIL
+  </h2>
+  <p style="color:#1A1A1A;">Sucre entre Chile y Pedro Carbo - Guayaquil<br />
+    (04) 259 4800 ext. 7402
+  </p>
+
+      <h2 class="league-sm-white">Comprometidos con el arte y la cultura
       </h2>
     <div class="article-mag-wrap">
       <div class="intro-ps leftie">
 
-        <p><strong>Desde el año 2000</strong>, por las fiestas de Independencia de la Ciudad, la Dirección de Cultura de la M. I. Municipalidad de Guayaquil ha venido realizando el FESTIVAL DE ARTES AL AIRE LIBRE en las instalaciones del Malecón 2000 y Plaza Colón, la presente edición continua con esta tradición y además nos extendemos hacia el Malecón del Salado (La Bota). </p>
+        <p><strong>Nuestro compromiso está vigente</strong> a pesar de los recientes sucesos por los que atraviesa el país. Siendo consecuente, la Dirección de Cultura de la M. I. Municipalidad de Guayaquil, reaunda el FESTIVAL DE ARTES AL AIRE LIBRE en las instalaciones de la Plataforma del MAAC (Malecón 2000) y Plaza Colón. </p>
 
-        <p>Las artes plásticas, escénicas, visuales y alternativas estarán presentes con once categorías de concursos plenamente establecidos en el FESTIVAL DE ARTES AL AIRE LIBRE: <em>Pintura, escultura, dibujo, artes alternativas, música, danza, teatro, títeres, declamación, fotografía y cortometraje.</em></p>
+        <p>Las artes plásticas, escénicas, visuales y alternativas continúan presentes con once categorías de concursos plenamente establecidos en el FESTIVAL DE ARTES AL AIRE LIBRE, para lo cual <em>estamos elaborando el nuevo cronograma de participación.</em></p>
+        
+        <p>Oportunamente estaremos comunicando nuestra nueva programación para el FAAL 2019.</p>
 
       </div>
     </div>
-      
-  	<div class="row around">
-  		<div class="col col-2">
-  		</div>
-		<div class="col col-4">
-			<h2 class="league-sm">INAUGURACIÓN<br/><span>VIERNES 4 DE OCTUBRE</span></h2>
-			<h2 class="league-sm-white">Hemiciclo de la Rotonda del Malecón 2000</h2>
-			<h2 class="league-sm">19H00</h2>
-  		</div>
-		<div class="col col-4">
-			<h2 class="league-sm">PREMIACIÓN<br/><span>VIERNES 18 DE OCTUBRE</span></h2>
-			<h2 class="league-sm-white">Paseo de los Presidentes del Malecón 2000</h2>
-			<h2 class="league-sm">19H00</h2>
-  		</div>
-		<div class="col col-2">
-  		</div>
-	</div><!-- END ROW -->
-	    
-  </div> <!-- En gray -->
-
-<div id="bases" class="mid">
-<figure class="figure4" style="margin:0;">
-  <img src="//res.cloudinary.com/magnvs/image/upload/v1566534115/jvwpcxmnhy84wlmrxdyt.jpg" alt="" class="figure-img" >
-</figure>
-<figure class="figure5" style="margin:0;">
-  <img src="//res.cloudinary.com/magnvs/image/upload/v1542072172/ophaifk4aht6twgmah3b.jpg" alt="" class="figure-img">
-</figure>
-<figure class="figure6" style="margin:0;">
-  <img src="//res.cloudinary.com/magnvs/image/upload/v1533262555/m9xz2ylhco08yrwprcoe.jpg" alt="" class="figure-img">
-</figure>
-
-<div class="info1 leftie">
-  <h2 class="league-light">Bases de participación</h2>
-  <h2 class="league-three">XX EDICIÓN</h2>
-</div>
-</div>
-
-
-<div style="padding-top:3em;">
-  <ul class="in-the-wild">
-    
-    
-    <li>
-      <h3><a href="/arts/pintura-dibujo-y-escultura/">CONCURSO DE PINTURA, DIBUJO Y ESCULTURA </a></h3><p>04 al 13 de octubre<br />Malecón 2000, Hemiciclo de la Rotonda; Plaza Colón, junto a la iglesia de Sto. Domingo.</p>
-    </li>
-    
-    <li>
-      <h3><a href="/arts/musica/">CONCURSO DE MÚSICA </a></h3><p>10 y 11 de octubre<br />Explanada de La Bota, Malecón del Salado</p>
-    </li>
-    
-    <li>
-      <h3><a href="/arts/danza/">CONCURSO DE DANZA </a></h3><p>07 al 09 de octubre<br />Paseo de los Presidentes. Loza +6</p>
-    </li>
-    
-    <li>
-      <h3><a href="/arts/declamacion/">CONCURSO DE DECLAMACIÓN </a></h3><p>12 y 13 de octubre<br />Explanada de La Bota, Malecón del Salado.</p>
-    </li>
-    
-    <li>
-      <h3><a href="/arts/titeres/">CONCURSO DE TÍTERES </a></h3><p>12 y 13 de octubre<br />Malecón 2000. Ágora 1 (A la altura de la calle Illingworth)</p>
-    </li>
-    
-    <li>
-      <h3><a href="/arts/teatro/">CONCURSO DE TEATRO </a></h3><p>12 y 13 de octubre<br />Explanada de La Bota, Malecón del Salado.</p>
-    </li>
-    
-    <li>
-      <h3><a href="/arts/fotografia/">CONCURSO DE FOTOGRAFÍA </a></h3><p>05 y 06 de octubre<br />Explanada de La Bota, Malecón del Salado.</p>
-    </li>
-    
-    <li>
-      <h3><a href="/arts/cortometraje/">CONCURSO DE CORTOMETRAJE </a></h3><p>05 y 06 de octubre<br />Explanada de La Bota, Malecón del Salado</p>
-    </li>
-    
-    <li>
-      <h3><a href="/arts/artes-alternativas/">CONCURSO DE ARTES ALTERNATIVAS </a></h3><p>05 y 06 de octubre<br />Terraza de La Bota, Malecón del Salado.</p>
-    </li>
-    
-  </ul>
-
-<div class="row">
-  <div class="col col-2 offset-5">
-  <figure style="margin-bottom:0;">
-    <img src="//salondejulio.com/img/logo-municp.svg">
-  </figure>
-  </div>
-</div>
-
-  </div>
-
-
-<h2 class="league-sm-white">CIERRE DE INSCRIPCIONES: 20 SEPTIEMBRE</h2>
-
-<div class="site-section-gray">
-<div class="container">
-
-<h2 class="league-sm">INSTRUCCIONES DE REGISTRO</h2>
-
-<div class="cta-option-premiere" style="margin-bottom:1.5em;">
-  <p>1. REVISA LAS BASES DEL CONCURSO</p>
-  <p>2. INGRESA TUS DATOS EN EL <a class="btn btn-download" href="//www.cognitoforms.com/None1533/REGISTROENLINEA2 " data-ga-category="Outbound links" >
-    <strong>REGISTRO</strong>
-    <span class=version>DIGITAL
-    </span>
-  </a></p>
-</div>
-<div class="cta-option-premiere" style="margin-bottom:1.5em;">
-    <p>4. DESCARGA, IMPRIME Y COMPLETA EL <a class="btn btn-premiere" href="//cdn.filestackcontent.com/aeTxtL5QayrTtXo45ivq" target="blank" data-ga-category="outbound links">
-       FORMULARIO DE INSCRIPCIÓN
-    </a></p>
-      <p>4. Entrega el FORMULARIO DE INSCRIPCIÓN y el resto de la DOCUMENTACIÓN REQUERIDA en las oficinas del Museo Municipal. (Chile entre Sucre y Diez de Agosto)</p>
-  </div>
-
-</div> <!-- END container-->
-	
-<h2 class="league-sm">REUNIONES PREVIAS</h2>
-	
-	<div class="row around">
-  		<div class="col col-2">
-  		</div>
-		<div class="col col-4">
-			<h2 class="league-sm-white">LUNES 23 DE SEPTIEMBRE</h2>
-			<p><strong>17h00:</strong> ESCULTURA</p>
-			<p><strong>18h00:</strong> ARTES ALTERNATIVAS, FOTOGRAFÍA Y CORTOMETRAJE</p>
-			<p><strong>19h00:</strong> DANZA Y MÚSICA</p>
-  		</div>
-		<div class="col col-4">
-			<h2 class="league-sm-white">VIERNES 27 DE SEPTIEMBRE</h2>
-			<p><strong>17h00:</strong> PINTURA Y DIBUJO</p>
-			<p><strong>18h00:</strong> DECLAMACIÓN, TÍTERES Y TEATRO</p>
-  		</div>
-		<div class="col col-2">
-  		</div>
-		</div><!-- END ROW -->
-	
-</div><!-- END site gray -->
+ </div> <!-- En gray -->
 
 </div> <!-- END NOISE -->
 
