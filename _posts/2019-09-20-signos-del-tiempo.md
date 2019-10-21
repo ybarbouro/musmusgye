@@ -7,7 +7,9 @@ comment: Juan Ponce Merchán | Expreso
 image: "//res.cloudinary.com/magnvs/image/upload/v1568998684/uftnqlzkt7frfmmsybuj.jpg"
 ffw: Leer más
 ---
-**La muestra del pintor Federico Gonzenbach está abierta en el Museo Municipal. El significado de cada cuadro fue debatido con universitarios y público en general.**<br/><br/>En una blanca pared cuelga un átomo gigante abarrotado de colores cálidos y grises que parece no tener fin. La pintura denominada "Estallido cósmico", es la obra que encabeza la quinta producción pictórica (de 39 cuadros) del pintor Federico Gonzenbach: "Signos del Tiempo".<br/><br/>En un extremo del cuadro se observa otra imagen que el artista visual guayaquileño atribuye como un encuentro de dos almas, pero esta tiene un singular detalle: una es buena y otra es mala.
+**La muestra del pintor Federico Gonzenbach está abierta en el Museo Municipal. El significado de cada cuadro fue debatido con universitarios y público en general.**<br/><br/>En una blanca pared cuelga un átomo gigante abarrotado de colores cálidos y grises que parece no tener fin. La pintura denominada "Estallido cósmico", es la obra que encabeza la quinta producción pictórica (de 39 cuadros) del pintor Federico Gonzenbach: "Signos del Tiempo".  
+
+En un extremo del cuadro se observa otra imagen que el artista visual guayaquileño atribuye como un encuentro de dos almas, pero esta tiene un singular detalle: una es buena y otra es mala.
 
 Los posibles significados de stas figuras fueron debatidos, hace unos días, en un conversatorio que realizó Gonzenbach en el Museo Municipal de Guayaquil.
 
