@@ -4,7 +4,7 @@ title: 'Pintura ganadora del Faal 2019 disimula policías enfrentados con manife
 subtitle: ' '
 date: 2019-10-23 06:33:00
 comment: Alexander García | El Comercio
-image: "//www.elcomercio.com/tendencias/pintura-ganadora-faal-2019-enfrentamientos.html"
+image: "//res.cloudinary.com/magnvs/image/upload/v1571843147/5daf998b70419_nzvri1.jpg"
 ffw: Leer más
 ---  
 Luis Reinoso Chiquito se adjudicó el primer premio de la categoría pintura del vigésimo Festival de Artes al Aire Libre (Faal) de Guayaquil. El artista guayaquileño fue reconocido por Falso abstracto, una pintura que enfrenta a policías y manifestantes de una protesta, disimulados en los garabatos de una suerte de firma.<br/><br/>El Museo Municipal de Guayaquil, organizador del tradicional certamen por las fiestas de Independencia de la ciudad, informó la tarde de este martes 22 de octubre del 2019 que la obra elaborada en dos bastidores se adjudicó los USD 3 000 del primer premio de pintura, en el que participaron 122 artistas.<br/><br/> El segundo premio de pintura, dotado de USD 2 500, recayó en Andrea Moreira Chalco, por la obra Por las mañana ya no tengo a quien cantar. El jurado otorgó el tercer premio, de USD 2 000, a César Guale Vera, por la obra Dictamen postcolonial en prácticas de paracuraduría.  
