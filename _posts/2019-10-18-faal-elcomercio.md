@@ -7,11 +7,7 @@ comment: Cultura | El Comercio
 image: "//res.cloudinary.com/magnvs/image/upload/v1571845743/5daa320aa7a1f_onfehy.jpg"
 ffw: Leer más
 ---  
-El boceto de la pintura de William Martínez muestra a un toro que ha comenzado a pintar en acrílico, símbolo del poder y del capital, que pisotea y se pelea con furia con un grupo de perros que le muerden, “en una lucha encarnizada en la que todos pierden”.  
-
-La obra en proceso incluye pequeños dibujos en lápiz de grafito con indígenas y militares sobre el lienzo en alusión a la ola de protestas que se extendieron por Ecuador del 2 al 13 de octubre del 2019 en contra del paquete de medidas económicas del Gobierno nacional. Solo el toro irá pintado en una "lucha" también entre el dibujo y la pintura  
-
-La pieza de Martínez toma forma a la vista del público en el XX Festival de Artes al Aire Libre (Faal) del Museo Municipal de Guayaquil, que se desarrolla desde el pasado miércoles 16 de octubre del 2019 en la explanada del Museo Antropológico y de Arte Contemporáneo (Maac), en el centro de la ciudad.  
+El boceto de la pintura de William Martínez muestra a un toro que ha comenzado a pintar en acrílico, símbolo del poder y del capital, que pisotea y se pelea con furia con un grupo de perros que le muerden, “en una lucha encarnizada en la que todos pierden”.<br/><br/>La obra en proceso incluye pequeños dibujos en lápiz de grafito con indígenas y militares sobre el lienzo en alusión a la ola de protestas que se extendieron por Ecuador del 2 al 13 de octubre del 2019 en contra del paquete de medidas económicas del Gobierno nacional. Solo el toro irá pintado en una "lucha" también entre el dibujo y la pintura.<br/><br/>La pieza de Martínez toma forma a la vista del público en el XX Festival de Artes al Aire Libre (Faal) del Museo Municipal de Guayaquil, que se desarrolla desde el pasado miércoles 16 de octubre del 2019 en la explanada del Museo Antropológico y de Arte Contemporáneo (Maac), en el centro de la ciudad.  
 
 El tradicional certamen se extenderá hasta el mediodía del próximo domingo 20 de octubre cuando un jurado seleccionará a las obras ganadoras que se exhibirán desde el próximo 29 de octubre del 2019 en el Museo Municipal de Guayaquil.  
 
