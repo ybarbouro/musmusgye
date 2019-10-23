@@ -27,4 +27,4 @@ La Biblioteca acoge el archivo de El Telégrafo y la muestra parte de una invest
 
 “Hemos creado un juego con 42 cartas -explicó Jácome-, un tablero y dados con el que puedes consultar el archivo fotográfico y la hemeroteca como si fueran un oráculo”.
 
-<small>Selfie: **ängel Bravo**<br/>Este artículo fue publicado en la versión digital del diario [El Comercio](//www.elcomercio.com/tendencias/arqueologia-comic-ecuador-exposicion-guayaquil.html) del 23 de octubre de 2019 en la sección Cultura.</small>
+<small>Selfie: **Ángel Bravo**<br/>Este artículo fue publicado en la versión digital del diario [El Comercio](//www.elcomercio.com/tendencias/arqueologia-comic-ecuador-exposicion-guayaquil.html) del 23 de octubre de 2019 en la sección Cultura.</small>
