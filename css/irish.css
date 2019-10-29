@@ -402,6 +402,7 @@ h2.animosa {
 	background-position: bottom center;
 	background-size: contain;
 	background-repeat: no-repeat;
+	background-blend-mode:multiply;
 }
 
 .bg-hero-expo {
