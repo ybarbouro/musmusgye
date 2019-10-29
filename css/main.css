@@ -331,7 +331,7 @@ img.wide-alt {
        margin-top: 0;
        margin-bottom: 0;
        position:relative;
-       background: url(/assets/SJ-SNAKE.svg)#93a5cf;
+       background: url(//cdn.filestackcontent.com/2iJIG0KaRiyidJeLHk2e)#93a5cf;
        background-blend-mode:multiply;
        background-repeat: no-repeat;
        background-size: cover;
@@ -503,10 +503,11 @@ span.suscribing{
 .main { margin-top: 0;
         margin-bottom: 0;
         position:relative;
-        background: url(/assets/SJ-SNAKE.svg) #ECEFF1;
+        background: url(//cdn.filestackcontent.com/2iJIG0KaRiyidJeLHk2e) #93a5cf;
         background-repeat: no-repeat;
         background-size: cover;
         background-position: top center;
+        background-blend-mode: multiply;
         min-height: 100vh;
     }
 .last-main-title h1 {
