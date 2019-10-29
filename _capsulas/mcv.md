@@ -2,16 +2,15 @@
 title: Arqueología del cómic ecuatoriano
 object-id: comic
 listing-priority: 1
-day: 22 - 26
+day: 22 - 31
 month: OCTUBRE
 time: 09h00 - 17h30
 place: Sala de Artes Temporales
 image: "//res.cloudinary.com/magnvs/image/upload/v1567098190/2_1_wkc0s8.jpg"
 ext-url: "/capsulas/"
 ---
-**EXPOSICIÓN** 
+**EXPOSICIÓN**
 
-La premisa principal de este proyecto es la búsqueda. El origen del cómic en el Ecuador es un tanto difuso, existen diferentes versiones sobre cuál es el primer antecedente de arte secuencial en el Ecuador, pero nada concreto. Partimos de eso.  
+La premisa principal de este proyecto es la búsqueda. El origen del cómic en el Ecuador es un tanto difuso, existen diferentes versiones sobre cuál es el primer antecedente de arte secuencial en el Ecuador, pero nada concreto. Partimos de eso.
 
 Armamos esta expedición arqueológica desde la visión del fan en busca de la joya para su colección, con el fin encontrar la mayor cantidad posible de viñetas fósiles, viejas y perdidas publicaciones y proyectos, escaneados digitales enterrados en viejos discos duros, de encontrar y descubrir los restos ilustrados de nuestro pasado gráfico.
-
