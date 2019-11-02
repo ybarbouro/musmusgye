@@ -1,7 +1,7 @@
 ---
 title: Arqueología del cómic ecuatoriano
 object-id: comic
-listing-priority: 1
+listing-priority: 39
 day: 22 - 31
 month: OCTUBRE
 time: 09h00 - 17h30
