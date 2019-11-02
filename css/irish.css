@@ -4,6 +4,10 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:300');
 @import url('https://rsms.me/inter/inter.css');
 
+* {
+	box-sizing: border-box;
+}
+
 html {
 	--main-bg:#131a22;
 	--main-bg-1:#0C354F;
