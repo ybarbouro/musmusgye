@@ -732,39 +732,47 @@ div.premiere-kaki {
     background-color: #cfd9df;
   }
   .zona {
-    grid-column: 1 / -1;
-    grid-row: 1 / 6;
-    background-image: url(//cdn.filestackcontent.com/aP0BeioRjGeC6k4rSb4U);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center top;
-    z-index: 100;
-  }
-
-  .zona1 {
-    grid-column: 9 / -1;
-    grid-row: 1 / 3;
-    background-image: url(/assets/faal-2018.svg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center top;
-    z-index: 200;
-
-  }
-  .zona2 {
-    grid-column: 7 / span 4;
-    grid-row: 4 / 5;
-    font-weight: 100;
-    font-style: italic;
-    font-size: .875rem;
-    line-height: 1.3rem;
+    grid-column: 2 / 5;
+    grid-row: 1 / 4;
     text-align: left;
-    padding-left: 1.5rem;
-    margin-top: 2.5rem;
-    color: #fff;
+    padding-top: 6rem;
+    max-width: 22em;
     z-index: 300;
   }
 
+  .zona1 {
+    grid-column: 5 / 8;
+    grid-row: 1 / 4;
+    z-index: 100;
+
+  }
+  .zona2 {
+    grid-column: 9 / 12;
+    grid-row: 1 / 4;
+  }
+
+  .zona1, .zona2 > figure {
+    padding-top: 5em;
+    padding-left: .9em;
+  }
+
+  .zona1 img {
+    -webkit-box-shadow: 4px 4px 17px -2px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 4px 4px 17px -2px rgba(0, 0, 0, 0.75);
+    box-shadow: 4px 4px 17px -2px rgba(0, 0, 0, 0.75);
+    transform:rotate(-4deg);
+    width: 100%;
+    height:auto;
+  }
+
+  .zona2 img {
+    -webkit-box-shadow: 4px 4px 17px -2px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 4px 4px 17px -2px rgba(0, 0, 0, 0.75);
+    box-shadow: 4px 4px 17px -2px rgba(0, 0, 0, 0.75);
+    transform:rotate(4deg);
+    width: 100%;
+    height:auto;
+  }
   .zona3 {
     grid-column: 1 / -1;
     grid-row: 5 / 7;
@@ -773,23 +781,14 @@ div.premiere-kaki {
   }
 
   .zona4 {
-    grid-column: 2 / span 2;
-    grid-row: 1 / 6;
-    writing-mode: vertical-rl;
-    transform: rotate(180deg);
-    -moz-writing-mode: vertical-rl;
-    -moz-transform: rotate(180deg);
+    grid-column: 4 / 10;
+    grid-row: 4 / 5;
     z-index: 200;
+    text-align: center;
   }
 
-  .zona4 h2 {
-    font-family: 'league_gothicregular', sans-serif;
-    font-weight: 700;
-    font-size: 150px;
-    margin: 0, auto;
-    line-height: 0.75;
-    text-align: right;
-    color:rgba(255,179,0,.7)
+  .zona4 {
+    align-self: end;
   }
 
   .zona-quote{
@@ -969,27 +968,28 @@ div.premiere-kaki {
   .zona-quote {
     display:none;
   }
-  .zona2 {
-    grid-column: 3 / span 8;
-    grid-row: 3 / 5;
+
+  .zona {
+    grid-column: 2 / 6;
+    grid-row: 1 / 3;
   }
   .zona1 {
-    grid-column: 6 / -1;
+    grid-column: 5 / -2;
     grid-row: 1 / 3;
+  }
+  .zona2 {
+    grid-column: 2 / -2;
+    grid-row: 3 / 4;
   }
 
   .zona3 {
     margin-bottom: 0;
   }
   .zona4 {
-    grid-column: 2 / span 2;
-    grid-row: 1 / 4;
+    grid-column: 1 /-1;
+    grid-row: 4 / 5;
   }
 
-  .zona4 h2 {
-    font-weight: 400;
-    font-size: 80px;
-  }
 }
 /* ==========================================================================
    gridz classes
