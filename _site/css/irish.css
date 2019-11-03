@@ -4,6 +4,10 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:300');
 @import url('https://rsms.me/inter/inter.css');
 
+* {
+	box-sizing: border-box;
+}
+
 html {
 	--main-bg:#131a22;
 	--main-bg-1:#0C354F;
@@ -398,7 +402,7 @@ h2.animosa {
 }
 .bg-hero {
 	min-height: 50vh;
-	background-image: url(/assets/sj-19BRAND.svg);
+	background-image: url();
 	background-position: bottom center;
 	background-size: contain;
 	background-repeat: no-repeat;
