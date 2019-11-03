@@ -6,9 +6,11 @@ date: 2019-10-17 00:31:00
 comment: Entretenimiento | El Universo
 image: "//res.cloudinary.com/magnvs/image/upload/c_crop,g_north,h_1000,w_960,x_0,y_135/v1571322098/whatsapp_image_2019-10-16_at_16.58.18_q3wfp3.jpg"
 ffw: Leer más
----  
+---
 
-“El FAAL es una escuela de artes plásticas, allí pueden disfrutar de todo el proceso de elaboración de una obra de arte”, es el mensaje que Fernando Mayorga, uno de los representantes de la organización del Festival de Artes al Aire Libre, ofrece a propósito de la reanudación de la vigésima edición de este tradicional certamen.<br /><br/>El concurso, que se inauguró el pasado 7 de octubre, pero que tuvo que ser reprogramado por la situación en la que se encontraba el país a causa de movilizaciones por la eliminación del subsidio al combustible, desde ayer retomó sus actividades en los apartados de pintura, dibujo y escultura.  
+“El FAAL es una escuela de artes plásticas, allí pueden disfrutar de todo el proceso de elaboración de una obra de arte”, es el mensaje que Fernando Mayorga, uno de los representantes de la organización del Festival de Artes al Aire Libre, ofrece a propósito de la reanudación de la vigésima edición de este tradicional certamen.
+
+El concurso, que se inauguró el pasado 7 de octubre, pero que tuvo que ser reprogramado por la situación en la que se encontraba el país a causa de movilizaciones por la eliminación del subsidio al combustible, desde ayer retomó sus actividades en los apartados de pintura, dibujo y escultura.  
 
 El certamen de dibujo se realiza hasta este jueves, de 10:00 a 20:00, en la explanada del MAAC, mientras que la competencia de pintura se desarrollará hasta el domingo, en el mismo espacio y horario. Asimismo el apartado de escultura será hasta el 24 de octubre, de 10:00 a 18:00, en la Plaza Colón.
 
