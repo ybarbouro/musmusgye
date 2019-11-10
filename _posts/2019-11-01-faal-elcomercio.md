@@ -4,7 +4,7 @@ title: "El artista guayaquileño Luis Reinoso evocó el paro en una ‘firma’"
 subtitle: ' '
 date: 2019-11-01 00:33:00
 comment: Alexander García | El Comercio
-image: "https://res.cloudinary.com/magnvs/image/upload/v1572737215/5dbb73900aedb_f8e11l.jpg"
+image: "//res.cloudinary.com/magnvs/image/upload/v1572737215/5dbb73900aedb_f8e11l.jpg"
 ffw: Leer más
 ---
 La representación de las manifestaciones y protestas del paro nacional de octubre del 2019 de forma “sutil y encubierta” marca la propuesta ganadora de la categoría de pintura de la edición 20 del Festival de Artes al Aire Libre (FAAL).<br /><br />El artista guayaquileño Luis Reinoso Chiquito se adjudicó el primer premio del certamen y USD 3 000 por ‘Falso abstracto’, una pintura que enfrenta a policías y manifestantes de una protesta, disimulados en los garabatos de “una especie de firma”.<br /><br />La obra se exhibe desde ayer en el Museo Municipal de Guayaquil, en una exposición de medio centenar de obras ganadoras y destacadas de la categorías de escultura, dibujo y pintura del festival. La muestra permanecerá abierta hasta fines de noviembre para que la gente pueda conocer más sobre los procesos técnicos utilizados en esta ocasión.
