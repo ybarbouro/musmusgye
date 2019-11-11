@@ -109,7 +109,7 @@ Tres pelotas buscarán las mejores ideas del público para volver a reunirse y d
 
 ##### Esto es IMPRO
 
-Empieza con un presentador/improvisador cuya labor es incentivar al público a que participe y sea parte de este juego. Una vez que el público se haya familiarizado con la mecánica de la función, se pasa a presentar a los improvisadores que serán parte del show dentro de un marco de música y luces; se continúa con juegos o retos diferentes en los que el presentador pedirá consignas al público y serán realizadas por los improvisadores.
+Empieza con un presentador / improvisador cuya labor es incentivar al público a que participe y sea parte de este juego. Una vez que el público se haya familiarizado con la mecánica de la función, se pasa a presentar a los improvisadores que serán parte del show dentro de un marco de música y luces; se continúa con juegos o retos diferentes en los que el presentador pedirá consignas al público y serán realizadas por los improvisadores.
 
 **Actor:** Adrián Avilés.
 
