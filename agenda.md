@@ -74,17 +74,14 @@ La escenografía asemeja a una casa antigua llena de recuerdos de una época sin
 
 ### <i class="fa fa-star fa-lg star"></i> Miércoles 13 - 19H00
 
-##### La casa de Hiedra
+##### La elegida
 
-Al Inspector Gun le han llegado unos mensajes misteriosos y de mal gusto. Sin una sola pista donde comenzar, toma el caso una pareja de jóvenes agentes de criminalística. Los mensajes los guían hacia el descubrimiento de un caso no resuelto, un crimen ocurrido hace diez años.
+¨La Elegida¨ trata sobre la vida de la Virgen María y la razón por la que fue escogida por Dios para que sea la madre de su hijo, Jesús.
+La pieza teatral busca, una comprensión afectuosa del ser humano, una mirada sobre los acontecimientos de la vida de una mujer que llegó al mundo de la manera más sencilla y humilde y que dio un sí generoso para que se cumpliera en ella la promesa de salvación de Dios.
 
-La obra es una mezcla de sensaciones, un equilibrio entre el suspenso y la comedia, donde cada uno de los personajes le da un toque pintoresco a la situación dramática a la que se enfrentan.
-
-**Grupo:** CAST.
+**Artista:** Paola Leal.
 
 **Lugar:** Museo Municipal de Guayaquil.
-
-![casa de hiedra](//res.cloudinary.com/magnvs/image/upload/v1573096954/g8idohghvs0kpjtzghpb.jpg)
 
 #### CAPITULO III - COMEDIA
 ### <i class="fa fa-star fa-lg star"></i> Jueves 14 - 19H00
@@ -110,29 +107,23 @@ Tres pelotas buscarán las mejores ideas del público para volver a reunirse y d
 
 ### <i class="fa fa-star fa-lg star"></i> Sábado 16 - 19H00
 
-##### Secuestro / El call center
+##### Esto es IMPRO
 
-**SECUESTRO**: Esther se pasa horas y horas en su celular, su mama ya está cansada y le ordena limpiar su habitación. Mientras limpia su cuarto encuentra una radio antigua, el cual comienza a recibir una voz en medio de una conversación extraña, lo que llevará a Esther a investigar. No tiene mucho tiempo y hay que evitar un secuestro.
+Empieza con un presentador/improvisador cuya labor es incentivar al público a que participe y sea parte de este juego. Una vez que el público se haya familiarizado con la mecánica de la función, se pasa a presentar a los improvisadores que serán parte del show dentro de un marco de música y luces; se continúa con juegos o retos diferentes en los que el presentador pedirá consignas al público y serán realizadas por los improvisadores.
 
-Definido por el propio elenco como un drama con un toque de comedia, la obra mantiene al espectador en una constante vorágine de suspenso y humor.
+**Actor:** Adrián Avilés.
 
-**EL CALL CENTER**:  Urrecho es un joven universitario que trabaja en la empresa F.E.A, un call center donde se atienden llamadas y quejas de todos los servicios posibles. No es un trabajo para cualquiera y peor aún si tienes como jefe al supervisor Caldito. No faltará mucho tiempo para que Urrecho, pierda la cordura.
-
-**Grupo:** CAST.
-
-**Lugar:** Sector norte – Los Vergeles.
-
-![secuestro](//res.cloudinary.com/magnvs/image/upload/v1573096656/im0ahanjvdsjdlvtew9q.jpg)
+**Lugar:** Sector norte – Los Vergeles "Parque Chiquinquirá".
 
 ### <i class="fa fa-star fa-lg star"></i> Lunes 18 - 19H00
 
-##### Secuestro / El call center
+##### Improvisar o Morir  
 
-**Grupo:** CAST.
+¿Cómo Funciona? El público pone títulos de películas de terror o suspenso, títulos originales creados por el público y 4 improvisadores las recrearan. Un espectáculo único e irrepetible, al final elegirá el destino de estos contadores de historias
+
+**Artista:** Ruth Coello.
 
 **Lugar:** Museo Municipal de Guayaquil
-
-![call center](//res.cloudinary.com/magnvs/image/upload/v1573096653/mzysrih4ixoojcy2miww.jpg)
 
 ### <i class="fa fa-star fa-lg star"></i> Martes 19 - 19H00
 
