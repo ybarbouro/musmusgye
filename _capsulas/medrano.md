@@ -12,6 +12,6 @@ ext-url: "/capsulas/"
 **EXPOSICIÓN DE OMAR MEDRANO**  
 Los razonamientos sobre la realidad vivida y la existente de lo que abarca el concepto “SOBRENATURAL” en la historia del ser humano da un motivo, esperanza y fe de continuar y proseguir en la espera que llegue lo que no se ve.
 
-El cambio que transformó a la humanidad con la llegada de un SER SUPERIOR, que incorporó a la cotidianidad humana la esperanza de una mejor vida, pero que hoy prevalece en el planeta un modelo de guerra y terror, incluso en naciones que pelean en nombre de su Dios en la actualidad. Pero con la llegada de la divinidad, la sociedad fue humanizándose en espíritu de plenitud.
+El cambio que transformó a la humanidad con la llegada de un SER SUPERIOR, que incorporó a la cotidianidad humana la esperanza de una mejor vida, pero que hoy prevalece en el planeta un modelo de guerra y terror, incluso en naciones que pelean en nombre de su Dios en la actualidad.
 
 La seguridad de creer en CRISTO JESÚS provoca incrementos espirituales perpetuos, comparativos a las pléyades e incorporadas a una materia creativa terrenal, intangible sublime y etérea como la pintura, adaptable a obras de arte que trasfieren amor y pureza. Las obras de mi trabajo son acompañados por la tutela de un SER SUPERIOR.
