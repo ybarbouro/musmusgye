@@ -9,7 +9,7 @@ place: Sala de Artes Temporales
 image: "//res.cloudinary.com/magnvs/image/upload/v1573594077/22ene_mdubmk.jpg"
 ext-url: "/capsulas/"
 ---
-**EXPOSICIÓN**  
+**EXPOSICIÓN DE OMAR MEDRANO**  
 Los razonamientos sobre la realidad vivida y la existente de lo que abarca el concepto “SOBRENATURAL” en la historia del ser humano da un motivo, esperanza y fe de continuar y proseguir en la espera que llegue lo que no se ve.
 
 El cambio que transformó a la humanidad con la llegada de un SER SUPERIOR, que incorporó a la cotidianidad humana la esperanza de una mejor vida, pero que hoy prevalece en el planeta un modelo de guerra y terror, incluso en naciones que pelean en nombre de su Dios en la actualidad. Pero con la llegada de la divinidad, la sociedad fue humanizándose en espíritu de plenitud.
