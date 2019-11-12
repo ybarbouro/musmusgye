@@ -3,7 +3,7 @@ layout: post
 title: "Una guía teatralizada de los hechos históricos de la ciudad"
 subtitle: 'El programa se denomina “Historia Viva” y se desarrolla hasta mañana en el Museo Municipal. Diez actores guían a los visitantes a través de cuatro salas.'
 date: 2019-11-08 00:00:00
-comment: Juan Ponce Merchán| Expreso
+comment: Juan Ponce Merchán | Expreso
 image: "//res.cloudinary.com/magnvs/image/upload/v1573353784/jbcvzxqnrjfcmlzqpwjb.jpg"
 ffw: Leer más
 ---
