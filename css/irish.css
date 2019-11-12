@@ -667,7 +667,7 @@ h2.animosa {
     padding: 0 0 1em 0}
 
 .site-section-board{
-				background-image: url(/assets/blue.svg), radial-gradient(#F6FBFF 50%, #93a5cf 100%);
+				background-image: url(/assets/blue.svg), linear-gradient(to top, #D7CCC8 60%, #93a5cf 100%);
 				background-size: 100% 100%;
 				background-blend-mode:soft-light;
 				background-position: center top;
