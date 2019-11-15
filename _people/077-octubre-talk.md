@@ -3,7 +3,7 @@ title: La Revolución de Octubre
 subtitle: Conversatorio
 day: 19
 month: NOVIEMBRE
-place: Guayaquil Tennis Club- Sede Centro
+place: Guayaquil Tenis Club- Sede Centro
 time: 18h30
 listing-priority: 1
 wikipedia-url: ' '
