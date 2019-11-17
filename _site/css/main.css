@@ -585,6 +585,12 @@ padding-bottom: 4em;
   color:#ccc;
 }
 
+.premiere-purple {
+  position: relative;
+  background-color: #93a5cf;
+  color:#ccc;
+}
+
 .premiere-b h3 {
    color: #fff;
 }
