@@ -700,6 +700,7 @@ img.tilt {
 	transform:rotate(4deg);
 	width: 100%;
 	height:auto;
+	mix-blend-mode:multiply;
 }
 .site-section-gray{
   background-color: slategray;
