@@ -117,7 +117,7 @@ Empieza con un presentador / improvisador cuya labor es incentivar al público a
 
 ### <i class="fa fa-star fa-lg star"></i> Lunes 18 - 19H00
 
-##### Improvisar o Morir  
+##### Improvisar o Morir
 
 ¿Cómo Funciona? El público pone títulos de películas de terror o suspenso, títulos originales creados por el público y 4 improvisadores las recrearan. Un espectáculo único e irrepetible, al final elegirá el destino de estos contadores de historias
 
@@ -137,7 +137,7 @@ Gino es un actor y escritor frustrado pero al mismo tiempo motivado porque Guaya
 
 ![pedro ortiz](//res.cloudinary.com/magnvs/image/upload/v1573097158/x2z8x23oqp3loeh5gsep.jpg)
 
-### <i class="fa fa-star fa-lg star"></i> Miércoles 20 - 19H00
+### <i class="fa fa-star fa-lg star"></i> Miércoles 20 - 17H30
 
 ##### ¿Quién me quita lo bailado?
 
