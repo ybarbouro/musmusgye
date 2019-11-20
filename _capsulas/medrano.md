@@ -6,7 +6,7 @@ day: 22 NOV - 14 DIC
 month: ' '
 time: 09h00 - 17h30
 place: Sala de Artes Temporales
-image: "//cdn.filestackcontent.com/yORkHv0RTfelJtWiQKpi"
+image: "//res.cloudinary.com/magnvs/image/upload/v1574287777/pp1nlhdiiybfyvqs42va.jpg"
 ext-url: "/capsulas/"
 ---
 **EXPOSICIÓN DE OMAR MEDRANO**
