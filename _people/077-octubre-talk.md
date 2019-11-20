@@ -5,7 +5,7 @@ day: 19
 month: NOVIEMBRE
 place: Guayaquil Tenis Club- Sede Centro
 time: 18h30
-listing-priority: 1
+listing-priority: 077
 wikipedia-url: ' '
 image: "//res.cloudinary.com/magnvs/image/upload/v1573783385/tbyplxptrai4ozxhmsvb.jpg"
 ---
