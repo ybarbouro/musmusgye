@@ -1,6 +1,6 @@
 ---
 title: Recorrido de Humboldt por Ecuador culmina en Guayaquil
-subtitle: Conferencias
+subtitle: ' '
 day: 3
 month: DICIEMBRE
 place: Auditorio del Museo Municipal
