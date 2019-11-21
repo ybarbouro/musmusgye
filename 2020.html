@@ -11,7 +11,7 @@
   <style>
     .leftie {
       text-align: left; 
-      margin-bottom:3rem
+      margin-bottom:4rem;
 }
     hr.style-one {
       border: 0;
@@ -25,17 +25,17 @@
   <div class="site-section-head">
   <h2 class="league-sm">DIRECCION DE CULTURA</h2>
     <p><strong>Proyección de exposiciones y eventos 2020</strong></p>
+    
+  <div class="container">
     <hr class="style-one" />
-  <div class="container">  
   <div
     data-stein-url="https://api.steinhq.com/v1/storages/5d86c23a95caec04c53f70c2/agenda"
   >
     <div class="leftie">
       <h2 class="league-sm">{{nombre}}</h2>
-      <p><strong>Dirección: {{adress}}</strong></p>
-      <p><strong>Tel: + {{tel}}</strong></p>
       <p><strong>{{fecha}} | {{hora}}</strong></p>
-      <p><strong>{{status}}</strong></p>
+      <p><strong>Sala: {{adress}}</strong></p>
+      <p><strong>Organiza: {{status}} | Tel: + {{tel}}</strong></p>
       <p>
         {{info}}
       </p>
