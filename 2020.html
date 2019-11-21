@@ -9,28 +9,28 @@
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="/css/irish.css">
   <style>
-    .leftie {text-align: left;}
+    .leftie {text-align: left; margin-bottom:3rem;}
   </style>
 </head>
 <body>
   <div class="site-section-head">
-  <h2 class="league-sm">DIRECCIÓN DE CULTURA</h2>
+  <h2 class="league-four">DIRECCIoN DE CULTURA</h2>
     <p><strong>Proyección de exposiciones y eventos 2020</strong></p>
+    <hr />
   <div class="container">  
   <div
     data-stein-url="https://api.steinhq.com/v1/storages/5d86c23a95caec04c53f70c2/agenda"
   >
     <div class="leftie">
-      <h1>{{nombre}}</h1>
-      <h4>Dirección: {{adress}}</h4>
-      <h4>Tel: + {{tel}}</h4>
-      
+      <h2 class="league-sm">{{nombre}}</h2>
+      <p><strong>Dirección: {{adress}}</strong></p>
+      <p><strong>Tel: + {{tel}}</strong></p>
+      <p><strong>{{fecha}} | {{hora}}</strong></p>
+      <p><strong>{{status}}</strong></p>
       <p>
         {{info}}
       </p>
-      <h3>{{fecha}} | {{hora}}</h3>
-      <h3><span>{{status}}</span></h3>
-    </div>
+    </div><!-- END leftie -->
   </div>
   </div><!-- END container -->
  </div><!-- END site-section-head -->
