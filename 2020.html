@@ -19,6 +19,12 @@
       background: #333;
       background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
+     hr.style-two {
+      border: 0;
+      height: 1px;
+      background: #eee;
+      background-image: linear-gradient(to right, #ccc, #eee, #ccc);
+}
   </style>
 </head>
 <body>
@@ -35,10 +41,11 @@
       <h2 class="league-sm">{{nombre}}</h2>
       <p><strong>{{fecha}} | {{hora}}</strong></p>
       <p><strong>Sala: {{adress}}</strong></p>
-      <p><strong>Organiza: {{status}} | Tel: + {{tel}}</strong></p>
+      <p><small>Organiza: {{status}} | Tel: + {{tel}}</small></p>
       <p>
         {{info}}
       </p>
+      <hr class="style-two" />
     </div><!-- END leftie -->
   </div>
   </div><!-- END container -->
