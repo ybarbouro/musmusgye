@@ -9,7 +9,11 @@
 /* ==========================================================================
    CCENG
    ========================================================================== */
-
+.cceng {
+  position: relative;
+  background-color: #93a5cf;
+  color:#ccc;
+}
  
 
 /* ==========================================================================
@@ -525,12 +529,6 @@ padding-bottom: 4em;
 .premiere-b {
   position: relative;
   background-color: #131A22;
-  color:#ccc;
-}
-
-.premiere-purple {
-  position: relative;
-  background-color: #93a5cf;
   color:#ccc;
 }
 
