@@ -10,10 +10,10 @@
    CCENG
    ========================================================================== */
 .cceng {
-  position: relative;
-  background-color: #5e5e5e;
-  color:#ccc;
-  margin-top: 0; 
+  background-color:#aaa;
+  color:#333;
+  overflow:hidden;
+  padding: 0 0 1em 0
 }
  
 
