@@ -19,6 +19,16 @@
   background-size: contain;
   background-position: left bottom;
 }
+
+h2.cce {
+  font-family:"Oswald", sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+  color: #ffa500;
+  padding-bottom: 1rem;
+  line-height: 3.3rem;
+  letter-spacing: 3px;
+}
  
 
 /* ==========================================================================
