@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <title>Gestión 2020</title>
+  <link rel=stylesheet href="https://fonts.googleapis.com/css?family=Open+Sans:400,700">
+  <link rel="stylesheet" href="/css/normalize.css">
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/irish.css">
+  <style>
+    .leftie {
+      text-align: left; 
+      margin-bottom:4rem;
+}
+    hr.style-one {
+      border: 0;
+      height: 1px;
+      background: #333;
+      background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+     hr.style-two {
+      border: 0;
+      height: 1px;
+      background: #bada55;
+      background-image: linear-gradient(to right, #eee, #bada55, #eee);
+}
+  </style>
+</head>
+<body style="background-color:rgba(244,235,228,.4)">
+  <h2 class="league-sm">DIRECCION DE CULTURA</h2>
+    <p><strong>Resumen de exposiciones y eventos 2019</strong></p>
+    
+  <div class="container">
+    <hr class="style-one" />
+  <div
+    data-stein-url="https://api.steinhq.com/v1/storages/5d86c23a95caec04c53f70c2/agenda"
+  >
+    <div class="leftie">
+      <h2 class="league-sm">{{nombre}}</h2>
+      <p><strong>{{fecha}} | {{hora}}</strong></p>
+      <p><strong>Sala: {{sala}}</strong></p>
+      <p><small>Organiza: {{organiza}} | Tel: + {{tel}}</small></p>
+      <p>
+        {{info}}
+      </p>
+      <hr class="style-two" />
+    </div><!-- END leftie -->
+  </div>
+  </div><!-- END container -->
+
+<script src="https://unpkg.com/stein-expedite@0.0.1/dist/index.js"></script>
+</body>
+</html>
