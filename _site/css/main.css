@@ -12,12 +12,13 @@
 .cceng {
   color:#fff;
   overflow:hidden;
-  padding: 0 0 1em 0;
+  padding: 3rem 0 3.7rem 0;
   background-color:#5e5e5e;
   background-image: url(//res.cloudinary.com/magnvs/image/upload/v1574739210/iyq4p4hf2ga6kqgrcxrb.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left bottom;
+  background-position-x: 4.6rem;
 }
 
 h2.cce {
@@ -29,16 +30,22 @@ h2.cce {
   line-height: 3.3rem;
   letter-spacing: 3px;
 }
- 
+
 @media screen and (max-width:600px){
+.cceng {
+    padding: 0 0 3.7rem 0;
+    background-color:#5e5e5e;
+    background-position: center bottom;
+    background-size: 123vw;
+  }
 h2.cce {
-  font-family:"Oswald", sans-serif;
-  font-weight: bold;
   font-size: 2.5rem;
-  color: #ffa500;
   padding-bottom: 1rem;
-  line-height: 3.8rem;
   letter-spacing: 1px;
+}
+.cceng p {
+  margin-bottom: 4.5rem;
+  margin-top: 2rem;
 }
 }
 /* ==========================================================================
