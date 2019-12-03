@@ -1,6 +1,6 @@
 <div class="premiere-c">
   <main style="margin-top:0;">
-  <div class="info1 leftie" style="padding:0;">
+  <div class="info1 info-bg leftie" style="padding:0;">
       {% for post in site.posts offset: 0 limit: 1 %}
     <div class="top-anchor">
       {% if post.image %}
@@ -18,7 +18,7 @@
     {% endfor %}
   </div>
 
-    <div class="info3">
+    <div class="info3 info-bg">
       {% assign capsulas = site.capsulas | sort: 'listing-priority' %}
       {% for capsulas in capsulas limit: 1 %}
 
@@ -57,7 +57,7 @@
 
   </div>
 
-<div class="info4 leftie" style="padding:0;">
+<div class="info4 info-bg leftie" style="padding:0;">
   {% assign person = site.people | sort: 'listing-priority' %}
   {% for person in person limit: 1 %}
 
