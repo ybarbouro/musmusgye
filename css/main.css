@@ -1544,7 +1544,7 @@ div.premiere-kaki {
 	font-weight: bold;
 }
 
-@media screen and (max-width: 340px){
+@media screen and (max-width: 320px){
   .event {
      grid-gap: 10px;
      display: grid;
