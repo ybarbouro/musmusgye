@@ -1450,126 +1450,47 @@ div.premiere-kaki {
 /* ==========================================================================
    Grid eventos
    ========================================================================== */
-   .event {
-   		grid-gap: 10px;
-   		display: grid;
-   		grid-template-columns: 1fr 1fr 2fr 1fr .4789em;
-      background-color: #ECEFF1;
-      padding-top: 1em;
-      padding-bottom: 1em;
-      text-align: left;
-   	}
-
-   	.event-intro{
-   		grid-column:  1;
-   		display: grid;
-   		grid-gap: 10px;
-   		grid-template-columns: 1fr;
-      padding: 1em;
-   	}
-
-    .event-article {
-      grid-column:  2;
-      display: grid;
-      grid-gap: 10px;
-      grid-template-columns: 1fr;
-      padding: 1em;
-    }
-   	.shaded {
-   		grid-column: 4;
-   		align-self: flex-start;
-   	}
-
-   	.img-01 img,
-   	.img-02 img,
-   	.img-03 img {
-     		width: 100%;
-     		height: 100%;
-     		object-fit: cover;
-   	}
-
-   	.img-01,
-   	.img-03 {
-   		grid-column: 3;
-   	}
-
-   	.img-01 {
-   		grid-row: 2;
-   	}
-
-   	.img-02 {
-   		align-self: flex-end;
-   		grid-row: 2;
-   	}
-
-    div .main-content p{
-    	margin-bottom: 0;
-    }
-
-.shaded {
+.for-grids {
+	background-color: #ECEFF1;
+	padding-top: 1em;
+}
+.grids {
+	grid-column: full;
 	display: grid;
-	grid-gap: 10px;
-	grid-template-rows: auto auto;
+	grid-gap: 1rem;
+	grid-template-columns: repeat(auto-fill, minmax(295px, 1fr));
+	padding-left: 1%;
+	padding-right: 1%;
 }
 
-.shaded {
-	padding-top: 30px;
+.item {
+	text-align: left;
+	background-color: rgba(255,255,255,.4);
+	border-radius: 3px;
+	margin-bottom: 1em;
+}
+
+.item img {
 	margin: 0;
-	grid-row: 1;
-	display: flex;
-	flex-direction: column;
-	background-color: #801830;
-	color: white;
+	padding-bottom: 1rem;
+	width: 100%;
+	border-radius: 3px 3px 0 0;
 }
 
-.event-wrap {
-  padding:1em;
+.item h1, h2 {
+	padding: 0;
+	margin-bottom:0;
 }
 
-.event-wrap h3 {
-	border-bottom: 1px solid #e5e5e5;
-	margin-bottom: 20px;
-	color: white;
-  letter-spacing: 1px;
-	padding-bottom: 20px;
+.item h3 {
+	margin:.7rem 0;
 }
 
-.shaded dl {
-	display: grid;
-	grid-template-columns: 1fr 1fr;
-	grid-gap: 10px;
-	font-style: italic;
+.item p {
+	padding: 0;
 }
 
-.shaded dt {
-	font-weight: bold;
-}
 
-@media screen and (max-width: 420px){
-  .event {
-     grid-gap: 10px;
-     display: grid;
-     grid-template-columns: 1fr;
-     padding-top: 0;
-     padding-bottom:0;
-   }
-
-   .event-article {
-     grid-column:  1;
-     display: grid;
-     grid-gap: 10px;
-     grid-template-columns: 1fr;
-     padding: 1em;
-   }
-    .shaded {
-      grid-column: 1;
-      grid-row: 4 / 5;
-    }
-    .img-01,
-   	.img-03 {
-   		grid-column: 1;
-   	}
-}
 /* ==========================================================================
    Grid classes
    ========================================================================== */
