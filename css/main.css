@@ -51,13 +51,14 @@ h2.cce {
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
+/*
 
 html {
     font-size: 1em;
     line-height: 1.4;
 }
 
-/*
+
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
  *
