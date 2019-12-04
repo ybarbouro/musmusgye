@@ -5,7 +5,7 @@ day: 3
 month: DICIEMBRE
 place: Auditorio del Museo Municipal
 time: 18h00
-listing-priority: 1
+listing-priority: 76
 wikipedia-url: ' '
 image: "//res.cloudinary.com/magnvs/image/upload/v1574271866/zdmf5dllvkv70viq8pjo.jpg"
 ---
