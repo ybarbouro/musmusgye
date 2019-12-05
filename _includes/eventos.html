@@ -1,17 +1,17 @@
 <div class="for-grids">
 <div class="grids">
-	{% assign capsulas = site.capsulas | sort: 'listing-priority' %}
-	{% for capsulas in capsulas limit: 3 %}  
+	{% assign destacadas = site.destacadas | sort: 'listing-priority' %}
+	{% for destacadas in destacadas limit: 3 %}  
 
-<div class="item">
-	{% if capsulas.image %}
-	<img src="{{ capsulas.image }}" alt="Fotografía de {{ capsulas.title }}"/>
+<div class="item-grid">
+	{% if destacadas.image %}
+	<img src="{{ destacadas.image }}" alt="Fotografía de {{ destacadas.title }}"/>
 	{% endif %}  
-	<h2 class="league-sm">{{ capsulas.title }}</h2>
-	{% if capsulas.subtitle %}
-	<h3>{{ capsulas.subtitle }}</h3>
+	<h2 class="league-sm">{{ destacadas.title }}</h2>
+	{% if destacadas.subtitle %}
+	<h3 class="league-gray">{{ destacadas.subtitle }}</h3>
 	{% endif %}
-	<p>{{ capsulas.content }}</p>
+	<p>{{ destacadas.content }}</p>
 </div>
 {% endfor %}
 </div>

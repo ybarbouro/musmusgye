@@ -28,4 +28,4 @@ defaults:
   - scope:
       type: capsulas
     values:
-      layout: capsule
+      layout: capsule   
