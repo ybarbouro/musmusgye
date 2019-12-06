@@ -1462,14 +1462,14 @@ div.premiere-kaki {
 	padding-left: 1%;
 	padding-right: 1%;
   background-image: url(/assets/bicentenario.svg);
-  background-size: 20vw;
+  background-size: 21vw;
   background-repeat: no-repeat;
   background-position: bottom right;
 }
 
 .item-grid {
 	text-align: left;
-	background-color: rgba(255,255,255,.4);
+	background-color: rgba(236,239,241,.7);
 	border-radius: 4px;
 	margin-bottom: 1em;
 }
