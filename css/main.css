@@ -1372,34 +1372,47 @@ div.premiere-kaki {
 
 .item-grid {
 	text-align: left;
-	background-color: rgba(236,239,241,.7);
-	border-radius: 4px;
+	border-radius: 3px;
 	margin-bottom: 1em;
+}
+
+.item-grid:nth-child(1) {
+  background-color: rgba(255,255,255,.6);
+}
+.item-grid:nth-child(2) {
+  background-color: rgba(255,255,255,.4);
+}
+.item-grid:nth-child(2) {
+  background-color: rgba(255,255,255,.2);
 }
 
 .item-grid img {
 	margin: 0;
 	padding-bottom: 1rem;
 	width: 100%;
-	border-radius: 4px;
+	border-radius: 3px;
 }
 
 .item-grid h1, h2 {
-	padding: 0;
+  padding-left: 1rem;
+  padding-right: 1rem;
 	margin-bottom:0;
 }
 
 .item-grid h3 {
 	margin:.7rem 0;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .item-grid p {
-	padding: 0;
+	padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 @media screen and (max-width: 360px){
   .item-grid:last-child {
-    margin-bottom: 300px;
+    margin-bottom: 275px;
   }
   .grids {
     background-image: url(/assets/bicentenario.svg);
