@@ -1,7 +1,7 @@
 ---
 title: Serenata Guayaca
 object-id: coro-adultos
-listing-priority: 44
+listing-priority: 097
 day: 30
 month: AGO
 time: 18h00
