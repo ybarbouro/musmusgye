@@ -1,7 +1,7 @@
 ---
 title: Exposición "La caña guadúa en el arte y el diseño".
 object-id: diseño
-listing-priority: 40
+listing-priority: 099
 day: 24
 month: SEPTIEMBRE
 time: 19H00
