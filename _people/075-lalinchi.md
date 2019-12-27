@@ -5,7 +5,7 @@ day: 4
 month: DICIEMBRE
 place: Sala Polivalente
 time: 19h00
-listing-priority: 1
+listing-priority: 075
 wikipedia-url: ' '
 image: "//res.cloudinary.com/magnvs/image/upload/v1575355859/prdazko1roepl8oyqa9j.jpg"
 ---
