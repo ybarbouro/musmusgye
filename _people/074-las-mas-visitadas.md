@@ -1,14 +1,12 @@
 ---
 title: Las 5 muestras artísticas más visitadas del 2019
 subtitle: 'Instituciones, galerías y museos de Guayaquil acogieron diversas exposiciones individuales y colectivas.'
-day: ''
-month: ''
 place: Por: JPM
 time: 'Sociedad | Expreso'
 listing-priority: 1
-wikipedia-url: ''
 image: "//res.cloudinary.com/magnvs/image/upload/v1563980381/gardeneira_expreso_kewja3.jpg"
 ---
+
 Fue un año donde destacaron nuevas propuestas artísticas y revelaciones. Tanto museos, galerías e intituciones culturales de Guayaquil, acogieron diversas exposiciones artísticas (individuales y colectivas) en este 2019. Así mismo, salones de pinturas y binacionalkes. Por ello EXPRESO le presenta cinco muestras que el día que abrieron sus puertas, fueron colmadas por visitantes de todas las edades.  
 
 ### Salón de Julio
