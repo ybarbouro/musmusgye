@@ -1,7 +1,7 @@
 ---
-title: Las 5 muestras artísticas más visitadas del 2019
-subtitle: 'Instituciones, galerías y museos de Guayaquil acogieron diversas exposiciones individuales y colectivas.'
-place: Por: JPM
+title: "Las 5 muestras artísticas más visitadas del 2019"
+subtitle: 'Instituciones, galerías y museos de Guayaquil acogieron diversas exposiciones individuales y colectivas'
+place: JPM
 time: 'Sociedad | Expreso'
 listing-priority: 1
 image: "//res.cloudinary.com/magnvs/image/upload/v1563980381/gardeneira_expreso_kewja3.jpg"
