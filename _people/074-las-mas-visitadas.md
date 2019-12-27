@@ -7,7 +7,7 @@ listing-priority: 1
 image: "//res.cloudinary.com/magnvs/image/upload/v1563980381/gardeneira_expreso_kewja3.jpg"
 ---
 
-Fue un año donde destacaron nuevas propuestas artísticas y revelaciones. Tanto museos, galerías e intituciones culturales de Guayaquil, acogieron diversas exposiciones artísticas (individuales y colectivas) en este 2019. Así mismo, salones de pinturas y binacionalkes. Por ello EXPRESO le presenta cinco muestras que el día que abrieron sus puertas, fueron colmadas por visitantes de todas las edades.  
+Fue un año donde destacaron nuevas propuestas artísticas y revelaciones. Tanto museos, galerías e intituciones culturales de Guayaquil, acogieron diversas exposiciones artísticas (individuales y colectivas) en este 2019. Así mismo, salones de pinturas y binacionales. Por ello EXPRESO le presenta cinco muestras que el día que abrieron sus puertas, fueron colmadas por visitantes de todas las edades.  
 
 ### Salón de Julio
 **Una armadura feminista fue la ganadora**  
