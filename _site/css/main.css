@@ -132,103 +132,6 @@ textarea {
 /* ==========================================================================
   notes
    ========================================================================== */
-.notes {
-  margin-top: 5%;
-  margin-bottom: 10px;
-  padding-left: 20px!important;
-  padding-right: 20px;
-  background-color: rgba(207,217,223,.7);
-  border-radius: 4px;
-}
-
-.notes h2  {
-  font-family: "Oswald", sans-serif;
-  margin: 1.3rem 0;
-  font-weight: 400;
-  text-transform: uppercase;
-}
-
-.notese {
-  margin-top: 10%;
-  margin-left: 1vw;
-  padding-top: 10vh;
-  padding-right: 10px;
-}
-
-.notese h1  {
-  font-family:"Akkurat", sans-serif;
-  font-weight: bold;
-  font-size: 4.3rem;
-  color: var(--vino);
-  letter-spacing: 1px;
-  line-height: 4.3rem;
-  text-align: right;
-  text-shadow:2px 2px 0 #000;
-}
-
-.notes img {
-  border-radius: 4px;
-}
-
-.notes-bg {
-  background-color: #f8f8f8;
-  background-image: url(//res.cloudinary.com/magnvs/image/upload/v1564368906/qagjstio84rhnpsmdph1.jpg);
-  background-size: cover;
-  width: 100%;
-  min-height: 1200px;
-}
-
-@media screen and (max-width: 1500px){
-  .notes-bg {min-height: 1000px
-  }
-}
-@media screen and (max-width: 720px){
-  .notes-bg {min-height: 700px;
-  }
-  .notes h2 { max-width: 83%;
-  }
-}
-@media screen and (max-width: 420px){
-  .notes-bg {min-height: 375px
-  }
-}
-@media screen and (max-width: 370px){
-  .notes-bg {min-height: 210px;
-  }
-  .notes {
-  margin-top: 0;
-  padding-left: 10px!important;
-  padding-right: 10px;
-  background-color: rgba(207,217,223,.7);
-  border-radius: 0;
-  margin-bottom: 0;
-}
- .notes h2  {
-  margin: 1.3rem 0;
-  font-size: 2.1rem;
-  line-height: 2.4rem;
-  font-weight: 400;
-  text-transform: uppercase;
-}
- .notese {
-  margin-top: 0;
-  margin-left: 1vw;
-  padding-top: 5vh;
-  padding-right: 7px;
-}
-
-.notese h1  {
-  font-family:"Akkurat", sans-serif;
-  font-weight: bold;
-  font-size: 3rem;
-  color: var(--vino);
-  letter-spacing: 0;
-  line-height: 3.3rem;
-  text-align: left;
-  text-shadow:2px 2px 0 #000;
-}
-
-}
 
 /* ==========================================================================
   jum + tca img
@@ -311,12 +214,12 @@ img.wide-alt {
        margin-top: 0;
        margin-bottom: 0;
        position:relative;
-       background: url(//cdn.filestackcontent.com/TeoYlAxSR32g31KbMKiu)#ECEFF1;
-       background-blend-mode:multiply;
+       background-image: linear-gradient(to top, #ffffff 0%, #5BAEF6 100%);
+       background-blend-mode: normal;
        background-repeat: no-repeat;
        background-size: cover;
        background-position: center top;
-       min-height: 67vh;
+       min-height: 40vh;
    }
  .main-c {
        margin-top: 0;
@@ -483,12 +386,12 @@ span.suscribing{
 .main { margin-top: 0;
         margin-bottom: 0;
         position:relative;
-        background: url(//cdn.filestackcontent.com/TeoYlAxSR32g31KbMKiu) #93a5cf;
+        background-image: linear-gradient(to top, #ffffff 0%, #5BAEF6 100%);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: top left;
-        background-blend-mode:multiply;
-        min-height: 100vh;
+        background-blend-mode: normal;
+        height: 60vh;
     }
 .last-main-title h1 {
       font-family: 'league_gothicregular', sans-serif;
@@ -582,7 +485,7 @@ padding-bottom: 4em;
   margin-right:auto;
 }
 .dali-logo {
-  max-width:50%;
+  max-width:25%;
   margin: 0;
   margin-left:auto;
   margin-right:auto;
@@ -697,7 +600,7 @@ div.premiere-kaki {
     }
 
     .dali-logo {
-      min-width:90vw;
+      min-width:50vw;
     }
   }
 /* ==========================================================================
@@ -1349,7 +1252,7 @@ div.premiere-kaki {
       }
 
       .top-anchor1 p, ul {
-      color: rgba(36,57,73,1);
+      color: #1a1a1a;
       }
 
       .top-anchor1 ul {
@@ -1461,35 +1364,68 @@ div.premiere-kaki {
 	grid-template-columns: repeat(auto-fill, minmax(295px, 1fr));
 	padding-left: 1%;
 	padding-right: 1%;
+  background-image: url(/assets/bicentenario.svg);
+  background-size: 21vw;
+  background-repeat: no-repeat;
+  background-position: bottom right;
 }
 
 .item-grid {
 	text-align: left;
-	background-color: rgba(255,255,255,.4);
 	border-radius: 3px;
 	margin-bottom: 1em;
+}
+
+.item-grid:nth-child(1) {
+  background-color: rgba(255,255,255,.7);
+}
+.item-grid:nth-child(2) {
+  background-color: rgba(255,255,255,.5);
+}
+.item-grid:nth-child(3) {
+  background-color: rgba(255,255,255,.4);
 }
 
 .item-grid img {
 	margin: 0;
 	padding-bottom: 1rem;
 	width: 100%;
-	border-radius: 3px 3px 0 0;
+	border-radius: 3px;
 }
 
-.item-grid h1, h2 {
-	padding: 0;
+.item-grid h1 {
+  padding-left: 1rem;
+  padding-right: 1rem;
 	margin-bottom:0;
+}
+
+.item-grid h2 {
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .item-grid h3 {
 	margin:.7rem 0;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .item-grid p {
-	padding: 0;
+	padding-left: 1rem;
+  padding-right: 1rem;
 }
 
+@media screen and (max-width: 360px){
+  .item-grid:last-child {
+    margin-bottom: 275px;
+  }
+  .grids {
+    background-image: url(/assets/bicentenario.svg);
+    background-size: 80vw;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+  }
+}
 
 /* ==========================================================================
    Grid classes

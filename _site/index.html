@@ -39,6 +39,8 @@
         <link rel="stylesheet" href="/css/jquery.bxslider.css">
         <link rel="stylesheet" href="/css/modal-video.min.css">
         <link rel="stylesheet" type="text/css" href="/fonts/font-awesome-4.7.0/css/font-awesome.min.css" />
+        <link rel="stylesheet" href="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
+   <script src="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"></script>
         <script src="/js/vendor/modernizr-2.8.3.min.js"></script>
         <style>
 /* NOTE: The styles were added inline because Prefixfree needs access to your styles and they must be inlined if they are on local disk! */
@@ -190,6 +192,12 @@ text {
   font-family: 'Inter', sans-serif;
   font-weight: 700;
 }
+
+.ct-series-b {
+  fill:#bada55;
+  stroke: white;
+  stroke-width: 4px;
+}
   </style>
 </head>
 
@@ -216,27 +224,27 @@ text {
               </ul>
             </div>
 
-<div class="site-promo" style="margin-top:7em;">
+<div class="site-promo">
 
 <div class="wow bounceInDown">
     <div  class="dali-logo">
-      <img src="/assets/sj-19.svg"/>
+      <img src="/assets/bicentenario-nn.svg"/>
     </div>
   </div>
 
-  <h2>EXPOSICIÓN 2019<br/>31.OCT&mdash;29.NOV<br/>Salas del Museo Municipal</h2>
+  <h2>1820 &mdash; 2020</h2>
 
- <div class="cta-option" style="padding-bottom:10px!important">
+ <!--  <div class="cta-option" style="padding-bottom:10px!important">
           <a class="btn btn-download" href="//cdn.filestackcontent.com/J44VSZ8HQoGoG95bwBiQ" data-ga-category="Outbound links" >
             <strong>CATÁLOGO</strong>
             <span class=version> DIGITAL
             </span>
           </a>
 
-          <!--  <a class="btn btn-premiere" href="/faal" target="blank" data-ga-category="outbound links">
+          <a class="btn btn-premiere" href="/faal" target="blank" data-ga-category="outbound links">
              NUEVO CRONOGRAMA
-          </a> -->
-  </div>
+          </a>
+  </div>-->
 
 </div><!-- END site-promo-->
 </div><!-- end of bg-hero -->
@@ -263,32 +271,22 @@ text {
     (04) 259 4800 ext. 7402
   </p>
 
-<div class="suscribe">
-  <div class="row">
-    <div class="col col-12">
-      <h3 class="league-gray">DICIEMBRE 2019</h3>
-      <p><a href="//cdn.filestackcontent.com/gr1EeoUwTr6i0cpAwZvp" class="button outline" role="button"> <i class="fa fa-download"></i> DESCARGA</a>&nbsp;la Agenda de eventos culturales.</p>
-    </div>
-  </div>
-</div>
-
-
 <div class="premiere-c">
   <main style="margin-top:0;">
   <div class="info1 leftie" style="padding:0;">
       
     <div class="top-anchor">
       
-    <a href="/2019/11/10/teatromuestras/">
-      <figure><img src="//res.cloudinary.com/magnvs/image/upload/v1573591704/Valiana_Areco_2_bajn94.jpg" alt="Fotografía de Teatromuestras enfoca escenas experimentales"></figure></a>
+    <a href="/2019/12/18/malecon-simon-bolivar/">
+      <figure><img src="//res.cloudinary.com/magnvs/image/upload/v1576695279/malecon_jokrnv.jpg" alt="Fotografía de Proponen cambiar de nombre a la avenida Malecón Simón Bolívar"></figure></a>
       
-    <h2 class="league-sm">Teatromuestras enfoca escenas experimentales</h2>
+    <h2 class="league-sm">Proponen cambiar de nombre a la avenida Malecón Simón Bolívar</h2>
     
-    <h3 class="league-gray">Una obra de marionetas y dos de 'impro', en programa del Museo Municipal</h3>
+    <h3 class="league-gray"> </h3>
     
-    <p> <p>Valiana Areco se convierte en “una marioneta híbrida”, le presta su cuerpo a una muñeca de tamaño real y se oculta tras la máscara de una anciana eufórica y ebria para contar la historia de ‘Estulticia’, una mujer “chistosa, un poco loca y senil” según la actriz, en un cuarto rebosado de recuerdos.<br /><br />El montaje inspirado en el lenguaje del absurdo y en el teatro negro hace parte del capítulo de teatro experimental de tetromuestras 2019, que se desarrollará esta semana en el Museo Municipal de Guayaquil. La muestra arrancó la semana pasada con drama y prevé un tercer capítulo de... <p>
-    <p> Alexander García| El Comercio </p>
-    <p> <i class="fa fa-arrow-circle-right"></i> <a href="/2019/11/10/teatromuestras/">Leer más</a> </p>
+    <p> <p>Que la avenida Malecón Simón Bolívar cambie su nomenclatura por la de José Joaquín de Olmedo es el planteamiento de un grupo de personas vinculadas con el quehacer cultural, histórico, educativo y político del Puerto Principal.<br /><br />Juan José Illingworth señaló que el jueves de la semana anterior él y otros promotores de la iniciativa presentaron por escrito ese pedido al Municipio de Guayaquil. La carta dirigida a la alcaldesa Cynthia Viteri tiene fecha del 2 de diciembre y está suscrita por catorce personas.<br /><br />Entre ellas, José Gómez Iturralde, Melvin Hoyos (director mu... <p>
+    <p> Comunidad | El Universo </p>
+    <p> <i class="fa fa-arrow-circle-right"></i> <a href="/2019/12/18/malecon-simon-bolivar/">Leer más</a> </p>
     </div>
     
   </div>
@@ -299,38 +297,34 @@ text {
 
       <div class="top-anchor1">
         <figure class="figure-main">
-          
-          <img class="figure-img" src="//res.cloudinary.com/magnvs/image/upload/v1574287777/pp1nlhdiiybfyvqs42va.jpg" alt="Fotografía de Sobrenatural">
+          <div class="ct-chart ct-perfect-fourth"></div>
+          <figcaption>Período Dic/2018 - Nov/2019<br/>Total visitantes: 37987<br />Rojo: Visitantes nacionales; Rosa: Visitantes extranjeros.</figcaption>
+        </figure>
+        <figure class="figure-main">
           
         </figure>
       <div class="leftie">
-          <h2 style="text-transform: uppercase;" class="league-sm">Sobrenatural</h2>
-          <p><p><strong>EXPOSICIÓN DE OMAR MEDRANO</strong>
-Los razonamientos sobre la realidad vivida y la existente de lo que abarca el concepto “SOBRENATURAL” en la historia del ser humano da un motivo, esperanza y fe de continuar y proseguir en la espera que llegue lo que no se ve.</p>
+          <h2 style="text-transform: uppercase;" class="league-sm">2019 en resumen</h2>
+          <p><p>Como todos los años, el Museo Municipal en el 2019 tuvo una <a href="/gestion-2019.html">agenda muy activa</a>; se cumplieron con éxito todos los eventos anuales como Musimuestras, Teatro Muestras, Historia Viva y, de manera especial, se celebraron el 60 aniversario del Salón de Julio así como la vigésima edición del FAAL.</p>
 
-<p>El cambio que transformó a la humanidad con la llegada de un SER SUPERIOR, que incorporó a la cotidianidad humana la esperanza de una mejor vida, pero que hoy prevalece en el planeta un modelo de guerra y terror, incluso en naciones que pelean en nombre de su Dios en la actualidad.</p>
-
-<p>La seguridad de creer en CRISTO JESÚS provoca incrementos espirituales perpetuos, comparativos a las pléyades e incorporadas a una materia creativa terrenal, intangible sublime y etérea como la pintura, adaptable a obras de arte que trasfieren amor y pureza. Las obras de mi trabajo son acompañados por la tutela de un SER SUPERIOR.</p>
+<p>En cuanto a las visitas, durante el período de diciembre 2018 a noviembre 2019, el museo recibió 37987 visitantes, de los cuales el 10,29% fueron extranjeros. La constante de los meses más visitados se mantiene (julio y agosto) y aunque octubre fue un mes conflictivo a nivel nacional, no deja de tener un notable numero de visitantes: 2850.</p>
 </p>
-          
-          <h2 style="text-transform: uppercase;" class="league-sm">22 NOV - 14 DIC  <span style="font-size:0.9em;"> </span></h2>
           
           <ul>
                 
-                    <li><p><i class="fa fa-clock-o"></i> 09h00 - 17h30</p></li> 
                 
-                    <li><p><i class="fa fa-chevron-circle-right"></i> Sala de Artes Temporales</p></li>
+                    <li><p><i class="fa fa-chevron-circle-right"></i> Fernando Mayorga</p></li>
                 
           </ul>
       </div>
-<!--<div class="cta-option" style="padding-bottom:30px!important">
+<div class="cta-option" style="padding-bottom:30px!important">
 
-        <a class="button outline" href="//mmdg-press.netlify.com/arte-y-diseno-con-cana-guadua" role="button">Más sobre este evento</a>
+        <a class="button outline" href="/gestion-2019.html" role="button">Resumen Eventos 2019</a>
 
- <a class="btn btn-premiere" href="//mmdg-press.netlify.com/bases-genios.html" target="blank" data-ga-category="outbound links">
+ <!-- <a class="btn btn-premiere" href="//mmdg-press.netlify.com/bases-genios.html" target="blank" data-ga-category="outbound links">
            BASES DEL CONCURSO
-</a>
-</div>-->
+</a> -->
+</div>
 
     </div>
         
@@ -344,27 +338,25 @@ Los razonamientos sobre la realidad vivida y la existente de lo que abarca el co
 
   <div class="top-anchor">
   
-  <figure><img src="//res.cloudinary.com/magnvs/image/upload/v1575355859/prdazko1roepl8oyqa9j.jpg" alt="Fotografía de Estructuras táctiles ocultas en braille"></figure>
+  <figure><img src="//res.cloudinary.com/magnvs/image/upload/v1563980381/gardeneira_expreso_kewja3.jpg" alt="Fotografía de Las 5 muestras artísticas más visitadas del 2019"></figure>
   
 
-  <h2 class="league-sm">Estructuras táctiles ocultas en braille</h2>
+  <h2 class="league-sm">Las 5 muestras artísticas más visitadas del 2019</h2>
 
   
-  <h3 class="league-gray">Lalinchi Arreaga Burgos</h3>
+  <h3 class="league-gray">Instituciones, galerías y museos de Guayaquil acogieron diversas exposiciones individuales y colectivas</h3>
   
 
-  <p><p><strong>ARTE INCLUSIVO</strong><br /><br />Esta propuesta es la fusión de tres exposiciones previas: “El arte de tocar en Guayaquil”, “El braille y el arte en Quito” y, “Pictobraille en Guayaquil”.<br /><br />La exposición está dirigida a personas con discapacidad visual, con discapacidaddes de movilidad reducida y público en general, con la finalidad de que los visitantes puedan experi...<p>
+  <p><p>Fue un año donde destacaron nuevas propuestas artísticas y revelaciones. Tanto museos, galerías e intituciones culturales de Guayaquil, acogieron diversas exposiciones artísticas (individuales y colectivas) en este 2019. Así mismo, salones de pinturas y binacionales. Por ello EXPRESO le presenta cinco muestras que el día que abrieron sus puertas, fueron colmadas por visitantes de todas ...<p>
 
   
-  <h2 style="text-transform: uppercase;" class="league-sm">4  <span style="font-size:0.9em;">DICIEMBRE</span></h2>
-    
   <div>
           
-              <p><i class="fa fa-clock-o"></i> 19h00</p> 
+              <p><i class="fa fa-clock-o"></i> Sociedad | Expreso</p> 
           
-              <p><i class="fa fa-chevron-circle-right"></i> Sala Polivalente</p>
+              <p><i class="fa fa-chevron-circle-right"></i> JPM</p>
     
-  <p><i class="fa fa-arrow-circle-right"></i> <a href="/people/075-lalinchi/">Más información</a></p>
+  <p><i class="fa fa-arrow-circle-right"></i> <a href="/people/074-las-mas-visitadas/">Más información</a></p>
   </div>
   
   <!-- <div class="cta-option" style="padding:0!important">
@@ -380,70 +372,6 @@ Los razonamientos sobre la realidad vivida y la existente de lo que abarca el co
 
 </div> <!-- END head-news class -->
 
-
-<div class="for-grids">
-<div class="grids">
-	
-	  
-
-<div class="item-grid">
-	
-	<img src="//res.cloudinary.com/magnvs/image/upload/v1575563770/filarmonica_eaipzr.jpg" alt="Fotografía de Concierto"/>
-	  
-	<h2 class="league-sm">Concierto</h2>
-	
-	<h3 class="league-gray">Orquesta Filarmónica Municipal de Guayaquil</h3>
-	
-	<p><p>Viernes <strong>6 de diciembre</strong> en la Sala Polivalente del <strong>Museo Municipal de Guayaquil</strong> a las <strong>19H00</strong> se presentará el concierto de la Orquesta Filarmónica Municipal con la participación de Manuel Campos como Director Invitado. El programa e el siguiente:</p>
-
-<ul>
-  <li><strong>J. Sibelius</strong>: “Finlandia”</li>
-  <li><strong>G. Rossini</strong>: Obertura de la ópera “La italiana en Argel”</li>
-  <li><strong>F. von Suppé</strong>: Poeta y aldeano</li>
-  <li><strong>G. Rossini</strong>: Obertura de la ópera “Guillermo Tell”</li>
-</ul>
-
-<p>El evento es <strong>gratuito</strong> para que disfruten en familia y con amigos.</p>
-
-</p>
-</div>
-  
-
-<div class="item-grid">
-	
-	<img src="//res.cloudinary.com/magnvs/image/upload/v1575562384/libro_obeg1v.jpg" alt="Fotografía de Presentación de libro"/>
-	  
-	<h2 class="league-sm">Presentación de libro</h2>
-	
-	<h3 class="league-gray">&laquo;Cristo es democracia&raquo;</h3>
-	
-	<p><p>Este <strong>miércoles 11 de diciembre</strong> a las <strong>18h00</strong> en el Salón de Actos Pedro Carbo de la <strong>Biblioteca Municipal de Guayaquil</strong> se llevará a cabo la presentación del libro titulado “Cristo es democracia” de la autoría de Carlos Aráuz Basantes.</p>
-
-<p>Esta obra fue editada con el auspicio de la M. I. Municipalidad de Guayaquil a través de la Dirección de Cultura y la Biblioteca Municipal.</p>
-
-</p>
-</div>
-  
-
-<div class="item-grid">
-	
-	<img src="//res.cloudinary.com/magnvs/image/upload/v1575558209/exposición_mu97mp.jpg" alt="Fotografía de Exposición filatélica"/>
-	  
-	<h2 class="league-sm">Exposición filatélica</h2>
-	
-	<h3 class="league-gray">Grandes sucesos deportivos nacionales e internacionales</h3>
-	
-	<p><p><strong>Del 12 al 28 de diciembre</strong> en el Museo Municipal se llevará a cabo esta III Exposición de Filatelia, Numismática y Memorabilia organizada por el profesor Eduardo Álvarez de la Asociación Filatélica Olímpica.</p>
-
-<p>Grandes sucesos deportivos en una importante y extensa colección de sellos postales conmemorativos, es lo que se podrá apreciar, además, medallas deportivas y recuerdos de diferentes campeonatos olímpicos y deportivos en general.</p>
-
-<p>El <strong>acto inaugural</strong> se realizará el <strong>12 de diciembre</strong> a las <strong>11h00</strong> en la Sala de Arte Contemporáneo.</p>
-
-</p>
-</div>
-
-</div>
-</div>
 
 <div class="nia">
   <div class="row">
@@ -519,6 +447,21 @@ La Dirección de Cultura del Muy Ilustre Municipio de Guayaquil presenta un encu
           
 
           
+          <img src="//res.cloudinary.com/magnvs/image/upload/v1573591704/Valiana_Areco_2_bajn94.jpg" alt="Fotografía de Teatromuestras enfoca escenas experimentales">
+          
+
+            <h1><a class="no-hov" href="/2019/11/10/teatromuestras/">Teatromuestras enfoca escenas experimentales</a></h1>
+            <h2>Alexander García| El Comercio</h2>
+            <p>Valiana Areco se convierte en “una marioneta híbrida”, le presta su cuerpo a una muñeca de tamaño real y se oculta tras la máscara de una anciana eufórica y ebria para contar la historia de ‘Estulticia’, una mujer “chistosa, un poco loca y senil” según la actriz, en un cuarto rebosado de recuerdos.<br /><br />El montaje inspirado en el lenguaje del absurdo y en el teatro negro hace parte del capítulo de teatro experimental de tetromuestras 2019, que se desarrollará esta semana en el Museo Municipal de Guayaquil. La muestra arrancó la semana pasada con drama y prevé un tercer capítulo de comedia la próxima semana.</p>
+
+
+            <p><i class="fa fa-arrow-circle-right"></i> <a href="/2019/11/10/teatromuestras/">Leer más</a></p>
+            
+          </article>
+
+          
+        <article>
+          
           <img src="//res.cloudinary.com/magnvs/image/upload/v1573353784/jbcvzxqnrjfcmlzqpwjb.jpg" alt="Fotografía de Una guía teatralizada de los hechos históricos de la ciudad">
           
 
@@ -527,11 +470,9 @@ La Dirección de Cultura del Muy Ilustre Municipio de Guayaquil presenta un encu
             <p>Dos hombres prehispánicos luchan entre ellos. Uno logra vencer a su rival y lo ubica sobre una extensa roca gris para propinarle una puñalada. Es un sacrificio dedicado a una deidad.<br /><br />El acto obedece a una recreación de la época prehispánica y que inicia el programa “Museo vivo”, que fue inaugurado la mañana de ayer, en el Museo Municipal de Guayaquil.</p>
 
 
-            <p><i class="fa fa-arrow-circle-right"></i> <a href="/2019/11/07/historia-viva/">Leer más</a></p>
+            <p><i class="fa fa-arrow-circle-o-right"></i> <a href="/2019/11/07/historia-viva/">Leer más</a></p>
+        </article>
             
-          </article>
-
-          
         <article>
           
           <img src="//res.cloudinary.com/magnvs/image/upload/v1572737215/5dbb73900aedb_f8e11l.jpg" alt="Fotografía de El artista guayaquileño Luis Reinoso evocó el paro en una ‘firma’">
@@ -545,6 +486,10 @@ La Dirección de Cultura del Muy Ilustre Municipio de Guayaquil presenta un encu
             <p><i class="fa fa-arrow-circle-o-right"></i> <a href="/2019/10/31/faal-elcomercio/">Leer más</a></p>
         </article>
             
+    </section>
+
+  <section>
+          
         <article>
           
           <img src="//res.cloudinary.com/magnvs/image/upload/v1571846758/arqueo_rx0nzz.jpg" alt="Fotografía de Una 'arqueología' del cómic nacional se expone en Guayaquil">
@@ -558,10 +503,6 @@ La Dirección de Cultura del Muy Ilustre Municipio de Guayaquil presenta un encu
             <p><i class="fa fa-arrow-circle-o-right"></i> <a href="/2019/10/23/arqueologia-comic/">Leer más</a></p>
         </article>
             
-    </section>
-
-  <section>
-          
         <article>
           
           <img src="//res.cloudinary.com/magnvs/image/upload/v1571843147/5daf998b70419_nzvri1.jpg" alt="Fotografía de Pintura ganadora del Faal 2019 disimula policías enfrentados con manifestantes">
@@ -588,19 +529,6 @@ La Dirección de Cultura del Muy Ilustre Municipio de Guayaquil presenta un encu
             <p><i class="fa fa-arrow-circle-o-right"></i> <a href="/2019/10/22/faal-universo/">Leer más</a></p>
         </article>
             
-        <article>
-          
-          <img src="//res.cloudinary.com/magnvs/image/upload/v1571622103/pqvv6evyokoayxuasuml.jpg" alt="Fotografía de El FAAL, puerta al éxito para exponentes del arte">
-          
-
-            <h1><a class="no-hov" href="/2019/10/20/faal-universo/">El FAAL, puerta al éxito para exponentes del arte</a></h1>
-            <h2>Cultura | El Universo</h2>
-            <p>Durante dos décadas, el Festival de Arte al Aire Libre (FAAL) ha sido como una vitrina para que artistas, en especial los noveles, presenten al mundo sus diversas capacidades y propuestas. El ya tradicional certamen se ha convertido en la puerta al éxito para muchos creativos del país, y para algunos de ellos el concurso ha dejado una huella importante en sus vidas.<br /><br />“El FAAL marcó mi carrera artística de manera muy positiva”, apunta la escultora Diana Ponce, quien en el 2000 obtuvo el segundo lugar con su obra La Perla del Pacífico.</p>
-
-
-            <p><i class="fa fa-arrow-circle-o-right"></i> <a href="/2019/10/20/faal-universo/">Leer más</a></p>
-        </article>
-            
     </section>
 
   <div class="row">
@@ -608,6 +536,9 @@ La Dirección de Cultura del Muy Ilustre Municipio de Guayaquil presenta un encu
     <div class="col col-6" style="padding: 0 10px;">
       <h3>Más artículos</h3>
       <ul style="list-style-type:none;padding-left:0;margin-left:0;">
+        
+        <li style="padding-left: 0;margin-left:0;"><a href="/2019/10/20/faal-universo/">El FAAL, puerta al éxito para exponentes del arte</a></li>
+        <p><small>Cultura | El Universo 2019-10-20 19:31:00 -0500</small></p>
         
         <li style="padding-left: 0;margin-left:0;"><a href="/2019/10/17/faal-elcomercio/">Pinturas del Faal dialogan con las manifestaciones de octubre del 2019</a></li>
         <p><small>Cultura | El Comercio 2019-10-17 19:33:00 -0500</small></p>
@@ -617,9 +548,6 @@ La Dirección de Cultura del Muy Ilustre Municipio de Guayaquil presenta un encu
         
         <li style="padding-left: 0;margin-left:0;"><a href="/2019/10/01/museos-locales/">Rincones de Guayaquil que recrean historia y fauna local</a></li>
         <p><small>Comunidad | El Universo 2019-10-01 19:30:00 -0500</small></p>
-        
-        <li style="padding-left: 0;margin-left:0;"><a href="/2019/09/25/carlos-endara/">El legado fotográfico de Carlos Endara en museo</a></li>
-        <p><small>Karla Medina | El Universo 2019-09-25 19:30:00 -0500</small></p>
         
       </ul>
     </div>
@@ -734,6 +662,25 @@ La Dirección de Cultura del Muy Ilustre Municipio de Guayaquil presenta un encu
         <script src="/js/jquery.bxslider.min.js"></script>
         <script src="/js/heritage.js"></script>
         <script src="/js/jquery-modal-video.min.js"></script>
+
+  <script>
+  new Chartist.Bar('.ct-chart', {
+  labels: ['Dic', 'Ene', 'Feb', 'Mar', 'Abr', 'May', 'Jun', 'Jul', 'Ago', 'Sep', 'Oct', 'Nov'],
+  series: [
+    [973, 1486, 2230, 1875, 1002, 3582, 3576, 5454, 4202, 3278, 2599, 3820],
+    [450, 519, 305, 193, 133, 244, 403, 433, 458, 232, 251, 289]
+  ]
+  }, {
+    stackBars: true,
+  }).on('draw', function(data) {
+    if(data.type === 'bar') {
+      data.element.attr({
+        style: 'stroke-width: 18px'
+      });
+    }
+  });
+
+  </script>
   <script>
         $(document).ready(function(){
             $('.bxslider').bxSlider({

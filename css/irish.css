@@ -401,7 +401,7 @@ h2.animosa {
   line-height: 4.3rem;
 }
 .bg-hero {
-	min-height: 50vh;
+	min-height: 30vh;
 	background-image: url();
 	background-position: bottom center;
 	background-size: contain;
@@ -621,7 +621,7 @@ h2.animosa {
   font-weight: bold;
   font-size: 2.5rem;
   line-height: 2.7rem;
-  color: #ffffff;
+  color: #5BAEF6;
   text-shadow:2px 2px 0 #000;
 	letter-spacing: 3px;
   }
@@ -842,7 +842,7 @@ img.tilt {
   html{
     font-size:13px}
   .bg-hero {
-    min-height: 75vh;
+    min-height: 55vh;
     background-image: url();
     background-position: center center;
 	}
@@ -877,7 +877,7 @@ img.tilt {
 }
 @media only screen and (max-width:320px){
  .bg-hero {
-		height: 65vh;
+		height: 55vh;
 		background-image: url();
 		background-position: center center;
 		background-repeat: no-repeat;
