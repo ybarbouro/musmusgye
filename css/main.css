@@ -386,7 +386,7 @@ span.suscribing{
 .main { margin-top: 0;
         margin-bottom: 0;
         position:relative;
-        background-image: linear-gradient(to top, #ffffff 0%, #5BAEF6 100%);
+        background-image: linear-gradient(to top, #ECEFF1 0%, #5BAEF6 100%);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: top left;
