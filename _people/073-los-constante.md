@@ -4,7 +4,7 @@ subtitle: 'Cuatro generaciones de artistas'
 day: 9
 month: ENERO
 place: Sala de Arte Contemporáneo
-time: 19h00
+time: 18h30
 listing-priority: 1
 image: "//res.cloudinary.com/magnvs/image/upload/v1577970252/ymzqgrphlpa59hc57l7r.jpg"
 ---
