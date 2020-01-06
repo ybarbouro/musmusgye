@@ -1,7 +1,7 @@
 <div class="for-grids">
 <div class="grids">
 	{% assign destacadas = site.destacadas | sort: 'listing-priority' %}
-	{% for destacadas in destacadas limit: 4 %}  
+	{% for destacadas in destacadas limit: 3 %}  
 
 <div class="item-grid">
 	{% if destacadas.image %}
@@ -12,6 +12,9 @@
 	<h3 class="league-gray">{{ destacadas.subtitle }}</h3>
 	{% endif %}
 	<p>{{ destacadas.content }}</p>
+	{% if destacadas.url %}
+	<p><a href="{{ destacadas.url }}" class="btn btn-premiere" role="button"> <i class="fa fa-info-circle"></i>&nbsp;MÁS INFORMACIÓN</a></p>
+	{% endif %}
 </div>
 {% endfor %}
 </div>
