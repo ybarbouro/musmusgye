@@ -3,7 +3,7 @@ title: Hernán Illescas
 subtitle: "Imperfecta Belleza"
 listing-priority: 095
 image: "//res.cloudinary.com/magnvs/image/upload/v1578323568/illescas_mkq0wf.jpg"
-url: "//mmdg-site.netlify.com/hernan-illescas/"
+mmdg: "//mmdg-site.netlify.com/hernan-illescas/"
 ---
 **EXPOSICIÓN**
 
