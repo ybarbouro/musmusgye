@@ -406,7 +406,7 @@ h2.animosa {
 	background-position: bottom center;
 	background-size: contain;
 	background-repeat: no-repeat;
-	background-blend-mode:multiply;
+	background-blend-mode: multiply;
 }
 
 .bg-hero-expo {
@@ -842,7 +842,7 @@ img.tilt {
   html{
     font-size:13px}
   .bg-hero {
-    min-height: 55vh;
+    min-height: 70vh;
     background-image: url();
     background-position: center center;
 	}
@@ -877,7 +877,7 @@ img.tilt {
 }
 @media only screen and (max-width:320px){
  .bg-hero {
-		height: 55vh;
+		height: 70vh;
 		background-image: url();
 		background-position: center center;
 		background-repeat: no-repeat;
