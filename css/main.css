@@ -1364,7 +1364,7 @@ div.premiere-kaki {
 	grid-template-columns: repeat(auto-fill, minmax(295px, 1fr));
 	padding-left: 1%;
 	padding-right: 1%;
-  background-image: url(/assets/bicentenario.svg);
+  background-image: url( );
   background-size: 21vw;
   background-repeat: no-repeat;
   background-position: bottom right;
