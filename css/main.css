@@ -1417,7 +1417,7 @@ div.premiere-kaki {
 
 @media screen and (max-width: 360px){
   .item-grid:last-child {
-    margin-bottom: 275px;
+    margin-bottom: 50px;
   }
   .grids {
     background-image: url( );
