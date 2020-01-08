@@ -7,7 +7,7 @@
  */
 
 /* ==========================================================================
-   CCENG
+   CCENG + mailchimp
    ========================================================================== */
 .cceng {
   color:#fff;
@@ -31,6 +31,28 @@ h2.cce {
   letter-spacing: 3px;
 }
 
+.mailchimp {
+  color: #1a1a1a;
+  overflow:hidden;
+  padding: 3rem 0 3.7rem 0;
+  background-color: var(--gray);
+  background-image: url(//res.cloudinary.com/magnvs/image/upload/v1577737514/gknjuj0i97vy7lhelyoa.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left bottom;
+  background-position-x: 4.6rem;
+}
+
+h2.mlch {
+  font-family:"Oswald", sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+  color: var(--vino);
+  padding-bottom: 1rem;
+  line-height: 3.3rem;
+  letter-spacing: 3px;
+}
+
 @media screen and (max-width:600px){
 .cceng {
     padding: 0 0 3.7rem 0;
@@ -46,6 +68,9 @@ h2.cce {
 .cceng p {
   margin-bottom: 4.5rem;
   margin-top: 2rem;
+}
+.mailchimp {
+    background-blend-mode:lighten;
 }
 }
 /* ==========================================================================
