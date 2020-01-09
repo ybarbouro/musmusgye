@@ -288,12 +288,11 @@ img.wide-alt {
        margin-top: 0;
        margin-bottom: 0;
        position:relative;
-       background-image: linear-gradient(to top, #ECEFF1 0%, #5BAEF6 100%);
-       background-blend-mode: normal;
+       background-color:#5BAEF6;
        background-repeat: no-repeat;
        background-size: cover;
        background-position: center top;
-       min-height: 40vh;
+       min-height: 60vh;
    }
  .main-c {
        margin-top: 0;
@@ -460,11 +459,10 @@ span.suscribing{
 .main { margin-top: 0;
         margin-bottom: 0;
         position:relative;
-        background-image: linear-gradient(to top, #ECEFF1 0%, #5BAEF6 100%);
+        background-color: #5BAEF6;
         background-repeat: no-repeat;
         background-size: cover;
         background-position: top left;
-        background-blend-mode: normal;
         height: 60vh;
     }
 .last-main-title h1 {
