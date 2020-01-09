@@ -53,10 +53,34 @@ h2.mlch {
   letter-spacing: 3px;
 }
 
+.mus-anchor{
+  color: #5e5e5e;
+  overflow:hidden;
+  max-height: 60vh;
+  padding-top: 15%;
+  padding-bottom: 5%;
+  background-color: #CFD8DC;
+  background-image: url(//www.mmdg.site/assets/images/MMDG.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  background-position-y: 5rem;
+  background-position-x: 3rem;
+}
+
+h2.mus-anch {
+  font-family:"Oswald", sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+  color: #85144b;
+  padding-bottom: 1rem;
+  line-height: 3.3rem;
+  letter-spacing: 3px;
+}
+
 @media screen and (max-width:600px){
 .cceng {
     padding: 0 0 3.7rem 0;
-    background-color:#5e5e5e;
     background-position: center bottom;
     background-size: 123vw;
   }
@@ -72,6 +96,32 @@ h2.cce {
 .mailchimp {
     background-blend-mode:lighten;
 }
+}
+
+@media screen and (max-width:340px){
+  .mus-anchor{
+    color: #5e5e5e;
+    overflow:hidden;
+    max-height: 90vh;
+    padding-top: 25%;
+    padding-bottom: 5%;
+    background-color: #CFD8DC;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-position-y: 3rem;
+    background-position-x: 1.5rem;
+  }
+
+  h2.mus-anch {
+    font-family:"Oswald", sans-serif;
+    font-weight: bold;
+    font-size: 2.4rem;
+    color: #85144b;
+    padding-bottom: 1rem;
+    line-height: 1rem;
+    letter-spacing: 2px;
+  }
 }
 /* ==========================================================================
    Base styles: opinionated defaults
