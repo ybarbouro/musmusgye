@@ -292,7 +292,7 @@ img.wide-alt {
        background-repeat: no-repeat;
        background-size: cover;
        background-position: center top;
-       min-height: 70vh;
+       min-height: 60vh;
    }
  .main-c {
        margin-top: 0;
@@ -463,7 +463,6 @@ span.suscribing{
         background-repeat: no-repeat;
         background-size: cover;
         background-position: top left;
-        height: 60vh;
     }
 .last-main-title h1 {
       font-family: 'league_gothicregular', sans-serif;
