@@ -852,7 +852,7 @@ img.tilt {
   html{
     font-size:13px}
   .bg-hero {
-    min-height: 60vh;
+    min-height: 70vh;
     background-position: top center;
 	}
 
@@ -886,7 +886,7 @@ img.tilt {
 }
 @media only screen and (max-width:320px){
  .bg-hero {
-		height: 70vh;
+		height: 75vh;
 		background-position: top center;
 	}
   .grid-cell-left {
