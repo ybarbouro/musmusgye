@@ -7,7 +7,7 @@
  */
 
 /* ==========================================================================
-   CCENG + mailchimp
+   CCENG + mailchimp + colorful menu
    ========================================================================== */
 .cceng {
   color:#fff;
@@ -122,6 +122,62 @@ h2.cce {
     letter-spacing: 2px;
   }
 }
+
+.colorful {
+  min-height: 185px;
+}
+
+.colorful > div:nth-child(1) {
+  background-color: #0288D1;
+}
+.colorful > div:nth-child(2) {
+  background-color: #F57F17;
+}
+.colorful > div:nth-child(3) {
+  background-color: #43A047;
+}
+
+.clm {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-top: .5rem;
+  padding-left: .5rem;
+}
+
+.clm-item {
+  max-height: 35vh;
+  margin-top: 1em;
+}
+
+.clm-item h3 {
+ color:#fff;
+ font-weight: 100; 
+}
+
+.clm-item a {
+ color:#333;
+ font-weight: 100; 
+ text-decoration: none; 
+}
+
+.clm-item a:hover {
+ color:rgba(183,28,28,.5); 
+}
+
+.clm-item:nth-child(1) {
+  color:#fff;
+  font-weight: 100;
+}
+.clm-item:nth-child(2) {
+  color:#fff;
+  font-weight: 400;
+  width: 81%;
+}
+.clm-item:nth-child(3) {
+  font-weight: 900;
+}
+
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
