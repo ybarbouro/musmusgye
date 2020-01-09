@@ -124,7 +124,7 @@ h2.cce {
 }
 
 .colorful {
-  min-height: 185px;
+  min-height: 200px;
 }
 
 .colorful > div:nth-child(1) {
@@ -156,9 +156,7 @@ h2.cce {
 }
 
 .clm-item a {
- color:#000;
  font-weight: 100; 
- text-decoration: none; 
 }
 
 .clm-item:nth-child(1) {
@@ -172,6 +170,7 @@ h2.cce {
 }
 .clm-item:nth-child(3) {
   font-weight: 900;
+  margin-bottom: 2rem;
 }
 
 /* ==========================================================================
