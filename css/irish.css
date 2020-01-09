@@ -401,12 +401,12 @@ h2.animosa {
   line-height: 4.3rem;
 }
 .bg-hero {
-	min-height: 30vh;
-	background-image: url();
-	background-position: bottom center;
-	background-size: contain;
+	min-height: 70vh;
+	background-image: url(//cdn.filestackcontent.com/takV6CVVQ5GWzv7PmYTz);
+	background-position: top center;
+	background-size: cover;
 	background-repeat: no-repeat;
-	background-blend-mode: multiply;
+	background-blend-mode:soft-light;
 }
 
 .bg-hero-expo {
@@ -598,7 +598,7 @@ h2.animosa {
     color:#00B0FF}
 
 .site-promo{
-  margin-top: 0;
+  margin-top: 5rem;
 	padding-top: 0;
 	padding-bottom: 1.4rem;
 }
@@ -771,9 +771,9 @@ img.tilt {
   html{
     font-size:14px}
 	.bg-hero {
-				min-height: 75vh;
-				background-size: contain;
-				background-position: bottom center;
+				min-height: 65vh;
+				background-size: cover;
+				background-position: top center;
 			}
   .last-update,.site-footer{
     font-size:1em}
@@ -822,7 +822,7 @@ img.tilt {
 }
 @media only screen and (max-width:460px){
 	.bg-hero {
-		min-height: 85vh;
+		min-height: 75vh;
 		background-position: bottom center;
 	}
 	.grid-cell-left {
@@ -842,9 +842,8 @@ img.tilt {
   html{
     font-size:13px}
   .bg-hero {
-    min-height: 70vh;
-    background-image: url();
-    background-position: center center;
+    min-height: 60vh;
+    background-position: top center;
 	}
 
   .grid-cell-left {
@@ -877,9 +876,8 @@ img.tilt {
 }
 @media only screen and (max-width:320px){
  .bg-hero {
-		height: 70vh;
-		background-image: url();
-		background-position: center center;
+		height: 60vh;
+		background-position: top center;
 		background-repeat: no-repeat;
 	}
   .grid-cell-left {
