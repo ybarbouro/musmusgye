@@ -98,12 +98,12 @@ h2.cce {
 }
 }
 
-@media screen and (max-width:340px){
+@media screen and (max-width:360px){
   .mus-anchor{
     color: #5e5e5e;
     overflow:hidden;
-    max-height: 90vh;
-    padding-top: 25%;
+    height: 75vh;
+    padding-top: 35%;
     padding-bottom: 5%;
     background-color: #CFD8DC;
     background-repeat: no-repeat;
