@@ -7,7 +7,7 @@
  */
 
 /* ==========================================================================
-   CCENG + mailchimp
+   CCENG + mailchimp + colorful menu
    ========================================================================== */
 .cceng {
   color:#fff;
@@ -56,8 +56,8 @@ h2.mlch {
 .mus-anchor{
   color: #5e5e5e;
   overflow:hidden;
-  max-height: 60vh;
-  padding-top: 15%;
+  max-height: 100vh;
+  padding-top: 18%;
   padding-bottom: 5%;
   background-color: #CFD8DC;
   background-image: url(//www.mmdg.site/assets/images/MMDG.svg);
@@ -122,6 +122,57 @@ h2.cce {
     letter-spacing: 2px;
   }
 }
+
+.colorful {
+  min-height: 200px;
+}
+
+.colorful > div:nth-child(1) {
+  background-color: #0288D1;
+}
+.colorful > div:nth-child(2) {
+  background-color: #F57F17;
+}
+.colorful > div:nth-child(3) {
+  background-color: #43A047;
+}
+
+.clm {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-top: .5rem;
+  padding-left: .5rem;
+}
+
+.clm-item {
+  max-height: 35vh;
+  margin-top: 1em;
+}
+
+.clm-item h3 {
+ color:#fff;
+ font-weight: 100; 
+}
+
+.clm-item a {
+ font-weight: 100; 
+}
+
+.clm-item:nth-child(1) {
+  color:#fff;
+  font-weight: 100;
+}
+.clm-item:nth-child(2) {
+  color:#fff;
+  font-weight: 400;
+  width: 81%;
+}
+.clm-item:nth-child(3) {
+  font-weight: 900;
+  margin-bottom: 2rem;
+}
+
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
@@ -463,7 +514,6 @@ span.suscribing{
         background-repeat: no-repeat;
         background-size: cover;
         background-position: top left;
-        height: 60vh;
     }
 .last-main-title h1 {
       font-family: 'league_gothicregular', sans-serif;
