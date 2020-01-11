@@ -1499,13 +1499,22 @@ div.premiere-kaki {
 }
 
 .item-grid:nth-child(1) {
-  background-color: rgba(255,255,255,.7);
+  background-color: rgba(255,255,255,.9);
 }
 .item-grid:nth-child(2) {
-  background-color: rgba(255,255,255,.5);
+  background-color: rgba(255,255,255,.8);
 }
 .item-grid:nth-child(3) {
-  background-color: rgba(255,255,255,.4);
+  background-color: rgba(255,255,255,.7);
+}
+.item-grid:nth-child(4) {
+  background-color: rgba(255,255,255,.5);
+}
+.item-grid:nth-child(5) {
+  background-color: rgba(255,255,255,.3);
+}
+.item-grid:nth-child(6) {
+  background-color: rgba(255,255,255,.1);
 }
 
 .item-grid img {
