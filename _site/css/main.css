@@ -53,6 +53,18 @@ h2.mlch {
   letter-spacing: 3px;
 }
 
+.mailchimp_alt {
+  color: #1a1a1a;
+  overflow:hidden;
+  padding: 3rem 0 3.7rem 0;
+  background-color: rgba(255,255,255,.3);
+  background-image: url();
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left bottom;
+  background-position-x: 4.6rem;
+}
+
 .mus-anchor{
   color: #5e5e5e;
   overflow:hidden;
@@ -152,11 +164,11 @@ h2.cce {
 
 .clm-item h3 {
  color:#fff;
- font-weight: 100; 
+ font-weight: 100;
 }
 
 .clm-item a {
- font-weight: 100; 
+ font-weight: 100;
 }
 
 .clm-item:nth-child(1) {
@@ -1499,13 +1511,22 @@ div.premiere-kaki {
 }
 
 .item-grid:nth-child(1) {
-  background-color: rgba(255,255,255,.7);
+  background-color: rgba(255,255,255,.9);
 }
 .item-grid:nth-child(2) {
-  background-color: rgba(255,255,255,.5);
+  background-color: rgba(255,255,255,.8);
 }
 .item-grid:nth-child(3) {
-  background-color: rgba(255,255,255,.4);
+  background-color: rgba(255,255,255,.7);
+}
+.item-grid:nth-child(4) {
+  background-color: rgba(255,255,255,.5);
+}
+.item-grid:nth-child(5) {
+  background-color: rgba(255,255,255,.3);
+}
+.item-grid:nth-child(6) {
+  background-color: rgba(255,255,255,.1);
 }
 
 .item-grid img {

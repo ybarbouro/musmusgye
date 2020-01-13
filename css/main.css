@@ -53,6 +53,18 @@ h2.mlch {
   letter-spacing: 3px;
 }
 
+.mailchimp_alt {
+  color: #1a1a1a;
+  overflow:hidden;
+  padding: 3rem 0 3.7rem 0;
+  background-color: rgba(255,255,255,.3);
+  background-image: url();
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left bottom;
+  background-position-x: 4.6rem;
+}
+
 .mus-anchor{
   color: #5e5e5e;
   overflow:hidden;
@@ -152,11 +164,11 @@ h2.cce {
 
 .clm-item h3 {
  color:#fff;
- font-weight: 100; 
+ font-weight: 100;
 }
 
 .clm-item a {
- font-weight: 100; 
+ font-weight: 100;
 }
 
 .clm-item:nth-child(1) {
