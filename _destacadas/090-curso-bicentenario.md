@@ -1,10 +1,10 @@
 ---
-title: Bicenetenario de la Independencia de Guayaquil
+title: Bicentenario de la Independencia de Guayaquil
 subtitle: Curso de actualización histórica
 listing-priority: 090
 image: //res.cloudinary.com/magnvs/image/upload/v1578752176/melvin-david-mc_aheyc5.jpg
 mmdg: /bicentenario
 ---
-La **M. I. Municipalidad**, a través de la Dirección de Cultura, y el **Círculo de periodistas del Guayas** invitan a todos los **comunicadores sociales**, que estén interesados en actualizar su conocimiento sobre la Revolución de Octubre, a participar en este evento que se realizará los días **29, 30 y 31 de enero** en la Biblioteca Municipal de Guayaquil. El curso estará a cargo del historiador Melvin Hoyos G., Director de Cultura del Municipio.  
+La **M. I. Municipalidad**, a través de la Dirección de Cultura, y el **Círculo de periodistas del Guayas** invitan a todos los **comunicadores sociales**, que estén interesados en actualizar su conocimiento sobre la Revolución de Octubre, a participar en este evento que se realizará los días **29, 30 y 31 de enero** en Auditorio del Museo Municipal de Guayaquil. El curso estará a cargo del historiador Melvin Hoyos G., Director de Cultura del Municipio.  
 
 Además, en esta oportunidad, se tratarán los detalles de todo lo que se ha previsto para conmemorar el Bicentenario de esta fecha tan importante para Guayaquil y el país.
