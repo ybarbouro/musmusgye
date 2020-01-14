@@ -1,7 +1,7 @@
 ---
 title: Bicentenario de la Independencia de Guayaquil
 subtitle: Curso de actualización histórica
-listing-priority: 090
+listing-priority: 091
 image: //res.cloudinary.com/magnvs/image/upload/v1578752176/melvin-david-mc_aheyc5.jpg
 mmdg: /bicentenario
 ---
