@@ -7,7 +7,9 @@ comment: Comunidad | El Universo
 image: "//res.cloudinary.com/magnvs/image/upload/v1576695279/malecon_jokrnv.jpg"
 ffw: Leer más
 ---
-Que la avenida Malecón Simón Bolívar cambie su nomenclatura por la de José Joaquín de Olmedo es el planteamiento de un grupo de personas vinculadas con el quehacer cultural, histórico, educativo y político del Puerto Principal.<br/><br/>Juan José Illingworth señaló que el jueves de la semana anterior él y otros promotores de la iniciativa presentaron por escrito ese pedido al Municipio de Guayaquil. La carta dirigida a la alcaldesa Cynthia Viteri tiene fecha del 2 de diciembre y está suscrita por catorce personas.<br/><br/>Entre ellas, José Gómez Iturralde, Melvin Hoyos (director municipal de Cultura), Guillermo Arosemena, Jorge Pino, Eduardo Estrada, Francisco Swett, Andrés Barreiro, Sergio Cedeño, Federico von Buchwald y Gonzalo Zurita. 
+Que la avenida Malecón Simón Bolívar cambie su nomenclatura por la de José Joaquín de Olmedo es el planteamiento de un grupo de personas vinculadas con el quehacer cultural, histórico, educativo y político del Puerto Principal.<br/><br/>Juan José Illingworth señaló que el jueves de la semana anterior él y otros promotores de la iniciativa presentaron por escrito ese pedido al Municipio de Guayaquil. La carta dirigida a la alcaldesa Cynthia Viteri tiene fecha del 2 de diciembre y está suscrita por catorce personas.  
+
+Entre ellas, José Gómez Iturralde, Melvin Hoyos (director municipal de Cultura), Guillermo Arosemena, Jorge Pino, Eduardo Estrada, Francisco Swett, Andrés Barreiro, Sergio Cedeño, Federico von Buchwald y Gonzalo Zurita. 
 
 La propuesta surge en el marco del bicentenario de la independencia de Guayaquil, que se cumplirá el 9 de octubre de 2020, fecha para lo cual desde el Cabildo se preparan algunas actividades dentro del festejo.
 
