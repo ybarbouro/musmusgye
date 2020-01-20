@@ -7,7 +7,7 @@ comment: Cultura | Expreso
 image: "//res.cloudinary.com/magnvs/image/upload/v1539355284/jpkdxaoyjdjmjd187m9d.jpg"
 ffw: Leer más
 ---
-**La charla será ofrecida por el director de Cultura, Melvin Hoyos.**<br/><br/>El Círculo de Periodistas del Guayas y el Cabildo organizan una capacitación histórica sobre el Bicentenario de la Independencia de Guayaquil, que será dictada los días 29, 30 y 31 de enero próximos, en el auditorio del Museo Municipal de Guayaquil (Sucre entre Chile y Pedro Carbo), de 15:00 a 18:00.<br /><br/>El curso está dirigido a comunicadores sociales y será dictado por el historiador Melvin Hoyos Galarza, director de Cultura, quien, asegura la organización, incluirá nuevos datos y aportes para una apreciación más objetiva sobre la Revolución del 9 de Octubre.  
+**La charla será ofrecida por el director de Cultura, Melvin Hoyos.**<br/><br/>El Círculo de Periodistas del Guayas y el Cabildo organizan una capacitación histórica sobre el Bicentenario de la Independencia de Guayaquil, que será dictada los días **29, 30 y 31 de enero** próximos, en el **auditorio del Museo Municipal de Guayaquil** (Sucre entre Chile y Pedro Carbo), de **15:00 a 18:00**.<br /><br/>El curso está dirigido a comunicadores sociales y será dictado por el historiador Melvin Hoyos Galarza, director de Cultura, quien, asegura la organización, incluirá nuevos datos y aportes para una apreciación más objetiva sobre la Revolución del 9 de Octubre.  
 
 "El historiador llevará un análisis renovado que, además de las fuentes históricas tradicionales, toma en cuenta todo lo que se ha descubierto sobre la Revolución de Octubre en los últimos 50 años", se explica.  
 
