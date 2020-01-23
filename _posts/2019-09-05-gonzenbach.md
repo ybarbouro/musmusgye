@@ -16,5 +16,3 @@ Las creaciones del artista están elaboradas con un estilo abstracto que revela 
 La exposición estará abierta al público hasta el próximo 20 de septiembre. La entrada es gratuita.
 
 <small><strong>Fotografía:</strong> Juan Faustos. <br />Este artículo fue publicado en la versión digital del diario [Expreso](//www.expreso.ec/vivir/federico-gonzenbach-exposicion-pictorica-abstracta-GH3108484) del 05 de septiembre de 2019.</small>
-
-[Otro post]({% post_url 2019-03-27-insua-expreso %})
