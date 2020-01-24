@@ -1,9 +1,9 @@
-name: MUSIMUESTRAS 2017
+name: MUSEO ARTE Y CIUDAD
 markdown: kramdown
 highlighter: rouge
 exclude: [main.scss, config.rb, crono-faal.html]
 description: Sitio informativo del Programa Museo, Arte y Ciudad - Musimuestras 2017
-url: https://fernanz.github.io/
+url: https://museoarteyciudad.com
 permalink: pretty
 
 collections:
