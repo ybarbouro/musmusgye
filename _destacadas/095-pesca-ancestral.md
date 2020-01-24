@@ -1,7 +1,7 @@
 ---
 title:  Pesca ancestral guancavilca
 subtitle: Comuneros de Engabao
-listing-priority: 090
+listing-priority: 095
 image: //res.cloudinary.com/magnvs/image/upload/v1578464437/tjr31kknpso042ixp2ct.jpg
 mmdg: //www.mmdg.site/pesca-ancestral/
 ---
