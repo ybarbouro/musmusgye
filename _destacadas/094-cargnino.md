@@ -1,7 +1,7 @@
 ---
 title:  LATITUD 2°12’ y LONGITUD 79°54’ del cuarto ciclo
 subtitle: Enrico Cargnino
-listing-priority: 091
+listing-priority: 094
 image: //res.cloudinary.com/magnvs/image/upload/v1578281893/ciygnoyj7kbxrjf5epzk.jpg
 mmdg: //www.mmdg.site/enrico-cargnino/
 ---
