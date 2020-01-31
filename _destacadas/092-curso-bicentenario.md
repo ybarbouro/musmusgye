@@ -1,7 +1,7 @@
 ---
 title: Bicentenario de la Independencia de Guayaquil
 subtitle: Curso de actualización histórica
-listing-priority: 089
+listing-priority: 092
 image: //res.cloudinary.com/magnvs/image/upload/v1539355284/jpkdxaoyjdjmjd187m9d.jpg
 mmdg: /bicentenario
 ---
