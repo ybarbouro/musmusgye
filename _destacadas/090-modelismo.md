@@ -1,7 +1,7 @@
 ---
 title: XIX Concurso Nacional de modelismo a escala
 subtitle: " "
-listing-priority: 093
+listing-priority: 090
 image: "//res.cloudinary.com/magnvs/image/upload/v1548945783/maquetas_b0jqfl.jpg"
 mmdg: "//www.mmdg.site/modelismo/"
 ---
