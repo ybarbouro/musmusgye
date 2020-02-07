@@ -115,10 +115,6 @@ h2.cce {
     min-height: 75vh;
     padding-top: 32%;
     padding-bottom: 5%;
-    background-color: #CFD8DC;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: center;
     background-position-y: 3rem;
     background-position-x: 1.5rem;
   }
