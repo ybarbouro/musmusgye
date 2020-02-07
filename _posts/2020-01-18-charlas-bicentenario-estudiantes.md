@@ -7,7 +7,9 @@ comment: Intercultural | El Universo
 image: "https://res.cloudinary.com/magnvs/image/upload/v1579542140/olmedo-en-sala_svfcau.jpg"
 ffw: Leer más
 ---
-Un ciclo de conferencias sobre el bicentenario de la independencia de Guayaquil comenzará a impartirse a jóvenes universitarios de la ciudad. Las conferencias abordarán los aspectos históricos sobre la independencia y sus repercusiones para la ciudad. <br /><br/>El cronograma de las conferencias arrancará el **miércoles 22 de enero** en el teatro-biblioteca de la **Escuela Superior Politécnica del Litoral** (Espol), a partir de las **11:30**. ‘Rumbo al bicentenario’ es el título que recibirá esta primera conferencia.<br /><br />El ciclo irá luego al **colegio 28 de Mayo**. Allá la actividad se desarrollará el **viernes 24 de enero** a partir de las **10:00** y será en el salón de actos de la entidad. Se espera que asistan unos 500 alumnos.
+Un ciclo de conferencias sobre el bicentenario de la independencia de Guayaquil comenzará a impartirse a jóvenes universitarios de la ciudad. Las conferencias abordarán los aspectos históricos sobre la independencia y sus repercusiones para la ciudad. <br /><br/>El cronograma de las conferencias arrancará el **miércoles 22 de enero** en el teatro-biblioteca de la **Escuela Superior Politécnica del Litoral** (Espol), a partir de las **11:30**. ‘Rumbo al bicentenario’ es el título que recibirá esta primera conferencia.
+
+El ciclo irá luego al **colegio 28 de Mayo**. Allá la actividad se desarrollará el **viernes 24 de enero** a partir de las **10:00** y será en el salón de actos de la entidad. Se espera que asistan unos 500 alumnos.
 
 Para el **martes 28 de enero** está previsto que este tour de conferencias del bicentenario llegue a la **Universidad de Guayaquil**. La charla empezará a las **17:00** en el coliseo del complejo académico norte de la **Facultad de Filosofía, Letras y Ciencias de la Educación**.
 
