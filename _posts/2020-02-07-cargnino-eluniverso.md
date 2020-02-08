@@ -4,10 +4,12 @@ title: "Sugerente y visionaria, la obra de Enrico Cargnino"
 subtitle: ""
 date: 2020-02-07 17:00:00
 comment: Karla Medina | El Universo
-image: "//res.cloudinary.com/magnvs/image/upload/v1581110354/vdttzq40dwg1oqbkaagu.jpg"
+image: "//res.cloudinary.com/magnvs/image/upload/v1581120259/prcu3nfuwcvks2pwvpfv.jpg"
 ffw: Leer más
 ---
-La naturaleza en sus diferentes expresiones se manifiesta en Latitud 2°12’ y Longitud 79°54’ del cuarto ciclo (DOS), una muestra de Enrico Cargnino y que desde ayer acoge el Museo Municipal.<br /><br />“En esta ocasión estoy presentando instalaciones de tubos metálicos que representan la galaxia, que es un tema que estoy investigando en este momento: la relación que hay entre la galaxia y el átomo”, refiere el artista italiano sobre esta exposición que de alguna manera es la continuación de una muestra que el año pasado trajo a otro museo de Guayaquil.<br /><br />En esta muestra de artes visuales, integrada por quince trabajos de diverso formato, Cargnino señala que busca “demostrar la interrelación visual y espacial del público con las obras flotantes”. El autor dice que en esta etapa de su producción se aparta “del concepto clásico de proporción áurea que se encuentra en una obra de pintura bidimensional”.
+La naturaleza en sus diferentes expresiones se manifiesta en Latitud 2°12’ y Longitud 79°54’ del cuarto ciclo (DOS), una muestra de Enrico Cargnino y que desde ayer acoge el Museo Municipal.<br /><br />“En esta ocasión estoy presentando instalaciones de tubos metálicos que representan la galaxia, que es un tema que estoy investigando en este momento: la relación que hay entre la galaxia y el átomo”, refiere el artista italiano sobre esta exposición que de alguna manera es la continuación de una muestra que el año pasado trajo a otro museo de Guayaquil.
+
+En esta muestra de artes visuales, integrada por quince trabajos de diverso formato, Cargnino señala que busca “demostrar la interrelación visual y espacial del público con las obras flotantes”. El autor dice que en esta etapa de su producción se aparta “del concepto clásico de proporción áurea que se encuentra en una obra de pintura bidimensional”.
 
 Apunta que la temática recurrente en su propuesta es la naturaleza, pero mostrada bajo la técnica abstracta.
 
