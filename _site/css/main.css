@@ -35,12 +35,7 @@ h2.cce {
   color: #1a1a1a;
   overflow:hidden;
   padding: 3rem 0 3.7rem 0;
-  background-color: var(--gray);
-  background-image: url(//res.cloudinary.com/magnvs/image/upload/v1577737514/gknjuj0i97vy7lhelyoa.png);
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-position: left bottom;
-  background-position-x: 4.6rem;
+  background-color: #fff;
 }
 
 h2.mlch {
@@ -115,10 +110,6 @@ h2.cce {
     min-height: 75vh;
     padding-top: 32%;
     padding-bottom: 5%;
-    background-color: #CFD8DC;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: center;
     background-position-y: 3rem;
     background-position-x: 1.5rem;
   }
