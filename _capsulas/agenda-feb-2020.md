@@ -1,12 +1,13 @@
 ---
-title: AGENDA CULTURAL
+title: PROGRAMA DE CAPACITACIÓN
 object-id: agenda
 listing-priority: 089
 day:
 month:
 time:
 place:
-image: "//res.cloudinary.com/magnvs/image/upload/c_crop,g_north,h_945,w_1000/v1580516781/bfgmitgbs4ygzanvx63d.jpg"
+image: "//res.cloudinary.com/magnvs/image/upload/v1581450700/m8qn0yp1rkaly3wamhej.jpg"
 ext-url: "/capsulas/"
 ---
-La Dirección de Cultura de la M. I. Municipalidad presenta la agenda de eventos culturales para el mes de **Febrero de 2020**.
+La Dirección de Cultura del M. I. Municipio de Guayaquil invita a la
+«Capacitación histórica sobre el Bicentenario de la Independencia de Guayaquil»<br/>**Febrero - abril / 2020**.
