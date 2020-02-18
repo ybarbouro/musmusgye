@@ -1,7 +1,7 @@
 ---
 title: Siguiendo los pasos de J. J.
 subtitle: "Tres fechas"
-listing-priority: 088
+listing-priority: 091
 image: "//res.cloudinary.com/magnvs/image/upload/v1580518474/mruufm13p7wioolkuw53.jpg"
 mmdg: "/gestion-2020"
 ---
