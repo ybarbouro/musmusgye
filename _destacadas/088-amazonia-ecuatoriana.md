@@ -1,7 +1,7 @@
 ---
 title: Amazonía Ecuatoriana
 subtitle: "Exposición"
-listing-priority: 089
+listing-priority: 088
 image: "//res.cloudinary.com/magnvs/image/upload/v1579021398/troya_gj6la6.jpg"
 mmdg: "//www.mmdg.site/amazonia-ecuatoriana/"
 ---
