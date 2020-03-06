@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La denuncia social plasmada en 31 obras"
-subtitle: "Recoge 10 años de trabajo"
+subtitle: "Illescas recoge 10 años de trabajo"
 date: 2020-03-05 12:30:00
 comment: Cynthia Flores | Expreso
 image: "//res.cloudinary.com/magnvs/image/upload/v1583511494/El_Mar_dentro_de_tus_ojos_rn5d8a.jpg"
