@@ -272,10 +272,9 @@ h2.league span {
 
 h2.league-two {
   font-family:"Oswald", sans-serif;
-  font-weight: 400;
+  font-weight: 800;
   font-size: 4.7rem;
-  color:  #e76a00;
-  padding-bottom: 3rem;
+  color:  #778899;
   line-height: 4.5rem;
 }
 
@@ -684,13 +683,22 @@ h2.animosa {
     padding: 0 0 1em 0}
 
 .site-section-board{
-				background-image: url(/assets/blue.svg), linear-gradient(to top, #D7CCC8 60%, #93a5cf 100%);
+				background-image: url(/assets/blue.svg), linear-gradient(to top, #D7CCC8 100%, #93a5cf 100%);
 				background-size: 100% 100%;
 				background-blend-mode:soft-light;
 				background-position: center top;
 		    color:#333;
 		    overflow:hidden;
 		    padding: 0 0 1em 0}
+
+.site-section-ebook{
+				background-image: url(//cdn.filestackcontent.com/GL9keX4uTYidv1zzwDG9), linear-gradient(to bottom, #ffffff 0%, #c3cfe2 100%);
+			  background-size: cover;
+				background-repeat: no-repeat;
+			  background-blend-mode:overlay;
+				background-position: center bottom;
+				overflow:hidden;
+			}
 
 .site-section-transparente{
         background-color:transparent;
