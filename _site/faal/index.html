@@ -201,218 +201,7 @@ text {
   </style>
 </head>
 
- <body>
-
-        <!--[if lt IE 8]>
-            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
-		<!-- Add your site or application content here -->
-<div>
-
-<!doctype html>
-<html class="no-js" lang="es">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Museo Arte y Ciudad</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-
-        <!-- Facebook OpenGraph Info - Page Specific - Variables listed on each page -->
-	      <meta property="og:title" content="Museo Municipal de Guayaquil" />
-        <meta property="og:type" content="website">
-	      <meta property="og:image" content="//res.cloudinary.com/magnvs/image/upload/v1522811906/temporary_timbbp.jpg" />
-	      <meta property="og:url" content="//www.museoarteyciudad.com" />
-	      <meta property="og:description" content="Abrimos de martes a sábado de 09h00 a 17h30. ¡Conoce más sobre nuestras actividades aquí!" />
-
-	      <!-- Twitter Card Tags -->
-	      <meta name="twitter:card" content="summary_large_image" />
-	      <meta name="twitter:site" content="@MUMG1" />
-        <meta name="twitter:creator" content="@fernanz">
-	      <meta name="twitter:title" content="Museo Municipal de Guayaquil" />
-	      <meta name="twitter:description" content="Abrimos de martes a sábado de 09h00 a 17h30. ¡Conoce más sobre nuestras actividades aquí" />
-	      <meta name="twitter:image" content="//res.cloudinary.com/magnvs/image/upload/v1522811906/temporary_timbbp.jpg" />
-
-        <link rel="apple-touch-icon" href="apple-touch-icon.png">
-        <!-- Place favicon.ico in the root directory -->
-
-        <link rel=stylesheet href="https://fonts.googleapis.com/css?family=Open+Sans:400,700">
-        <link href="https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200" rel="stylesheet">
-        <link rel="stylesheet" href="/css/normalize.css">
-        <link rel="stylesheet" href="/css/main.css">
-        <link rel="stylesheet" href="/css/irish.css">
-        <link rel="stylesheet" href="/css/kube.css">
-        <link rel="stylesheet" href="/css/magazine.css">
-        <link rel="stylesheet" href="/css/fonts.css">
-        <link rel="stylesheet" href="/css/heritage.css">
-        <link rel="stylesheet" href="/css/slides.css">
-        <link rel="stylesheet" href="/css/animate.css">
-        <link rel="stylesheet" href="/css/jquery.bxslider.css">
-        <link rel="stylesheet" href="/css/modal-video.min.css">
-        <link rel="stylesheet" type="text/css" href="/fonts/font-awesome-4.7.0/css/font-awesome.min.css" />
-        <link rel="stylesheet" href="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
-   <script src="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"></script>
-        <script src="/js/vendor/modernizr-2.8.3.min.js"></script>
-        <style>
-/* NOTE: The styles were added inline because Prefixfree needs access to your styles and they must be inlined if they are on local disk! */
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300);
-section { display: flex;
-  justify-content: center;
-  max-width: 1200px;
-  margin: 0 auto;
-  }
-article {
-margin: 1rem;
--ms-flex: 1 0 0px;
-flex: 1;
-/* shortcut for "flex-grow: 1". Note that it MUST be a unitless value to work; defined with a unit (e.g. flex: 1px) the shortcut would alter the flex-basis property. */
-}
-article.breaking {
--ms-flex-grow: 2;
-flex: 2;
-/* shortcut for "flex-grow: 2" */
-}
-
-article.columnas div {
-column-count: 3;
-}
-
-article.columnas h1 {
-font-size: 2.7rem;
-line-height: 2.7rem;
-padding-bottom: 1rem;
-margin-top: 0;
-max-width: 65%;
-}
-
-article.columnas h2 {
-font-size: 2.3rem;
-line-height: 2.3rem;
-padding-bottom: 1rem;
-margin-top: 0;
-max-width: 55%;
-text-align: left;
-color: #777;
-}
-
-article.columnas h3 {
-text-align: left;
-font-size: 1.3rem;
-}
-
-article.columnas p {
-font-size:.9rem;
-font-family: 'Open Sans', sans-serif;
-}
-
-article.tarjetabg {
-background: url(/img/papers.png);
-padding: 5px 15px;
-}
-
-
-.cardex {
-  position: relative;
-  margin: 0;
-  padding: 15px 15px;
-  margin-left: -15px;
-  margin-right: -15px;
-  /* background-image: linear-gradient(to top, #243949 0%, rgba(46, 87, 103, 0.7) 100%);*/
-  height: 90%;
-  color:#fff;
-}
-
-.cardex > img {
-mix-blend-mode:normal;
-}
-
-article img {
-width: 100%; height: auto;
-border-radius: 7px;
-}
-
-article blockquote > p{
- color: #666;
-}
-
-img.destacada {
-float: left;
-width: 100%;
-height: auto;
-border-radius: 7px;
-}
-
-article h1, article h2, article h3 { font-family: "Oswald", sans-serif; }
-article h1 {
-font-size: 1.7rem;
-line-height: 1.3;
-text-align: left;
-text-transform: uppercase;
-}
-article h2, article h3 {
-font-size: 1rem;
-text-align: right;
-line-height: 1.3;
-margin: 1.3rem 0;
-font-weight: 300;
-}
-article h3 {
-font-size: 1.1rem;
-}
-article p {
-line-height: 1.3;
-text-align: left;
-}
-
-@media screen and (max-width: 750px) {
-
-section {
-  -ms-flex-direction: column;
-  -webkit-box-orient: vertical;
-  flex-direction: column;
-}
-
-.cardex {
-  position: relative;
-  margin-bottom: -15px;
-  height: 100%;
-}
-
-img.destacada {
-float: none;
-width: 100vw;
-margin-bottom: 1.7rem;
-margin-left: 0;
-}
-
-article.columnas div {
-column-count: 1;
-}
-
-article.columnas h1{
-max-width: 83%;
-}
-
-article.columnas h2{
-max-width: 83%;
-}
-}
-
-text {
-  font-size: 315px;
-  font-family: 'Inter', sans-serif;
-  font-weight: 700;
-}
-
-.ct-series-b {
-  fill:#bada55;
-  stroke: white;
-  stroke-width: 4px;
-}
-  </style>
-</head>
-
-<body class="noise">
+<body>
         <!-- Add your site or application content here -->
 <div class="main"><!-- Aquí va class main -->
 <div class="bg-hero">
@@ -439,143 +228,30 @@ text {
     </div>
   </div>
 
-<h2>REANUDACIÓN DE CONCURSOS</h2>
+<h2>VOLVEREMOS EN OCTUBRE DE 2020</h2>
 
 </div><!-- END site-promo-->
-
-<div class="row">
-
-		<div class="col col-4">
-			<div class="opaco">
-			<h2 class="league"><span>PINTURA Y DIBUJO</span></h2>
-			<h2 class="league-sm">MIÉRCOLES 16 DE OCTUBRE</h2>
-			<h3 class="league-darkie">EXPLANADA DEL MAAC: 10h00 - 20h00 </h3>
-			</div>	
-  		</div>
-		<div class="col col-4">
-			<div class="opaco">
-			<h2 class="league"><span>ESCULTURA</span></h2>
-			<h2 class="league-sm">MIÉRCOLES 16 DE OCTUBRE</h2>
-			<h3 class="league-darkie">PLAZA COLÓN: 10h00 - 20h00 </h3>
-			</div>  		
-		</div>
-		<div class="col col-4">
-			<div class="opaco">
-			<h2 class="league"><span>ARTES ALTERNATIVAS</span></h2>
-			<h2 class="league-sm">17 Y 18 DE OCTUBRE</h2>
-			<h3 class="league-darkie">PLATAFORMA DEL MAAC: 10h00 - 18h00 </h3>
-			</div>	
-  		</div>
-
-	</div><!-- END ROW -->
-	
-	<div class="row">
-
-		<div class="col col-4">
-			<div class="opaco">
-			<h2 class="league"><span>FOTOGRAFÍA</span></h2>
-			<h2 class="league-sm">17 Y 18 DE OCTUBRE</h2>
-			<h3 class="league-darkie">PLATAFORMA DEL MAAC: 19h00 - 20h00 </h3>
-			</div>	
-  		</div>
-		<div class="col col-4">
-			<div class="opaco">
-			<h2 class="league"><span>CORTOMETRAJE</span></h2>
-			<h2 class="league-sm">17 Y 18 DE OCTUBRE</h2>
-			<h3 class="league-darkie">PLATAFORMA DEL MAAC: 20h00 - 21h00 </h3>
-			</div>  		
-		</div>
-		<div class="col col-4">
-			<div class="opaco">
-			<h2 class="league"><span>DANZA</span></h2>
-			<h2 class="league-sm">18, 19 Y 20 DE OCTUBRE</h2>
-			<h3 class="league-darkie">PLATAFORMA DEL MAAC: 16h00 - 19h00 </h3>
-			</div>	
-  		</div>
-
-	</div><!-- END ROW -->
-	
-	<div class="row">
-
-		<div class="col col-4">
-			<div class="opaco">
-			<h2 class="league"><span>MÚSICA</span></h2>
-			<h2 class="league-sm">21 Y 22 DE OCTUBRE</h2>
-			<h3 class="league-darkie">PLAZA COLÓN: 18h00 - 21h00 </h3>
-			</div>	
-  		</div>
-		<div class="col col-4">
-			<div class="opaco">
-			<h2 class="league"><span>TÍTERES</span></h2>
-			<h2 class="league-sm">23 Y 24 DE OCTUBRE</h2>
-			<h3 class="league-darkie">PLAZA COLÓN: 10h00 - 12h00 </h3>
-			</div>  		
-		</div>
-		<div class="col col-4">
-			<div class="opaco">
-			<h2 class="league"><span>DECLAMACIÓN</span></h2>
-			<h2 class="league-sm">23 Y 24 DE OCTUBRE</h2>
-			<h3 class="league-darkie">PLAZA COLÓN: 13h00 - 15h00 </h3>
-			</div>	
-  		</div>
-
-	</div><!-- END ROW -->
-
-	
-	<div class="row">
-
-		<div class="col col-4">
-			<div class="opaco">
-			<h2 class="league"><span>TEATRO</span></h2>
-			<h2 class="league-sm">23 Y 24 DE OCTUBRE</h2>
-			<h3 class="league-darkie">PLAZA COLÓN: 16h00 - 20h00 </h3>
-			</div>	
-  		</div>
-		<div class="col col-8">
-			<div class="opaco">
-			<h2 class="league"><span>SHOW DE LITERATURA</span></h2>
-			<h2 class="league-sm">JUEVES 24 DE OCTUBRE</h2>
-			<h3 class="league-darkie">PLAZA COLÓN / TEATRO JOSÉ DE LA CUADRA: 19h30 - 20h30 </h3>
-			</div>  		
-		</div>
-
-	</div><!-- END ROW -->
-	<br />
+<br /><br />
 
 
 </div><!-- end of bg-hero -->
 </div><!-- end main -->
 
-      
-<div class="site-section-gray">	
+
+<div class="site-section-head">
 	<div class="row">
-		
-		<div class="col col-3">		
+
+		<div class="col col-3">
 		</div>
 		<div class="col col-6">
-			<div class="opaco">
 			<h2 class="league"><span>PREMIACIÓN</span></h2>
-			<h2 class="league-sm">VIERNES 25 DE OCTUBRE</h2>
+			<h2 class="league-sm">VIERNES 25 DE OCTUBRE 2019</h2>
 			<h3 class="league-darkie">Explanada del Fortín de Las Peñas: 19h00 </h3>
-			</div>	
   		</div>
-		<div class="col col-3">		
+		<div class="col col-3">
 		</div>
 
 	</div><!-- END ROW -->
-
-<div class="aside-b">
-<div class="row">
-
-  <div class="col col-6 offset-3">
-  <figure style="margin-bottom:0;">
-    <img src="/assets/main-logos.svg">
-  </figure>
-  </div>
-
-</div>
-</div>
-
 
       <h2 class="league-sm-white">Comprometidos con el arte y la cultura
       </h2>
@@ -587,8 +263,20 @@ text {
         <p>Las artes plásticas, escénicas, visuales y alternativas continúan presentes con once categorías de concursos plenamente establecidos en el FESTIVAL DE ARTES AL AIRE LIBRE, para lo cual <em>estamos trabajando con el nuevo cronograma de participación.</em></p>
 
       </div>
+      <div class="aside-b">
+<div class="row">
+
+  <div class="col col-6 offset-3">
+  <figure style="margin-bottom:0;">
+    <img src="/assets/main-logos.svg">
+  </figure>
+  </div>
+
+</div>
+</div>
+
     </div>
-	
+
 	  <h2 class="league-sm">MUSEO MUNICIPAL DE GUAYAQUIL
   </h2>
   <p style="color:#1A1A1A;">Sucre entre Chile y Pedro Carbo - Guayaquil<br />
@@ -596,7 +284,6 @@ text {
   </p>
  </div> <!-- En gray -->
 
-</div> <!-- END NOISE -->
 
 <figure  class='full-width' style="margin-bottom:0 !important;">
   <img class="wide" src="//res.cloudinary.com/magnvs/image/upload/v1566533837/xqwyplnraqhf4ejm954w.jpg">

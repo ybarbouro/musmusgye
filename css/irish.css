@@ -206,10 +206,7 @@ a.button-animated img:hover {
   padding:0 10px}
 
 div.pts {
-	font-family: 'Source Code Pro', monospace;
-	font-size: 0.9em;
-	font-weight: 300;
-	color:#aaa;
+	font-family: 'Inter', sans-serif;
 }
 
 .pts > ul {
@@ -218,8 +215,9 @@ div.pts {
 }
 
 .pts > p {
-   max-width: 90%;
+   max-width: 75%;
    text-align: left;
+	 color: #1a1a1a;;
 }
 
 .cal {
@@ -636,6 +634,14 @@ h2.animosa {
   text-shadow:2px 2px 0 #000;
 	letter-spacing: 3px;
   }
+
+	.site-promo h3 {
+	  font-family:'Oswald', sans-serif;
+		font-weight: lighter;
+	  color: #ffffff;
+	  text-shadow:2px 2px 0 #000;
+		letter-spacing: 1px;
+	  }
 
 	.site-catch{
 	  padding: .3em}

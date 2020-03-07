@@ -1,7 +1,7 @@
 ---
 title: PROGRAMA DE CAPACITACIÓN
 object-id: agenda
-listing-priority: 089
+listing-priority: 090
 day:
 month:
 time:
