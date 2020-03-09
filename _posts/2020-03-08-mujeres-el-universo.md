@@ -13,7 +13,7 @@ Gardeneira, quien participa con su obra Cojuda, acepta mi halago (primer premio 
 
 Nadia Tramontana y Valentina Castro, coordinadoras de la exhibición, expresan que la mujer ecuatoriana ha jugado un papel importante en el arte de la pintura y escultura, “de manera nacional” e “internacional, otorgando el valor de la mujer como artista, no solo como musa o modelo”.
 
-Castro explica que para la selección se tomaron en cuenta artistas ganadoras de Salón de Julio y Festival de Artes al Aire Libre de distintas ediciones, así como a artistas de trayectoria que han ganado premios internacionales. “Además se tomaron en cuenta las distintas técnicas aplicadas por las artistas en cuanto a pinturas y esculturas con el objetivo de mostrar la variedad de obras que reposan en la reserva y que se han realizado por mujeres a través del tiempo”, añade.
+Tramontana explica que para la selección se tomaron en cuenta artistas ganadoras de Salón de Julio y Festival de Artes al Aire Libre de distintas ediciones, así como a artistas de trayectoria que han ganado premios internacionales. “Además se tomaron en cuenta las distintas técnicas aplicadas por las artistas en cuanto a pinturas y esculturas con el objetivo de mostrar la variedad de obras que reposan en la reserva y que se han realizado por mujeres a través del tiempo”, añade.
 
 “La mujer es un ser muy valiente –igual que el hombre, claro– que merece ese homenaje porque da mucho siempre sin medida a su familia, a la comunidad... Trata de dar lo mejor de sí”, indica, por su lado, Diana Ponce, una de las expositoras con la escultura Danza de la vida (primer premio FAAL 2004).
 
