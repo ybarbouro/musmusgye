@@ -4,7 +4,7 @@ title: "Pintura y escultura se fusionan en muestra que se realizará en Guayaqui
 subtitle: " "
 date: 2020-03-08 00:30:00
 comment: Cultura | El Universo
-image: "///res.cloudinary.com/magnvs/image/upload/v1583700263/io5wijfctrak8mgt3ztw.jpg"
+image: "//res.cloudinary.com/magnvs/image/upload/v1583700263/io5wijfctrak8mgt3ztw.jpg"
 ffw: Leer más
 ---
 Hoy es un día en el que no queremos rosas, ya que es un día de conmemoración por la lucha de derechos humanos, luchamos por nuestra participación justa en una sociedad machista, luchamos por ya no ser invisibilizadas con nuestro trabajo, luchamos por quienes les fueron arrebatadas sus vidas por la violencia. Así lo expresa Diana Gardeneira, una de las siete artistas que forman parte de la exposición La mujer en la pintura y escultura ecuatoriana.<br /><br />La muestra se realizará desde el 17 de este mes al 4 de abril en la Sala de Artes Temporales del Museo Municipal de Guayaquil. La actividad, que se efectúa en conmemoración del Día Internacional de la Mujer, incluye las ramas de pintura y escultura.
