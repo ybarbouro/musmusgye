@@ -2,7 +2,7 @@
 layout: post
 title: "Trece pintores independientes se juntan para hacer una ‘vista previa’ del arte ‘guayaco’"
 subtitle: " "
-date: 2020-03-11 13:30:00
+date: 2020-03-11 00:00:00
 comment: Cultura | El Universo
 image: "//res.cloudinary.com/magnvs/image/upload/v1583941680/19202-1226_baktji.jpg"
 ffw: Leer más
