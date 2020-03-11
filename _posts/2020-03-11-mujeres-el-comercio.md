@@ -2,7 +2,7 @@
 layout: post
 title: "El Museo Municipal de Guayaquil revisita dos décadas de arte femenino"
 subtitle: " "
-date: 2020-03-11 12:30:00
+date: 2020-03-11 01:00:00
 comment: Alexander García | El Comercio
 image: "//res.cloudinary.com/magnvs/image/upload/v1583955136/5e681cc02ba7c_tqfgbp.jpg"
 ffw: Leer más
