@@ -7,7 +7,9 @@ comment: Cynthia Flores | Expreso
 image: "//res.cloudinary.com/magnvs/image/upload/v1583511494/El_Mar_dentro_de_tus_ojos_rn5d8a.jpg"
 ffw: Leer más
 ---
-Después de llevar su exposición a Quito, Riobamba y Azogues, el artista cuencano Hernán Illescas llega a Guayaquil para mostrar 31 cuadros con los que protesta, desde el arte, por el calentamiento global, por la deforestación y por todo tipo de destrucción que ocurre con la complicidad humana.<br /><br />En esta exposición itinerante a la que llamó ‘Imperfecta belleza’ están resumidos los últimos diez años de una trayectoria que supera ya las cuatro décadas y en la que destaca también su mirada sobre la migración.<br /><br />La Sala Polivalente del Museo Municipal de Guayaquil acoge desde hoy esta muestra, aunque no tendrá acto de inauguración, pues fue cancelado como una medida preventiva ante la presencia del nuevo coronavirus en el país.
+Después de llevar su exposición a Quito, Riobamba y Azogues, el artista cuencano Hernán Illescas llega a Guayaquil para mostrar 31 cuadros con los que protesta, desde el arte, por el calentamiento global, por la deforestación y por todo tipo de destrucción que ocurre con la complicidad humana.<br /><br />En esta exposición itinerante a la que llamó ‘Imperfecta belleza’ están resumidos los últimos diez años de una trayectoria que supera ya las cuatro décadas y en la que destaca también su mirada sobre la migración.
+
+La Sala Polivalente del Museo Municipal de Guayaquil acoge desde hoy esta muestra, aunque no tendrá acto de inauguración, pues fue cancelado como una medida preventiva ante la presencia del nuevo coronavirus en el país.
 
 Para él, lo importante es que los guayaquileños puedan conocer lo que allí se exhibe y que lo vean de una manera diferente. “Al arte no solo se lo mira como una flor o como un pasaje bonito. La belleza está en muchas cosas que tienen relación con nosotros”, explica.
 
