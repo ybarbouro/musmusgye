@@ -9,7 +9,7 @@ ffw: Leer más
 ---
 El 14 de agosto de 2019 lanzamos en línea nuestro primer episodio del podcast **"Desde el Museo Municipal"**, tuvimos como invitada a Diana Gardeneira, la ganadora del 60º Salón de Julio, con ella tratamos, entre otros temas, sobre arte y feminismo. Desde entonces hasta la fecha ya van 26 episodios grabados, el más reciente se está publicando en línea en el transcurso de este día: **"El arte visual de Hernán Illescas y Diana Ponce"**.<br /><br />Los siguientes son los episodios más escuchados de acuerdo con [Simplecast](https://simplecast.com)...
 
-# 1. "Armadura de una ángel guardián" de Gastón Calderón
+# 1. "Armadura de un ángel guardián" de Gastón Calderón
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/8a11f257-f077-4464-9732-f85874f589cc?dark=true"></iframe>
 
