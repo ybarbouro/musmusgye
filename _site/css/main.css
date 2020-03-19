@@ -21,6 +21,18 @@
   background-position-x: 4.6rem;
 }
 
+.cceng-alt {
+  color:#fff;
+  overflow:hidden;
+  padding: 3rem 0 3.7rem 0;
+  background-color: #85144b ;
+  background-image: url(//res.cloudinary.com/magnvs/image/upload/v1584655715/zkohpwm464qymcqojrgc.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left bottom;
+  background-position-x: 4.6rem;
+}
+
 h2.cce {
   font-family:"Oswald", sans-serif;
   font-weight: bold;
