@@ -1,7 +1,7 @@
 ---
 title: Piratas en Guayaquil 2
-subtitle: "La invasión holandesa de 1687"
-listing-priority: 081
+subtitle: "La invasión de 1687"
+listing-priority: 085
 image: "//res.cloudinary.com/magnvs/image/upload/v1584819327/dar9bmgi8nftbtldz03v.jpg"
 mmdg: "//cdn.filestackcontent.com/G8OLJtaqRQetO2CTBdsJ"
 ---
