@@ -50,6 +50,19 @@ h2.cce {
   background-color: #fff;
 }
 
+.tca-bg {
+  max-height: 700px;
+  color:#fff;
+  overflow:hidden;
+  padding: 3rem 0 3.7rem 0;
+  background-color: rgba(133,20,75,1) ;
+  background-image: url(../assets/paint-palette.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left top;
+  background-blend-mode:soft-light;
+}
+
 h2.mlch {
   font-family:"Oswald", sans-serif;
   font-weight: bold;
