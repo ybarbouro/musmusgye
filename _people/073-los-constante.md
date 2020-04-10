@@ -5,7 +5,7 @@ day: 9
 month: ENERO
 place: Sala de Arte Contemporáneo
 time: 18h30
-listing-priority: 073
+listing-priority: 73
 image: "//res.cloudinary.com/magnvs/image/upload/v1577970252/ymzqgrphlpa59hc57l7r.jpg"
 ---
 Primera Exposición del 2020 que se realiza en el Museo Municipal de Guayaquil, se expondrá el legado de una familia dedicada al arte por varias generaciones. Y es que el  arte, en la vida de los Constante, más allá de ser un hábito que tienen en común, representa una manera de vivir, de encontrarse en el mundo y expresarse ante él.<br/><br/>Esta cualidad representativa de la familia ha recorrido generación tras generación, y ha permitido que cada uno de ellos, la plasme de una manera diferente. La exposición “Los Constante” exhibe obras de los miembros de la familia que han optado por este medio de manifestación para expresar sus sentimientos con las características propias década uno, pero teniendo en común más que el apellido, el arte en sus venas.
