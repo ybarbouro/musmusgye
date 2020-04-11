@@ -93,6 +93,10 @@ div.main-sq-text > p {
 }
 
 @media only screen and (max-width: 35em) {
-      .on-top > h1 {
-        font-size: 3em; } 
+      .on-top {
+        width: 73%;
       }
+      .on-top > h1 {
+      font-size: 3em;
+    }
+  }
