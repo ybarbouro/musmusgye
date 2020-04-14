@@ -6,7 +6,7 @@ day:
 month:
 time:
 place:
-image: "//res.cloudinary.com/magnvs/image/upload/v1583612119/htzestnaoz3a0czhojy2.jpg"
+image: "//res.cloudinary.com/magnvs/image/upload/v1586841757/q9wimi0qr17emjw7jefo.jpg"
 ext-url: "/capsulas/"
 ---
 
