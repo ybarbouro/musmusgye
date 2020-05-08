@@ -54,7 +54,7 @@ Los participantes deberán inscribirse hasta las 17h00 del día domingo **24 de 
 <div class="leftie">
 
 <ol>
-<li>Datos personales del autor *(Nombres, apellidos y número de documento de identidad)* y título de la obra.</li>
+<li>Datos personales del autor (Nombres, apellidos y número de documento de identidad) y título de la obra.</li>
 <li>Copia digital de cédula del autor.</li>
 <li>Breve marco referencial sobre la fotografía que no exceda las 150 palabras.</li>
 
@@ -67,8 +67,8 @@ Los participantes deberán inscribirse hasta las 17h00 del día domingo **24 de 
 <div class="leftie">
 
 <ol>
-<li>Datos personales del autor *(Nombres y apellidos)* y título de la obra.</li>
-<li>Carta de autorización del representante *(Con nombres, apellidos y número de documento de identidad)*.</li>
+<li>Datos personales del autor (Nombres y apellidos) y título de la obra.</li>
+<li>Carta de autorización del representante (Con nombres, apellidos y número de documento de identidad).</li>
 <li>Copia digital de cédula del autor y del representante.</li>
 <li>Breve marco referencial sobre la fotografía que no exceda las 150 palabras.</li>
 </ol>
