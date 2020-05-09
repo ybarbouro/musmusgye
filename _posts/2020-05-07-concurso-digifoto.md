@@ -47,7 +47,7 @@ La Dirección de Cultura se reserva el derecho de utilizar la fotografía premia
 
 **SOBRE LA DOCUMENTACIÓN**
 
-Los participantes deberán inscribirse hasta las 17h00 del día domingo **24 de mayo de 2020**, enviando un e-mail a **concurso.digifoto@gmail.com** con la fotografía concursante adjunta, **no mayor a 2MB**, y los *datos del autor como se especifica a continuación*:
+Los participantes deberán inscribirse hasta las 17h00 del día domingo **24 de mayo de 2020**, enviando un e-mail a **concurso.digifoto@gmail.com** con la fotografía concursante adjunta, **no mayor a 7MB**, y los *datos del autor como se especifica a continuación*:
 
 **Mayores de edad:**
 
