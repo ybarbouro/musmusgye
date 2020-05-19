@@ -4,7 +4,7 @@ title: "Bases de concurso"
 subtitle: "Concurso de fotografía digital con celular"
 date: 2020-05-07 23:30:00
 comment: Fernando Mayorga | Dirección de Cultura
-image: "//res.cloudinary.com/magnvs/image/upload/v1588911691/tkgwjsm9o0u96p9jn8fv.jpg"
+image: "//res.cloudinary.com/magnvs/image/upload/v1589853720/tnhtec1ugpp0euekz7hv.jpg"
 ffw: Leer más
 ---
 Debido a la emergencia sanitaria como efecto de la pandemia actual y, con el propósito de controlar y disminuir la propagación del Covid-19, se tomaron medidas como el aislamiento voluntario para la población en general; a partir de esta experiencia global nació la iniciativa “Quédate en casa” para crear conciencia sobre la importancia del distanciamiento social en los tiempos que estamos experimentando.<br /><br />Muchos de nosotros hemos tenido que permanecer en casa, adaptarnos y cambiar nuestra forma de vida en especial en lo cotidiano. Lo usual y lo habitual probablemente cambiaron de significado para muchos de nosotros, en esta nueva realidad debieron haber nacido una serie de vivencias que seguramente han sido dignas de ser capturadas en una fotografía.
