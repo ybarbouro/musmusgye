@@ -15,6 +15,21 @@
           "g g h i";
 }
 
+.gallery-a {
+  margin-top: 0;
+  margin-bottom: .3em;
+  display: -ms-grid;
+  display: grid;
+  grid-gap: 5px;
+      -ms-grid-rows: 1fr 5px 1fr 5px 1fr;
+      grid-template-rows: repeat(2, 230px);
+      -ms-grid-columns: 1fr 5px 1fr 5px 1fr;
+      grid-template-columns: repeat(4, 1fr);
+      grid-template-areas:
+          "a b c d"
+          "a b c d";
+}
+
 .gallery-b {
   margin-top: 3em;
   margin-bottom: .3em;
@@ -27,8 +42,8 @@
       grid-template-columns: repeat(4, 1fr);
       grid-template-areas:
           "a a b c"
-          "a a f f"
-          "d e f f";
+          "a a f g"
+          "d e f g";
 }
 
 .gallery__item {

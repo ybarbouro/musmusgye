@@ -33,7 +33,7 @@ Participaron 85 fotografías,  de las cuales el jurado integrado por **Manuel Ta
 **Justificación del jurado:** Calidad estética que transmite el sentido del confinamiento.
 
 #### Menciones de honor
-Fatima Falcones: Cuarentena a los setenta.
+Fátima Falcones: Cuarentena a los setenta.
 
 Kevium Alvarado: Desde mi ventana.
 
@@ -45,17 +45,17 @@ Karla Medina: La despedida.
 
 Francisco Bravo: Amanecer en tiempos de coronavirus.
 
-Robert Leon: Madre preocupación y ocio.
+Robert León: Madre, preocupación y ocio.
 
 Francisco Bravo: Atardecer panorámico.
 
 Josellyn Freyle: Buscando un hogar en medio del drama.
 
-Juan Carlos Castrellon: Mirada de esperanza.
+Juan Carlo Castrellon: Mirada de esperanza.
 
 Ismael Cisneros: Mery.
 
-Katy Caicedo: Mini parque.
+Katty Caicedo: Mini parque.
 
 Karla Cruz: Al mal tiempo, buena cara.
 
@@ -65,6 +65,6 @@ Dayana Carvajal: Los niños de la cuarentena *(Fotografía del encabezado de est
 
 Enma Hurtado: Lucha contra un enemigo invisible.
 
-Wilson Lopez: Florecimiento y paz.
+Wilson López: Florecimiento y paz.
 
-Las fotos formarán una [Exposicion Virtual](/digifoto) y los premios otorgados en despacho de la Dirección.
+Las fotos formarán una [Exposicion Virtual](/galeria-digifoto) y los premios otorgados en despacho de la Dirección.
