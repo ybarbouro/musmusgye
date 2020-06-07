@@ -562,7 +562,7 @@ h2.animosa {
   float: none;
   color:#eee;
   font-size:25px;
-  font-weight:700;
+  font-weight:200;
   line-height:32px;
   text-decoration:none;
   text-shadow:2px 2px 0 #000;
@@ -684,13 +684,13 @@ h2.animosa {
     padding: 0 0 1em 0}
 
 .site-section-board{
-				background-image: url(/assets/blue.svg), linear-gradient(to top, #D7CCC8 100%, #93a5cf 100%);
-				background-size: 100% 100%;
-				background-blend-mode:soft-light;
-				background-position: center top;
+				background-image: url(/assets/blue.svg), linear-gradient(to bottom, #435b96 0%, #93a5cf 100%);
+				background-size: cover;
+				background-blend-mode: soft-light;
+				background-position: top;
 		    color:#333;
 		    overflow:hidden;
-		    padding: 0 0 1em 0}
+		    padding: 0 0 1rem 0;}
 
 .site-section-ebook{
 				background-image: url(//cdn.filestackcontent.com/GL9keX4uTYidv1zzwDG9), linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(197,202,233,1) 100%);

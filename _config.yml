@@ -1,7 +1,7 @@
 name: MUSEO ARTE Y CIUDAD
 markdown: kramdown
 highlighter: rouge
-exclude: [main.scss, config.rb, crono-faal.html]
+exclude: [main.scss, config.rb, crono-faal.html, bicentenario.html]
 description: Sitio informativo del Programa Museo, Arte y Ciudad - Musimuestras 2017
 url: https://museoarteyciudad.com
 permalink: pretty
@@ -28,4 +28,4 @@ defaults:
   - scope:
       type: capsulas
     values:
-      layout: capsule   
+      layout: capsule
