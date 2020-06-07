@@ -1,5 +1,5 @@
 function findVideos() {
-	let videos = document.querySelectorAll('.video');
+	let videos = document.querySelectorAll('#video');
 
 	for (let i = 0; i < videos.length; i++) {
 		setupVideo(videos[i]);
