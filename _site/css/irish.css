@@ -684,10 +684,12 @@ h2.animosa {
     padding: 0 0 1em 0}
 
 .site-section-board{
-				background-image: url(/assets/blue.svg), linear-gradient(to bottom, #435b96 0%, #93a5cf 100%);
-				background-size: cover;
-				background-blend-mode: soft-light;
-				background-position: top;
+				min-height: 800px;
+				background-image: url(/assets/enda-bg.png), url(/assets/blue.svg), url(/assets/ricepaper2.png);
+				background-size:100vw, cover, auto;
+				background-blend-mode: normal, multiply, normal;
+				background-position: bottom, top, center;
+				background-repeat: no-repeat,no-repeat,repeat;
 		    color:#333;
 		    overflow:hidden;
 		    padding: 0 0 1rem 0;}
@@ -872,7 +874,10 @@ img.tilt {
 		margin-top: 0;}
 	a.button-animated img {
 		max-width: 45%;}
+		.site-section-board{
+		min-height: 80vh;}
 }
+
 @media only screen and (max-width:420px){
 	.site-logo{
 	  float: none;
