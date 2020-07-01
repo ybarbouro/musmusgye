@@ -684,15 +684,23 @@ h2.animosa {
     padding: 0 0 1em 0}
 
 .site-section-board{
-				min-height: 800px;
-				background-image: url(/assets/enda-bg.png), url(/assets/blue.svg), url(/assets/ricepaper2.png);
-				background-size:100vw, cover, auto;
-				background-blend-mode: normal, multiply, normal;
-				background-position: bottom, top, center;
-				background-repeat: no-repeat,no-repeat,repeat;
+				background-image: url(//res.cloudinary.com/magnvs/image/upload/v1593560770/jblu1fq2dph4beokgfov.svg), url(//res.cloudinary.com/magnvs/image/upload/v1593560748/fz6add9dfbu8cuxirexf.png);
+				background-size:cover, auto;
+				background-blend-mode: multiply, normal;
+				background-position: top, center;
+				background-repeat: no-repeat,repeat;
 		    color:#333;
 		    overflow:hidden;
 		    padding: 0 0 1rem 0;}
+
+.extra-bg-board {
+	background-image: url(//cdn.filestackcontent.com/L8HKMLl8SReeqsDfMBTH);
+	background-size:100vw;
+	background-blend-mode: multiply;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	padding-bottom:15em;
+}
 
 .site-section-ebook{
 				background-image: url(//cdn.filestackcontent.com/GL9keX4uTYidv1zzwDG9), linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(197,202,233,1) 100%);
@@ -875,7 +883,7 @@ img.tilt {
 	a.button-animated img {
 		max-width: 45%;}
 		.site-section-board{
-		min-height: 80vh;}
+		max-height: 80vh;}
 }
 
 @media only screen and (max-width:420px){
