@@ -1,6 +1,7 @@
 .galeria ul {
   display: flex;
   flex-wrap: wrap;
+
 }
 
 .galeria li {
