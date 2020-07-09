@@ -6,7 +6,7 @@ day: 22 - 31
 month: OCTUBRE
 time: 09h00 - 17h30
 place: Sala de Artes Temporales
-image: "//res.cloudinary.com/magnvs/image/upload/v1567098190/2_1_wkc0s8.jpg"
+image: "//res.cloudinary.com/magnvs/image/upload/v1583612119/htzestnaoz3a0czhojy2.jpg"
 ext-url: "/capsulas/"
 ---
 **EXPOSICIÓN**

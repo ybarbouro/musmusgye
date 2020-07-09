@@ -762,7 +762,6 @@ padding-bottom: 4em;
 
 .premiere-c {
  position: relative;
- background-image: transparent;
  border-top: 1px solid rgba(102,119,136,.2);
  border-bottom: 1px solid rgba(102,119,136,.2);
 }
@@ -1449,7 +1448,7 @@ div.premiere-kaki {
       @media (min-width:600px) {
         main {
           display: grid;
-          grid-template-columns: 1fr 1fr minmax(25%, 43%) 1fr 1fr;
+          grid-template-columns: 1fr 1fr 1fr 1fr minmax(25%, 43%);
           grid-gap: 0px;
           margin-top: 0;
           margin-bottom:0;
@@ -1476,7 +1475,7 @@ div.premiere-kaki {
           grid-column: 3 / 4;
         }
         .info3 {
-          grid-column: 3 / 4;
+          grid-column: span 2;
         }
         .info3 img{
           width: 100%;
@@ -1488,10 +1487,20 @@ div.premiere-kaki {
          }
 
          .info4 {
-           grid-column: span 2;
+           grid-column: -2 / -1;
            grid-row: span 2;
            border-left: 1px solid rgba(102,119,136,.2);
+           background-image: url(../assets/agenda.svg);
+           background-repeat: no-repeat;
+           background-position: top right;
+           background-size: contain;
          }
+
+         .info4 p {
+           padding-left: 3rem;
+           padding-right: 2rem;
+         }
+
          .info4 img{
            width: 100%;
            object-fit: cover;
@@ -1534,6 +1543,7 @@ div.premiere-kaki {
           margin:0;
         }
       }
+
       .top-anchor1 {
       padding: 1em;
       min-height: 100%;
@@ -1551,6 +1561,7 @@ div.premiere-kaki {
       .top-anchor{
         padding: 1em;
       }
+
       .top-anchor a{
         color:brown;
       }
@@ -1627,6 +1638,10 @@ div.premiere-kaki {
          padding: 40px;
          background-color: transparent;
          color: var(--main-bg);
+         background-image: url(../assets/agenda.svg);
+         background-repeat: no-repeat;
+         background-position: top right;
+         background-size: 75%;
        }
 
       .info-link{
@@ -1638,12 +1653,25 @@ div.premiere-kaki {
         padding:0;
         margin:0;
       }
+
+      .agd > ol {
+        font-size: .8rem;
+        padding-left: 2.3em;
+        width: 95%;
+
+      }
+
+      .agd > h3 {
+        font-family: 'Oswald', sans-serif;
+        font-weight: 300;
+        color:rgba(36,57,73,1);
+      }
 /* ==========================================================================
    Grid eventos
    ========================================================================== */
 .for-grids {
 	background-color: #ECEFF1;
-	padding-top: 1em;
+	padding-top: 1rem;
 }
 .grids {
 	grid-column: full;
