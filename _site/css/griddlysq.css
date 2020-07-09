@@ -64,10 +64,10 @@ div.main-sq-text > p {
   background-color: transparent; }
 
 .gridsq > div:nth-child(2) {
-  background-color: rgba(255,255,255,.5); }
+  background-color: rgba(255,255,255,.1); }
 
 .gridsq > div:nth-child(4) {
-  background-color: rgba(255,255,255,.3);
+  background-color: rgba(255,255,255,.1);
   text-align: left;
 }
 
