@@ -1,7 +1,7 @@
 ---
 title: El ataque pirata de 1709 a Guayaquil
 subtitle: "Y la llegada de Robinson Crusoe a esta ciudad"
-listing-priority: 078
+listing-priority: 079
 image: "//res.cloudinary.com/magnvs/image/upload/v1585337760/czvxahmgipqfqkilpuru.jpg"
 mmdg: "//res.cloudinary.com/magnvs/image/upload/v1585338355/kxhrajt5ouai68s8g5gy.pdf"
 ---

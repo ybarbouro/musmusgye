@@ -1,7 +1,7 @@
 ---
 title: Pablo Palacio
 subtitle: "Un hombre muerto a puntapiés"
-listing-priority: 079
+listing-priority: 082
 image: "//res.cloudinary.com/magnvs/image/upload/v1584842622/im32uzjfmmknwal9xziq.jpg"
 mmdg: "//cdn.filestackcontent.com/k4GqxnKjSmqNgEah8bg9"
 ---

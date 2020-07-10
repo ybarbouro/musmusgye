@@ -1,7 +1,7 @@
 ---
 title: De nuestra Comicteca
 subtitle: "Condorito de Oro"
-listing-priority: 082
+listing-priority: 098
 image: "//res.cloudinary.com/magnvs/image/upload/v1584813965/qkoskrlaomkgiavxji3t.jpg"
 mmdg: "//cdn.filestackcontent.com/0ZxUaijKQTadxNxFQSB0"
 ---
