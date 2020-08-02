@@ -35,4 +35,4 @@ Anuncio oficial de los ganadores del concurso nacional de literatura "LETRAS DE 
 ### VIERNES 28 / <strong>11h00</strong>
 
 Lanzamiento de recorrido digital por el Museo de la Música Popular “Julio Jaramillo” titulado
-“UN REENCUENTRO CON EL MUSEO”. Desde el *fan page* **Eventos Dirección de Cultura** y del *Museo de la Música Popular Julio Jaramillo** en Facebook.
+“UN REENCUENTRO CON EL MUSEO”. Desde el *fan page* **Eventos Dirección de Cultura** y del **Museo de la Música Popular Julio Jaramillo** en Facebook.
