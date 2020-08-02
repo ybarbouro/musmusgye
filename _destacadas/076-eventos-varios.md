@@ -1,15 +1,12 @@
 ---
-title: MARTES 28 DE JULIO
-subtitle: "20h00"
+title: VIERNES 7 DE AGOSTO
+subtitle: "11h00"
 listing-priority: 076
-image: "//res.cloudinary.com/magnvs/image/upload/v1594348482/h6kajccddobw2j4px5kj.jpg"
+image: "//res.cloudinary.com/magnvs/image/upload/v1594348093/gm7xvzutvnheo381hddv.jpg"
 ---
 
-**&laquo;LA CONTEMPORIZACIÓN  DE LA MÚSICA NACIONAL&raquo;**
+Promoción del video editado de música nacional "TE QUIERO, TE QUIERO" interpretado por los alumnos y exalumnos de la **“Escuela del Museo de la Música Popular”** desde las redes oficiales de la **Dirección de Cultura:** Facebook del Museo de la Música Popular Julio Jaramillo y Eventos de la Dirección de cultura.
 
-Participan:
-- Cosme Chalen.
-- Lysbeth Badaraco.
-- Gustavo Vargas.
-
-DESDE LAS REDES OFICIALES DE LA **DIRECCIÓN DE CULTURA**: MUSEO DE LA MÚSICA POPULAR Y MUSEO MUNICIPAL DE GUAYAQUIL EN FACEBOOK.
+- Letra y música: Nicolás Fiallos.
+- Intérperte: Elizabeth Villacís.
+- Acompañamiento musical: Carolina Gómez.
