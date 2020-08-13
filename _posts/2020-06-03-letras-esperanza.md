@@ -73,7 +73,7 @@ El plazo de admisión de los originales finalizará el martes 30 DE JUNIO DE 202
 
 **6. PREMIOS**
 
-a M. I. Municipalidad de Guayaquil otorgará tres premios en cada uno de los tres géneros literarios que conforman el presente concurso (cuento, relato y poesía); cada uno de los premiados obtendrá valiosas ediciones de lujo de libros del Programa Editorial de la M. I. Municipalidad de Guayaquil y se promocionará su foto y su nombre a través de las redes sociales de la Municipalidad.
+La M. I. Municipalidad de Guayaquil otorgará tres premios en cada uno de los tres géneros literarios que conforman el presente concurso (cuento, relato y poesía); cada uno de los premiados obtendrá valiosas ediciones de lujo de libros del Programa Editorial de la M. I. Municipalidad de Guayaquil y se promocionará su foto y su nombre a través de las redes sociales de la Municipalidad.
 
 Se considerarán menciones de honor MUNICIPALIDAD DE GUAYAQUIL, según el criterio del jurado.
 
