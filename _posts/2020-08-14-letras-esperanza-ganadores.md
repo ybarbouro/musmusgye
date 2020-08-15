@@ -21,7 +21,7 @@ ffw: Leer más
 
 **VEREDICTO DEL JURADO**
 
-El jurado compuesto por tres destacadas personalidades del mundo cultural y literario como lo son **Guillermo Celly**, **Fernando Naranjo** y **Parsival Castro**, quienes emitieron de **forma unánime** el siguiente veredicto:
+El jurado compuesto por tres destacadas personalidades del mundo cultural y literario como lo son **Guillermo Celi**, **Fernando Naranjo** y **Parsival Castro**, quienes emitieron de **forma unánime** el siguiente veredicto:
 
 **GÉNERO LITERARIO POESÍA.**
 
