@@ -1,9 +1,9 @@
 name: MUSEO ARTE Y CIUDAD
-kramdown:
-  syntax_highlighter: rouge
-  input: GFM
-  auto_ids:       true
-  toc_levels:     1..3
+# kramdown:
+#  syntax_highlighter: rouge
+#  input: GFM
+#  auto_ids:       true
+#  toc_levels:     1..3
 exclude: [main.scss, config.rb, crono-faal.html, bicentenario.html, guayaquil-ebook.html]
 description: Sitio informativo del Programa Museo, Arte y Ciudad - Musimuestras 2017
 url: https://museoarteyciudad.com
