@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200');
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:300');
 @import url('https://rsms.me/inter/inter.css');
+@import url('https://fonts.googleapis.com/css2?family=Charm:wght@700&display=swap');
 
 * {
 	box-sizing: border-box;
@@ -257,6 +258,22 @@ img.rounds {
     box-shadow: 6px 7px 13px -6px rgba(0,0,0,0.75);
   }
 
+.charm {
+	font-family: 'Charm', cursive;
+	color:#e76a00;
+}
+
+h1.league {
+	  font-style: normal;
+	  font-weight: bold;
+	  color: #fff;
+	  font-size: 8vmin;
+	  letter-spacing: 0.03em;
+	  line-height: 1;
+	  text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.8);
+	  margin-bottom: 30px;
+	}
+
 h2.league {
   font-family:"Oswald", sans-serif;
   font-weight: 600;
@@ -411,11 +428,11 @@ h2.animosa {
 }
 .bg-hero {
 	min-height: 70vh;
-	background-image: url(//res.cloudinary.com/magnvs/image/upload/v1586541031/combw7cjngc0hcqah7ma.jpg);
+	background: radial-gradient(ellipse at center, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 37%, rgba(0,199,253,0.65) 100%), url(//cdn.filestackcontent.com/3Ze9bXpTkiG09zOsVb2b) no-repeat center center scroll;
 	background-position: top center;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-blend-mode:multiply;
+	background-blend-mode: normal;
 }
 
 .bg-hero-expo {
@@ -577,7 +594,7 @@ h2.animosa {
   }
 
   .site-nav a{
-    color:brown;
+    color:orange;
     display:block;
     text-decoration:none;
     text-transform:uppercase
@@ -623,6 +640,7 @@ h2.animosa {
   font-size: 3.4rem;
   line-height: 4rem;
   color: #ffffff;
+	text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.8);
   }
 
 .site-promo h2 {
@@ -630,7 +648,7 @@ h2.animosa {
   font-weight: bold;
   font-size: 2.5rem;
   line-height: 2.7rem;
-  color: #5BAEF6;
+  color: rgb(255,160,0);
   text-shadow:2px 2px 0 #000;
 	letter-spacing: 3px;
   }
@@ -684,23 +702,15 @@ h2.animosa {
     padding: 0 0 1em 0}
 
 .site-section-board{
-				background-image: url(//res.cloudinary.com/magnvs/image/upload/v1593560770/jblu1fq2dph4beokgfov.svg), url(//res.cloudinary.com/magnvs/image/upload/v1593560748/fz6add9dfbu8cuxirexf.png);
-				background-size:cover, auto;
-				background-blend-mode: multiply, normal;
-				background-position: top, center;
-				background-repeat: no-repeat,repeat;
-		    color:#333;
+				background-image: url(//res.cloudinary.com/magnvs/image/upload/v1597862119/qpt5jcuvmwt0evhbqgvv.svg);
+				background-size:cover;
+				background-position: top;
+				background-repeat: no-repeat;
 		    overflow:hidden;
-		    padding: 0 0 1rem 0;}
-
-.extra-bg-board {
-	background-image: url(//cdn.filestackcontent.com/2OUC46VsQHuGCh5Q3Eor);
-	background-size:100vw;
-	background-blend-mode: multiply;
-	background-position: bottom;
-	background-repeat: no-repeat;
-	padding-bottom:15em;
-}
+		    padding: 0 0 1rem 0;
+				margin-bottom:30px;
+				padding-bottom:100px;
+			}
 
 .site-section-ebook{
 				background-image: url(//cdn.filestackcontent.com/GL9keX4uTYidv1zzwDG9), linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(197,202,233,1) 100%);
@@ -738,6 +748,29 @@ background-blend-mode: multiply;
 color:#fff;
 text-align:center;
 padding: 5rem 0;
+}
+
+button.cartel {
+  background: #098191;
+  transition: background ease .25s;
+  border-radius: 5px;
+  display: inline-block;
+  border: none;
+  margin: 0;
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 1.2rem;
+  cursor: pointer;
+  text-align: center;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+button.cartel:hover {
+  background: #63b6b8
+}
+button.cartel:focus {
+  outline: 1px solid #fff;
+  outline-offset: -4px;
 }
 
 img.tilt {
@@ -842,6 +875,7 @@ img.tilt {
 			  font-size: 2rem;
 			  line-height: 2.1rem;
 			  color: #ffffff;
+				text-align: center;
 			  }
 
   h2.animosa {
@@ -882,8 +916,6 @@ img.tilt {
 		margin-top: 0;}
 	a.button-animated img {
 		max-width: 45%;}
-		.site-section-board{
-		max-height: 80vh;}
 }
 
 @media only screen and (max-width:420px){

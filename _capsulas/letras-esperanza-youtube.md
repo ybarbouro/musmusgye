@@ -7,7 +7,7 @@ day:
 month:
 time:
 place: YouTube
-image: "//res.cloudinary.com/magnvs/image/upload/v1597382048/xl1vjcamemqwryz011f6.jpg"
+image: "//res.cloudinary.com/magnvs/image/upload/v1597673762/sp5nej591jhtid92k9fu.jpg"
 ext-url: "/capsulas/"
 ---
 

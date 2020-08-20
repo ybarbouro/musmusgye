@@ -1449,7 +1449,7 @@ div.premiere-kaki {
         main {
           display: grid;
           grid-template-columns: 1fr 1fr 1fr 1fr minmax(25%, 43%);
-          grid-gap: 0px;
+          grid-gap: 0;
           margin-top: 0;
           margin-bottom:0;
         }
